@@ -1,0 +1,2202 @@
+[
+    {
+        "index": 1,
+        "nama": {
+            "inggris": "Afghanistan",
+            "indonesia": "Afganistan",
+            "asli": "افغانستان"
+        },
+        "kode_negara": "AF",
+        "clue": "Negara yang terkenal dengan pegunungan tinggi dan pernah menjadi medan pertempuran antara pasukan Soviet dan kelompok mujahidin pada tahun 1980-an.",
+        "url_bendera": "https://flagcdn.com/w320/af.png"
+    },
+    {
+        "index": 2,
+        "nama": {
+            "inggris": "Albania",
+            "indonesia": "Albania",
+            "asli": "Shqipëri"
+        },
+        "kode_negara": "AL",
+        "clue": "Negara kecil di Eropa Tenggara yang memiliki pantai di Laut Adriatik dan Ionian, serta dikenal dengan sejarah dan kebudayaan Yunani kuno.",
+        "url_bendera": "https://flagcdn.com/w320/al.png"
+    },
+    {
+        "index": 3,
+        "nama": {
+            "inggris": "Algeria",
+            "indonesia": "Aljazair",
+            "asli": "الجزائر"
+        },
+        "kode_negara": "DZ",
+        "clue": "Negara terbesar di Afrika dengan gurun Sahara yang luas, terkenal karena sejarah kemerdekaan dari Prancis.",
+        "url_bendera": "https://flagcdn.com/w320/dz.png"
+    },
+    {
+        "index": 4,
+        "nama": {
+            "inggris": "Andorra",
+            "indonesia": "Andorra",
+            "asli": "Andorra"
+        },
+        "kode_negara": "AD",
+        "clue": "Negara kecil di pegunungan Pyrenees, terletak di antara Prancis dan Spanyol, dikenal dengan industri pariwisata dan belanja bebas pajak.",
+        "url_bendera": "https://flagcdn.com/w320/ad.png"
+    },
+    {
+        "index": 5,
+        "nama": {
+            "inggris": "Angola",
+            "indonesia": "Angola",
+            "asli": "Angola"
+        },
+        "kode_negara": "AO",
+        "clue": "Negara yang terletak di Afrika Tengah, kaya akan sumber daya alam, dan memiliki sejarah panjang perjuangan kemerdekaan dari Portugal.",
+        "url_bendera": "https://flagcdn.com/w320/ao.png"
+    },
+    {
+        "index": 6,
+        "nama": {
+            "inggris": "Antigua and Barbuda",
+            "indonesia": "Antigua dan Barbuda",
+            "asli": "Antigua and Barbuda"
+        },
+        "kode_negara": "AG",
+        "clue": "Negara kepulauan Karibia yang terkenal dengan pantainya yang indah dan sebagai tujuan liburan tropis.",
+        "url_bendera": "https://flagcdn.com/w320/ag.png"
+    },
+    {
+        "index": 7,
+        "nama": {
+            "inggris": "Argentina",
+            "indonesia": "Argentina",
+            "asli": "Argentina"
+        },
+        "kode_negara": "AR",
+        "clue": "Negara di Amerika Selatan yang terkenal dengan sepak bola, tango, dan patung Kristus yang besar di pegunungan Andes.",
+        "url_bendera": "https://flagcdn.com/w320/ar.png"
+    },
+    {
+        "index": 8,
+        "nama": {
+            "inggris": "Armenia",
+            "indonesia": "Armenia",
+            "asli": "Հայաստան"
+        },
+        "kode_negara": "AM",
+        "clue": "Negara kecil di Kaukasus yang merupakan tempat asal agama Kristen pertama yang dianut sebagai agama negara pada abad ke-4.",
+        "url_bendera": "https://flagcdn.com/w320/am.png"
+    },
+    {
+        "index": 9,
+        "nama": {
+            "inggris": "Australia",
+            "indonesia": "Australia",
+            "asli": "Australia"
+        },
+        "kode_negara": "AU",
+        "clue": "Negara benua yang terkenal dengan keanekaragaman hayati, termasuk kanguru dan koala, serta memiliki Great Barrier Reef.",
+        "url_bendera": "https://flagcdn.com/w320/au.png"
+    },
+    {
+        "index": 10,
+        "nama": {
+            "inggris": "Austria",
+            "indonesia": "Austria",
+            "asli": "Österreich"
+        },
+        "kode_negara": "AT",
+        "clue": "Negara di Eropa Tengah yang dikenal dengan warisan musik klasiknya, terutama karya-karya komposer seperti Mozart dan Beethoven.",
+        "url_bendera": "https://flagcdn.com/w320/at.png"
+    },
+    {
+        "index": 11,
+        "nama": {
+            "inggris": "Azerbaijan",
+            "indonesia": "Azerbaijan",
+            "asli": "Azərbaycan"
+        },
+        "kode_negara": "AZ",
+        "clue": "Negara yang terletak di Kaukasus, memiliki danau terbesar di dunia yang dikenal dengan nama Laut Kaspia.",
+        "url_bendera": "https://flagcdn.com/w320/az.png"
+    },
+    {
+        "index": 12,
+        "nama": {
+            "inggris": "Bahamas",
+            "indonesia": "Bahama",
+            "asli": "Bahamas"
+        },
+        "kode_negara": "BS",
+        "clue": "Negara kepulauan yang terletak di Karibia, terkenal dengan pantainya yang indah dan tempat wisata mewah.",
+        "url_bendera": "https://flagcdn.com/w320/bs.png"
+    },
+    {
+        "index": 13,
+        "nama": {
+            "inggris": "Bahrain",
+            "indonesia": "Bahrain",
+            "asli": "البحرين"
+        },
+        "kode_negara": "BH",
+        "clue": "Negara kecil di Teluk Persia yang dikenal dengan industri minyak dan memiliki salah satu kota keuangan terbesar di Timur Tengah.",
+        "url_bendera": "https://flagcdn.com/w320/bh.png"
+    },
+    {
+        "index": 14,
+        "nama": {
+            "inggris": "Bangladesh",
+            "indonesia": "Bangladesh",
+            "asli": "বাংলাদেশ"
+        },
+        "kode_negara": "BD",
+        "clue": "Negara yang memiliki populasi sangat padat dan terletak di delta sungai besar, terkenal dengan tekstil dan budaya Bengali.",
+        "url_bendera": "https://flagcdn.com/w320/bd.png"
+    },
+    {
+        "index": 15,
+        "nama": {
+            "inggris": "Barbados",
+            "indonesia": "Barbados",
+            "asli": "Barbados"
+        },
+        "kode_negara": "BB",
+        "clue": "Negara kepulauan di Karibia yang terkenal dengan pantainya yang indah dan merupakan negara asal penyanyi Rihanna.",
+        "url_bendera": "https://flagcdn.com/w320/bb.png"
+    },
+	{
+        "index": 16,
+        "nama": {
+            "inggris": "Netherlands",
+            "indonesia": "Belanda",
+            "asli": "Nederland"
+        },
+        "kode_negara": "NL",
+        "clue": "Negara di Eropa yang terkenal dengan kanal-kanal, kincir angin, dan bunga tulipnya. Dikenal sebagai negara yang sangat rendah, sebagian besar wilayahnya berada di bawah permukaan laut.",
+        "url_bendera": "https://flagcdn.com/w320/nl.png"
+    },
+    {
+        "index": 17,
+        "nama": {
+            "inggris": "Belize",
+            "indonesia": "Belize",
+            "asli": "Belize"
+        },
+        "kode_negara": "BZ",
+        "clue": "Negara kecil di Amerika Tengah yang dikenal dengan pantai dan terumbu karang yang indah, serta sebagai tujuan wisata alam.",
+        "url_bendera": "https://flagcdn.com/w320/bz.png"
+    },
+    {
+        "index": 18,
+        "nama": {
+            "inggris": "Benin",
+            "indonesia": "Benin",
+            "asli": "Bénin"
+        },
+        "kode_negara": "BJ",
+        "clue": "Negara di Afrika Barat yang memiliki sejarah panjang dalam perdagangan budak dan adalah tempat lahirnya kerajaan Dahomey.",
+        "url_bendera": "https://flagcdn.com/w320/bj.png"
+    },
+    {
+        "index": 19,
+        "nama": {
+            "inggris": "Bhutan",
+            "indonesia": "Bhutan",
+            "asli": "འབྲུག"
+        },
+        "kode_negara": "BT",
+        "clue": "Negara kecil di pegunungan Himalaya, terkenal dengan kebahagiaan rakyatnya yang diukur dengan indikator kebahagiaan nasional bruto.",
+        "url_bendera": "https://flagcdn.com/w320/bt.png"
+    },
+    {
+        "index": 20,
+        "nama": {
+            "inggris": "Bolivia",
+            "indonesia": "Bolivia",
+            "asli": "Bolivia"
+        },
+        "kode_negara": "BO",
+        "clue": "Negara yang terletak di Andes, memiliki dua ibu kota, dan terkenal dengan Danau Titicaca, dan wilayah tinggi lainnya.",
+        "url_bendera": "https://flagcdn.com/w320/bo.png"
+    },
+    {
+        "index": 21,
+        "nama": {
+            "inggris": "Bosnia and Herzegovina",
+            "indonesia": "Bosnia dan Herzegovina",
+            "asli": "Босна и Херцеговина"
+        },
+        "kode_negara": "BA",
+        "clue": "Negara yang terletak di Eropa Tenggara, terkenal dengan pegunungan dan sejarah konflik yang panjang pada akhir abad 20.",
+        "url_bendera": "https://flagcdn.com/w320/ba.png"
+    },
+    {
+        "index": 22,
+        "nama": {
+            "inggris": "Botswana",
+            "indonesia": "Botswana",
+            "asli": "Botswana"
+        },
+        "kode_negara": "BW",
+        "clue": "Negara yang terletak di Afrika bagian selatan, terkenal dengan satwa liar, dan memiliki salah satu ekonomi yang paling stabil di Afrika.",
+        "url_bendera": "https://flagcdn.com/w320/bw.png"
+    },
+    {
+        "index": 23,
+        "nama": {
+            "inggris": "Brazil",
+            "indonesia": "Brasil",
+            "asli": "Brasil"
+        },
+        "kode_negara": "BR",
+        "clue": "Negara terbesar di Amerika Selatan, dikenal dengan hutan Amazon, sepak bola, dan karnaval yang meriah.",
+        "url_bendera": "https://flagcdn.com/w320/br.png"
+    },
+    {
+        "index": 24,
+        "nama": {
+            "inggris": "Brunei Darussalam",
+            "indonesia": "Brunei Darussalam",
+            "asli": "بروني دار السلام"
+        },
+        "kode_negara": "BN",
+        "clue": "Negara kecil di Asia Tenggara yang kaya akan minyak, terkenal dengan kemewahan dan aturan hukum yang ketat.",
+        "url_bendera": "https://flagcdn.com/w320/bn.png"
+    },
+    {
+        "index": 25,
+        "nama": {
+            "inggris": "Bulgaria",
+            "indonesia": "Bulgaria",
+            "asli": "България"
+        },
+        "kode_negara": "BG",
+        "clue": "Negara yang terletak di Eropa Tenggara, dengan sejarah panjang dan terkenal dengan makanan khas seperti yogurt dan roti.",
+        "url_bendera": "https://flagcdn.com/w320/bg.png"
+    },
+    {
+        "index": 26,
+        "nama": {
+            "inggris": "Burkina Faso",
+            "indonesia": "Burkina Faso",
+            "asli": "Burkina Faso"
+        },
+        "clue": "Negara yang terletak di Afrika Barat, terkenal dengan sejarah perjuangan kemerdekaannya dan tradisi seni dan musik yang kaya.",
+        "url_bendera": "https://flagcdn.com/w320/bf.png",
+        "kode_negara": "BF"
+    },
+    {
+        "index": 27,
+        "nama": {
+            "inggris": "Burundi",
+            "indonesia": "Burundi",
+            "asli": "Burundi"
+        },
+        "clue": "Negara kecil di Afrika Tengah, yang dikenal dengan sejarah konflik etnis dan keindahan alamnya.",
+        "url_bendera": "https://flagcdn.com/w320/bi.png",
+        "kode_negara": "BI"
+    },
+    {
+        "index": 28,
+        "nama": {
+            "inggris": "Belgium",
+            "indonesia": "Belgia",
+            "asli": "België"
+        },
+        "clue": "Negara di Eropa Barat yang terkenal dengan cokelat, bir, dan patung Manneken Pis yang terkenal di Brussels.",
+        "url_bendera": "https://flagcdn.com/w320/be.png",
+        "kode_negara": "BE"
+    },
+    {
+        "index": 29,
+        "nama": {
+            "inggris": "Benin",
+            "indonesia": "Benin",
+            "asli": "Bénin"
+        },
+        "clue": "Negara di Afrika Barat yang memiliki sejarah panjang dalam perdagangan budak dan merupakan tempat lahirnya kerajaan Dahomey.",
+        "url_bendera": "https://flagcdn.com/w320/bj.png",
+        "kode_negara": "BJ"
+    },
+    {
+        "index": 30,
+        "nama": {
+            "inggris": "Bahamas",
+            "indonesia": "Bahamas",
+            "asli": "Bahamas"
+        },
+        "clue": "Negara kepulauan yang terletak di Karibia, terkenal dengan pantainya yang indah dan tempat wisata mewah.",
+        "url_bendera": "https://flagcdn.com/w320/bs.png",
+        "kode_negara": "BS"
+    },
+    {
+        "index": 31,
+        "nama": {
+            "inggris": "Burkina Faso",
+            "indonesia": "Burkina Faso",
+            "asli": "Burkina Faso"
+        },
+        "clue": "Negara yang terletak di Afrika Barat, terkenal dengan sejarah perjuangan kemerdekaannya dan tradisi seni dan musik yang kaya.",
+        "url_bendera": "https://flagcdn.com/w320/bf.png",
+        "kode_negara": "BF"
+    },
+    {
+        "index": 32,
+        "nama": {
+            "inggris": "Burundi",
+            "indonesia": "Burundi",
+            "asli": "Burundi"
+        },
+        "clue": "Negara kecil di Afrika Tengah, yang dikenal dengan sejarah konflik etnis dan keindahan alamnya.",
+        "url_bendera": "https://flagcdn.com/w320/bi.png",
+        "kode_negara": "BI"
+    },
+    {
+        "index": 33,
+        "nama": {
+            "inggris": "Belgium",
+            "indonesia": "Belgia",
+            "asli": "België"
+        },
+        "clue": "Negara di Eropa Barat yang terkenal dengan cokelat, bir, dan patung Manneken Pis yang terkenal di Brussels.",
+        "url_bendera": "https://flagcdn.com/w320/be.png",
+        "kode_negara": "BE"
+    },
+    {
+        "index": 34,
+        "nama": {
+            "inggris": "Bermuda",
+            "indonesia": "Bermuda",
+            "asli": "Bermuda"
+        },
+        "clue": "Terkenal karena segitiga Bermuda, merupakan wilayah luar negeri Inggris dengan pantai-pantai yang indah.",
+        "url_bendera": "https://flagcdn.com/w320/bm.png",
+        "kode_negara": "BM"
+    },
+    {
+        "index": 35,
+        "nama": {
+            "inggris": "Bahamas",
+            "indonesia": "Bahamas",
+            "asli": "Bahamas"
+        },
+        "clue": "Negara kepulauan yang terletak di Karibia, terkenal dengan pantainya yang indah dan tempat wisata mewah.",
+        "url_bendera": "https://flagcdn.com/w320/bs.png",
+        "kode_negara": "BS"
+    },
+    {
+        "index": 36,
+        "nama": {
+            "inggris": "Botswana",
+            "indonesia": "Botswana",
+            "asli": "Botswana"
+        },
+        "clue": "Negara yang terletak di Afrika bagian selatan, terkenal dengan satwa liar, dan memiliki salah satu ekonomi yang paling stabil di Afrika.",
+        "url_bendera": "https://flagcdn.com/w320/bw.png",
+        "kode_negara": "BW"
+    },
+    {
+        "index": 37,
+        "nama": {
+            "inggris": "Brunei Darussalam",
+            "indonesia": "Brunei Darussalam",
+            "asli": "بروني دار السلام"
+        },
+        "clue": "Negara kecil di Asia Tenggara yang kaya akan minyak, terkenal dengan kemewahan dan aturan hukum yang ketat.",
+        "url_bendera": "https://flagcdn.com/w320/bn.png",
+        "kode_negara": "BN"
+    },
+    {
+        "index": 38,
+        "nama": {
+            "inggris": "Bahamas",
+            "indonesia": "Bahamas",
+            "asli": "Bahamas"
+        },
+        "clue": "Negara kepulauan yang terletak di Karibia, terkenal dengan pantainya yang indah dan tempat wisata mewah.",
+        "url_bendera": "https://flagcdn.com/w320/bs.png",
+        "kode_negara": "BS"
+    },
+    {
+        "index": 39,
+        "nama": {
+            "inggris": "Belize",
+            "indonesia": "Belize",
+            "asli": "Belize"
+        },
+        "clue": "Negara kecil di Amerika Tengah yang dikenal dengan pantai dan terumbu karang yang indah, serta sebagai tujuan wisata alam.",
+        "url_bendera": "https://flagcdn.com/w320/bz.png",
+        "kode_negara": "BZ"
+    },
+    {
+        "index": 40,
+        "nama": {
+            "inggris": "Cameroon",
+            "indonesia": "Kamerun",
+            "asli": "Cameroun"
+        },
+        "clue": "Negara yang terletak di Afrika Tengah, dikenal dengan banyaknya keanekaragaman budaya dan suku serta sebagai pusat kebudayaan Afrika.",
+        "url_bendera": "https://flagcdn.com/w320/cm.png",
+        "kode_negara": "CM"
+    },
+    {
+        "index": 41,
+        "nama": {
+            "inggris": "Chile",
+            "indonesia": "Chile",
+            "asli": "Chile"
+        },
+        "clue": "Negara panjang yang terletak di sepanjang pesisir barat Amerika Selatan, terkenal dengan anggur dan Patagonia yang indah.",
+        "url_bendera": "https://flagcdn.com/w320/cl.png",
+        "kode_negara": "CL"
+    },
+    {
+        "index": 42,
+        "nama": {
+            "inggris": "China",
+            "indonesia": "China",
+            "asli": "中国"
+        },
+        "clue": "Negara dengan populasi terbesar di dunia, terkenal dengan tembok besar China, sejarah panjang dinasti, dan teknologi maju.",
+        "url_bendera": "https://flagcdn.com/w320/cn.png",
+        "kode_negara": "CN"
+    },
+    {
+        "index": 43,
+        "nama": {
+            "inggris": "Colombia",
+            "indonesia": "Kolombia",
+            "asli": "Colombia"
+        },
+        "clue": "Negara yang terletak di Amerika Selatan, terkenal dengan kopi, pantai di kedua samudra, dan tarian salsa.",
+        "url_bendera": "https://flagcdn.com/w320/co.png",
+        "kode_negara": "CO"
+    },
+    {
+        "index": 44,
+        "nama": {
+            "inggris": "Comoros",
+            "indonesia": "Komoro",
+            "asli": "Comores"
+        },
+        "clue": "Negara kepulauan yang terletak di Samudra Hindia, terkenal dengan keindahan alam dan keanekaragaman hayati laut.",
+        "url_bendera": "https://flagcdn.com/w320/km.png",
+        "kode_negara": "KM"
+    },
+    {
+        "index": 45,
+        "nama": {
+            "inggris": "Congo - Brazzaville",
+            "indonesia": "Kongo - Brazzaville",
+            "asli": "République du Congo"
+        },
+        "clue": "Negara di Afrika Tengah, berbatasan dengan Kongo (Kinshasa), dan dikenal dengan hutan tropis yang luas serta kehidupan liar.",
+        "url_bendera": "https://flagcdn.com/w320/cg.png",
+        "kode_negara": "CG"
+    },
+    {
+        "index": 46,
+        "nama": {
+            "inggris": "Congo - Kinshasa",
+            "indonesia": "Republik Demokratik Kongo",
+            "asli": "République Démocratique du Congo"
+        },
+        "clue": "Negara besar di Afrika Tengah dengan sungai Kongo dan hutan hujan tropis.",
+        "url_bendera": "https://flagcdn.com/w320/cd.png",
+        "kode_negara": "CD"
+    },
+    {
+        "index": 47,
+        "nama": {
+            "inggris": "Costa Rica",
+            "indonesia": "Kostarika",
+            "asli": "Costa Rica"
+        },
+        "clue": "Negara di Amerika Tengah dengan keanekaragaman hayati yang kaya.",
+        "url_bendera": "https://flagcdn.com/w320/cr.png",
+        "kode_negara": "CR"
+    },
+    {
+        "index": 48,
+        "nama": {
+            "inggris": "Ivory Coast",
+            "indonesia": "Pantai Gading",
+            "asli": "Côte d'Ivoire"
+        },
+        "clue": "Negara Afrika Barat penghasil kakao, kopi, dan pantai indah.",
+        "url_bendera": "https://flagcdn.com/w320/ci.png",
+        "kode_negara": "CI"
+    },
+    {
+        "index": 49,
+        "nama": {
+            "inggris": "Cuba",
+            "indonesia": "Kuba",
+            "asli": "Cuba"
+        },
+        "clue": "Negara di Karibia terkenal dengan revolusi, cerutu, dan pantai tropis.",
+        "url_bendera": "https://flagcdn.com/w320/cu.png",
+        "kode_negara": "CU"
+    },
+    {
+        "index": 50,
+        "nama": {
+            "inggris": "Cyprus",
+            "indonesia": "Siprus",
+            "asli": "Κύπρος"
+        },
+        "clue": "Pulau di Laut Mediterania, terkenal dengan sejarah dan budaya Yunani.",
+        "url_bendera": "https://flagcdn.com/w320/cy.png",
+        "kode_negara": "CY"
+    },
+    {
+        "index": 51,
+        "nama": {
+            "inggris": "Costa Rica",
+            "indonesia": "Kosta Rika",
+            "asli": "Costa Rica"
+        },
+        "clue": "Negara Amerika Tengah dengan fokus pada konservasi lingkungan.",
+        "url_bendera": "https://flagcdn.com/w320/cr.png",
+        "kode_negara": "CR"
+    },
+    {
+        "index": 52,
+        "nama": {
+            "inggris": "Czech Republic",
+            "indonesia": "Ceko",
+            "asli": "Česká republika"
+        },
+        "clue": "Negara Eropa Tengah dengan kota Praha yang terkenal.",
+        "url_bendera": "https://flagcdn.com/w320/cz.png",
+        "kode_negara": "CZ"
+    },
+    {
+        "index": 53,
+        "nama": {
+            "inggris": "Chad",
+            "indonesia": "Chad",
+            "asli": "Tchad"
+        },
+        "clue": "Negara gurun di Afrika Tengah dengan budaya kaya.",
+        "url_bendera": "https://flagcdn.com/w320/td.png",
+        "kode_negara": "TD"
+    },
+    {
+        "index": 54,
+        "nama": {
+            "inggris": "Chile",
+            "indonesia": "Chile",
+            "asli": "Chile"
+        },
+        "clue": "Negara panjang di pesisir barat Amerika Selatan dengan anggur terkenal.",
+        "url_bendera": "https://flagcdn.com/w320/cl.png",
+        "kode_negara": "CL"
+    },
+    {
+        "index": 55,
+        "nama": {
+            "inggris": "China",
+            "indonesia": "China",
+            "asli": "中国"
+        },
+        "clue": "Negara dengan populasi terbesar dan sejarah panjang.",
+        "url_bendera": "https://flagcdn.com/w320/cn.png",
+        "kode_negara": "CN"
+    },
+    {
+        "index": 56,
+        "nama": {
+            "inggris": "Colombia",
+            "indonesia": "Kolombia",
+            "asli": "Colombia"
+        },
+        "clue": "Negara penghasil kopi di Amerika Selatan.",
+        "url_bendera": "https://flagcdn.com/w320/co.png",
+        "kode_negara": "CO"
+    },
+    {
+        "index": 57,
+        "nama": {
+            "inggris": "Comoros",
+            "indonesia": "Komoro",
+            "asli": "Comores"
+        },
+        "clue": "Kepulauan di Samudra Hindia dengan keanekaragaman hayati laut.",
+        "url_bendera": "https://flagcdn.com/w320/km.png",
+        "kode_negara": "KM"
+    },
+    {
+        "index": 58,
+        "nama": {
+            "inggris": "Congo - Brazzaville",
+            "indonesia": "Republik Kongo",
+            "asli": "République du Congo"
+        },
+        "clue": "Negara di Afrika Tengah dengan hutan tropis dan satwa liar.",
+        "url_bendera": "https://flagcdn.com/w320/cg.png",
+        "kode_negara": "CG"
+    },
+    {
+        "index": 59,
+        "nama": {
+            "inggris": "Congo - Kinshasa",
+            "indonesia": "Republik Demokratik Kongo",
+            "asli": "République Démocratique du Congo"
+        },
+        "clue": "Negara besar di Afrika Tengah dengan sungai Kongo dan hutan hujan tropis.",
+        "url_bendera": "https://flagcdn.com/w320/cd.png",
+        "kode_negara": "CD"
+    },
+    {
+        "index": 60,
+        "nama": {
+            "inggris": "Costa Rica",
+            "indonesia": "Kostarika",
+            "asli": "Costa Rica"
+        },
+        "clue": "Negara di Amerika Tengah dengan keanekaragaman hayati yang kaya.",
+        "url_bendera": "https://flagcdn.com/w320/cr.png",
+        "kode_negara": "CR"
+    },
+    {
+        "index": 61,
+        "nama": {
+            "inggris": "Cote d'Ivoire (Pantai Gading)",
+            "indonesia": "Pantai Gading",
+            "asli": "Côte d'Ivoire"
+        },
+        "clue": "Negara di Afrika Barat yang terkenal dengan industri kakao, kopi, dan pantai yang indah di sepanjang Samudra Atlantik.",
+        "url_bendera": "https://flagcdn.com/w320/ci.png",
+        "kode_negara": "CI"
+    },
+    {
+        "index": 62,
+        "nama": {
+            "inggris": "Cuba",
+            "indonesia": "Kuba",
+            "asli": "Cuba"
+        },
+        "clue": "Negara di Karibia yang terkenal dengan sejarah revolusi, cerutu, mobil klasik, dan pantai tropis.",
+        "url_bendera": "https://flagcdn.com/w320/cu.png",
+        "kode_negara": "CU"
+    },
+    {
+        "index": 63,
+        "nama": {
+            "inggris": "Cyprus",
+            "indonesia": "Siprus",
+            "asli": "Κύπρος"
+        },
+        "clue": "Negara pulau di Laut Mediterania yang terkenal dengan sejarah panjang dan warisan budaya Yunani.",
+        "url_bendera": "https://flagcdn.com/w320/cy.png",
+        "kode_negara": "CY"
+    },
+    {
+        "index": 64,
+        "nama": {
+            "inggris": "Djibouti",
+            "indonesia": "Djibouti",
+            "asli": "جيبوتي"
+        },
+        "clue": "Negara kecil di Afrika Timur yang terletak di Selat Bab el-Mandeb, dekat dengan Laut Merah, terkenal dengan pangkalan militer asing.",
+            "url_bendera": "https://flagcdn.com/w320/dj.png",
+        "kode_negara": "DJ"
+    },
+    {
+        "index": 65,
+        "nama": {
+            "inggris": "Dominica",
+            "indonesia": "Dominika",
+            "asli": "Dominica"
+        },
+        "clue": "Negara pulau di Karibia yang terkenal dengan pegunungan hijau, air terjun, dan flora serta fauna yang melimpah.",
+        "url_bendera": "https://flagcdn.com/w320/do.png",
+        "kode_negara": "DM"
+    },
+    {
+        "index": 66,
+        "nama": {
+            "inggris": "Denmark",
+            "indonesia": "Denmark",
+            "asli": "Danmark"
+        },
+        "clue": "Negara Skandinavia yang dikenal dengan desain modern, sistem kesejahteraan sosial yang maju, dan sepeda sebagai alat transportasi utama.",
+        "url_bendera": "https://flagcdn.com/w320/dk.png",
+        "kode_negara": "DK"
+    },
+    {
+        "index": 67,
+        "nama": {
+            "inggris": "Dominican Republic",
+            "indonesia": "Republik Dominika",
+            "asli": "República Dominicana"
+        },
+        "clue": "Negara di Karibia yang terletak di pulau Hispaniola, terkenal dengan pantai indah dan pusat wisata besar.",
+        "url_bendera": "https://flagcdn.com/w320/do.png",
+        "kode_negara": "DO"
+    },
+    {
+        "index": 68,
+        "nama": {
+            "inggris": "Ecuador",
+            "indonesia": "Ekuador",
+            "asli": "Ecuador"
+        },
+        "clue": "Negara di Amerika Selatan yang terkenal dengan Kepulauan Galapagos dan sebagai titik pertemuan antara belahan bumi utara dan selatan.",
+        "url_bendera": "https://flagcdn.com/w320/ec.png",
+        "kode_negara": "EC"
+    },
+    {
+        "index": 69,
+        "nama": {
+            "inggris": "El Salvador",
+            "indonesia": "El Salvador",
+            "asli": "El Salvador"
+        },
+        "clue": "Negara terkecil di Amerika Tengah yang terkenal dengan pantai-pantainya yang cocok untuk selancar.",
+        "url_bendera": "https://flagcdn.com/w320/sv.png",
+        "kode_negara": "SV"
+    },
+    {
+        "index": 70,
+        "nama": {
+            "inggris": "Ethiopia",
+            "indonesia": "Ethiopia",
+            "asli": "ኢትዮጵያ"
+        },
+        "clue": "Negara di Tanduk Afrika yang memiliki sejarah kuno sebagai salah satu kerajaan tertua di dunia.",
+        "url_bendera": "https://flagcdn.com/w320/et.png",
+        "kode_negara": "ET"
+    },
+    {
+        "index": 71,
+        "nama": {
+            "inggris": "Estonia",
+            "indonesia": "Estonia",
+            "asli": "Eesti"
+        },
+        "clue": "Negara di Eropa Utara yang terkenal dengan kota tua Tallinn dan keindahan alamnya yang banyak dilindungi.",
+        "url_bendera": "https://flagcdn.com/w320/ee.png",
+        "kode_negara": "EE"
+    },
+    {
+        "index": 72,
+        "nama": {
+            "inggris": "Eswatini",
+            "indonesia": "Eswatini",
+            "asli": "Eswatini"
+        },
+        "clue": "Negara kecil di Afrika selatan yang sebelumnya dikenal sebagai Swaziland, terkenal dengan budaya dan tradisi yang kaya.",
+        "url_bendera": "https://flagcdn.com/w320/sz.png",
+        "kode_negara": "SZ"
+    },
+    {
+        "index": 73,
+        "nama": {
+            "inggris": "Philippines",
+            "indonesia": "Filipina",
+            "asli": "Pilipinas"
+        },
+        "clue": "Negara kepulauan di Asia Tenggara yang terkenal dengan pantai tropis, laut biru jernih, dan keragaman budaya.",
+        "url_bendera": "https://flagcdn.com/w320/ph.png",
+        "kode_negara": "PH"
+    },
+    {
+        "index": 74,
+        "nama": {
+            "inggris": "Fiji",
+            "indonesia": "Fiji",
+            "asli": "Fiji"
+        },
+        "clue": "Negara kepulauan di Samudra Pasifik yang terkenal dengan pantai berpasir putih dan wisata tropis.",
+        "url_bendera": "https://flagcdn.com/w320/fj.png",
+        "kode_negara": "FJ"
+    },
+    {
+        "index": 75,
+        "nama": {
+            "inggris": "Finland",
+            "indonesia": "Finlandia",
+            "asli": "Suomi"
+        },
+        "clue": "Negara di Eropa Utara yang terkenal dengan keindahan alam, banyaknya danau, dan sebagai rumah bagi Santa Claus.",
+        "url_bendera": "https://flagcdn.com/w320/fi.png",
+        "kode_negara": "FI"
+    },
+    {
+        "index": 76,
+        "nama": {
+            "inggris": "France",
+            "indonesia": "Perancis",
+            "asli": "France"
+        },
+        "clue": "Negara di Eropa Barat yang terkenal dengan Menara Eiffel, gastronomi, dan seni.",
+        "url_bendera": "https://flagcdn.com/w320/fr.png",
+        "kode_negara": "FR"
+    },
+    {
+        "index": 77,
+        "nama": {
+            "inggris": "Gabon",
+            "indonesia": "Gabon",
+            "asli": "Gabon"
+        },
+        "clue": "Negara di Afrika Tengah yang dikenal dengan hutan hujan tropis dan keberagaman satwa liar.",
+        "url_bendera": "https://flagcdn.com/w320/ga.png",
+        "kode_negara": "GA"
+    },
+    {
+        "index": 78,
+        "nama": {
+            "inggris": "Gambia",
+            "indonesia": "Gambia",
+            "asli": "Gambia"
+        },
+        "clue": "Negara kecil di Afrika Barat yang terletak di sepanjang Sungai Gambia.",
+        "url_bendera": "https://flagcdn.com/w320/gm.png",
+        "kode_negara": "GM"
+    },
+    {
+        "index": 79,
+        "nama": {
+            "inggris": "Georgia",
+            "indonesia": "Georgia",
+            "asli": "Georgia"
+        },
+        "clue": "Negara di Kaukasus yang terletak di perbatasan Eropa dan Asia, terkenal dengan pemandangan gunung dan warisan budaya yang kaya.",
+        "url_bendera": "https://flagcdn.com/w320/ge.png",
+        "kode_negara": "GE"
+    },
+    {
+        "index": 80,
+        "nama": {
+            "inggris": "Ghana",
+            "indonesia": "Ghana",
+            "asli": "Ghana"
+        },
+        "clue": "Negara di Afrika Barat yang terkenal dengan sejarah kolonial dan menjadi negara pertama di Afrika yang merdeka.",
+        "url_bendera": "https://flagcdn.com/w320/gh.png",
+        "kode_negara": "GH"
+    },
+    {
+        "index": 81,
+        "nama": {
+            "inggris": "Grenada",
+            "indonesia": "Grenada",
+            "asli": "Grenada"
+        },
+        "clue": "Negara pulau kecil di Karibia yang dikenal dengan tanaman rempah-rempah seperti pala.",
+        "url_bendera": "https://flagcdn.com/w320/gd.png",
+        "kode_negara": "GD"
+    },
+    {
+        "index": 82,
+        "nama": {
+            "inggris": "Guatemala",
+            "indonesia": "Guatemala",
+            "asli": "Guatemala"
+        },
+        "clue": "Negara di Amerika Tengah yang terkenal dengan peradaban Maya kuno dan situs arkeologi seperti Tikal.",
+        "url_bendera": "https://flagcdn.com/w320/gt.png",
+        "kode_negara": "GT"
+    },
+    {
+        "index": 83,
+        "nama": {
+            "inggris": "Guinea",
+            "indonesia": "Guinea",
+            "asli": "Guinée"
+        },
+        "clue": "Negara di Afrika Barat yang kaya akan sumber daya alam seperti bauksit dan bijih besi.",
+        "url_bendera": "https://flagcdn.com/w320/gn.png",
+        "kode_negara": "GN"
+    },
+    {
+        "index": 84,
+        "nama": {
+            "inggris": "Guinea-Bissau",
+            "indonesia": "Guinea-Bissau",
+            "asli": "Guiné-Bissau"
+        },
+        "clue": "Negara di Afrika Barat yang terkenal dengan banyaknya pulau dan pantai.",
+        "url_bendera": "https://flagcdn.com/w320/gw.png",
+        "kode_negara": "GW"
+    },
+    {
+        "index": 85,
+        "nama": {
+            "inggris": "Guyana",
+            "indonesia": "Guyana",
+            "asli": "Guyana"
+        },
+        "clue": "Negara di Amerika Selatan yang memiliki pantai di Samudra Atlantik dan dikenal dengan hutan hujan tropis.",
+        "url_bendera": "https://flagcdn.com/w320/gy.png",
+        "kode_negara": "GY"
+    },
+    {
+        "index": 86,
+        "nama": {
+            "inggris": "Haiti",
+            "indonesia": "Haiti",
+            "asli": "Haïti"
+        },
+        "clue": "Negara di Karibia yang terkenal dengan sejarah revolusi dan warisan budaya Afrika yang kuat.",
+        "url_bendera": "https://flagcdn.com/w320/ht.png",
+        "kode_negara": "HT"
+    },
+    {
+        "index": 87,
+        "nama": {
+            "inggris": "Honduras",
+            "indonesia": "Honduras",
+            "asli": "Honduras"
+        },
+        "clue": "Negara di Amerika Tengah yang terkenal dengan gunung dan reruntuhan peradaban Maya.",
+        "url_bendera": "https://flagcdn.com/w320/hn.png",
+        "kode_negara": "HN"
+    },
+    {
+        "index": 88,
+        "nama": {
+            "inggris": "Hong Kong",
+            "indonesia": "Hong Kong",
+            "asli": "香港"
+        },
+        "clue": "Wilayah administrasi khusus Cina yang terkenal dengan kota metropolitan modern dan pelabuhan besar.",
+        "url_bendera": "https://flagcdn.com/w320/hk.png",
+        "kode_negara": "HK"
+    },
+    {
+        "index": 89,
+        "nama": {
+            "inggris": "Hungary",
+            "indonesia": "Hungaria",
+            "asli": "Magyarország"
+        },
+        "clue": "Negara di Eropa Tengah yang terkenal dengan Danube, Budapest, dan sejarah yang kaya.",
+        "url_bendera": "https://flagcdn.com/w320/hu.png",
+        "kode_negara": "HU"
+    },
+    {
+        "index": 90,
+        "nama": {
+            "inggris": "India",
+            "indonesia": "India",
+            "asli": "भारत"
+        },
+        "clue": "Negara besar di Asia Selatan yang terkenal dengan budaya, sejarah, dan kuliner yang kaya.",
+        "url_bendera": "https://flagcdn.com/w320/in.png",
+        "kode_negara": "IN"
+    },
+    {
+        "index": 91,
+        "nama": {
+            "inggris": "Indonesia",
+            "indonesia": "Indonesia",
+            "asli": "Indonesia"
+        },
+        "clue": "Negara kepulauan terbesar di dunia yang terkenal dengan keberagaman budaya dan alamnya.",
+        "url_bendera": "https://flagcdn.com/w320/id.png",
+        "kode_negara": "ID"
+    },
+    {
+        "index": 92,
+        "nama": {
+            "inggris": "Iraq",
+            "indonesia": "Irak",
+            "asli": "العراق"
+        },
+        "clue": "Negara di Timur Tengah yang memiliki sejarah kuno dan terkenal dengan sungai Eufrat dan Tigris.",
+            "url_bendera": "https://flagcdn.com/w320/iq.png",
+        "kode_negara": "IQ"
+    },
+    {
+        "index": 93,
+        "nama": {
+            "inggris": "Ireland",
+            "indonesia": "Irlandia",
+            "asli": "Éire"
+        },
+        "clue": "Negara di Eropa yang terkenal dengan padang rumput hijau dan sejarah panjang yang kaya.",
+        "url_bendera": "https://flagcdn.com/w320/ie.png",
+        "kode_negara": "IE"
+    },
+    {
+        "index": 94,
+        "nama": {
+            "inggris": "Israel",
+            "indonesia": "Israel",
+            "asli": "ישראל"
+        },
+        "clue": "Negara di Timur Tengah yang memiliki situs bersejarah penting bagi banyak agama, seperti Yerusalem.",
+        "url_bendera": "https://flagcdn.com/w320/il.png",
+        "kode_negara": "IL"
+    },
+    {
+        "index": 95,
+        "nama": {
+            "inggris": "Italy",
+            "indonesia": "Italia",
+            "asli": "Italia"
+        },
+        "clue": "Negara di Eropa Selatan yang terkenal dengan seni, sejarah, dan masakan seperti pizza dan pasta.",
+        "url_bendera": "https://flagcdn.com/w320/it.png",
+        "kode_negara": "IT"
+    },
+    {
+        "index": 96,
+        "nama": {
+            "inggris": "Jamaica",
+            "indonesia": "Jamaika",
+            "asli": "Jamaica"
+        },
+        "clue": "Negara pulau di Karibia yang terkenal dengan musik reggae dan pantai tropis.",
+        "url_bendera": "https://flagcdn.com/w320/jm.png",
+        "kode_negara": "JM"
+    },
+    {
+        "index": 97,
+        "nama": {
+            "inggris": "Japan",
+            "indonesia": "Jepang",
+            "asli": "日本"
+        },
+        "clue": "Negara kepulauan di Asia Timur yang terkenal dengan budaya, teknologi, dan tradisi seperti bunga sakura.",
+        "url_bendera": "https://flagcdn.com/w320/jp.png",
+        "kode_negara": "JP"
+    },
+    {
+        "index": 98,
+        "nama": {
+            "inggris": "Jordan",
+            "indonesia": "Yordania",
+            "asli": "الأردن"
+        },
+        "clue": "Negara di Timur Tengah yang terkenal dengan situs bersejarah seperti Petra dan Laut Mati.",
+        "url_bendera": "https://flagcdn.com/w320/jo.png",
+        "kode_negara": "JO"
+    },
+    {
+        "index": 99,
+        "nama": {
+            "inggris": "Kazakhstan",
+            "indonesia": "Kazakhstan",
+            "asli": "Қазақстан"
+        },
+        "clue": "Negara besar di Asia Tengah yang terkenal dengan padang rumput luas dan sejarah nomaden.",
+        "url_bendera": "https://flagcdn.com/w320/kz.png",
+        "kode_negara": "KZ"
+    },
+    {
+        "index": 100,
+        "nama": {
+            "inggris": "Kenya",
+            "indonesia": "Kenya",
+            "asli": "Kenya"
+        },
+        "clue": "Negara di Afrika Timur yang terkenal dengan safari, suku Maasai, dan gunung Kilimanjaro.",
+        "url_bendera": "https://flagcdn.com/w320/ke.png",
+        "kode_negara": "KE"
+    },
+    {
+        "index": 101,
+        "nama": {
+            "inggris": "Kiribati",
+            "indonesia": "Kiribati",
+            "asli": "Kiribati"
+        },
+        "clue": "Negara kepulauan di Pasifik yang terkenal dengan terumbu karang dan garis pantai yang indah.",
+        "url_bendera": "https://flagcdn.com/w320/ki.png",
+        "kode_negara": "KI"
+    },
+    {
+        "index": 102,
+        "nama": {
+            "inggris": "Korea Selatan",
+            "indonesia": "South Korea",
+            "asli": "대한민국"
+        },
+        "clue": "Negara di Asia Timur yang terkenal dengan teknologi tinggi dan budaya pop seperti K-pop.",
+        "url_bendera": "https://flagcdn.com/w320/kr.png",
+        "kode_negara": "KR"
+    },
+    {
+        "index": 103,
+        "nama": {
+            "inggris": "Kuwait",
+            "indonesia": "Kuwait",
+            "asli": "الكويت"
+        },
+        "clue": "Negara kecil di Teluk Persia yang terkenal dengan sumber daya minyak bumi dan gedung pencakar langit.",
+        "url_bendera": "https://flagcdn.com/w320/kw.png",
+        "kode_negara": "KW"
+    },
+    {
+        "index": 104,
+        "nama": {
+            "inggris": "Kyrgyzstan",
+            "indonesia": "Kirgistan",
+            "asli": "Кыргызстан"
+        },
+        "clue": "Negara di Asia Tengah yang terkenal dengan pegunungan Tien Shan dan budaya nomaden.",
+        "url_bendera": "https://flagcdn.com/w320/kg.png",
+        "kode_negara": "KG"
+    },
+    {
+        "index": 105,
+        "nama": {
+            "inggris": "Laos",
+            "indonesia": "Laos",
+            "asli": "ລາວ"
+        },
+        "clue": "Negara di Asia Tenggara yang dikenal dengan kuil-kuil Buddha dan Sungai Mekong.",
+        "url_bendera": "https://flagcdn.com/w320/la.png",
+        "kode_negara": "LA"
+    },
+    {
+        "index": 106,
+        "nama": {
+            "inggris": "Latvia",
+            "indonesia": "Latvia",
+            "asli": "Latvija"
+        },
+        "clue": "Negara di Baltik yang terkenal dengan kota Riga dan pemandangan alamnya yang menakjubkan.",
+        "url_bendera": "https://flagcdn.com/w320/lv.png",
+        "kode_negara": "LV"
+    },
+    {
+        "index": 107,
+        "nama": {
+            "inggris": "Lebanon",
+            "indonesia": "Lebanon",
+            "asli": "لبنان"
+        },
+        "clue": "Negara di Timur Tengah yang dikenal dengan Beirut sebagai pusat budaya dan sejarah.",
+        "url_bendera": "https://flagcdn.com/w320/lb.png",
+        "kode_negara": "LB"
+    },
+    {
+        "index": 108,
+        "nama": {
+            "inggris": "Lesotho",
+            "indonesia": "Lesotho",
+            "asli": "Lesotho"
+        },
+        "clue": "Negara kecil di Afrika Selatan yang terkurung daratan, terkenal dengan pegunungan dan budaya Sotho.",
+        "url_bendera": "https://flagcdn.com/w320/ls.png",
+        "kode_negara": "LS"
+    },
+    {
+        "index": 109,
+        "nama": {
+            "inggris": "Liberia",
+            "indonesia": "Liberia",
+            "asli": "Liberia"
+        },
+        "clue": "Negara di Afrika Barat yang memiliki sejarah sebagai negara yang didirikan oleh mantan budak Amerika.",
+        "url_bendera": "https://flagcdn.com/w320/lr.png",
+        "kode_negara": "LR"
+    },
+    {
+        "index": 110,
+        "nama": {
+            "inggris": "Libya",
+            "indonesia": "Libya",
+            "asli": "ليبيا"
+        },
+        "clue": "Negara di Afrika Utara yang terkenal dengan Gurun Sahara dan situs arkeologi kuno.",
+        "url_bendera": "https://flagcdn.com/w320/ly.png",
+        "kode_negara": "LY"
+    },
+    {
+        "index": 111,
+        "nama": {
+            "inggris": "Liechtenstein",
+            "indonesia": "Liechtenstein",
+            "asli": "Liechtenstein"
+        },
+        "clue": "Negara kecil di Eropa Tengah yang terkenal dengan pemandangan Alpen dan status sebagai negara monarki.",
+        "url_bendera": "https://flagcdn.com/w320/li.png",
+        "kode_negara": "LI"
+    },
+    {
+        "index": 112,
+        "nama": {
+            "inggris": "Lithuania",
+            "indonesia": "Lituania",
+            "asli": "Lietuva"
+        },
+        "clue": "Negara di Baltik yang terkenal dengan sejarah panjang, kota Vilnius, dan warisan budaya.",
+        "url_bendera": "https://flagcdn.com/w320/lt.png",
+        "kode_negara": "LT"
+    },
+    {
+        "index": 113,
+        "nama": {
+            "inggris": "Luxembourg",
+            "indonesia": "Luxembourg",
+            "asli": "Luxembourg"
+        },
+        "clue": "Negara kecil di Eropa Barat yang terkenal dengan status sebagai pusat keuangan dan kota Luxembourg yang bersejarah.",
+        "url_bendera": "https://flagcdn.com/w320/lu.png",
+        "kode_negara": "LU"
+    },
+    {
+        "index": 114,
+        "nama": {
+            "inggris": "Madagascar",
+            "indonesia": "Madagaskar",
+            "asli": "Madagasikara"
+        },
+        "clue": "Pulau besar di Afrika Timur yang terkenal dengan keanekaragaman hayati dan flora-fauna yang unik.",
+        "url_bendera": "https://flagcdn.com/w320/mg.png",
+        "kode_negara": "MG"
+    },
+    {
+        "index": 115,
+        "nama": {
+            "inggris": "Malawi",
+            "indonesia": "Malawi",
+            "asli": "Malawi"
+        },
+        "clue": "Negara di Afrika Tenggara yang terkenal dengan Danau Malawi dan keanekaragaman satwa liar.",
+        "url_bendera": "https://flagcdn.com/w320/mw.png",
+        "kode_negara": "MW"
+    },
+    {
+        "index": 116,
+        "nama": {
+            "inggris": "Malaysia",
+            "indonesia": "Malaysia",
+            "asli": "Malaysia"
+        },
+        "clue": "Negara di Asia Tenggara yang terkenal dengan hutan tropis, kota Kuala Lumpur, dan budaya multikultural.",
+            "url_bendera": "https://flagcdn.com/w320/my.png",
+            "kode_negara": "MY"
+    },
+    {
+        "index": 117,
+        "nama": {
+            "inggris": "Maldives",
+            "indonesia": "Maladewa",
+            "asli": "މާލެދާ"
+        },
+        "clue": "Negara kepulauan di Samudra Hindia yang terkenal dengan pantai pasir putih, laguna, dan resor mewah.",
+        "url_bendera": "https://flagcdn.com/w320/mv.png",
+        "kode_negara": "MV"
+    },
+    {
+        "index": 118,
+        "nama": {
+            "inggris": "Mali",
+            "indonesia": "Mali",
+            "asli": "Mali"
+        },
+        "clue": "Negara di Afrika Barat yang terkenal dengan sejarah kerajaan Mali dan situs bersejarah seperti Timbuktu.",
+        "url_bendera": "https://flagcdn.com/w320/ml.png",
+        "kode_negara": "ML"
+    },
+    {
+        "index": 119,
+        "nama": {
+            "inggris": "Malta",
+            "indonesia": "Malta",
+            "asli": "Malta"
+        },
+        "clue": "Negara kepulauan di Laut Mediterania yang terkenal dengan kota Valletta dan sejarah militer yang kaya.",
+        "url_bendera": "https://flagcdn.com/w320/mt.png",
+        "kode_negara": "MT"
+    },
+    {
+        "index": 120,
+        "nama": {
+            "inggris": "Morocco",
+            "indonesia": "Maroko",
+            "asli": "المغرب"
+        },
+        "clue": "Negara di Afrika Utara yang terkenal dengan pasar tradisional, gurun Sahara, dan kota-kota bersejarah seperti Marrakech.",
+        "url_bendera": "https://flagcdn.com/w320/ma.png",
+        "kode_negara": "MA"
+    },
+    {
+        "index": 121,
+        "nama": {
+            "inggris": "Mozambique",
+            "indonesia": "Mozambik",
+            "asli": "Moçambique"
+        },
+        "clue": "Negara di Afrika Tenggara yang terkenal dengan pantai panjang di Samudra Hindia dan keanekaragaman hayati.",
+        "url_bendera": "https://flagcdn.com/w320/mz.png",
+        "kode_negara": "MZ"
+    },
+    {
+        "index": 122,
+        "nama": {
+            "inggris": "Myanmar",
+            "indonesia": "Myanmar",
+            "asli": "မြန်မာ"
+        },
+        "clue": "Negara di Asia Tenggara yang terkenal dengan pagoda emas dan budaya yang kaya serta sejarah yang panjang.",
+        "url_bendera": "https://flagcdn.com/w320/mm.png",
+        "kode_negara": "MM"
+    },
+    {
+        "index": 123,
+        "nama": {
+            "inggris": "Namibia",
+            "indonesia": "Namibia",
+            "asli": "Namibië"
+        },
+        "clue": "Negara di Afrika Selatan yang terkenal dengan gurun pasir Sossusvlei, satwa liar, dan pemandangan alam yang dramatis.",
+        "url_bendera": "https://flagcdn.com/w320/na.png",
+        "kode_negara": "NA"
+    },
+    {
+        "index": 124,
+        "nama": {
+            "inggris": "Nauru",
+            "indonesia": "Nauru",
+            "asli": "Nauru"
+        },
+        "clue": "Negara pulau kecil di Pasifik yang terkenal dengan cadangan fosfat dan ukurannya yang sangat kecil.",
+        "url_bendera": "https://flagcdn.com/w320/nr.png",
+        "kode_negara": "NR"
+    },
+    {
+        "index": 125,
+        "nama": {
+            "inggris": "Nepal",
+            "indonesia": "Nepal",
+            "asli": "नेपाल"
+        },
+        "clue": "Negara di Asia Selatan yang terkenal dengan pegunungan Himalaya dan sebagai rumah bagi Gunung Everest.",
+        "url_bendera": "https://flagcdn.com/w320/np.png",
+        "kode_negara": "NP"
+    },
+    {
+        "index": 126,
+        "nama": {
+            "inggris": "Netherlands",
+            "indonesia": "Belanda",
+            "asli": "Nederland"
+        },
+        "clue": "Negara di Eropa Barat yang terkenal dengan kincir angin, bunga tulip, dan kota Amsterdam yang indah.",
+        "url_bendera": "https://flagcdn.com/w320/nl.png",
+        "kode_negara": "NL"
+    },
+    {
+        "index": 127,
+        "nama": {
+            "inggris": "New Zealand",
+            "indonesia": "Selandia Baru",
+            "asli": "Aotearoa"
+        },
+        "clue": "Negara di Oceania yang terkenal dengan pemandangan alam yang menakjubkan, gunung berapi, dan film Lord of the Rings.",
+        "url_bendera": "https://flagcdn.com/w320/nz.png",
+        "kode_negara": "NZ"
+    },
+    {
+        "index": 128,
+        "nama": {
+            "inggris": "Nicaragua",
+            "indonesia": "Nikaragua",
+            "asli": "Nicaragua"
+        },
+        "clue": "Negara di Amerika Tengah yang terkenal dengan danau besar dan gunung berapi yang aktif.",
+        "url_bendera": "https://flagcdn.com/w320/ni.png",
+        "kode_negara": "NI"
+    },
+    {
+        "index": 129,
+        "nama": {
+            "inggris": "Niger",
+            "indonesia": "Niger",
+            "asli": "Niger"
+        },
+        "clue": "Negara di Afrika Barat yang terkenal dengan gurun Sahara dan sejarah yang kaya akan perdagangan.",
+        "url_bendera": "https://flagcdn.com/w320/ne.png",
+        "kode_negara": "NE"
+    },
+    {
+        "index": 130,
+        "nama": {
+            "inggris": "Nigeria",
+            "indonesia": "Nigeria",
+            "asli": "Nigeria"
+        },
+        "clue": "Negara di Afrika Barat yang terkenal dengan populasi besar, industri film Nollywood, dan keberagaman budaya.",
+        "url_bendera": "https://flagcdn.com/w320/ng.png",
+        "kode_negara": "NG"
+    },
+    {
+        "index": 131,
+        "nama": {
+            "inggris": "North Korea",
+            "indonesia": "Korea Utara",
+            "asli": "조선 민주주의 인민 공화국"
+        },
+        "clue": "Negara di Asia Timur yang terkenal dengan kebijakan tertutup dan ketegangan politik dengan Korea Selatan.",
+        "url_bendera": "https://flagcdn.com/w320/kp.png",
+        "kode_negara": "KP"
+    },
+    {
+        "index": 132,
+        "nama": {
+            "inggris": "North Macedonia",
+            "indonesia": "Makedonia Utara",
+            "asli": "Северна Македонија"
+        },
+        "clue": "Negara di Eropa Tenggara yang terkenal dengan sejarah kuno dan peninggalan budaya Yunani kuno.",
+        "url_bendera": "https://flagcdn.com/w320/mk.png",
+        "kode_negara": "MK"
+    },
+    {
+        "index": 133,
+        "nama": {
+            "inggris": "Norway",
+            "indonesia": "Norwegia",
+            "asli": "Norge"
+        },
+        "clue": "Negara di Skandinavia yang terkenal dengan fjord yang indah, aurora borealis, dan sejarah Viking.",
+        "url_bendera": "https://flagcdn.com/w320/no.png",
+        "kode_negara": "NO"
+    },
+    {
+        "index": 134,
+        "nama": {
+            "inggris": "Oman",
+            "indonesia": "Oman",
+            "asli": "عمان"
+        },
+        "clue": "Negara di Timur Tengah yang terkenal dengan gurun pasir, benteng kuno, dan pantai di sepanjang Teluk Oman.",
+        "url_bendera": "https://flagcdn.com/w320/om.png",
+        "kode_negara": "OM"
+    },
+    {
+        "index": 135,
+        "nama": {
+            "inggris": "Pakistan",
+            "indonesia": "Pakistan",
+            "asli": "پاکستان"
+        },
+        "clue": "Negara di Asia Selatan yang terkenal dengan sejarah kuno, budaya yang beragam, dan pegunungan Himalaya.",
+        "url_bendera": "https://flagcdn.com/w320/pk.png",
+        "kode_negara": "PK"
+    },
+    {
+        "index": 136,
+        "nama": {
+            "inggris": "Palau",
+            "indonesia": "Palau",
+            "asli": "Belau"
+        },
+        "clue": "Negara kepulauan di Pasifik yang terkenal dengan terumbu karang dan wisata bawah laut.",
+        "url_bendera": "https://flagcdn.com/w320/pw.png",
+        "kode_negara": "PW"
+    },
+    {
+        "index": 137,
+        "nama": {
+            "inggris": "Panama",
+            "indonesia": "Panama",
+            "asli": "Panamá"
+        },
+        "clue": "Negara di Amerika Tengah yang terkenal dengan Kanal Panama yang menghubungkan Samudra Atlantik dan Pasifik.",
+        "url_bendera": "https://flagcdn.com/w320/pa.png",
+        "kode_negara": "PA"
+    },
+    {
+        "index": 138,
+        "nama": {
+            "inggris": "Papua New Guinea",
+            "indonesia": "Papua Nugini",
+            "asli": "Papua Niugini"
+        },
+        "clue": "Negara di Oceania yang terkenal dengan keberagaman suku, budaya, dan hutan tropis.",
+        "url_bendera": "https://flagcdn.com/w320/pg.png",
+        "kode_negara": "PG"
+    },
+    {
+        "index": 139,
+        "nama": {
+            "inggris": "Paraguay",
+            "indonesia": "Paraguay",
+            "asli": "Paraguay"
+        },
+        "clue": "Negara di Amerika Selatan yang terkenal dengan sejarah kolonial dan sungai Paraguay.",
+        "url_bendera": "https://flagcdn.com/w320/py.png",
+        "kode_negara": "PY"
+    },
+    {
+        "index": 140,
+        "nama": {
+            "inggris": "Peru",
+            "indonesia": "Peru",
+            "asli": "Perú"
+        },
+        "clue": "Negara di Amerika Selatan yang terkenal dengan situs Machu Picchu dan warisan budaya Inca.",
+        "url_bendera": "https://flagcdn.com/w320/pe.png",
+        "kode_negara": "PE"
+    },
+    {
+        "index": 141,
+        "nama": {
+            "inggris": "Philippines",
+            "indonesia": "Filipina",
+            "asli": "Pilipinas"
+        },
+        "clue": "Negara kepulauan di Asia Tenggara yang terkenal dengan pantai, gunung berapi, dan budaya yang kaya.",
+        "url_bendera": "https://flagcdn.com/w320/ph.png",
+        "kode_negara": "PH"
+    },
+    {
+        "index": 142,
+        "nama": {
+            "inggris": "Poland",
+            "indonesia": "Polandia",
+            "asli": "Polska"
+        },
+        "clue": "Negara di Eropa Tengah yang terkenal dengan sejarah panjang, kota Gdansk, dan kota ibu kota, Warsawa.",
+        "url_bendera": "https://flagcdn.com/w320/pl.png",
+        "kode_negara": "PL"
+    },
+    {
+        "index": 143,
+        "nama": {
+            "inggris": "Portugal",
+            "indonesia": "Portugal",
+            "asli": "Portugal"
+        },
+        "clue": "Negara di Eropa Selatan yang terkenal dengan pantai, anggur, dan sejarah penjajahan di seluruh dunia.",
+        "url_bendera": "https://flagcdn.com/w320/pt.png",
+        "kode_negara": "PT"
+    },
+    {
+        "index": 144,
+        "nama": {
+            "inggris": "Qatar",
+            "indonesia": "Qatar",
+            "asli": "قطر"
+        },
+        "clue": "Negara kaya minyak di Timur Tengah yang terkenal dengan arsitektur modern dan stadion olahraga mewah.",
+        "url_bendera": "https://flagcdn.com/w320/qa.png",
+        "kode_negara": "QA"
+    },
+    {
+        "index": 145,
+        "nama": {
+            "inggris": "Romania",
+            "indonesia": "Rumania",
+            "asli": "România"
+        },
+        "clue": "Negara di Eropa Tenggara yang terkenal dengan Kastil Bran, yang dikaitkan dengan legenda Dracula.",
+        "url_bendera": "https://flagcdn.com/w320/ro.png",
+        "kode_negara": "RO"
+    },
+    {
+        "index": 146,
+        "nama": {
+            "inggris": "Russia",
+            "indonesia": "Rusia",
+            "asli": "Россия"
+        },
+        "clue": "Negara terbesar di dunia yang terletak di Eropa Timur dan Asia, terkenal dengan sejarah Kekaisaran Rusia dan Soviet.",
+        "url_bendera": "https://flagcdn.com/w320/ru.png",
+        "kode_negara": "RU"
+    },
+    {
+        "index": 147,
+        "nama": {
+            "inggris": "Rwanda",
+            "indonesia": "Rwanda",
+            "asli": "Rwanda"
+        },
+        "clue": "Negara kecil di Afrika Tengah yang terkenal dengan keberagaman fauna dan sejarah pasca-perang saudara.",
+        "url_bendera": "https://flagcdn.com/w320/rw.png",
+        "kode_negara": "RW"
+    },
+    {
+        "index": 148,
+        "nama": {
+            "inggris": "Saint Kitts and Nevis",
+            "indonesia": "Saint Kitts dan Nevis",
+            "asli": "Saint Kitts and Nevis"
+        },
+        "clue": "Negara pulau kecil di Karibia yang terkenal dengan keindahan alam dan pantai tropis.",
+        "url_bendera": "https://flagcdn.com/w320/kn.png",
+        "kode_negara": "KN"
+    },
+    {
+        "index": 149,
+        "nama": {
+            "inggris": "Saint Lucia",
+            "indonesia": "Saint Lucia",
+            "asli": "Saint Lucia"
+        },
+        "clue": "Negara pulau di Karibia yang terkenal dengan gunung berapi dan pantai yang indah.",
+        "url_bendera": "https://flagcdn.com/w320/lc.png",
+        "kode_negara": "LC"
+    },
+    {
+        "index": 150,
+        "nama": {
+            "inggris": "Saint Vincent and the Grenadines",
+            "indonesia": "Saint Vincent dan Grenadines",
+            "asli": "Saint Vincent and the Grenadines"
+        },
+        "clue": "Negara kepulauan di Karibia yang terkenal dengan pantai yang tenang dan alam yang indah.",
+        "url_bendera": "https://flagcdn.com/w320/vc.png",
+        "kode_negara": "VC"
+    },
+    {
+        "index": 151,
+        "nama": {
+            "inggris": "Samoa",
+            "indonesia": "Samoa",
+            "asli": "Sāmoa"
+        },
+        "clue": "Negara pulau di Samudra Pasifik yang terkenal dengan budaya Polinesia dan pantai yang indah.",
+        "url_bendera": "https://flagcdn.com/w320/ws.png",
+        "kode_negara": "WS"
+    },
+    {
+        "index": 152,
+        "nama": {
+            "inggris": "San Marino",
+            "indonesia": "San Marino",
+            "asli": "San Marino"
+        },
+        "clue": "Salah satu negara terkecil di dunia yang terletak di Eropa, dikenal dengan sejarah panjangnya.",
+        "url_bendera": "https://flagcdn.com/w320/sm.png",
+        "kode_negara": "SM"
+    },
+    {
+        "index": 153,
+        "nama": {
+            "inggris": "Sao Tome and Principe",
+            "indonesia": "Sao Tome dan Principe",
+            "asli": "São Tomé e Príncipe"
+        },
+        "clue": "Negara kepulauan kecil di Teluk Guinea yang terkenal dengan kakao dan keindahan alamnya.",
+        "url_bendera": "https://flagcdn.com/w320/st.png",
+        "kode_negara": "ST"
+    },
+    {
+        "index": 154,
+        "nama": {
+            "inggris": "Saudi Arabia",
+            "indonesia": "Arab Saudi",
+            "asli": "المملكة العربية السعودية"
+        },
+        "clue": "Negara besar di Timur Tengah yang terkenal dengan kota suci Islam, Makkah dan Madinah.",
+        "url_bendera": "https://flagcdn.com/w320/sa.png",
+        "kode_negara": "SA"
+    },
+    {
+        "index": 155,
+        "nama": {
+            "inggris": "Senegal",
+            "indonesia": "Senegal",
+            "asli": "Sénégal"
+        },
+        "clue": "Negara di Afrika Barat yang terkenal dengan pantai di Samudra Atlantik dan budaya yang kaya.",
+        "url_bendera": "https://flagcdn.com/w320/sn.png",
+        "kode_negara": "SN"
+    },
+    {
+        "index": 156,
+        "nama": {
+            "inggris": "Serbia",
+            "indonesia": "Serbia",
+            "asli": "Србија"
+        },
+        "clue": "Negara di Eropa Tenggara yang terkenal dengan sejarah panjang, dan kota Belgrade.",
+        "url_bendera": "https://flagcdn.com/w320/rs.png",
+        "kode_negara": "RS"
+    },
+    {
+        "index": 157,
+        "nama": {
+            "inggris": "Seychelles",
+            "indonesia": "Seychelles",
+            "asli": "Seychelles"
+        },
+        "clue": "Negara kepulauan di Samudra Hindia yang terkenal dengan pantai berpasir putih dan perairan yang jernih.",
+        "url_bendera": "https://flagcdn.com/w320/sc.png",
+        "kode_negara": "SC"
+    },
+    {
+        "index": 158,
+        "nama": {
+            "inggris": "Sierra Leone",
+            "indonesia": "Sierra Leone",
+            "asli": "Sierra Leone"
+        },
+        "clue": "Negara di Afrika Barat yang terkenal dengan sejarah kolonial, dan pantai tropis.",
+        "url_bendera": "https://flagcdn.com/w320/sl.png",
+        "kode_negara": "SL"
+    },
+    {
+        "index": 159,
+        "nama": {
+            "inggris": "Singapore",
+            "indonesia": "Singapura",
+            "asli": "Singapore"
+        },
+        "clue": "Negara kota di Asia Tenggara yang terkenal dengan modernitas, kebersihan, dan taman kota.",
+        "url_bendera": "https://flagcdn.com/w320/sg.png",
+        "kode_negara": "SG"
+    },
+    {
+        "index": 160,
+        "nama": {
+            "inggris": "Slovakia",
+            "indonesia": "Slovakia",
+            "asli": "Slovensko"
+        },
+        "clue": "Negara di Eropa Tengah yang terkenal dengan pegunungan tinggi dan kastil-kastil bersejarah.",
+        "url_bendera": "https://flagcdn.com/w320/sk.png",
+        "kode_negara": "SK"
+    },
+    {
+        "index": 161,
+        "nama": {
+            "inggris": "Slovenia",
+            "indonesia": "Slovenia",
+            "asli": "Slovenija"
+        },
+        "clue": "Negara di Eropa Tengah yang terkenal dengan gua karst, pegunungan Alpen, dan danau Bled.",
+        "url_bendera": "https://flagcdn.com/w320/si.png",
+        "kode_negara": "SI"
+    },
+    {
+        "index": 162,
+        "nama": {
+            "inggris": "Solomon Islands",
+            "indonesia": "Kepulauan Solomon",
+            "asli": "Solomon Islands"
+        },
+        "clue": "Negara kepulauan di Samudra Pasifik yang terkenal dengan keindahan laut dan sejarah Perang Dunia II.",
+        "url_bendera": "https://flagcdn.com/w320/sb.png",
+        "kode_negara": "SB"
+    },
+    {
+        "index": 163,
+        "nama": {
+            "inggris": "Somalia",
+            "indonesia": "Somalia",
+            "asli": "Soomaaliya"
+        },
+        "clue": "Negara di Tanduk Afrika yang dikenal dengan garis pantai panjang di Samudra Hindia.",
+        "url_bendera": "https://flagcdn.com/w320/so.png",
+        "kode_negara": "SO"
+    },
+    {
+        "index": 164,
+        "nama": {
+            "inggris": "South Africa",
+            "indonesia": "Afrika Selatan",
+            "asli": "South Africa"
+        },
+        "clue": "Negara di ujung selatan benua Afrika yang terkenal dengan keanekaragaman budaya dan sejarah apartheid.",
+        "url_bendera": "https://flagcdn.com/w320/za.png",
+        "kode_negara": "ZA"
+    },
+    {
+        "index": 165,
+        "nama": {
+            "inggris": "South Korea",
+            "indonesia": "Korea Selatan",
+            "asli": "대한민국"
+        },
+        "clue": "Negara di Asia Timur yang terkenal dengan teknologi canggih, K-pop, dan makanan khas seperti kimchi.",
+        "url_bendera": "https://flagcdn.com/w320/kr.png",
+        "kode_negara": "KR"
+    },
+    {
+        "index": 166,
+        "nama": {
+            "inggris": "South Sudan",
+            "indonesia": "Sudan Selatan",
+            "asli": "South Sudan"
+        },
+        "clue": "Negara termuda di dunia yang merdeka pada tahun 2011, terletak di Afrika Timur.",
+        "url_bendera": "https://flagcdn.com/w320/ss.png",
+        "kode_negara": "SS"
+    },
+    {
+        "index": 167,
+        "nama": {
+            "inggris": "Spain",
+            "indonesia": "Spanyol",
+            "asli": "España"
+        },
+        "clue": "Negara di Eropa Barat Daya yang terkenal dengan flamenco, sepak bola, dan arsitektur Gaudí.",
+        "url_bendera": "https://flagcdn.com/w320/es.png",
+        "kode_negara": "ES"
+    },
+    {
+        "index": 168,
+        "nama": {
+            "inggris": "Sri Lanka",
+            "indonesia": "Sri Lanka",
+            "asli": "ශ්‍රී ලංකාව / இலங்கை"
+        },
+        "clue": "Negara pulau di Asia Selatan yang dikenal dengan teh Ceylon dan situs budaya kuno.",
+        "url_bendera": "https://flagcdn.com/w320/lk.png",
+        "kode_negara": "LK"
+    },
+    {
+        "index": 169,
+        "nama": {
+            "inggris": "Sudan",
+            "indonesia": "Sudan",
+            "asli": "السودان"
+        },
+        "clue": "Negara di Afrika Timur Laut yang memiliki sejarah panjang di sepanjang Sungai Nil.",
+        "url_bendera": "https://flagcdn.com/w320/sd.png",
+        "kode_negara": "SD"
+    },
+    {
+        "index": 170,
+        "nama": {
+            "inggris": "Suriname",
+            "indonesia": "Suriname",
+            "asli": "Suriname"
+        },
+        "clue": "Negara di Amerika Selatan yang dikenal dengan keragaman etnis dan hutan hujan tropis.",
+        "url_bendera": "https://flagcdn.com/w320/sr.png",
+        "kode_negara": "SR"
+    },
+    {
+        "index": 171,
+        "nama": {
+            "inggris": "Sweden",
+            "indonesia": "Swedia",
+            "asli": "Sverige"
+        },
+        "clue": "Negara Nordik di Eropa Utara yang terkenal dengan sistem kesejahteraan sosial dan desain minimalis.",
+        "url_bendera": "https://flagcdn.com/w320/se.png",
+        "kode_negara": "SE"
+    },
+    {
+        "index": 172,
+        "nama": {
+            "inggris": "Switzerland",
+            "indonesia": "Swiss",
+            "asli": "Schweiz / Suisse / Svizzera / Svizra"
+        },
+        "clue": "Negara di Eropa Tengah yang dikenal dengan pegunungan Alpen, cokelat, dan netralitas politik.",
+        "url_bendera": "https://flagcdn.com/w320/ch.png",
+        "kode_negara": "CH"
+    },
+    {
+        "index": 173,
+        "nama": {
+            "inggris": "Syria",
+            "indonesia": "Suriah",
+            "asli": "سوريا"
+        },
+        "clue": "Negara di Timur Tengah dengan sejarah panjang, namun mengalami konflik sejak 2011.",
+        "url_bendera": "https://flagcdn.com/w320/sy.png",
+        "kode_negara": "SY"
+    },
+    {
+        "index": 174,
+        "nama": {
+            "inggris": "Taiwan",
+            "indonesia": "Taiwan",
+            "asli": "台灣 / 臺灣"
+        },
+        "clue": "Wilayah di Asia Timur yang dikenal dengan teknologi tinggi dan industri manufaktur.",
+        "url_bendera": "https://flagcdn.com/w320/tw.png",
+        "kode_negara": "TW"
+    },
+    {
+        "index": 175,
+        "nama": {
+            "inggris": "Tajikistan",
+            "indonesia": "Tajikistan",
+            "asli": "Тоҷикистон"
+        },
+        "clue": "Negara di Asia Tengah yang didominasi oleh pegunungan dan warisan budaya Persia.",
+        "url_bendera": "https://flagcdn.com/w320/tj.png",
+        "kode_negara": "TJ"
+    },
+    {
+        "index": 176,
+        "nama": {
+            "inggris": "Tanzania",
+            "indonesia": "Tanzania",
+            "asli": "Tanzania"
+        },
+        "clue": "Negara di Afrika Timur yang terkenal dengan Gunung Kilimanjaro dan Serengeti.",
+        "url_bendera": "https://flagcdn.com/w320/tz.png",
+        "kode_negara": "TZ"
+    },
+    {
+        "index": 177,
+        "nama": {
+            "inggris": "Thailand",
+            "indonesia": "Thailand",
+            "asli": "ประเทศไทย"
+        },
+        "clue": "Negara di Asia Tenggara yang terkenal dengan pantai, kuil Buddha, dan masakan khas.",
+        "url_bendera": "https://flagcdn.com/w320/th.png",
+        "kode_negara": "TH"
+    },
+    {
+        "index": 178,
+        "nama": {
+            "inggris": "Timor-Leste",
+            "indonesia": "Timor Leste",
+            "asli": "Timor-Leste"
+        },
+        "clue": "Negara di Asia Tenggara yang merdeka dari Indonesia pada tahun 2002.",
+        "url_bendera": "https://flagcdn.com/w320/tl.png",
+        "kode_negara": "TL"
+    },
+    {
+        "index": 179,
+        "nama": {
+            "inggris": "Togo",
+            "indonesia": "Togo",
+            "asli": "Togo"
+        },
+        "clue": "Negara kecil di Afrika Barat yang memiliki garis pantai di Teluk Guinea.",
+        "url_bendera": "https://flagcdn.com/w320/tg.png",
+        "kode_negara": "TG"
+    },
+    {
+        "index": 180,
+        "nama": {
+            "inggris": "Tonga",
+            "indonesia": "Tonga",
+            "asli": "Tonga"
+        },
+        "clue": "Kerajaan di Pasifik Selatan yang terdiri dari lebih dari 170 pulau.",
+        "url_bendera": "https://flagcdn.com/w320/to.png",
+        "kode_negara": "TO"
+    },
+    {
+        "index": 181,
+        "nama": {
+            "inggris": "Trinidad and Tobago",
+            "indonesia": "Trinidad dan Tobago",
+            "asli": "Trinidad and Tobago"
+        },
+        "clue": "Negara kepulauan di Karibia yang dikenal dengan musik calypso dan karnaval berwarna-warni.",
+        "url_bendera": "https://flagcdn.com/w320/tt.png",
+        "kode_negara": "TT"
+    },
+    {
+        "index": 182,
+        "nama": {
+            "inggris": "Tunisia",
+            "indonesia": "Tunisia",
+            "asli": "تونس"
+        },
+        "clue": "Negara di Afrika Utara yang memiliki reruntuhan Kartago dan bagian dari Gurun Sahara.",
+        "url_bendera": "https://flagcdn.com/w320/tn.png",
+        "kode_negara": "TN"
+    },
+    {
+        "index": 183,
+        "nama": {
+            "inggris": "Turkey",
+            "indonesia": "Turki",
+            "asli": "Türkiye"
+        },
+        "clue": "Negara yang terletak di perbatasan Eropa dan Asia, terkenal dengan Istanbul dan warisan Ottoman.",
+        "url_bendera": "https://flagcdn.com/w320/tr.png",
+        "kode_negara": "TR"
+    },
+    {
+        "index": 184,
+        "nama": {
+            "inggris": "Turkmenistan",
+            "indonesia": "Turkmenistan",
+            "asli": "Türkmenistan"
+        },
+        "clue": "Negara Asia Tengah yang sebagian besar terdiri dari gurun Karakum dan dikenal dengan arsitektur putihnya.",
+        "url_bendera": "https://flagcdn.com/w320/tm.png",
+        "kode_negara": "TM"
+    },
+    {
+        "index": 185,
+        "nama": {
+            "inggris": "Tuvalu",
+            "indonesia": "Tuvalu",
+            "asli": "Tuvalu"
+        },
+        "clue": "Negara kecil di Pasifik yang terancam oleh kenaikan permukaan air laut.",
+        "url_bendera": "https://flagcdn.com/w320/tv.png",
+        "kode_negara": "TV"
+    },
+    {
+        "index": 186,
+        "nama": {
+            "inggris": "Uganda",
+            "indonesia": "Uganda",
+            "asli": "Uganda"
+        },
+        "clue": "Negara di Afrika Timur yang dikenal dengan danau Victoria dan satwa liar seperti gorila gunung.",
+        "url_bendera": "https://flagcdn.com/w320/ug.png",
+        "kode_negara": "UG"
+    },
+    {
+        "index": 187,
+        "nama": {
+            "inggris": "Ukraine",
+            "indonesia": "Ukraina",
+            "asli": "Україна"
+        },
+        "clue": "Negara di Eropa Timur yang memiliki sejarah panjang dan menjadi pusat perhatian dunia sejak 2022.",
+        "url_bendera": "https://flagcdn.com/w320/ua.png",
+        "kode_negara": "UA"
+    },
+    {
+        "index": 188,
+        "nama": {
+            "inggris": "United Arab Emirates",
+            "indonesia": "Uni Emirat Arab",
+            "asli": "الإمارات العربية المتحدة"
+        },
+        "clue": "Negara di Timur Tengah yang terkenal dengan kota modern seperti Dubai dan Abu Dhabi.",
+        "url_bendera": "https://flagcdn.com/w320/ae.png",
+        "kode_negara": "AE"
+    },
+    {
+        "index": 189,
+        "nama": {
+            "inggris": "United Kingdom",
+            "indonesia": "Britania Raya",
+            "asli": "United Kingdom"
+        },
+        "clue": "Negara di Eropa Barat yang terdiri dari Inggris, Skotlandia, Wales, dan Irlandia Utara.",
+        "url_bendera": "https://flagcdn.com/w320/gb.png",
+        "kode_negara": "GB"
+    },
+    {
+        "index": 190,
+        "nama": {
+            "inggris": "United States",
+            "indonesia": "Amerika Serikat",
+            "asli": "United States of America"
+        },
+        "clue": "Negara besar di Amerika Utara yang merupakan kekuatan ekonomi dan militer dunia.",
+        "url_bendera": "https://flagcdn.com/w320/us.png",
+        "kode_negara": "US"
+    },
+    {
+        "index": 191,
+        "nama": {
+            "inggris": "Uruguay",
+            "indonesia": "Uruguay",
+            "asli": "Uruguay"
+        },
+        "clue": "Negara kecil di Amerika Selatan yang dikenal dengan budaya sepak bola dan pantai-pantainya.",
+        "url_bendera": "https://flagcdn.com/w320/uy.png",
+        "kode_negara": "UY"
+    },
+    {
+        "index": 192,
+        "nama": {
+            "inggris": "Uzbekistan",
+            "indonesia": "Uzbekistan",
+            "asli": "O‘zbekiston"
+        },
+        "clue": "Negara di Asia Tengah yang terkenal dengan kota-kota bersejarah di Jalur Sutra seperti Samarkand dan Bukhara.",
+        "url_bendera": "https://flagcdn.com/w320/uz.png",
+        "kode_negara": "UZ"
+    },
+    {
+        "index": 193,
+        "nama": {
+            "inggris": "Vanuatu",
+            "indonesia": "Vanuatu",
+            "asli": "Vanuatu"
+        },
+        "clue": "Negara kepulauan di Pasifik Selatan yang dikenal dengan budaya tradisional dan keindahan bawah laut.",
+        "url_bendera": "https://flagcdn.com/w320/vu.png",
+        "kode_negara": "VU"
+    },
+    {
+        "index": 194,
+        "nama": {
+            "inggris": "Vatican City",
+            "indonesia": "Kota Vatikan",
+            "asli": "Vaticano"
+        },
+        "clue": "Negara terkecil di dunia yang merupakan pusat Gereja Katolik dan kediaman Paus.",
+        "url_bendera": "https://flagcdn.com/w320/va.png",
+        "kode_negara": "VA"
+    },
+    {
+        "index": 195,
+        "nama": {
+            "inggris": "Venezuela",
+            "indonesia": "Venezuela",
+            "asli": "Venezuela"
+        },
+        "clue": "Negara di Amerika Selatan yang memiliki cadangan minyak besar dan air terjun tertinggi di dunia, Angel Falls.",
+        "url_bendera": "https://flagcdn.com/w320/ve.png",
+        "kode_negara": "VE"
+    },
+    {
+        "index": 196,
+        "nama": {
+            "inggris": "Vietnam",
+            "indonesia": "Vietnam",
+            "asli": "Việt Nam"
+        },
+        "clue": "Negara di Asia Tenggara yang terkenal dengan Teluk Ha Long dan sejarah panjang perlawanan.",
+        "url_bendera": "https://flagcdn.com/w320/vn.png",
+        "kode_negara": "VN"
+    },
+    {
+        "index": 197,
+        "nama": {
+            "inggris": "Yemen",
+            "indonesia": "Yaman",
+            "asli": "اليمن"
+        },
+        "clue": "Negara di Jazirah Arab yang dikenal dengan kota tua Sana'a dan arsitektur unik di padang pasir.",
+        "url_bendera": "https://flagcdn.com/w320/ye.png",
+        "kode_negara": "YE"
+    },
+    {
+        "index": 198,
+        "nama": {
+            "inggris": "Zambia",
+            "indonesia": "Zambia",
+            "asli": "Zambia"
+        },
+        "clue": "Negara di Afrika bagian selatan yang terkenal dengan air terjun Victoria dan taman nasionalnya.",
+        "url_bendera": "https://flagcdn.com/w320/zm.png",
+        "kode_negara": "ZM"
+    },
+    {
+        "index": 199,
+        "nama": {
+            "inggris": "Zimbabwe",
+            "indonesia": "Zimbabwe",
+            "asli": "Zimbabwe"
+        },
+        "clue": "Negara di Afrika bagian selatan yang memiliki reruntuhan peradaban kuno Great Zimbabwe.",
+        "url_bendera": "https://flagcdn.com/w320/zw.png",
+        "kode_negara": "ZW"
+    },
+    {
+        "index": 200,
+        "nama": {
+            "inggris": "Kosovo",
+            "indonesia": "Kosovo",
+            "asli": "Kosovë"
+        },
+        "clue": "Negara di Balkan yang menyatakan kemerdekaan dari Serbia pada 2008 dan masih memiliki status yang diperdebatkan.",
+        "url_bendera": "https://flagcdn.com/w320/xk.png",
+        "kode_negara": "XK"
+    }
+]

@@ -1,0 +1,2594 @@
+[
+    {
+        "index": 1,
+        "soal": "Seorang nabi yang diberikan keistimewaan oleh Allah. Dapat berbicara ketika baru lahir ....",
+        "pilihan": [
+            "Adam as",
+            "Nuh as",
+            "Isa as",
+            "Sulaiman as",
+            "Muhammad saw"
+        ],
+        "jawaban": "Isa as",
+        "deskripsi": "Nabi Isa as diberi mukjizat oleh Allah dapat berbicara ketika masih bayi untuk membela ibunya, Maryam."
+    },
+    {
+        "index": 2,
+        "soal": "Para rasul selalu benar, baik dalam kata-kata mereka maupun dalam perbuatan mereka. Ini membuktikan bahwa rasul memiliki sifat ....",
+        "pilihan": [
+            "terpercaya",
+            "siddiq",
+            "tablig",
+            "Fatana",
+            "kitman"
+        ],
+        "jawaban": "siddiq",
+        "deskripsi": "Sifat siddiq berarti jujur, selalu benar dalam perkataan dan perbuatan."
+    },
+    {
+        "index": 3,
+        "soal": "Kitab yang diberikan kepada Nabi Musa as adalah ....",
+        "pilihan": [
+            "Zabur",
+            "Taurat",
+            "Injil",
+            "Alquran",
+            "Weda"
+        ],
+        "jawaban": "Taurat",
+        "deskripsi": "Kitab Taurat diberikan kepada Nabi Musa as sebagai petunjuk bagi Bani Israil."
+    },
+    {
+        "index": 4,
+        "soal": "Nabi Musa as telah menerima wahyu melalui dialog langsung dengan Tuhan Yang Mahakuasa. Dan terjadi di ....",
+        "pilihan": [
+            "Gua Hira",
+            "Jabal Nur",
+            "Jabal Uhud",
+            "Jabal Rahmah",
+            "Bukit Thursina"
+        ],
+        "jawaban": "Bukit Thursina",
+        "deskripsi": "Nabi Musa as menerima wahyu dan berbicara langsung dengan Allah di Bukit Thursina."
+    },
+    {
+        "index": 5,
+        "soal": "Seorang rasul yang kaya, bahkan seorang raja, taat kepada Allah SWT. adalah ....",
+        "pilihan": [
+            "Adam as",
+            "Ibrahim as",
+            "Sulaiman as",
+            "Musa as",
+            "Muhammad saw"
+        ],
+        "jawaban": "Sulaiman as",
+        "deskripsi": "Nabi Sulaiman as adalah seorang nabi sekaligus raja yang memiliki kekayaan melimpah serta mampu berbicara dengan hewan."
+    },
+    {
+        "index": 6,
+        "soal": "Apa nama surah pertama dalam Al-Qur'an?",
+        "pilihan": [
+            "Al-Ikhlas",
+            "Al-Fatihah",
+            "An-Nas",
+            "Al-Baqarah",
+            "Yasin"
+        ],
+        "jawaban": "Al-Fatihah",
+        "deskripsi": "Surah Al-Fatihah merupakan surah pembuka dalam Al-Qur'an dan sering disebut sebagai Ummul Kitab."
+    },
+    {
+        "index": 7,
+        "soal": "Apa rukun Islam yang pertama?",
+        "pilihan": [
+            "Shalat",
+            "Puasa",
+            "Zakat",
+            "Syahadat",
+            "Haji"
+        ],
+        "jawaban": "Syahadat",
+        "deskripsi": "Syahadat adalah rukun Islam pertama yang merupakan pengakuan keesaan Allah dan kenabian Muhammad saw."
+    },
+    {
+        "index": 8,
+        "soal": "Malaikat yang bertugas mencabut nyawa adalah ....",
+        "pilihan": [
+            "Jibril",
+            "Mikail",
+            "Izrail",
+            "Israfil",
+            "Ridwan"
+        ],
+        "jawaban": "Izrail",
+        "deskripsi": "Malaikat Izrail bertugas mencabut nyawa setiap makhluk yang bernyawa."
+    },
+    {
+        "index": 9,
+        "soal": "Siapakah sahabat Nabi yang dijuluki 'Pedang Allah'?",
+        "pilihan": [
+            "Abu Bakar",
+            "Ali bin Abi Thalib",
+            "Umar bin Khattab",
+            "Khalid bin Walid",
+            "Bilal bin Rabah"
+        ],
+        "jawaban": "Khalid bin Walid",
+        "deskripsi": "Khalid bin Walid dijuluki 'Pedang Allah' karena kepiawaiannya dalam strategi perang."
+    },
+    {
+        "index": 10,
+        "soal": "Berapa jumlah rakaat dalam shalat Isya?",
+        "pilihan": [
+            "2 rakaat",
+            "3 rakaat",
+            "4 rakaat",
+            "5 rakaat",
+            "6 rakaat"
+        ],
+        "jawaban": "4 rakaat",
+        "deskripsi": "Shalat Isya terdiri dari 4 rakaat dalam shalat wajib."
+    },
+    {
+        "index": 11,
+        "soal": "Siapakah yang mendapatkan gelar 'Khatamul Anbiya'?",
+        "pilihan": [
+            "Nabi Musa",
+            "Nabi Ibrahim",
+            "Nabi Muhammad",
+            "Nabi Isa",
+            "Nabi Adam"
+        ],
+        "jawaban": "Nabi Muhammad",
+        "deskripsi": "Khatamul Anbiya berarti penutup para nabi, yaitu gelar yang diberikan kepada Nabi Muhammad saw."
+    },
+    {
+        "index": 12,
+        "soal": "Pada bulan apa umat Islam melaksanakan puasa wajib?",
+        "pilihan": [
+            "Muharram",
+            "Rajab",
+            "Syaban",
+            "Ramadhan",
+            "Dzulhijjah"
+        ],
+        "jawaban": "Ramadhan",
+        "deskripsi": "Puasa wajib bagi umat Islam dilakukan selama bulan Ramadhan sebagai bagian dari rukun Islam."
+    },
+    {
+        "index": 13,
+        "soal": "Apa nama perang besar pertama dalam Islam?",
+        "pilihan": [
+            "Perang Uhud",
+            "Perang Khandak",
+            "Perang Badar",
+            "Perang Hunain",
+            "Perang Tabuk"
+        ],
+        "jawaban": "Perang Badar",
+        "deskripsi": "Perang Badar adalah perang besar pertama dalam sejarah Islam yang dimenangkan oleh kaum Muslimin."
+    },
+    {
+        "index": 14,
+        "soal": "Doa yang dibaca setelah takbiratul ihram dalam shalat adalah ....",
+        "pilihan": [
+            "Doa Qunut",
+            "Doa iftitah",
+            "Doa Sapu Jagad",
+            "Doa Kamilin"
+        ],
+        "jawaban": "Doa iftitah",
+        "deskripsi": "Doa iftitah merupakan doa yang dibaca setelah takbiratul ihram dalam shalat sebagai pembukaan."
+    },
+    {
+        "index": 15,
+        "soal": "Perbuatan menyekutukan Allah dengan sesuatu yang lain sama seperti ....",
+        "pilihan": [
+            "Tawhid",
+            "Syirik",
+            "Munafik",
+            "Mukhlis"
+        ],
+        "jawaban": "Syirik",
+        "deskripsi": "Syirik adalah perbuatan menyekutukan Allah dengan sesuatu yang lain, yang merupakan dosa besar dalam Islam."
+    },
+    {
+        "index": 16,
+        "soal": "Paman Nabi Muhammad SAW yang wafat karena terbunuh ketika Perang Tabuk yaitu ....",
+        "pilihan": [
+            "Abu Thalib",
+            "Hamzah bin Abdul Muthalib",
+            "Abbas bin Abdul Muthalib",
+            "Harits bin Abdul Muthalib"
+        ],
+        "jawaban": "Hamzah bin Abdul Muthalib",
+        "deskripsi": "Hamzah bin Abdul Muthalib adalah paman Nabi Muhammad SAW yang gugur dalam Perang Tabuk."
+    },
+    {
+        "index": 17,
+        "soal": "Shalat sunah yang mengiringi shalat wajib adalah ....",
+        "pilihan": [
+            "Tarawih",
+            "Dhuha",
+            "Tahajud",
+            "Rawatib"
+        ],
+        "jawaban": "Rawatib",
+        "deskripsi": "Shalat rawatib adalah shalat sunah yang mengiringi shalat wajib dan dilakukan sebelum atau setelah shalat fardu."
+    },
+    {
+        "index": 18,
+        "soal": "Kita dibolehkan menggabungkan dua shalat dalam satu waktu dalam keadaan tertentu. Namanya adalah ....",
+        "pilihan": [
+            "Qasar",
+            "Jama",
+            "Tahqiq",
+            "Ijtihad"
+        ],
+        "jawaban": "Jama",
+        "deskripsi": "Jama adalah menggabungkan dua shalat dalam satu waktu karena alasan tertentu, seperti bepergian atau keadaan darurat."
+    },
+    {
+        "index": 19,
+        "soal": "Takbir awal dimulainya shalat adalah ....",
+        "pilihan": [
+            "Takbiratul ihram",
+            "Takbiratul iqamah",
+            "Takbiratul salat",
+            "Takbiratul munajat"
+        ],
+        "jawaban": "Takbiratul ihram",
+        "deskripsi": "Takbiratul ihram adalah takbir pertama yang dilakukan saat memulai shalat dengan mengangkat tangan dan mengucapkan 'Allahu Akbar'."
+    },
+    {
+        "index": 20,
+        "soal": "Al-Quran terdiri dari berapa juz dan surah?",
+        "pilihan": [
+            "30 juz dan 114 surah",
+            "20 juz dan 113 surah",
+            "30 juz dan 113 surah",
+            "20 juz dan 114 surah"
+        ],
+        "jawaban": "30 juz dan 114 surah",
+        "deskripsi": "Al-Quran terdiri dari 30 juz dan 114 surah yang merupakan wahyu Allah kepada Nabi Muhammad SAW."
+    },
+    {
+        "index": 21,
+        "soal": "Khalifah kedua dan diberi gelar amirul mukminin yaitu ....",
+        "pilihan": [
+            "Abu Bakar",
+            "Umar bin Khattab",
+            "Utsman bin Affan",
+            "Ali bin Abi Thalib"
+        ],
+        "jawaban": "Umar bin Khattab",
+        "deskripsi": "Umar bin Khattab adalah khalifah kedua"
+    },
+    {
+        "index": 22,
+        "soal": "Siapakah yang dikenal sebagai 'Khalilullah' atau kekasih Allah?",
+        "pilihan": [
+            "Nabi Musa",
+            "Nabi Ibrahim",
+            "Nabi Isa",
+            "Nabi Muhammad",
+            "Nabi Nuh"
+        ],
+        "jawaban": "Nabi Ibrahim",
+        "deskripsi": "Nabi Ibrahim as dikenal sebagai 'Khalilullah' atau kekasih Allah karena ketaatannya yang luar biasa kepada Allah."
+    },
+    {
+        "index": 23,
+        "soal": "Siapakah malaikat yang bertugas menyampaikan wahyu kepada para nabi?",
+        "pilihan": [
+            "Mikail",
+            "Israfil",
+            "Izrail",
+            "Jibril",
+            "Ridwan"
+        ],
+        "jawaban": "Jibril",
+        "deskripsi": "Malaikat Jibril bertugas menyampaikan wahyu dari Allah kepada para nabi dan rasul."
+    },
+    {
+        "index": 24,
+        "soal": "Apa nama surah yang paling panjang dalam Al-Qur'an?",
+        "pilihan": [
+            "Al-Baqarah",
+            "Ali Imran",
+            "An-Nisa",
+            "Al-Maidah",
+            "Al-An'am"
+        ],
+        "jawaban": "Al-Baqarah",
+        "deskripsi": "Surah Al-Baqarah adalah surah terpanjang dalam Al-Qur'an yang terdiri dari 286 ayat."
+    },
+    {
+        "index": 25,
+        "soal": "Siapakah nabi yang dikenal dengan mukjizat membelah laut?",
+        "pilihan": [
+            "Nabi Nuh",
+            "Nabi Ibrahim",
+            "Nabi Musa",
+            "Nabi Isa",
+            "Nabi Muhammad"
+        ],
+        "jawaban": "Nabi Musa",
+        "deskripsi": "Nabi Musa as dikenal dengan mukjizatnya membelah laut dengan tongkatnya atas izin Allah untuk menyelamatkan Bani Israil dari kejaran Fir'aun."
+    },
+    {
+        "index": 26,
+        "soal": "Apa nama kota kelahiran Nabi Muhammad SAW?",
+        "pilihan": [
+            "Madinah",
+            "Makkah",
+            "Taif",
+            "Yaman",
+            "Syam"
+        ],
+        "jawaban": "Makkah",
+        "deskripsi": "Nabi Muhammad SAW lahir di kota Makkah, yang juga merupakan tempat Ka'bah berada."
+    },
+    {
+        "index": 27,
+        "soal": "Siapakah nabi yang dikenal dengan mukjizat menyembuhkan orang sakit dan menghidupkan orang mati?",
+        "pilihan": [
+            "Nabi Musa",
+            "Nabi Isa",
+            "Nabi Ibrahim",
+            "Nabi Nuh",
+            "Nabi Muhammad"
+        ],
+        "jawaban": "Nabi Isa",
+        "deskripsi": "Nabi Isa as diberi mukjizat oleh Allah untuk menyembuhkan orang sakit dan menghidupkan orang mati dengan izin-Nya."
+    },
+    {
+        "index": 28,
+        "soal": "Apa nama perang yang terjadi setelah Perang Badar?",
+        "pilihan": [
+            "Perang Uhud",
+            "Perang Khandak",
+            "Perang Hunain",
+            "Perang Tabuk",
+            "Perang Yamamah"
+        ],
+        "jawaban": "Perang Uhud",
+        "deskripsi": "Perang Uhud terjadi setelah Perang Badar dan merupakan salah satu perang besar dalam sejarah Islam."
+    },
+    {
+        "index": 29,
+        "soal": "Siapakah sahabat Nabi yang dikenal sebagai 'Ash-Shiddiq'?",
+        "pilihan": [
+            "Umar bin Khattab",
+            "Utsman bin Affan",
+            "Ali bin Abi Thalib",
+            "Abu Bakar",
+            "Bilal bin Rabah"
+        ],
+        "jawaban": "Abu Bakar",
+        "deskripsi": "Abu Bakar as-Shiddiq adalah sahabat Nabi yang dikenal karena kejujurannya dan menjadi khalifah pertama setelah wafatnya Nabi Muhammad SAW."
+    },
+    {
+        "index": 30,
+        "soal": "Apa nama surah yang sering disebut sebagai 'Jantung Al-Qur'an'?",
+        "pilihan": [
+            "Al-Fatihah",
+            "Al-Baqarah",
+            "Yasin",
+            "Al-Kahfi",
+            "Al-Mulk"
+        ],
+        "jawaban": "Yasin",
+        "deskripsi": "Surah Yasin sering disebut sebagai 'Jantung Al-Qur'an' karena keutamaannya dan sering dibaca oleh umat Islam."
+    },
+    {
+        "index": 31,
+        "soal": "Siapakah nabi yang dikenal dengan mukjizat berbicara dengan hewan?",
+        "pilihan": [
+            "Nabi Nuh",
+            "Nabi Ibrahim",
+            "Nabi Musa",
+            "Nabi Sulaiman",
+            "Nabi Muhammad"
+        ],
+        "jawaban": "Nabi Sulaiman",
+        "deskripsi": "Nabi Sulaiman as diberi mukjizat oleh Allah untuk dapat berbicara dengan hewan dan menguasai jin."
+    },
+    {
+        "index": 32,
+        "soal": "Siapakah istri Nabi Muhammad SAW yang pertama?",
+        "pilihan": [
+            "Aisyah",
+            "Khadijah",
+            "Hafshah",
+            "Ummu Salamah",
+            "Zainab"
+        ],
+        "jawaban": "Khadijah",
+        "deskripsi": "Khadijah binti Khuwailid adalah istri pertama Nabi Muhammad SAW dan wanita pertama yang memeluk Islam."
+    },
+    {
+        "index": 33,
+        "soal": "Apa nama malam yang lebih baik dari seribu bulan?",
+        "pilihan": [
+            "Nisfu Sya’ban",
+            "Malam Idul Fitri",
+            "Malam Arafah",
+            "Lailatul Qadar",
+            "Malam Jumat"
+        ],
+        "jawaban": "Lailatul Qadar",
+        "deskripsi": "Lailatul Qadar adalah malam istimewa di bulan Ramadhan yang lebih baik dari seribu bulan."
+    },
+    {
+        "index": 34,
+        "soal": "Apa nama kitab suci yang diturunkan kepada Nabi Musa AS?",
+        "pilihan": [
+            "Injil",
+            "Taurat",
+            "Zabur",
+            "Al-Qur'an",
+            "Suhuf"
+        ],
+        "jawaban": "Taurat",
+        "deskripsi": "Taurat adalah kitab suci yang diturunkan Allah kepada Nabi Musa AS sebagai petunjuk bagi Bani Israil."
+    },
+    {
+        "index": 35,
+        "soal": "Berapa jumlah rakaat shalat fardhu dalam sehari semalam?",
+        "pilihan": [
+            "15",
+            "17",
+            "19",
+            "20",
+            "21"
+        ],
+        "jawaban": "17",
+        "deskripsi": "Shalat fardhu terdiri dari lima waktu dengan total 17 rakaat setiap harinya."
+    },
+    {
+        "index": 36,
+        "soal": "Apa nama sumur yang muncul di bawah kaki Nabi Ismail AS saat kehausan di padang pasir?",
+        "pilihan": [
+            "Sumur Nabawi",
+            "Sumur Quba",
+            "Sumur Salsabil",
+            "Sumur Zamzam",
+            "Sumur Hudaibiyah"
+        ],
+        "jawaban": "Sumur Zamzam",
+        "deskripsi": "Sumur Zamzam adalah sumur yang muncul sebagai mukjizat Allah kepada Hajar dan putranya Nabi Ismail AS."
+    },
+    {
+        "index": 37,
+        "soal": "Siapakah khalifah kedua setelah wafatnya Nabi Muhammad SAW?",
+        "pilihan": [
+            "Ali bin Abi Thalib",
+            "Abu Bakar",
+            "Utsman bin Affan",
+            "Umar bin Khattab",
+            "Muawiyah"
+        ],
+        "jawaban": "Umar bin Khattab",
+        "deskripsi": "Umar bin Khattab adalah khalifah kedua dalam Khulafaur Rasyidin yang terkenal dengan keadilan dan keberaniannya."
+    },
+    {
+        "index": 38,
+        "soal": "Apa nama kota tempat Nabi Muhammad SAW hijrah dari Mekkah?",
+        "pilihan": [
+            "Taif",
+            "Yastrib",
+            "Madinah",
+            "Syam",
+            "Yaman"
+        ],
+        "jawaban": "Madinah",
+        "deskripsi": "Nabi Muhammad SAW hijrah dari Mekkah ke Madinah yang dahulu dikenal sebagai Yastrib untuk menyebarkan Islam."
+    },
+    {
+        "index": 39,
+        "soal": "Apa nama perjanjian damai antara kaum Muslimin dan Quraisy yang terjadi sebelum Fathu Mekkah?",
+        "pilihan": [
+            "Perjanjian Aqabah",
+            "Perjanjian Madinah",
+            "Perjanjian Hudaibiyah",
+            "Perjanjian Yamamah",
+            "Perjanjian Tabuk"
+        ],
+        "jawaban": "Perjanjian Hudaibiyah",
+        "deskripsi": "Perjanjian Hudaibiyah adalah perjanjian damai antara kaum Muslimin dan Quraisy yang menjadi titik balik dakwah Islam."
+    },
+    {
+        "index": 40,
+        "soal": "Apa nama malaikat yang bertugas menyampaikan wahyu kepada para nabi?",
+        "pilihan": [
+            "Israfil",
+            "Jibril",
+            "Mikail",
+            "Izrail",
+            "Raqib"
+        ],
+        "jawaban": "Jibril",
+        "deskripsi": "Malaikat Jibril adalah malaikat yang diutus Allah untuk menyampaikan wahyu kepada para nabi, termasuk Nabi Muhammad SAW."
+    },
+    {
+        "index": 41,
+        "soal": "Apa nama bulan dalam kalender Hijriyah yang diwajibkan untuk berpuasa bagi umat Islam?",
+        "pilihan": [
+            "Syawal",
+            "Rajab",
+            "Ramadhan",
+            "Muharram",
+            "Dzulhijjah"
+        ],
+        "jawaban": "Ramadhan",
+        "deskripsi": "Ramadhan adalah bulan suci dalam Islam di mana umat Islam diwajibkan menjalankan ibadah puasa."
+    },
+    {
+        "index": 42,
+        "soal": "Siapakah nabi yang membangun Ka'bah bersama anaknya sebagai rumah ibadah pertama?",
+        "pilihan": [
+            "Nabi Musa",
+            "Nabi Nuh",
+            "Nabi Ibrahim",
+            "Nabi Isa",
+            "Nabi Yusuf"
+        ],
+        "jawaban": "Nabi Ibrahim",
+        "deskripsi": "Nabi Ibrahim AS membangun Ka'bah bersama putranya, Nabi Ismail AS, atas perintah Allah SWT."
+    },
+    {
+        "index": 43,
+        "soal": "Apa nama kitab suci yang diturunkan kepada Nabi Isa AS?",
+        "pilihan": [
+            "Zabur",
+            "Injil",
+            "Taurat",
+            "Al-Qur'an",
+            "Suhuf"
+        ],
+        "jawaban": "Injil",
+        "deskripsi": "Injil adalah kitab suci yang diturunkan kepada Nabi Isa AS, namun telah mengalami banyak perubahan dalam sejarahnya."
+    },
+    {
+        "index": 44,
+        "soal": "Siapakah malaikat yang bertugas meniup sangkakala pada hari kiamat?",
+        "pilihan": [
+            "Izrail",
+            "Mikail",
+            "Jibril",
+            "Israfil",
+            "Raqib"
+        ],
+        "jawaban": "Israfil",
+        "deskripsi": "Malaikat Israfil bertugas meniup sangkakala sebagai tanda dimulainya hari kiamat dan kebangkitan."
+    },
+    {
+        "index": 45,
+        "soal": "Apa nama gunung tempat Nabi Musa menerima wahyu dari Allah?",
+        "pilihan": [
+            "Gunung Uhud",
+            "Gunung Sinai",
+            "Gunung Hira",
+            "Gunung Tursina",
+            "Gunung Arafah"
+        ],
+        "jawaban": "Gunung Sinai",
+        "deskripsi": "Gunung Sinai adalah tempat di mana Nabi Musa AS menerima wahyu dan berbicara langsung dengan Allah SWT."
+    },
+    {
+        "index": 46,
+        "soal": "Berapa jumlah total rukun iman dalam ajaran Islam?",
+        "pilihan": [
+            "Lima",
+            "Enam",
+            "Tujuh",
+            "Delapan",
+            "Sepuluh"
+        ],
+        "jawaban": "Enam",
+        "deskripsi": "Rukun iman berjumlah enam yaitu: iman kepada Allah, malaikat, kitab, rasul, hari akhir, dan takdir baik buruk."
+    },
+    {
+        "index": 47,
+        "soal": "Apa nama perang pertama yang diikuti Nabi Muhammad SAW melawan kaum Quraisy?",
+        "pilihan": [
+            "Perang Badar",
+            "Perang Uhud",
+            "Perang Khandaq",
+            "Perang Hunain",
+            "Perang Tabuk"
+        ],
+        "jawaban": "Perang Badar",
+        "deskripsi": "Perang Badar adalah pertempuran pertama umat Islam melawan Quraisy yang terjadi pada tahun kedua Hijriyah."
+    },
+    {
+        "index": 48,
+        "soal": "Apa sebutan bagi umat Islam yang berhaji ke Mekah dan menunaikan seluruh rangkaian ibadahnya?",
+        "pilihan": [
+            "Muallaf",
+            "Hafiz",
+            "Haji",
+            "Imam",
+            "Syaikh"
+        ],
+        "jawaban": "Haji",
+        "deskripsi": "Haji adalah gelar bagi umat Islam yang telah menunaikan ibadah haji ke Tanah Suci sesuai rukun Islam kelima."
+    },
+    {
+        "index": 49,
+        "soal": "Apa arti dari kata 'Islam' secara harfiah dalam bahasa Arab?",
+        "pilihan": [
+            "Perang",
+            "Kemenangan",
+            "Ketaatan",
+            "Kedamaian",
+            "Kebenaran"
+        ],
+        "jawaban": "Kedamaian",
+        "deskripsi": "Islam berasal dari kata 'salaam' yang berarti damai. Islam mengajarkan penyerahan diri kepada Allah dan hidup damai."
+    },
+    {
+        "index": 50,
+        "soal": "Siapa sahabat Nabi yang dijuluki 'Pedang Allah' karena keberaniannya di medan perang?",
+        "pilihan": [
+            "Khalid bin Walid",
+            "Ali bin Abi Thalib",
+            "Hamzah bin Abdul Muthalib",
+            "Abdurrahman bin Auf",
+            "Zubair bin Awwam"
+        ],
+        "jawaban": "Khalid bin Walid",
+        "deskripsi": "Khalid bin Walid adalah panglima perang Islam yang mendapat julukan 'Pedang Allah' karena strategi dan keberaniannya."
+    },
+    {
+        "index": 51,
+        "soal": "Siapakah nabi yang selamat dari banjir besar dengan membuat sebuah kapal atas perintah Allah?",
+        "pilihan": [
+            "Nabi Musa",
+            "Nabi Nuh",
+            "Nabi Ibrahim",
+            "Nabi Sulaiman",
+            "Nabi Isa"
+        ],
+        "jawaban": "Nabi Nuh",
+        "deskripsi": "Nabi Nuh AS adalah nabi yang diperintahkan oleh Allah untuk membuat kapal dan menyelamatkan umatnya dari banjir besar."
+    },
+    {
+        "index": 52,
+        "soal": "Surah apakah yang pertama kali diturunkan kepada Nabi Muhammad SAW?",
+        "pilihan": [
+            "Al-Fatihah",
+            "Al-Ikhlas",
+            "Al-Baqarah",
+            "Al-Alaq",
+            "An-Nas"
+        ],
+        "jawaban": "Al-Alaq",
+        "deskripsi": "Surah Al-Alaq ayat 1–5 adalah wahyu pertama yang diturunkan kepada Nabi Muhammad SAW di Gua Hira."
+    },
+    {
+        "index": 53,
+        "soal": "Apa nama shalat sunah yang dikerjakan di sepertiga malam terakhir dan sangat dianjurkan?",
+        "pilihan": [
+            "Shalat Dhuha",
+            "Shalat Rawatib",
+            "Shalat Witir",
+            "Shalat Tahajud",
+            "Shalat Tarawih"
+        ],
+        "jawaban": "Shalat Tahajud",
+        "deskripsi": "Shalat Tahajud adalah shalat sunah yang dikerjakan di malam hari setelah tidur dan memiliki banyak keutamaan."
+    },
+    {
+        "index": 54,
+        "soal": "Apa nama sahabat Nabi Muhammad SAW yang dijuluki penulis wahyu?",
+        "pilihan": [
+            "Abdullah bin Mas’ud",
+            "Zaid bin Tsabit",
+            "Bilal bin Rabah",
+            "Umar bin Khattab",
+            "Usamah bin Zaid"
+        ],
+        "jawaban": "Zaid bin Tsabit",
+        "deskripsi": "Zaid bin Tsabit adalah sahabat yang dipercaya oleh Nabi Muhammad SAW untuk menulis wahyu yang diturunkan."
+    },
+    {
+        "index": 55,
+        "soal": "Apa nama tempat yang menjadi kiblat pertama umat Islam sebelum Ka'bah?",
+        "pilihan": [
+            "Ka’bah",
+            "Masjid Quba",
+            "Masjidil Haram",
+            "Masjidil Aqsa",
+            "Madinah"
+        ],
+        "jawaban": "Masjidil Aqsa",
+        "deskripsi": "Masjidil Aqsa di Palestina adalah kiblat pertama umat Islam sebelum Allah memerintahkan menghadap Ka'bah."
+    },
+    {
+        "index": 56,
+        "soal": "Apa nama anak Nabi Muhammad SAW yang lahir dari Khadijah dan menjadi istri Ali bin Abi Thalib?",
+        "pilihan": [
+            "Ruqayyah",
+            "Zainab",
+            "Fatimah",
+            "Ummu Kultsum",
+            "Aisyah"
+        ],
+        "jawaban": "Fatimah",
+        "deskripsi": "Fatimah Az-Zahra adalah putri bungsu Nabi Muhammad SAW dan istri dari Ali bin Abi Thalib."
+    },
+    {
+        "index": 57,
+        "soal": "Apa hukum puasa Ramadhan bagi umat Islam yang sudah baligh dan berakal sehat?",
+        "pilihan": [
+            "Sunah",
+            "Makruh",
+            "Wajib",
+            "Mubah",
+            "Haram"
+        ],
+        "jawaban": "Wajib",
+        "deskripsi": "Puasa di bulan Ramadhan hukumnya wajib bagi setiap Muslim yang sudah baligh, berakal, dan mampu melaksanakannya."
+    },
+    {
+        "index": 58,
+        "soal": "Apa nama nabi yang ditelan ikan besar namun kemudian diselamatkan oleh Allah?",
+        "pilihan": [
+            "Nabi Idris",
+            "Nabi Yunus",
+            "Nabi Ayub",
+            "Nabi Luth",
+            "Nabi Isa"
+        ],
+        "jawaban": "Nabi Yunus",
+        "deskripsi": "Nabi Yunus AS pernah ditelan oleh ikan besar dan berdoa dalam perutnya hingga Allah menyelamatkannya."
+    },
+    {
+        "index": 59,
+        "soal": "Apa nama kota kelahiran Nabi Muhammad SAW?",
+        "pilihan": [
+            "Madinah",
+            "Thaif",
+            "Jerusalem",
+            "Mekkah",
+            "Syam"
+        ],
+        "jawaban": "Mekkah",
+        "deskripsi": "Nabi Muhammad SAW lahir di kota Mekkah pada tahun Gajah dan berasal dari suku Quraisy."
+    },
+    {
+        "index": 60,
+        "soal": "Apa arti dari istilah 'Iman' dalam Islam?",
+        "pilihan": [
+            "Kebajikan",
+            "Ketaatan",
+            "Percaya",
+            "Kejujuran",
+            "Keseimbangan"
+        ],
+        "jawaban": "Percaya",
+        "deskripsi": "Iman secara harfiah berarti percaya, yaitu keyakinan yang teguh dalam hati terhadap Allah dan rukun iman lainnya."
+    },
+    {
+        "index": 61,
+        "soal": "Apa nama istri Nabi Ibrahim AS yang melahirkan Nabi Ismail AS?",
+        "pilihan": [
+            "Sarah",
+            "Khadijah",
+            "Hajar",
+            "Maryam",
+            "Asiyah"
+        ],
+        "jawaban": "Hajar",
+        "deskripsi": "Hajar adalah istri Nabi Ibrahim AS dan ibu dari Nabi Ismail AS. Dari perjuangannya muncul air Zamzam di Mekkah."
+    },
+    {
+        "index": 62,
+        "soal": "Apa nama peristiwa ketika Nabi Muhammad SAW melakukan perjalanan dari Masjidil Haram ke Masjidil Aqsa?",
+        "pilihan": [
+            "Hijrah",
+            "Isra",
+            "Mikraj",
+            "Fathu Mekkah",
+            "Hijrah kedua"
+        ],
+        "jawaban": "Isra",
+        "deskripsi": "Isra adalah perjalanan malam Nabi Muhammad SAW dari Masjidil Haram ke Masjidil Aqsa sebelum Mikraj ke langit."
+    },
+    {
+        "index": 63,
+        "soal": "Siapakah sahabat Nabi yang dikenal sangat ahli dalam ilmu hadis dan meriwayatkan ribuan hadis?",
+        "pilihan": [
+            "Abu Hurairah",
+            "Umar bin Khattab",
+            "Ali bin Abi Thalib",
+            "Zaid bin Haritsah",
+            "Usman bin Affan"
+        ],
+        "jawaban": "Abu Hurairah",
+        "deskripsi": "Abu Hurairah RA adalah sahabat Nabi yang paling banyak meriwayatkan hadis berkat kedekatannya dengan Rasulullah SAW."
+    },
+    {
+        "index": 64,
+        "soal": "Apa sebutan bagi umat Islam yang baru memeluk agama Islam?",
+        "pilihan": [
+            "Musafir",
+            "Muallaf",
+            "Mukim",
+            "Mujahid",
+            "Muhajirin"
+        ],
+        "jawaban": "Muallaf",
+        "deskripsi": "Muallaf adalah orang yang baru masuk Islam dan termasuk salah satu golongan penerima zakat."
+    },
+    {
+        "index": 65,
+        "soal": "Berapa jumlah total nabi yang wajib diketahui oleh umat Islam?",
+        "pilihan": [
+            "10",
+            "20",
+            "25",
+            "30",
+            "50"
+        ],
+        "jawaban": "25",
+        "deskripsi": "Umat Islam diwajibkan mengetahui 25 nama nabi dan rasul yang disebutkan dalam Al-Qur'an."
+    },
+    {
+        "index": 66,
+        "soal": "Apa nama surah terakhir dalam susunan mushaf Al-Qur'an?",
+        "pilihan": [
+            "An-Nas",
+            "Al-Falaq",
+            "Al-Ikhlas",
+            "Al-Kafirun",
+            "At-Takatsur"
+        ],
+        "jawaban": "An-Nas",
+        "deskripsi": "Surah An-Nas adalah surah ke-114 dan terakhir dalam Al-Qur'an yang berisi permohonan perlindungan kepada Allah."
+    },
+    {
+        "index": 67,
+        "soal": "Siapa nama sahabat yang menggantikan posisi tidur Nabi Muhammad SAW saat peristiwa hijrah?",
+        "pilihan": [
+            "Abu Bakar",
+            "Ali bin Abi Thalib",
+            "Umar bin Khattab",
+            "Bilal bin Rabah",
+            "Zubair bin Awwam"
+        ],
+        "jawaban": "Ali bin Abi Thalib",
+        "deskripsi": "Ali bin Abi Thalib menggantikan posisi tidur Nabi Muhammad SAW untuk mengecoh musuh saat peristiwa hijrah ke Madinah."
+    },
+    {
+        "index": 68,
+        "soal": "Apa nama lembah tempat kaum Nabi Luth yang diazab karena perbuatan mereka yang menyimpang?",
+        "pilihan": [
+            "Lembah Badr",
+            "Lembah Uhud",
+            "Lembah Sodom",
+            "Lembah Mina",
+            "Lembah Hudaibiyah"
+        ],
+        "jawaban": "Lembah Sodom",
+        "deskripsi": "Kaum Nabi Luth dihancurkan di Lembah Sodom karena menyimpang dari ajaran Allah dan melakukan perbuatan keji."
+    },
+    {
+        "index": 69,
+        "soal": "Apa sebutan bagi orang yang menghafal Al-Qur’an seluruhnya?",
+        "pilihan": [
+            "Imam",
+            "Ustaz",
+            "Hafiz",
+            "Qari",
+            "Muallim"
+        ],
+        "jawaban": "Hafiz",
+        "deskripsi": "Hafiz adalah sebutan untuk orang yang menghafal seluruh isi Al-Qur’an dari awal hingga akhir."
+    },
+    {
+        "index": 70,
+        "soal": "Apa nama hewan yang menjadi kendaraan Nabi Muhammad SAW saat Mikraj ke langit?",
+        "pilihan": [
+            "Unicorn",
+            "Buraq",
+            "Unta",
+            "Kuda",
+            "Burung Hud-hud"
+        ],
+        "jawaban": "Buraq",
+        "deskripsi": "Buraq adalah makhluk yang menjadi kendaraan Nabi Muhammad SAW dalam perjalanan Mikraj dari bumi ke langit."
+    },
+    {
+        "index": 71,
+        "soal": "Apa nama pasar yang dibangun oleh Nabi Muhammad SAW untuk memajukan ekonomi umat Islam di Madinah?",
+        "pilihan": [
+            "Pasar Quba",
+            "Pasar Hijrah",
+            "Pasar Nabi",
+            "Pasar Madinah",
+            "Pasar Islam"
+        ],
+        "jawaban": "Pasar Nabi",
+        "deskripsi": "Pasar Nabi adalah pasar yang didirikan oleh Nabi Muhammad SAW sebagai pusat ekonomi yang adil dan bebas riba di Madinah."
+    },
+    {
+        "index": 72,
+        "soal": "Apa nama sahabat yang terkenal karena kepandaiannya menulis dan mengumpulkan Al-Qur’an menjadi satu mushaf?",
+        "pilihan": [
+            "Zaid bin Tsabit",
+            "Abu Hurairah",
+            "Umar bin Khattab",
+            "Ali bin Abi Thalib",
+            "Usman bin Affan"
+        ],
+        "jawaban": "Zaid bin Tsabit",
+        "deskripsi": "Zaid bin Tsabit ditunjuk oleh Abu Bakar dan kemudian Usman bin Affan untuk menulis dan menyusun mushaf Al-Qur’an."
+    },
+    {
+        "index": 73,
+        "soal": "Siapa khalifah yang memerintahkan pengumpulan dan penyeragaman mushaf Al-Qur’an?",
+        "pilihan": [
+            "Abu Bakar",
+            "Umar bin Khattab",
+            "Ali bin Abi Thalib",
+            "Usman bin Affan",
+            "Muawiyah"
+        ],
+        "jawaban": "Usman bin Affan",
+        "deskripsi": "Usman bin Affan RA adalah khalifah ketiga yang memerintahkan penyeragaman mushaf Al-Qur’an untuk mencegah perbedaan bacaan."
+    },
+    {
+        "index": 74,
+        "soal": "Apa nama peperangan yang terjadi ketika umat Islam menggali parit untuk mempertahankan kota Madinah?",
+        "pilihan": [
+            "Perang Badar",
+            "Perang Uhud",
+            "Perang Hunain",
+            "Perang Khandaq",
+            "Perang Tabuk"
+        ],
+        "jawaban": "Perang Khandaq",
+        "deskripsi": "Perang Khandaq disebut juga Perang Parit karena strategi menggali parit untuk mempertahankan Madinah dari serangan Quraisy."
+    },
+    {
+        "index": 75,
+        "soal": "Apa nama sahabat yang menjadi muazin utama Nabi Muhammad SAW?",
+        "pilihan": [
+            "Zaid bin Haritsah",
+            "Bilal bin Rabah",
+            "Abu Hurairah",
+            "Salman Al-Farisi",
+            "Amr bin Ash"
+        ],
+        "jawaban": "Bilal bin Rabah",
+        "deskripsi": "Bilal bin Rabah adalah muazin pertama dalam sejarah Islam dan sangat dicintai Nabi Muhammad SAW karena keimanannya."
+    },
+    {
+        "index": 76,
+        "soal": "Apa nama doa pendek yang sering dibaca sebelum membaca Al-Qur'an untuk memohon perlindungan dari godaan setan?",
+        "pilihan": [
+            "Bismillah",
+            "Alhamdulillah",
+            "Astagfirullah",
+            "Ta’awwudz",
+            "Tasbih"
+        ],
+        "jawaban": "Ta’awwudz",
+        "deskripsi": "Ta’awwudz dibaca sebelum membaca Al-Qur’an dengan lafaz 'A’udzu billahi minasy-syaithanir-rajim' untuk memohon perlindungan dari setan."
+    },
+    {
+        "index": 77,
+        "soal": "Apa nama kitab suci yang diturunkan kepada Nabi Daud AS?",
+        "pilihan": [
+            "Taurat",
+            "Injil",
+            "Zabur",
+            "Suhuf",
+            "Al-Qur'an"
+        ],
+        "jawaban": "Zabur",
+        "deskripsi": "Zabur adalah kitab yang diturunkan kepada Nabi Daud AS yang berisi pujian dan doa-doa kepada Allah."
+    },
+    {
+        "index": 78,
+        "soal": "Berapa jumlah golongan yang berhak menerima zakat menurut Al-Qur'an?",
+        "pilihan": [
+            "5",
+            "6",
+            "7",
+            "8",
+            "10"
+        ],
+        "jawaban": "8",
+        "deskripsi": "Ada 8 golongan yang berhak menerima zakat sebagaimana disebutkan dalam Surah At-Taubah ayat 60."
+    },
+    {
+        "index": 79,
+        "soal": "Apa nama anak Nabi Nuh AS yang menolak mengikuti ayahnya dan tenggelam dalam banjir?",
+        "pilihan": [
+            "Yusuf",
+            "Kan’an",
+            "Ismail",
+            "Ishaq",
+            "Harun"
+        ],
+        "jawaban": "Kan’an",
+        "deskripsi": "Kan’an adalah anak Nabi Nuh AS yang menolak mengikuti seruan ayahnya dan termasuk orang yang tenggelam dalam banjir besar."
+    },
+    {
+        "index": 80,
+        "soal": "Apa nama doa penutup majelis yang sering dibaca untuk memohon ampunan di akhir pertemuan?",
+        "pilihan": [
+            "Doa Qunut",
+            "Istighfar",
+            "Doa Khatmil Qur’an",
+            "Doa Kafaratul Majelis",
+            "Basmalah"
+        ],
+        "jawaban": "Doa Kafaratul Majelis",
+        "deskripsi": "Doa Kafaratul Majelis dibaca di akhir pertemuan agar Allah mengampuni kesalahan dalam majelis tersebut."
+    },
+    {
+        "index": 81,
+        "soal": "Apa nama perjanjian penting yang terjadi antara Nabi Muhammad SAW dan penduduk Madinah untuk hidup berdampingan secara damai?",
+        "pilihan": [
+            "Perjanjian Hudaibiyah",
+            "Piagam Madinah",
+            "Perjanjian Aqabah",
+            "Perjanjian Tabuk",
+            "Perjanjian Yamamah"
+        ],
+        "jawaban": "Piagam Madinah",
+        "deskripsi": "Piagam Madinah adalah kesepakatan antara kaum Muslimin dan berbagai suku di Madinah untuk hidup damai dan saling melindungi."
+    },
+    {
+        "index": 82,
+        "soal": "Apa hukum shalat lima waktu bagi setiap Muslim yang baligh dan berakal?",
+        "pilihan": [
+            "Sunah",
+            "Mubah",
+            "Makruh",
+            "Wajib",
+            "Haram"
+        ],
+        "jawaban": "Wajib",
+        "deskripsi": "Shalat lima waktu adalah kewajiban utama dalam Islam dan menjadi rukun Islam kedua setelah syahadat."
+    },
+    {
+        "index": 83,
+        "soal": "Surah manakah yang disebut memiliki keutamaan dapat melindungi dari siksa kubur?",
+        "pilihan": [
+            "Al-Waqi’ah",
+            "Yasin",
+            "Al-Mulk",
+            "Al-Falaq",
+            "An-Nas"
+        ],
+        "jawaban": "Al-Mulk",
+        "deskripsi": "Surah Al-Mulk dikenal memiliki keutamaan melindungi pembacanya dari azab kubur jika dibaca secara rutin setiap malam."
+    },
+    {
+        "index": 84,
+        "soal": "Apa nama bulan Islam yang di dalamnya terjadi peristiwa hijrah Nabi Muhammad SAW ke Madinah?",
+        "pilihan": [
+            "Ramadhan",
+            "Dzulhijjah",
+            "Syawal",
+            "Rabiul Awal",
+            "Muharram"
+        ],
+        "jawaban": "Rabiul Awal",
+        "deskripsi": "Hijrah Nabi Muhammad SAW ke Madinah terjadi pada bulan Rabiul Awal, bulan yang juga menjadi bulan kelahiran beliau."
+    },
+    {
+        "index": 85,
+        "soal": "Siapakah istri Nabi Muhammad SAW yang terkenal karena kecerdasannya dan meriwayatkan banyak hadis?",
+        "pilihan": [
+            "Khadijah",
+            "Hafshah",
+            "Zainab",
+            "Aisyah",
+            "Ummu Salamah"
+        ],
+        "jawaban": "Aisyah",
+        "deskripsi": "Aisyah binti Abu Bakar dikenal sebagai istri Rasulullah SAW yang sangat cerdas dan banyak meriwayatkan hadis."
+    },
+    {
+        "index": 86,
+        "soal": "Apa nama nama tempat suci ketiga dalam Islam setelah Masjidil Haram dan Masjid Nabawi?",
+        "pilihan": [
+            "Masjid Quba",
+            "Masjidil Aqsa",
+            "Masjid Qiblatain",
+            "Masjid Taqwa",
+            "Masjid Hud"
+        ],
+        "jawaban": "Masjidil Aqsa",
+        "deskripsi": "Masjidil Aqsa di Palestina adalah tempat suci ketiga bagi umat Islam dan merupakan kiblat pertama dalam Islam."
+    },
+    {
+        "index": 87,
+        "soal": "Siapa nama raja yang menerima dakwah Nabi Ibrahim dan berdebat tentang kekuasaan Allah?",
+        "pilihan": [
+            "Fir’aun",
+            "Namrud",
+            "Qarun",
+            "Haman",
+            "Abrahah"
+        ],
+        "jawaban": "Namrud",
+        "deskripsi": "Namrud adalah raja zalim yang menolak ajakan Nabi Ibrahim AS dan berdebat tentang kekuasaan Allah SWT."
+    },
+    {
+        "index": 88,
+        "soal": "Apa nama istri Fir’aun yang tetap beriman kepada Allah meskipun suaminya kafir?",
+        "pilihan": [
+            "Maryam",
+            "Hajar",
+            "Asiyah",
+            "Zulaikha",
+            "Balqis"
+        ],
+        "jawaban": "Asiyah",
+        "deskripsi": "Asiyah binti Muzahim adalah istri Fir’aun yang tetap beriman kepada Allah dan menjadi salah satu wanita penghuni surga."
+    },
+    {
+        "index": 89,
+        "soal": "Apa nama senjata yang disebutkan dalam Al-Qur’an saat Nabi Daud mengalahkan Jalut?",
+        "pilihan": [
+            "Tombak",
+            "Pedang",
+            "Ketapel",
+            "Panah",
+            "Tali"
+        ],
+        "jawaban": "Ketapel",
+        "deskripsi": "Nabi Daud AS mengalahkan Jalut dengan izin Allah menggunakan ketapel, menunjukkan bahwa kekuatan bukan segalanya."
+    },
+    {
+        "index": 90,
+        "soal": "Apa sebutan bagi kalimat 'Laa ilaaha illallah Muhammadur rasulullah' dalam Islam?",
+        "pilihan": [
+            "Syahadat",
+            "Tasbih",
+            "Takbir",
+            "Tahmid",
+            "Istighfar"
+        ],
+        "jawaban": "Syahadat",
+        "deskripsi": "Syahadat adalah dua kalimat yang menjadi pintu masuk Islam dan merupakan rukun Islam pertama."
+    },
+    {
+        "index": 91,
+        "soal": "Apa nama hewan yang berbicara kepada Nabi Sulaiman dan memberi informasi tentang kerajaan Saba’?",
+        "pilihan": [
+            "Unta",
+            "Burung Hud-hud",
+            "Kuda",
+            "Semut",
+            "Elang"
+        ],
+        "jawaban": "Burung Hud-hud",
+        "deskripsi": "Burung Hud-hud adalah hewan yang berbicara kepada Nabi Sulaiman dan memberi kabar tentang Ratu Balqis dari negeri Saba'."
+    },
+    {
+        "index": 92,
+        "soal": "Surah manakah yang paling pendek dalam Al-Qur’an dan terdiri dari tiga ayat?",
+        "pilihan": [
+            "Al-Ikhlas",
+            "Al-Asr",
+            "Al-Falaq",
+            "Al-Kawtsar",
+            "An-Nas"
+        ],
+        "jawaban": "Al-Kawtsar",
+        "deskripsi": "Surah Al-Kawtsar adalah surah terpendek dalam Al-Qur’an yang terdiri dari tiga ayat dan diturunkan di Mekkah."
+    },
+    {
+        "index": 93,
+        "soal": "Apa nama kota tempat Nabi Muhammad SAW hijrah dan memimpin masyarakat Islam pertama?",
+        "pilihan": [
+            "Mekkah",
+            "Madinah",
+            "Taif",
+            "Jerusalem",
+            "Yamamah"
+        ],
+        "jawaban": "Madinah",
+        "deskripsi": "Nabi Muhammad SAW hijrah ke Madinah dan membangun masyarakat Islam pertama yang berlandaskan persaudaraan dan keadilan."
+    },
+    {
+        "index": 94,
+        "soal": "Apa nama peristiwa ketika Nabi Muhammad SAW menerima wahyu pertama dari Allah?",
+        "pilihan": [
+            "Isra Mikraj",
+            "Hijrah",
+            "Nuzulul Quran",
+            "Perang Badar",
+            "Fathu Mekkah"
+        ],
+        "jawaban": "Nuzulul Quran",
+        "deskripsi": "Nuzulul Quran adalah peristiwa turunnya wahyu pertama kepada Nabi Muhammad SAW melalui malaikat Jibril di Gua Hira."
+    },
+    {
+        "index": 95,
+        "soal": "Apa nama suku di Madinah yang pertama kali membantu Nabi Muhammad SAW setelah hijrah?",
+        "pilihan": [
+            "Quraisy",
+            "Aus",
+            "Khazraj",
+            "Bani Nadhir",
+            "Bani Quraizhah"
+        ],
+        "jawaban": "Khazraj",
+        "deskripsi": "Suku Khazraj adalah salah satu dari dua suku besar Madinah yang menjadi pendukung awal Nabi Muhammad SAW bersama Aus."
+    },
+    {
+        "index": 96,
+        "soal": "Siapa nama anak angkat Nabi Muhammad SAW yang juga menjadi panglima perang Islam?",
+        "pilihan": [
+            "Ali bin Abi Thalib",
+            "Zaid bin Haritsah",
+            "Usamah bin Zaid",
+            "Abdullah bin Abbas",
+            "Zubair bin Awwam"
+        ],
+        "jawaban": "Zaid bin Haritsah",
+        "deskripsi": "Zaid bin Haritsah adalah anak angkat Nabi Muhammad SAW yang sangat dicintai dan dikenal karena kesetiaannya."
+    },
+    {
+        "index": 97,
+        "soal": "Apa nama air suci yang muncul dari kaki Nabi Ismail AS di dekat Ka’bah?",
+        "pilihan": [
+            "Air Rahmat",
+            "Air Berkah",
+            "Air Zamzam",
+            "Air Surga",
+            "Air Huda"
+        ],
+        "jawaban": "Air Zamzam",
+        "deskripsi": "Air Zamzam muncul dari tanah saat Hajar mencari air untuk Nabi Ismail AS dan terus mengalir hingga hari ini di Mekkah."
+    },
+    {
+        "index": 98,
+        "soal": "Apa nama lembah tempat Nabi Muhammad SAW menerima wahyu pertama dari malaikat Jibril?",
+        "pilihan": [
+            "Lembah Hira",
+            "Lembah Uhud",
+            "Lembah Arafah",
+            "Lembah Mina",
+            "Lembah Badar"
+        ],
+        "jawaban": "Lembah Hira",
+        "deskripsi": "Nabi Muhammad SAW menerima wahyu pertama di Gua Hira yang terletak di sebuah lembah dekat Mekkah."
+    },
+    {
+        "index": 99,
+        "soal": "Apa nama kelompok yang pertama kali beriman kepada Nabi Muhammad SAW dari kalangan anak-anak?",
+        "pilihan": [
+            "Ali bin Abi Thalib",
+            "Abu Bakar",
+            "Umar bin Khattab",
+            "Usman bin Affan",
+            "Bilal bin Rabah"
+        ],
+        "jawaban": "Ali bin Abi Thalib",
+        "deskripsi": "Ali bin Abi Thalib adalah anak pertama yang memeluk Islam dan termasuk orang terdekat Nabi Muhammad SAW."
+    },
+    {
+        "index": 100,
+        "soal": "Apa nama perjanjian damai yang ditandatangani antara kaum Muslim dan Quraisy sebelum Fathu Mekkah?",
+        "pilihan": [
+            "Perjanjian Aqabah",
+            "Perjanjian Yamamah",
+            "Piagam Madinah",
+            "Perjanjian Hudaibiyah",
+            "Perjanjian Najran"
+        ],
+        "jawaban": "Perjanjian Hudaibiyah",
+        "deskripsi": "Perjanjian Hudaibiyah adalah perjanjian damai antara Nabi Muhammad SAW dan Quraisy yang menjadi titik awal kemenangan Islam."
+    },
+    {
+        "index": 101,
+        "soal": "Apa nama sahabat Nabi yang terkenal dengan kekuatan fisik luar biasa dan gugur di Perang Mu’tah?",
+        "pilihan": [
+            "Khalid bin Walid",
+            "Zaid bin Haritsah",
+            "Ja’far bin Abi Thalib",
+            "Hamzah bin Abdul Muthalib",
+            "Sa’ad bin Abi Waqqash"
+        ],
+        "jawaban": "Ja’far bin Abi Thalib",
+        "deskripsi": "Ja’far bin Abi Thalib gugur sebagai syuhada di Perang Mu’tah dan dikenal karena keberaniannya membawa panji Islam."
+    },
+    {
+        "index": 102,
+        "soal": "Apa nama perang pertama yang dipimpin langsung oleh Nabi Muhammad SAW melawan Quraisy?",
+        "pilihan": [
+            "Perang Uhud",
+            "Perang Tabuk",
+            "Perang Hunain",
+            "Perang Badar",
+            "Perang Khandaq"
+        ],
+        "jawaban": "Perang Badar",
+        "deskripsi": "Perang Badar adalah perang besar pertama dalam Islam yang terjadi pada tahun ke-2 Hijriah dan dimenangkan oleh kaum Muslim."
+    },
+    {
+        "index": 103,
+        "soal": "Apa nama ayah Nabi Ibrahim AS yang merupakan penyembah berhala?",
+        "pilihan": [
+            "Luth",
+            "Terah",
+            "Azar",
+            "Imran",
+            "Harun"
+        ],
+        "jawaban": "Azar",
+        "deskripsi": "Azar adalah ayah dari Nabi Ibrahim AS yang dikenal sebagai pembuat patung dan penyembah berhala di negerinya."
+    },
+    {
+        "index": 104,
+        "soal": "Siapakah khalifah keempat dalam Khulafaur Rasyidin yang juga sepupu dan menantu Nabi Muhammad SAW?",
+        "pilihan": [
+            "Abu Bakar",
+            "Umar bin Khattab",
+            "Usman bin Affan",
+            "Ali bin Abi Thalib",
+            "Muawiyah bin Abu Sufyan"
+        ],
+        "jawaban": "Ali bin Abi Thalib",
+        "deskripsi": "Ali bin Abi Thalib adalah khalifah keempat dan terakhir dalam Khulafaur Rasyidin serta merupakan menantu Nabi."
+    },
+    {
+        "index": 105,
+        "soal": "Apa sebutan untuk golongan yang berhijrah bersama Nabi ke Madinah dan berasal dari Mekkah?",
+        "pilihan": [
+            "Ansar",
+            "Muhajirin",
+            "Syuhada",
+            "Khazraj",
+            "Quraisy"
+        ],
+        "jawaban": "Muhajirin",
+        "deskripsi": "Muhajirin adalah sebutan bagi kaum Muslim yang hijrah dari Mekkah ke Madinah demi mempertahankan iman mereka."
+    },
+    {
+        "index": 106,
+        "soal": "Surah manakah dalam Al-Qur'an yang menyebut secara eksplisit nama Maryam sebagai judulnya?",
+        "pilihan": [
+            "Ali-Imran",
+            "An-Nisa",
+            "Al-Maidah",
+            "Maryam",
+            "Al-Ahzab"
+        ],
+        "jawaban": "Maryam",
+        "deskripsi": "Surah Maryam adalah satu-satunya surah dalam Al-Qur'an yang diberi nama berdasarkan nama seorang wanita."
+    },
+    {
+        "index": 107,
+        "soal": "Apa nama sahabat yang dijuluki 'Pedang Allah' karena keberaniannya dalam medan perang?",
+        "pilihan": [
+            "Hamzah bin Abdul Muthalib",
+            "Khalid bin Walid",
+            "Abdurrahman bin Auf",
+            "Zubair bin Awwam",
+            "Talhah bin Ubaidillah"
+        ],
+        "jawaban": "Khalid bin Walid",
+        "deskripsi": "Khalid bin Walid dijuluki 'Pedang Allah' karena keberaniannya dalam banyak pertempuran penting dalam sejarah Islam."
+    },
+    {
+        "index": 108,
+        "soal": "Apa nama surah yang membahas tentang larangan mengumpat dan mencela orang lain?",
+        "pilihan": [
+            "Al-Hujurat",
+            "Al-Falaq",
+            "Al-Ma’un",
+            "Al-Humazah",
+            "Al-Ashr"
+        ],
+        "jawaban": "Al-Humazah",
+        "deskripsi": "Surah Al-Humazah memperingatkan tentang bahaya mengumpat dan mencela, serta menggambarkan akibatnya di akhirat."
+    },
+    {
+        "index": 109,
+        "soal": "Apa nama Nabi yang diberikan mujizat menyembuhkan orang sakit dan menghidupkan orang mati?",
+        "pilihan": [
+            "Nabi Musa",
+            "Nabi Isa",
+            "Nabi Sulaiman",
+            "Nabi Ibrahim",
+            "Nabi Yusuf"
+        ],
+        "jawaban": "Nabi Isa",
+        "deskripsi": "Nabi Isa AS diberikan banyak mukjizat oleh Allah, termasuk menyembuhkan orang buta dan menghidupkan orang mati."
+    },
+    {
+        "index": 110,
+        "soal": "Apa nama gunung tempat Nabi Muhammad SAW menerima wahyu pertama?",
+        "pilihan": [
+            "Gunung Uhud",
+            "Gunung Tursina",
+            "Gunung Marwah",
+            "Gunung Hira",
+            "Gunung Arafah"
+        ],
+        "jawaban": "Gunung Hira",
+        "deskripsi": "Gunung Hira adalah tempat Nabi Muhammad SAW menyepi dan menerima wahyu pertama melalui Malaikat Jibril."
+    },
+    {
+        "index": 111,
+        "soal": "Apa nama malam yang lebih baik dari seribu bulan dan terjadi pada sepuluh malam terakhir Ramadhan?",
+        "pilihan": [
+            "Nuzulul Quran",
+            "Lailatul Qadar",
+            "Isra Mikraj",
+            "Malam Nisfu Syaban",
+            "Malam Jumat"
+        ],
+        "jawaban": "Lailatul Qadar",
+        "deskripsi": "Lailatul Qadar adalah malam yang sangat mulia dan lebih baik dari seribu bulan, saat diturunkannya Al-Qur’an."
+    },
+    {
+        "index": 112,
+        "soal": "Apa nama kota yang menjadi tempat kelahiran Nabi Muhammad SAW?",
+        "pilihan": [
+            "Madinah",
+            "Taif",
+            "Yerusalem",
+            "Mekkah",
+            "Yaman"
+        ],
+        "jawaban": "Mekkah",
+        "deskripsi": "Nabi Muhammad SAW lahir di kota Mekkah pada tahun Gajah, kota suci pertama umat Islam."
+    },
+    {
+        "index": 113,
+        "soal": "Siapa nabi yang dikenal dengan gelar 'Kalimullah' karena berbicara langsung dengan Allah?",
+        "pilihan": [
+            "Nabi Isa",
+            "Nabi Ibrahim",
+            "Nabi Musa",
+            "Nabi Nuh",
+            "Nabi Yusuf"
+        ],
+        "jawaban": "Nabi Musa",
+        "deskripsi": "Nabi Musa AS diberi gelar 'Kalimullah' karena mendapat keistimewaan berbicara langsung dengan Allah SWT di Bukit Tursina."
+    },
+    {
+        "index": 114,
+        "soal": "Surah apakah yang pertama kali diturunkan dalam Al-Qur'an?",
+        "pilihan": [
+            "Al-Fatihah",
+            "Al-Baqarah",
+            "Al-Ikhlas",
+            "Al-Alaq",
+            "An-Naba"
+        ],
+        "jawaban": "Al-Alaq",
+        "deskripsi": "Surah Al-Alaq ayat 1–5 adalah wahyu pertama yang diturunkan kepada Nabi Muhammad SAW melalui malaikat Jibril."
+    },
+    {
+        "index": 115,
+        "soal": "Apa nama masjid yang pertama kali dibangun oleh Nabi Muhammad SAW ketika tiba di Madinah?",
+        "pilihan": [
+            "Masjid Nabawi",
+            "Masjid Quba",
+            "Masjidil Aqsa",
+            "Masjidil Haram",
+            "Masjid Jiranah"
+        ],
+        "jawaban": "Masjid Quba",
+        "deskripsi": "Masjid Quba adalah masjid pertama yang dibangun oleh Nabi Muhammad SAW dalam perjalanan hijrah ke Madinah."
+    },
+    {
+        "index": 116,
+        "soal": "Siapa yang menemani Nabi Muhammad SAW dalam perjalanan hijrah dari Mekkah ke Madinah?",
+        "pilihan": [
+            "Ali bin Abi Thalib",
+            "Zaid bin Haritsah",
+            "Umar bin Khattab",
+            "Abu Bakar",
+            "Usman bin Affan"
+        ],
+        "jawaban": "Abu Bakar",
+        "deskripsi": "Abu Bakar ash-Shiddiq adalah sahabat setia yang menemani Nabi dalam perjalanan hijrah dan bersembunyi di Gua Tsur."
+    },
+    {
+        "index": 117,
+        "soal": "Apa nama peristiwa ketika Nabi Muhammad SAW melakukan perjalanan malam dari Masjidil Haram ke Masjidil Aqsa?",
+        "pilihan": [
+            "Hijrah",
+            "Isra Mikraj",
+            "Nuzulul Quran",
+            "Lailatul Qadar",
+            "Fathu Mekkah"
+        ],
+        "jawaban": "Isra Mikraj",
+        "deskripsi": "Isra Mikraj adalah perjalanan malam luar biasa Nabi Muhammad SAW ke langit dan menerima perintah salat lima waktu."
+    },
+    {
+        "index": 118,
+        "soal": "Siapakah yang menggantikan tempat tidur Nabi Muhammad SAW saat hijrah untuk mengelabui musuh?",
+        "pilihan": [
+            "Umar bin Khattab",
+            "Zaid bin Haritsah",
+            "Ali bin Abi Thalib",
+            "Abu Bakar",
+            "Usamah bin Zaid"
+        ],
+        "jawaban": "Ali bin Abi Thalib",
+        "deskripsi": "Ali bin Abi Thalib dengan berani tidur di ranjang Nabi pada malam hijrah untuk mengelabui orang Quraisy."
+    },
+    {
+        "index": 119,
+        "soal": "Apa nama sungai yang dilalui oleh Nabi Musa dan kaumnya saat dikejar oleh Firaun?",
+        "pilihan": [
+            "Sungai Nil",
+            "Sungai Eufrat",
+            "Sungai Tigris",
+            "Sungai Yordan",
+            "Sungai Zamzam"
+        ],
+        "jawaban": "Sungai Nil",
+        "deskripsi": "Sungai Nil adalah tempat mukjizat terbelahnya laut terjadi, menyelamatkan Nabi Musa AS dan menenggelamkan Firaun."
+    },
+    {
+        "index": 120,
+        "soal": "Apa nama tempat yang menjadi lokasi Wukuf dalam ibadah haji?",
+        "pilihan": [
+            "Mina",
+            "Muzdalifah",
+            "Arafah",
+            "Ka’bah",
+            "Zamzam"
+        ],
+        "jawaban": "Arafah",
+        "deskripsi": "Padang Arafah adalah tempat utama pelaksanaan wukuf yang merupakan rukun haji paling penting dan wajib dilakukan."
+    },
+    {
+        "index": 121,
+        "soal": "Siapakah sahabat Nabi yang dikenal sebagai panglima dalam Perang Yarmuk?",
+        "pilihan": [
+            "Khalid bin Walid",
+            "Sa'ad bin Abi Waqqas",
+            "Abu Ubaidah",
+            "Zubair bin Awwam",
+            "Talhah bin Ubaidillah"
+        ],
+        "jawaban": "Abu Ubaidah",
+        "deskripsi": "Abu Ubaidah dikenal sebagai panglima Muslim dalam Perang Yarmuk melawan Bizantium."
+    },
+    {
+        "index": 122,
+        "soal": "Apa nama surat dalam Al-Qur'an yang terdiri dari 286 ayat dan merupakan surat terpanjang?",
+        "pilihan": [
+            "Al-Fatihah",
+            "Al-Baqarah",
+            "Ali-Imran",
+            "An-Nisa",
+            "Al-Maidah"
+        ],
+        "jawaban": "Al-Baqarah",
+        "deskripsi": "Surat Al-Baqarah adalah surat terpanjang dalam Al-Qur'an yang membahas berbagai hukum dan kisah."
+    },
+    {
+        "index": 123,
+        "soal": "Siapakah yang dikenal sebagai 'Pembaca Al-Qur’an terbaik' pada masa Nabi Muhammad SAW?",
+        "pilihan": [
+            "Abdullah bin Mas’ud",
+            "Ubay bin Ka’ab",
+            "Zaid bin Thabit",
+            "Ali bin Abi Thalib",
+            "Abu Hurairah"
+        ],
+        "jawaban": "Ubay bin Ka’ab",
+        "deskripsi": "Ubay bin Ka’ab dikenal sebagai salah satu sahabat yang ahli membaca Al-Qur’an dan mengajarkannya."
+    },
+    {
+        "index": 124,
+        "soal": "Apa nama peristiwa saat Nabi Muhammad SAW dan para sahabat berhijrah ke Madinah?",
+        "pilihan": [
+            "Isra Mikraj",
+            "Hijrah",
+            "Fathu Makkah",
+            "Ghazwah Uhud",
+            "Hijaz"
+        ],
+        "jawaban": "Hijrah",
+        "deskripsi": "Hijrah adalah peristiwa penting perpindahan Nabi dan sahabat dari Mekkah ke Madinah."
+    },
+    {
+        "index": 125,
+        "soal": "Siapakah wanita pertama yang memeluk Islam?",
+        "pilihan": [
+            "Aisyah",
+            "Khadijah",
+            "Fatimah",
+            "Hafsa",
+            "Zainab"
+        ],
+        "jawaban": "Khadijah",
+        "deskripsi": "Khadijah binti Khuwailid adalah istri Nabi Muhammad SAW yang pertama kali menerima Islam."
+    },
+    {
+        "index": 126,
+        "soal": "Apa nama kitab suci yang diturunkan kepada Nabi Musa AS?",
+        "pilihan": [
+            "Injil",
+            "Taurat",
+            "Zabur",
+            "Al-Qur'an",
+            "Suhuf"
+        ],
+        "jawaban": "Taurat",
+        "deskripsi": "Taurat adalah kitab suci yang diberikan Allah kepada Nabi Musa AS sebagai petunjuk umatnya."
+    },
+    {
+        "index": 127,
+        "soal": "Apa nama tempat suci yang menjadi kiblat pertama umat Islam?",
+        "pilihan": [
+            "Masjidil Haram",
+            "Masjidil Aqsa",
+            "Masjid Nabawi",
+            "Masjid Quba",
+            "Masjid Al-Aqsa"
+        ],
+        "jawaban": "Masjidil Aqsa",
+        "deskripsi": "Masjidil Aqsa di Yerusalem adalah kiblat pertama umat Islam sebelum berubah ke Ka'bah."
+    },
+    {
+        "index": 128,
+        "soal": "Apa nama perintah shalat wajib yang diperoleh Nabi Muhammad SAW dalam peristiwa Isra’ Mi’raj?",
+        "pilihan": [
+            "Shalat Tahajud",
+            "Shalat Jum’at",
+            "Shalat Lima Waktu",
+            "Shalat Tarawih",
+            "Shalat Dhuha"
+        ],
+        "jawaban": "Shalat Lima Waktu",
+        "deskripsi": "Shalat lima waktu adalah perintah wajib yang diperoleh Nabi Muhammad SAW saat Isra’ Mi’raj."
+    },
+    {
+        "index": 129,
+        "soal": "Siapakah sahabat yang dijuluki 'Penulis Wahyu' karena mencatat wahyu yang diturunkan kepada Nabi?",
+        "pilihan": [
+            "Zaid bin Thabit",
+            "Abu Hurairah",
+            "Mu’adz bin Jabal",
+            "Bilal bin Rabah",
+            "Abdullah bin Abbas"
+        ],
+        "jawaban": "Zaid bin Thabit",
+        "deskripsi": "Zaid bin Thabit adalah sahabat yang dipercaya menulis wahyu Al-Qur’an pada masa Nabi."
+    },
+    {
+        "index": 130,
+        "soal": "Apa nama malam yang dikenal sebagai malam turunnya Al-Qur'an?",
+        "pilihan": [
+            "Lailatul Qadar",
+            "Nuzulul Quran",
+            "Isra Mi’raj",
+            "Malam Nisfu Syaban",
+            "Malam Jumat"
+        ],
+        "jawaban": "Lailatul Qadar",
+        "deskripsi": "Lailatul Qadar adalah malam yang sangat mulia dan menjadi malam turunnya Al-Qur'an."
+    },
+    {
+        "index": 131,
+        "soal": "Apa nama kota suci umat Islam tempat Ka'bah berada?",
+        "pilihan": [
+            "Mekkah",
+            "Madinah",
+            "Yatsrib",
+            "Jerusalem",
+            "Taif"
+        ],
+        "jawaban": "Mekkah",
+        "deskripsi": "Mekkah adalah kota suci umat Islam yang menjadi tempat ibadah haji dan pusat kiblat shalat."
+    },
+    {
+        "index": 132,
+        "soal": "Siapakah khalifah pertama dalam sejarah Islam setelah wafatnya Nabi Muhammad SAW?",
+        "pilihan": [
+            "Umar bin Khattab",
+            "Utsman bin Affan",
+            "Abu Bakar",
+            "Ali bin Abi Thalib",
+            "Muawiyah"
+        ],
+        "jawaban": "Abu Bakar",
+        "deskripsi": "Abu Bakar ash-Shiddiq adalah khalifah pertama yang memimpin umat Islam setelah Nabi wafat."
+    },
+    {
+        "index": 133,
+        "soal": "Apa nama perang besar yang terjadi antara kaum Muslim dan pasukan Quraisy di tahun kedua hijriyah?",
+        "pilihan": [
+            "Perang Uhud",
+            "Perang Badar",
+            "Perang Khandaq",
+            "Perang Tabuk",
+            "Perang Hunain"
+        ],
+        "jawaban": "Perang Badar",
+        "deskripsi": "Perang Badar adalah perang pertama dan kemenangan besar bagi kaum Muslim."
+    },
+    {
+        "index": 134,
+        "soal": "Apa nama masjid yang dibangun Nabi Muhammad SAW di Madinah setelah hijrah?",
+        "pilihan": [
+            "Masjidil Haram",
+            "Masjid Quba",
+            "Masjid Nabawi",
+            "Masjid Al-Aqsa",
+            "Masjidil Haram"
+        ],
+        "jawaban": "Masjid Nabawi",
+        "deskripsi": "Masjid Nabawi adalah masjid utama di Madinah yang dibangun oleh Nabi Muhammad SAW."
+    },
+    {
+        "index": 135,
+        "soal": "Apa istilah untuk bulan puasa dalam Islam?",
+        "pilihan": [
+            "Ramadhan",
+            "Syawal",
+            "Muharram",
+            "Dzulhijjah",
+            "Rajab"
+        ],
+        "jawaban": "Ramadhan",
+        "deskripsi": "Ramadhan adalah bulan puasa wajib bagi umat Islam yang penuh berkah."
+    },
+    {
+        "index": 136,
+        "soal": "Apa nama kitab suci yang diturunkan kepada Nabi Isa AS?",
+        "pilihan": [
+            "Injil",
+            "Taurat",
+            "Zabur",
+            "Al-Qur'an",
+            "Suhuf"
+        ],
+        "jawaban": "Injil",
+        "deskripsi": "Injil adalah kitab suci yang diturunkan kepada Nabi Isa AS sebagai petunjuk umatnya."
+    },
+    {
+        "index": 137,
+        "soal": "Siapakah ayah dari Nabi Isa AS?",
+        "pilihan": [
+            "Zakaria",
+            "Yusuf",
+            "Imran",
+            "Adam",
+            "Tidak ada ayah (Lahir tanpa ayah)"
+        ],
+        "jawaban": "Tidak ada ayah (Lahir tanpa ayah)",
+        "deskripsi": "Nabi Isa AS lahir dari Maryam tanpa ayah melalui mukjizat Allah."
+    },
+    {
+        "index": 138,
+        "soal": "Apa sebutan untuk orang-orang Madinah yang membantu Nabi Muhammad SAW setelah hijrah?",
+        "pilihan": [
+            "Muhajirin",
+            "Ansar",
+            "Quraisy",
+            "Jahiliyah",
+            "Bani Israil"
+        ],
+        "jawaban": "Ansar",
+        "deskripsi": "Ansar adalah penduduk Madinah yang menyambut dan membantu Nabi dan Muhajirin."
+    },
+    {
+        "index": 139,
+        "soal": "Apa nama nabi yang terkenal dengan kesabarannya dalam menghadapi ujian dari Allah?",
+        "pilihan": [
+            "Nabi Nuh",
+            "Nabi Yusuf",
+            "Nabi Ayub",
+            "Nabi Musa",
+            "Nabi Ibrahim"
+        ],
+        "jawaban": "Nabi Ayub",
+        "deskripsi": "Nabi Ayub dikenal sebagai sosok yang sangat sabar dalam menghadapi penderitaan berat."
+    },
+    {
+        "index": 140,
+        "soal": "Apa arti dari kata 'Islam' dalam bahasa Arab?",
+        "pilihan": [
+            "Kedamaian",
+            "Pengabdian",
+            "Ketaatan",
+            "Penyerahan diri",
+            "Kebahagiaan"
+        ],
+        "jawaban": "Penyerahan diri",
+        "deskripsi": "Islam berarti penyerahan diri secara total kepada Allah SWT."
+    },
+    {
+        "index": 141,
+        "soal": "Apa nama nama istri Nabi Muhammad SAW yang terkenal dengan julukan 'Ummul Mukminin'?",
+        "pilihan": [
+            "Aisyah",
+            "Khadijah",
+            "Hafsa",
+            "Zainab",
+            "Semua benar"
+        ],
+        "jawaban": "Semua benar",
+        "deskripsi": "Semua istri Nabi Muhammad SAW disebut dengan julukan Ummul Mukminin atau ibu orang-orang beriman."
+    },
+    {
+        "index": 142,
+        "soal": "Apa nama ibadah wajib yang dilakukan umat Islam minimal sekali seumur hidup jika mampu secara fisik dan finansial?",
+        "pilihan": [
+            "Shalat",
+            "Puasa",
+            "Haji",
+            "Zakat",
+            "Sedekah"
+        ],
+        "jawaban": "Haji",
+        "deskripsi": "Ibadah haji adalah rukun Islam kelima yang wajib dilakukan sekali seumur hidup bagi yang mampu."
+    },
+    {
+        "index": 143,
+        "soal": "Apa nama doa yang diajarkan Nabi Muhammad SAW untuk memohon perlindungan dari kejahatan?",
+        "pilihan": [
+            "Al-Fatihah",
+            "Al-Ikhlas",
+            "Ayat Kursi",
+            "Al-Ma’uun",
+            "Al-Falaq"
+        ],
+        "jawaban": "Ayat Kursi",
+        "deskripsi": "Ayat Kursi adalah ayat Al-Qur’an yang mengandung doa perlindungan dari berbagai bahaya."
+    },
+    {
+        "index": 144,
+        "soal": "Apa nama peristiwa ketika Nabi Musa AS menerima wahyu Taurat di gunung Sinai?",
+        "pilihan": [
+            "Isra Mikraj",
+            "Nuzulul Quran",
+            "Turunnya Taurat",
+            "Hijrah",
+            "Kelahiran Nabi"
+        ],
+        "jawaban": "Turunnya Taurat",
+        "deskripsi": "Peristiwa turunnya Taurat kepada Nabi Musa AS di Gunung Sinai sebagai petunjuk umatnya."
+    },
+    {
+        "index": 145,
+        "soal": "Siapakah yang memimpin kaum Muslimin setelah wafatnya Nabi Muhammad SAW sebagai khalifah kedua?",
+        "pilihan": [
+            "Abu Bakar",
+            "Umar bin Khattab",
+            "Usman bin Affan",
+            "Ali bin Abi Thalib",
+            "Muawiyah"
+        ],
+        "jawaban": "Umar bin Khattab",
+        "deskripsi": "Umar bin Khattab adalah khalifah kedua yang terkenal tegas dan adil dalam memimpin umat Islam."
+    },
+    {
+        "index": 146,
+        "soal": "Apa nama kitab suci yang berisi firman Allah yang terakhir kali diturunkan?",
+        "pilihan": [
+            "Injil",
+            "Taurat",
+            "Zabur",
+            "Al-Qur'an",
+            "Suhuf Ibrahim"
+        ],
+        "jawaban": "Al-Qur'an",
+        "deskripsi": "Al-Qur'an adalah kitab suci terakhir yang diturunkan kepada Nabi Muhammad SAW."
+    },
+    {
+        "index": 147,
+        "soal": "Apa nama doa yang dibaca saat akan berbuka puasa?",
+        "pilihan": [
+            "Doa iftar",
+            "Doa tahajud",
+            "Doa tasbih",
+            "Doa qunut",
+            "Doa qunut nazilah"
+        ],
+        "jawaban": "Doa iftar",
+        "deskripsi": "Doa iftar adalah doa khusus yang dibaca saat berbuka puasa untuk bersyukur kepada Allah."
+    },
+    {
+        "index": 148,
+        "soal": "Apa nama shalat sunnah yang dilakukan di malam hari setelah shalat Isya?",
+        "pilihan": [
+            "Shalat Tahajud",
+            "Shalat Witir",
+            "Shalat Dhuha",
+            "Shalat Sunnah Rawatib",
+            "Shalat Tarawih"
+        ],
+        "jawaban": "Shalat Tahajud",
+        "deskripsi": "Shalat Tahajud adalah shalat sunnah malam yang sangat dianjurkan untuk mendekatkan diri kepada Allah."
+    },
+    {
+        "index": 149,
+        "soal": "Siapakah Nabi yang membelah laut untuk menyelamatkan umatnya dari Fir’aun?",
+        "pilihan": [
+            "Nabi Musa",
+            "Nabi Nuh",
+            "Nabi Isa",
+            "Nabi Ibrahim",
+            "Nabi Yusuf"
+        ],
+        "jawaban": "Nabi Musa",
+        "deskripsi": "Nabi Musa AS diberi mukjizat membelah laut untuk menyelamatkan umatnya dari kejaran Fir’aun."
+    },
+    {
+        "index": 150,
+        "soal": "Apa arti dari kata 'Alhamdulillah' yang sering diucapkan umat Islam?",
+        "pilihan": [
+            "Segala puji bagi Allah",
+            "Semoga Allah memberkati",
+            "Mohon ampunan Allah",
+            "Allah Maha Besar",
+            "Tuhan itu Esa"
+        ],
+        "jawaban": "Segala puji bagi Allah",
+        "deskripsi": "Alhamdulillah berarti segala puji hanya bagi Allah sebagai ungkapan syukur."
+    },
+    {
+        "index": 151,
+        "soal": "Siapakah nabi yang dikenal dengan julukan 'Khalilullah'?",
+        "pilihan": [
+            "Nabi Ibrahim",
+            "Nabi Musa",
+            "Nabi Isa",
+            "Nabi Yusuf",
+            "Nabi Muhammad"
+        ],
+        "jawaban": "Nabi Ibrahim",
+        "deskripsi": "Nabi Ibrahim dijuluki Khalilullah yang berarti Kekasih Allah karena kedekatannya dengan Allah."
+    },
+    {
+        "index": 152,
+        "soal": "Apa nama doa yang dibaca untuk memulai shalat?",
+        "pilihan": [
+            "Takbiratul Ihram",
+            "Al-Fatihah",
+            "Tasbih",
+            "Istighfar",
+            "Salam"
+        ],
+        "jawaban": "Takbiratul Ihram",
+        "deskripsi": "Takbiratul Ihram adalah doa dan gerakan pertama dalam shalat yang menandai dimulainya shalat."
+    },
+    {
+        "index": 153,
+        "soal": "Apa nama bulan dalam kalender Islam ketika umat Muslim melakukan ibadah haji?",
+        "pilihan": [
+            "Ramadhan",
+            "Muharram",
+            "Dzulhijjah",
+            "Safar",
+            "Rabi’ul Awal"
+        ],
+        "jawaban": "Dzulhijjah",
+        "deskripsi": "Dzulhijjah adalah bulan terakhir dalam kalender Hijriyah, waktu pelaksanaan ibadah haji."
+    },
+    {
+        "index": 154,
+        "soal": "Siapakah sahabat yang dikenal sebagai muazin pertama dalam Islam?",
+        "pilihan": [
+            "Bilal bin Rabah",
+            "Abu Bakar",
+            "Umar bin Khattab",
+            "Ali bin Abi Thalib",
+            "Abdurrahman bin Auf"
+        ],
+        "jawaban": "Bilal bin Rabah",
+        "deskripsi": "Bilal bin Rabah adalah muazin pertama yang mengumandangkan adzan dalam Islam."
+    },
+    {
+        "index": 155,
+        "soal": "Apa nama surat dalam Al-Qur’an yang dikenal dengan nama 'Surat Tauhid'?",
+        "pilihan": [
+            "Al-Falaq",
+            "Al-Ikhlas",
+            "An-Nas",
+            "Al-Kafirun",
+            "Al-Masad"
+        ],
+        "jawaban": "Al-Ikhlas",
+        "deskripsi": "Al-Ikhlas adalah surat yang berisi tentang keesaan Allah dan dijuluki Surat Tauhid."
+    },
+    {
+        "index": 156,
+        "soal": "Apa nama makanan yang paling sering disebut dalam kisah Nabi Yusuf dalam Al-Qur’an?",
+        "pilihan": [
+            "Kurma",
+            "Roti",
+            "Anggur",
+            "Kismis",
+            "Daging"
+        ],
+        "jawaban": "Anggur",
+        "deskripsi": "Anggur sering disebut dalam kisah Nabi Yusuf, terutama saat saudara-saudaranya memakannya."
+    },
+    {
+        "index": 157,
+        "soal": "Siapakah yang memimpin pasukan Muslim dalam Perang Uhud?",
+        "pilihan": [
+            "Nabi Muhammad",
+            "Khalid bin Walid",
+            "Hamzah bin Abdul Muttalib",
+            "Abu Bakar",
+            "Umar bin Khattab"
+        ],
+        "jawaban": "Nabi Muhammad",
+        "deskripsi": "Nabi Muhammad SAW memimpin pasukan Muslim dalam Perang Uhud melawan Quraisy."
+    },
+    {
+        "index": 158,
+        "soal": "Apa nama masjid yang merupakan kiblat pertama umat Islam sebelum berubah ke Ka'bah?",
+        "pilihan": [
+            "Masjid Nabawi",
+            "Masjidil Haram",
+            "Masjid Quba",
+            "Masjid Al-Aqsa",
+            "Masjid Al-Azhar"
+        ],
+        "jawaban": "Masjid Al-Aqsa",
+        "deskripsi": "Masjid Al-Aqsa di Yerusalem adalah kiblat pertama umat Islam sebelum berpindah ke Ka'bah."
+    },
+    {
+        "index": 159,
+        "soal": "Apa nama kitab suci yang diberikan kepada Nabi Dawud AS?",
+        "pilihan": [
+            "Taurat",
+            "Zabur",
+            "Injil",
+            "Al-Qur’an",
+            "Suhuf"
+        ],
+        "jawaban": "Zabur",
+        "deskripsi": "Zabur adalah kitab suci yang diberikan Allah kepada Nabi Dawud AS."
+    },
+    {
+        "index": 160,
+        "soal": "Siapakah sahabat yang dikenal dengan julukan 'Amirul Mukminin'?",
+        "pilihan": [
+            "Abu Bakar",
+            "Umar bin Khattab",
+            "Utsman bin Affan",
+            "Ali bin Abi Thalib",
+            "Muawiyah"
+        ],
+        "jawaban": "Umar bin Khattab",
+        "deskripsi": "Umar bin Khattab diberi gelar Amirul Mukminin yang berarti Pemimpin orang-orang beriman."
+    },
+    {
+        "index": 161,
+        "soal": "Apa arti kata 'Jihad' dalam konteks Islam?",
+        "pilihan": [
+            "Perang suci",
+            "Usaha dan perjuangan",
+            "Pengorbanan",
+            "Kemenangan",
+            "Pertahanan"
+        ],
+        "jawaban": "Usaha dan perjuangan",
+        "deskripsi": "Jihad berarti usaha dan perjuangan dalam menjalankan ajaran Islam, bukan hanya perang."
+    },
+    {
+        "index": 162,
+        "soal": "Apa nama kota tempat Nabi Muhammad SAW wafat?",
+        "pilihan": [
+            "Mekkah",
+            "Madinah",
+            "Jerusalem",
+            "Taif",
+            "Yatsrib"
+        ],
+        "jawaban": "Madinah",
+        "deskripsi": "Nabi Muhammad SAW wafat di kota Madinah pada tahun 632 M."
+    },
+    {
+        "index": 163,
+        "soal": "Apa nama kitab yang berisi kumpulan hadis Nabi Muhammad SAW dari Imam Bukhari?",
+        "pilihan": [
+            "Sahih Muslim",
+            "Sahih Bukhari",
+            "Muwatta Malik",
+            "Sunan Abu Dawud",
+            "Tirmidzi"
+        ],
+        "jawaban": "Sahih Bukhari",
+        "deskripsi": "Sahih Bukhari adalah salah satu kitab hadis paling shahih dan terkenal."
+    },
+    {
+        "index": 164,
+        "soal": "Siapakah istri Nabi Muhammad SAW yang juga merupakan putri Abu Bakar?",
+        "pilihan": [
+            "Aisyah",
+            "Khadijah",
+            "Hafsa",
+            "Zainab",
+            "Fatimah"
+        ],
+        "jawaban": "Aisyah",
+        "deskripsi": "Aisyah binti Abu Bakar adalah istri Nabi Muhammad SAW dan juga putri sahabat Abu Bakar."
+    },
+    {
+        "index": 165,
+        "soal": "Apa nama doa yang dibaca untuk meminta ampunan kepada Allah?",
+        "pilihan": [
+            "Istighfar",
+            "Shalawat",
+            "Doa iftar",
+            "Doa qunut",
+            "Tasbih"
+        ],
+        "jawaban": "Istighfar",
+        "deskripsi": "Istighfar adalah doa memohon ampunan kepada Allah atas segala dosa."
+    },
+    {
+        "index": 166,
+        "soal": "Apa nama rukun Islam yang kedua setelah syahadat?",
+        "pilihan": [
+            "Shalat",
+            "Puasa",
+            "Zakat",
+            "Haji",
+            "Jihad"
+        ],
+        "jawaban": "Shalat",
+        "deskripsi": "Shalat adalah ibadah wajib yang menjadi rukun Islam kedua setelah syahadat."
+    },
+    {
+        "index": 167,
+        "soal": "Apa nama malam yang dipercaya sebagai malam turunnya Al-Qur'an dan memiliki keberkahan besar?",
+        "pilihan": [
+            "Lailatul Qadar",
+            "Malam Nisfu Syaban",
+            "Isra Mi’raj",
+            "Malam Jumat",
+            "Malam Maulid"
+        ],
+        "jawaban": "Lailatul Qadar",
+        "deskripsi": "Lailatul Qadar adalah malam yang lebih baik dari seribu bulan dan malam turunnya Al-Qur'an."
+    },
+    {
+        "index": 168,
+        "soal": "Siapakah nabi yang dikenal dengan mukjizat menghidupkan orang mati?",
+        "pilihan": [
+            "Nabi Musa",
+            "Nabi Isa",
+            "Nabi Ibrahim",
+            "Nabi Nuh",
+            "Nabi Sulaiman"
+        ],
+        "jawaban": "Nabi Isa",
+        "deskripsi": "Nabi Isa AS diberi mukjizat menghidupkan orang mati dan menyembuhkan sakit."
+    },
+    {
+        "index": 169,
+        "soal": "Apa sebutan bagi kumpulan 99 nama baik Allah?",
+        "pilihan": [
+            "Asmaul Husna",
+            "Ayat Kursi",
+            "Al-Falaq",
+            "Al-Ikhlas",
+            "Al-Ma’uun"
+        ],
+        "jawaban": "Asmaul Husna",
+        "deskripsi": "Asmaul Husna adalah 99 nama Allah yang indah dan memiliki makna khusus."
+    },
+    {
+        "index": 170,
+        "soal": "Siapakah nabi yang membangun bahtera besar untuk menyelamatkan umatnya dari banjir besar?",
+        "pilihan": [
+            "Nabi Nuh",
+            "Nabi Musa",
+            "Nabi Ibrahim",
+            "Nabi Sulaiman",
+            "Nabi Yusuf"
+        ],
+        "jawaban": "Nabi Nuh",
+        "deskripsi": "Nabi Nuh AS membangun bahtera besar sebagai perintah Allah untuk menyelamatkan umatnya."
+    },
+    {
+        "index": 171,
+        "soal": "Apa nama doa yang biasa dibaca saat hendak memulai makan?",
+        "pilihan": [
+            "Bismillah",
+            "Alhamdulillah",
+            "Astaghfirullah",
+            "Subhanallah",
+            "Allahu Akbar"
+        ],
+        "jawaban": "Bismillah",
+        "deskripsi": "Doa 'Bismillah' dibaca untuk memohon keberkahan sebelum makan."
+    },
+    {
+        "index": 172,
+        "soal": "Apa nama malam ketika Nabi Muhammad SAW melakukan perjalanan Isra Mi’raj?",
+        "pilihan": [
+            "Lailatul Qadar",
+            "Malam Isra",
+            "Malam Maulid",
+            "Malam Nisfu Syaban",
+            "Malam Jumat"
+        ],
+        "jawaban": "Malam Isra",
+        "deskripsi": "Isra Mi’raj adalah perjalanan malam Nabi Muhammad dari Mekkah ke langit untuk bertemu Allah."
+    },
+    {
+        "index": 173,
+        "soal": "Apa arti kata 'Sunnah' dalam konteks ajaran Islam?",
+        "pilihan": [
+            "Tradisi Nabi",
+            "Ibadah wajib",
+            "Doa harian",
+            "Puasa sunah",
+            "Kewajiban"
+        ],
+        "jawaban": "Tradisi Nabi",
+        "deskripsi": "Sunnah adalah tradisi dan kebiasaan yang dilakukan Nabi Muhammad SAW yang dianjurkan untuk diikuti."
+    },
+    {
+        "index": 174,
+        "soal": "Apa nama rukun Islam yang keempat?",
+        "pilihan": [
+            "Zakat",
+            "Puasa",
+            "Shalat",
+            "Haji",
+            "Syahadat"
+        ],
+        "jawaban": "Zakat",
+        "deskripsi": "Zakat adalah rukun Islam keempat yang berupa kewajiban mengeluarkan sebagian harta untuk fakir miskin."
+    },
+    {
+        "index": 175,
+        "soal": "Apa nama ibadah wajib yang dilakukan setiap tahun di bulan Ramadan?",
+        "pilihan": [
+            "Puasa",
+            "Haji",
+            "Shalat",
+            "Zakat",
+            "Jihad"
+        ],
+        "jawaban": "Puasa",
+        "deskripsi": "Puasa adalah ibadah menahan diri dari makan dan minum selama bulan Ramadan."
+    },
+    {
+        "index": 176,
+        "soal": "Apa arti kata 'Halal' dalam Islam?",
+        "pilihan": [
+            "Diperbolehkan",
+            "Dilarang",
+            "Suci",
+            "Wajib",
+            "Sunah"
+        ],
+        "jawaban": "Diperbolehkan",
+        "deskripsi": "Halal berarti sesuatu yang diperbolehkan dan sesuai syariat Islam."
+    },
+    {
+        "index": 177,
+        "soal": "Apa arti kata 'Haram' dalam Islam?",
+        "pilihan": [
+            "Dilarang",
+            "Diperbolehkan",
+            "Suci",
+            "Wajib",
+            "Sunah"
+        ],
+        "jawaban": "Dilarang",
+        "deskripsi": "Haram berarti sesuatu yang dilarang atau tidak diperbolehkan dalam Islam."
+    },
+    {
+        "index": 178,
+        "soal": "Apa nama surat pendek yang sering dibaca dalam shalat?",
+        "pilihan": [
+            "Al-Falaq",
+            "Al-Baqarah",
+            "Yasin",
+            "Al-Kahfi",
+            "Al-Mulk"
+        ],
+        "jawaban": "Al-Falaq",
+        "deskripsi": "Al-Falaq adalah surat pendek yang sering dibaca dalam shalat."
+    },
+    {
+        "index": 179,
+        "soal": "Apa arti kata 'Zakat Fitrah'?",
+        "pilihan": [
+            "Sedekah wajib saat Ramadan",
+            "Zakat harta",
+            "Zakat profesi",
+            "Zakat mal",
+            "Zakat penghasilan"
+        ],
+        "jawaban": "Sedekah wajib saat Ramadan",
+        "deskripsi": "Zakat Fitrah adalah sedekah wajib yang dikeluarkan saat menjelang Idul Fitri."
+    },
+    {
+        "index": 180,
+        "soal": "Apa yang dimaksud dengan 'Sujud' dalam shalat?",
+        "pilihan": [
+            "Menundukkan kepala ke lantai",
+            "Berdoa",
+            "Berdiri tegak",
+            "Mengangkat tangan",
+            "Duduk di atas kaki"
+        ],
+        "jawaban": "Menundukkan kepala ke lantai",
+        "deskripsi": "Sujud adalah posisi dalam shalat dimana dahi dan hidung menyentuh lantai sebagai tanda tunduk."
+    },
+    {
+        "index": 181,
+        "soal": "Apa nama rukun Islam yang ketiga?",
+        "pilihan": [
+            "Zakat",
+            "Shalat",
+            "Puasa",
+            "Haji",
+            "Syahadat"
+        ],
+        "jawaban": "Zakat",
+        "deskripsi": "Zakat adalah rukun Islam ketiga yang mewajibkan mengeluarkan sebagian harta untuk fakir miskin."
+    },
+    {
+        "index": 182,
+        "soal": "Apa arti kata 'Ikhlas' dalam beribadah?",
+        "pilihan": [
+            "Tulus tanpa pamrih",
+            "Rajin",
+            "Cepat",
+            "Kuat",
+            "Berdoa"
+        ],
+        "jawaban": "Tulus tanpa pamrih",
+        "deskripsi": "Ikhlas berarti melakukan ibadah dengan niat tulus hanya karena Allah."
+    },
+    {
+        "index": 183,
+        "soal": "Apa makna kata 'Aqidah' dalam Islam?",
+        "pilihan": [
+            "Kepercayaan dan keyakinan",
+            "Ibadah",
+            "Doa",
+            "Hukum Islam",
+            "Puasa"
+        ],
+        "jawaban": "Kepercayaan dan keyakinan",
+        "deskripsi": "Aqidah adalah kepercayaan dan keyakinan pokok dalam Islam."
+    },
+    {
+        "index": 184,
+        "soal": "Apa arti kata 'Shahada'?",
+        "pilihan": [
+            "Pengakuan iman",
+            "Puasa wajib",
+            "Shalat malam",
+            "Berzakat",
+            "Melakukan haji"
+        ],
+        "jawaban": "Pengakuan iman",
+        "deskripsi": "Shahada adalah pengakuan bahwa tiada Tuhan selain Allah dan Muhammad utusan-Nya."
+    },
+    {
+        "index": 185,
+        "soal": "Apa nama doa yang dibaca saat hendak tidur?",
+        "pilihan": [
+            "Doa sebelum tidur",
+            "Doa iftar",
+            "Doa tahajud",
+            "Doa qunut",
+            "Doa masuk masjid"
+        ],
+        "jawaban": "Doa sebelum tidur",
+        "deskripsi": "Doa sebelum tidur memohon perlindungan dan keselamatan saat beristirahat."
+    },
+    {
+        "index": 186,
+        "soal": "Apa arti kata 'Barakah' dalam Islam?",
+        "pilihan": [
+            "Berkah dan rahmat",
+            "Kekuatan",
+            "Keberanian",
+            "Kesabaran",
+            "Kebaikan"
+        ],
+        "jawaban": "Berkah dan rahmat",
+        "deskripsi": "Barakah adalah berkah dan rahmat Allah yang memberikan kebaikan melimpah."
+    },
+    {
+        "index": 187,
+        "soal": "Apa nama doa yang dibaca ketika masuk masjid?",
+        "pilihan": [
+            "Doa masuk masjid",
+            "Doa iftar",
+            "Doa qunut",
+            "Doa tahajud",
+            "Doa sebelum tidur"
+        ],
+        "jawaban": "Doa masuk masjid",
+        "deskripsi": "Doa ini dibaca saat memasuki masjid agar diberi keberkahan."
+    },
+    {
+        "index": 188,
+        "soal": "Apa yang dimaksud dengan 'Wudu' dalam Islam?",
+        "pilihan": [
+            "Membasuh anggota tubuh sebelum shalat",
+            "Doa harian",
+            "Puasa sunnah",
+            "Shalat berjamaah",
+            "Membaca Al-Qur’an"
+        ],
+        "jawaban": "Membasuh anggota tubuh sebelum shalat",
+        "deskripsi": "Wudu adalah tata cara bersuci dengan membasuh anggota tubuh tertentu sebelum shalat."
+    },
+    {
+        "index": 189,
+        "soal": "Apa nama ibadah wajib yang dilakukan bagi yang mampu sekali seumur hidup ke Mekah?",
+        "pilihan": [
+            "Haji",
+            "Umrah",
+            "Zakat",
+            "Puasa",
+            "Shalat"
+        ],
+        "jawaban": "Haji",
+        "deskripsi": "Haji adalah ibadah wajib sekali seumur hidup bagi yang mampu fisik dan finansial."
+    },
+    {
+        "index": 190,
+        "soal": "Apa arti kata 'Istighfar' dalam Islam?",
+        "pilihan": [
+            "Memohon ampun",
+            "Berdoa",
+            "Bersyukur",
+            "Shalat",
+            "Berpuasa"
+        ],
+        "jawaban": "Memohon ampun",
+        "deskripsi": "Istighfar adalah memohon ampunan kepada Allah atas kesalahan dan dosa."
+    },
+    {
+        "index": 191,
+        "soal": "Apa arti kata 'Taqwa' dalam Islam?",
+        "pilihan": [
+            "Takut kepada Allah",
+            "Rajin shalat",
+            "Bersedekah",
+            "Puasa wajib",
+            "Berdoa"
+        ],
+        "jawaban": "Takut kepada Allah",
+        "deskripsi": "Taqwa adalah rasa takut dan hormat kepada Allah sehingga menjauhi larangan-Nya."
+    },
+    {
+        "index": 192,
+        "soal": "Apa nama doa yang dibaca saat akan memulai perjalanan?",
+        "pilihan": [
+            "Doa perjalanan",
+            "Doa iftar",
+            "Doa tahajud",
+            "Doa qunut",
+            "Doa masuk masjid"
+        ],
+        "jawaban": "Doa perjalanan",
+        "deskripsi": "Doa ini dipanjatkan agar perjalanan selamat dan diberkahi."
+    },
+    {
+        "index": 193,
+        "soal": "Apa arti kata 'Sadaqah'?",
+        "pilihan": [
+            "Sedekah sukarela",
+            "Zakat wajib",
+            "Puasa wajib",
+            "Shalat sunnah",
+            "Berdoa"
+        ],
+        "jawaban": "Sedekah sukarela",
+        "deskripsi": "Sadaqah adalah sedekah yang diberikan secara sukarela dan tidak wajib."
+    },
+    {
+        "index": 194,
+        "soal": "Apa arti kata 'Niat' dalam beribadah?",
+        "pilihan": [
+            "Tujuan hati melakukan ibadah",
+            "Doa",
+            "Bersyukur",
+            "Puasa",
+            "Shalat"
+        ],
+        "jawaban": "Tujuan hati melakukan ibadah",
+        "deskripsi": "Niat adalah tujuan dan kesungguhan hati saat melakukan ibadah."
+    },
+    {
+        "index": 195,
+        "soal": "Apa nama doa yang dibaca saat berwudu?",
+        "pilihan": [
+            "Doa wudu",
+            "Doa iftar",
+            "Doa tahajud",
+            "Doa qunut",
+            "Doa masuk masjid"
+        ],
+        "jawaban": "Doa wudu",
+        "deskripsi": "Doa ini dibaca saat berwudu untuk meminta kesucian dan keberkahan."
+    },
+    {
+        "index": 196,
+        "soal": "Apa nama doa yang dibaca setelah selesai shalat?",
+        "pilihan": [
+            "Doa akhir shalat",
+            "Doa iftar",
+            "Doa tahajud",
+            "Doa qunut",
+            "Doa masuk masjid"
+        ],
+        "jawaban": "Doa akhir shalat",
+        "deskripsi": "Doa ini dibaca untuk memohon ampun dan keberkahan setelah shalat."
+    },
+    {
+        "index": 197,
+        "soal": "Apa arti kata 'Fardhu' dalam Islam?",
+        "pilihan": [
+            "Wajib dilakukan",
+            "Sunnah",
+            "Mubah",
+            "Makruh",
+            "Haram"
+        ],
+        "jawaban": "Wajib dilakukan",
+        "deskripsi": "Fardhu berarti kewajiban yang harus dilakukan oleh setiap muslim."
+    },
+    {
+        "index": 198,
+        "soal": "Apa arti kata 'Sunnah Muakkadah'?",
+        "pilihan": [
+            "Sunnah yang sangat dianjurkan",
+            "Ibadah wajib",
+            "Doa khusus",
+            "Puasa sunnah",
+            "Larangan"
+        ],
+        "jawaban": "Sunnah yang sangat dianjurkan",
+        "deskripsi": "Sunnah Muakkadah adalah sunnah yang sangat dianjurkan dan sering dilakukan Nabi."
+    },
+    {
+        "index": 199,
+        "soal": "Apa arti kata 'Makruh' dalam Islam?",
+        "pilihan": [
+            "Tidak disukai",
+            "Wajib dilakukan",
+            "Sunnah",
+            "Haram",
+            "Mubah"
+        ],
+        "jawaban": "Tidak disukai",
+        "deskripsi": "Makruh adalah perbuatan yang tidak disukai Allah tapi tidak sampai haram."
+    },
+    {
+        "index": 200,
+        "soal": "Apa arti kata 'Mubah' dalam hukum Islam?",
+        "pilihan": [
+            "Boleh dilakukan",
+            "Dilarang",
+            "Wajib dilakukan",
+            "Sunnah",
+            "Makruh"
+        ],
+        "jawaban": "Boleh dilakukan",
+        "deskripsi": "Mubah adalah perbuatan yang dibolehkan dan tidak ada larangan maupun kewajiban."
+    }
+]

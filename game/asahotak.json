@@ -1,0 +1,5002 @@
+[
+    {
+        "index": 1,
+        "soal": "Hewan sejenis kadal yang dapat merubah warna kulitnya?",
+        "jawaban": "Bunglon"
+    },
+    {
+        "index": 2,
+        "soal": "Surat instruksi kepada Soeharto untuk mengambil alih keamanan Indonesia pada tanggal 11 Maret 1966?",
+        "jawaban": "Supersemar"
+    },
+    {
+        "index": 3,
+        "soal": "Sungai terpanjang di Benua Amerika?",
+        "jawaban": "Amazon"
+    },
+    {
+        "index": 4,
+        "soal": "Wanita yang tercatat dalam sejarah sebagai penjahit Bendera Pusaka Indonesia?",
+        "jawaban": "Fatmawati"
+    },
+    {
+        "index": 5,
+        "soal": "Lomba lari jarak jauh sepanjang 42,195 km?",
+        "jawaban": "Marathon"
+    },
+    {
+        "index": 6,
+        "soal": "Garis yang membagi Bumi menjadi dua bagian belahan utara dan belahan selatan?",
+        "jawaban": "Khatulistiwa"
+    },
+    {
+        "index": 7,
+        "soal": "Kota yang berdiri sejak tahun 682 ini disebut sebagai kota tertua di Indonesia?",
+        "jawaban": "Palembang"
+    },
+    {
+        "index": 8,
+        "soal": "Sebutan untuk gaya tarik-menarik yang terjadi di alam semesta termasuk Bumi?",
+        "jawaban": "Gravitasi"
+    },
+    {
+        "index": 9,
+        "soal": "Nama film yang bercerita tentang robot yang dapat berubah menjadi kendaran?",
+        "jawaban": "Transformers"
+    },
+    {
+        "index": 10,
+        "soal": "Petarung di zaman Romawi Kuno yang melakukan pertarungan untuk hiburan umum?",
+        "jawaban": "Gladiator"
+    },
+    {
+        "index": 11,
+        "soal": "Nama kapal penumpang mewah yang tenggelam saat pelayaran perdana tahun 1912?",
+        "jawaban": "Titanic"
+    },
+    {
+        "index": 12,
+        "soal": "Klub sepak bola dari Italia yang memiliki julukan Nyonya Tua?",
+        "jawaban": "Juventus"
+    },
+    {
+        "index": 13,
+        "soal": "Mekanisme sistem pemerintahan negara yang berdasarkan kehendak rakyat?",
+        "jawaban": "Demokrasi"
+    },
+    {
+        "index": 14,
+        "soal": "Nama kesenian drama tari tradisional yang khas dari Bali?",
+        "jawaban": "Kecak"
+    },
+    {
+        "index": 15,
+        "soal": "Nama mata uang yang digunakan di negara Rusia?",
+        "jawaban": "Rubel"
+    },
+    {
+        "index": 16,
+        "soal": "Ilmu alam yang mengamati benda langit serta fenomena di luar atmosfer Bumi?",
+        "jawaban": "Astronomi"
+    },
+    {
+        "index": 17,
+        "soal": "Kaisar Prancis yang menguasai Benua Eropa pada tahun 1803-1815?",
+        "jawaban": "Napoleon"
+    },
+    {
+        "index": 18,
+        "soal": "Seniman terkenal dunia dari Spanyol dengan aliran seni bernama kubisme?",
+        "jawaban": "Picasso"
+    },
+    {
+        "index": 19,
+        "soal": "Nama panglima tertinggi Pasukan Sekutu pada Perang dunia II?",
+        "jawaban": "Eisenhower"
+    },
+    {
+        "index": 20,
+        "soal": "Senjata fiksi dalam dunia Star Wars, digunakan oleh Jedi dan Sith?",
+        "jawaban": "Lightsaber"
+    },
+    {
+        "index": 21,
+        "soal": "Nama semenanjung di Eropa dimana terdapat negara Norwegia dan Swedia?",
+        "jawaban": "Skandinavia"
+    },
+    {
+        "index": 22,
+        "soal": "Stadion sepak bola di London yang juga markas utama klub Arsenal FC?",
+        "jawaban": "Emirates"
+    },
+    {
+        "index": 23,
+        "soal": "Penyanyi wanita terkenal dunia, dulu berada dalam grup Destiny’s Child?",
+        "jawaban": "Beyonce"
+    },
+    {
+        "index": 24,
+        "soal": "Istilah untuk sebuah kepercayaan bahwa Tuhan adalah satu atau tunggal?",
+        "jawaban": "Monoteisme"
+    },
+    {
+        "index": 25,
+        "soal": "Nama kerajaan dimana rajanya menjadi wakil Gubernur DI Yogyakarta saat ini?",
+        "jawaban": "Pakualaman"
+    },
+    {
+        "index": 26,
+        "soal": "Disebut sebagai salah satu matematikawan terbesar sejarah, lahir pada 287 SM?",
+        "jawaban": "Archimedes"
+    },
+    {
+        "index": 27,
+        "soal": "Rangkaian pegunungan tertinggi di Indonesia, terletak di Pulau Papua?",
+        "jawaban": "Jayawijaya"
+    },
+    {
+        "index": 28,
+        "soal": "Kelompok fiksi superhero yang terdiri dari Iron Man, Captain America, Hulk, Thor?",
+        "jawaban": "Avengers"
+    },
+    {
+        "index": 29,
+        "soal": "Nama wilayah luas di Rusia, meliputi hampir seluruh wilayah Asia Utara?",
+        "jawaban": "Siberia"
+    },
+    {
+        "index": 30,
+        "soal": "Suatu benda atau media yang menghantarkan arus listrik dengan mudah?",
+        "jawaban": "Konduktor"
+    },
+    {
+        "index": 31,
+        "soal": "Nama bahasa yang digunakan di Iran, Tajikistan, Afganistan, dan Uzbekistan?",
+        "jawaban": "Farsi"
+    },
+    {
+        "index": 32,
+        "soal": "Daerah dimana terdapat praktik pertanian pertama sekitar tahun 8000 SM?",
+        "jawaban": "Mesopotamia"
+    },
+    {
+        "index": 33,
+        "soal": "Ideologi yang berdasarkan pada prinsip kepemimpinan dengan otoritas absolut?",
+        "jawaban": "Fasisme"
+    },
+    {
+        "index": 34,
+        "soal": "Nama periode geologi dari 252 ke 66 juta tahun yang lalu, disebut juga Zaman Reptil?",
+        "jawaban": "Mesozoikum"
+    },
+    {
+        "index": 35,
+        "soal": "Nama yang dikenal dalam legenda Jawab sebagai arsitek perancang Candi Borobudur?",
+        "jawaban": "Gunadharma"
+    },
+    {
+        "index": 36,
+        "soal": "Tarian tradisional Tionghoa yang menggunakan kostum menyerupai singa",
+        "jawaban": "Barongsai"
+    },
+    {
+        "index": 37,
+        "soal": "Istilah yang artinya perpindahan penduduk dari desa ke kota?",
+        "jawaban": "Urbanisasi"
+    },
+    {
+        "index": 38,
+        "soal": "Grup musik terkenal tahun 1970an asal Bandung, personelnya tiga bersaudara?",
+        "jawaban": "Bimbo"
+    },
+    {
+        "index": 39,
+        "soal": "Nama film aksi laga Indonesia tahun 2009 yang dibintangi oleh Iko Uwais?",
+        "jawaban": "Merantau"
+    },
+    {
+        "index": 40,
+        "soal": "Dikenal sebagai “maestro keroncong Indonesia”, pencipta lagu Bengawan Solo?",
+        "jawaban": "Gesang"
+    },
+    {
+        "index": 41,
+        "soal": "Skala suhu dimana titik beku air berada pada 0 derajat dan titik didih pada 100 derajat?",
+        "jawaban": "Celcius"
+    },
+    {
+        "index": 42,
+        "soal": "Makhluk halus mitos Jawa, berwujud manusia mirip kera, bertubuh besar dan berbulu?",
+        "jawaban": "Genderuwo"
+    },
+    {
+        "index": 43,
+        "soal": "Sebuah distrik di Los Angeles yang terkenal dengan industri perfilmannya yang mendunia?",
+        "jawaban": "Hollywood"
+    },
+    {
+        "index": 44,
+        "soal": "Cabang biologi yang mempelajari pewarisan sifat pada organisme maupun suborganisme?",
+        "jawaban": "Genetika"
+    },
+    {
+        "index": 45,
+        "soal": "Situs manusia purba di Jawa Tengah, juga merupakan Situs Warisan Dunia UNESCO?",
+        "jawaban": "Sangiran"
+    },
+    {
+        "index": 46,
+        "soal": "Bongkahan batu yang berukuran lebih kecil daripada planet, mengorbit Matahari?",
+        "jawaban": "Asteroid"
+    },
+    {
+        "index": 47,
+        "soal": "Istilah untuk hewan pemakan rerumputan atau tumbuhan?",
+        "jawaban": "Herbivora"
+    },
+    {
+        "index": 48,
+        "soal": "Istilah yang berarti pembantaian sistematis terhadap suatu suku atau kelompok?",
+        "jawaban": "Genosida"
+    },
+    {
+        "index": 49,
+        "soal": "Nama penyakit demam yang ditularkan oleh nyamuk Anopheles betina?",
+        "jawaban": "Malaria"
+    },
+    {
+        "index": 50,
+        "soal": "Nama tokoh fiksi budaya Sunda yang sifatnya lucu, polos, tetapi sekaligus cerdas?",
+        "jawaban": "Kabayan"
+    },
+    {
+        "index": 51,
+        "soal": "Asrama tempat belajar para siswa santri yang dibimbin oleh Kiai?",
+        "jawaban": "Pesantren"
+    },
+    {
+        "index": 52,
+        "soal": "Perusahaan video game dari Jepang, pencipta Mario Bros dan Pokemon?",
+        "jawaban": "Nintendo"
+    },
+    {
+        "index": 53,
+        "soal": "Sebuah agama resmi di Indonesia yang berdasarkan pada ajaran Konfusius?",
+        "jawaban": "Khong hu cu"
+    },
+    {
+        "index": 54,
+        "soal": "Nama ensiklopedia online yang bebas ditulis dan disunting oleh siapa saja?",
+        "jawaban": "Wikipedia"
+    },
+    {
+        "index": 55,
+        "soal": "Bangun datar segi empat, sepasang sisi sejajar namun tidak sama panjang?",
+        "jawaban": "Trapesium"
+    },
+    {
+        "index": 56,
+        "soal": "Penyakit dimana hormon pengatur gula dara dari tubuh tidak mencukupi?",
+        "jawaban": "Diabetes"
+    },
+    {
+        "index": 57,
+        "soal": "Negara independen terkecil di dunia yang diakui secara internasional?",
+        "jawaban": "Vatikan"
+    },
+    {
+        "index": 58,
+        "soal": "Kekaisaran kuno di wilayah Yunani yang dipimpin oleh Aleksander Agung?",
+        "jawaban": "Makedonia"
+    },
+    {
+        "index": 59,
+        "soal": "Negara dengan jumlah penduduk Muslim terbanyak kedua di dunia?",
+        "jawaban": "Pakistan"
+    },
+    {
+        "index": 60,
+        "soal": "Gejala penurunan fungsi otak, umumnya terjadi pada usia lanjut?",
+        "jawaban": "Demensia"
+    },
+    {
+        "index": 61,
+        "soal": "Bahan bakar fosil, digunakan di Pembangkit Listrik Tenaga Uap?",
+        "jawaban": "Batu bara"
+    },
+    {
+        "index": 62,
+        "soal": "Nama pura terkenal di Bali yang dibangun pada ujung batu karang?",
+        "jawaban": "Uluwatu"
+    },
+    {
+        "index": 63,
+        "soal": "Sebuah gelar yang diperoleh putra Sultan Agung dari Mataram?",
+        "jawaban": "Amangkurat"
+    },
+    {
+        "index": 64,
+        "soal": "Seorang yang bertugas merawat bayi atau anak pada suatu keluarga?",
+        "jawaban": "Pramusiwi"
+    },
+    {
+        "index": 65,
+        "soal": "Daerah di Jepang dimana terjadi kebocoran nuklir pada tahun 2011?",
+        "jawaban": "Fukushima"
+    },
+    {
+        "index": 66,
+        "soal": "Perlindungan finansial untuk jiwa kesehatan properti dsb?",
+        "jawaban": "Asuransi"
+    },
+    {
+        "index": 67,
+        "soal": "Perusahaan berlogo kuda asal Italia produsen mobil super dan mobil balap?",
+        "jawaban": "Ferrari"
+    },
+    {
+        "index": 68,
+        "soal": "Suku dari sulawesi selatan yang terkenal sebagai pelaut ulung?",
+        "jawaban": "Bugis"
+    },
+    {
+        "index": 69,
+        "soal": "Vampir yang merupakan tokoh utama fiksi ciptaan Bram Stoker?",
+        "jawaban": "Drakula"
+    },
+    {
+        "index": 70,
+        "soal": "Planet ini merupakan planet terbesar di Tata Surya?",
+        "jawaban": "Jupiter"
+    },
+    {
+        "index": 71,
+        "soal": "Tanaman yang dipakai sebagai bahan pembuat kertas pada Zaman Mesir Kuno?",
+        "jawaban": "Papirus"
+    },
+    {
+        "index": 72,
+        "soal": "Bahan peledak berupa bubuk campuran dari belerang, arang, dan kalium nitrat?",
+        "jawaban": "Mesiu"
+    },
+    {
+        "index": 73,
+        "soal": "Bahasa resmi yang juga digunakan secara luas di Negara Filipina?",
+        "jawaban": "Tagalog"
+    },
+    {
+        "index": 74,
+        "soal": "Negara kecil di Amerika Selatan, terdapat banyak keturunan Suku Jawa?",
+        "jawaban": "Suriname"
+    },
+    {
+        "index": 75,
+        "soal": "Kuda jantan bersayap dari mitologi Yunani?",
+        "jawaban": "Pegasus"
+    },
+    {
+        "index": 76,
+        "soal": "Grup musik Rock alternatif dari London. vokalisnya bernama Chris Martin?",
+        "jawaban": "Coldplay"
+    },
+    {
+        "index": 77,
+        "soal": "Buah yang jika dipotong mempunyai penampang berbentuk bintang?",
+        "jawaban": "Belimbing"
+    },
+    {
+        "index": 78,
+        "soal": "Ensembel musik yang biasanya menonjolkan metalofon, gambang, gendang, dan gong?",
+        "jawaban": "Gamelan"
+    },
+    {
+        "index": 79,
+        "soal": "Nama kota yang selama beberapa abad diperebutkan oleh Islam, Kristen, Yahudi?",
+        "jawaban": "Yerusalem"
+    },
+    {
+        "index": 80,
+        "soal": "Bahasa resmi negara Bangladesh, digunakan oleh sekitar 200 juta orang?",
+        "jawaban": "Bengali"
+    },
+    {
+        "index": 81,
+        "soal": "Minuman memabukkan yang berbahan dasar etanol?",
+        "jawaban": "Alkohol"
+    },
+    {
+        "index": 82,
+        "soal": "Satu-satunya gunung berapi aktif di Eropa Daratan yang letaknya di Italia?",
+        "jawaban": "Vesuvius"
+    },
+    {
+        "index": 83,
+        "soal": "Karakter fiksi berambut sangat panjang tokoh utama film animasi Tangled?",
+        "jawaban": "Rapunzel"
+    },
+    {
+        "index": 84,
+        "soal": "Bencana alam berupa gelombang ombak besar dari laut?",
+        "jawaban": "Tsunami"
+    },
+    {
+        "index": 85,
+        "soal": "Nama kota di negara Turki yang zaman dulu bernama Konstantinopel?",
+        "jawaban": "Istanbul"
+    },
+    {
+        "index": 86,
+        "soal": "Subspesies manusia yang punah dari muka bumi sekitar 30.000 tahun yang lalu?",
+        "jawaban": "Neanderthal"
+    },
+    {
+        "index": 87,
+        "soal": "Nama ritual bunuh diri kaum Samurai di Jepang dengan cara merobek perut?",
+        "jawaban": "Seppuku"
+    },
+    {
+        "index": 88,
+        "soal": "Jenis keju asal Italia yang seringkali terdapat pada hidangan pizza?",
+        "jawaban": "Mozzarella"
+    },
+    {
+        "index": 89,
+        "soal": "Gelar bagi istri dari penguasa monarki pria(raja, sultan, atau kaisar)?",
+        "jawaban": "Permaisuri"
+    },
+    {
+        "index": 90,
+        "soal": "Nama suku yang sejak lama mendiami daerah kutub utara bumi?",
+        "jawaban": "Eskimo"
+    },
+    {
+        "index": 91,
+        "soal": "Unsur paling berlimpah kedua setelah oksigen pada tubuh manusia?",
+        "jawaban": "Karbon"
+    },
+    {
+        "index": 92,
+        "soal": "Peristiwa genosida terhadap penganut Yahudi Eropa selama Perang Dunia II?",
+        "jawaban": "Holokaus"
+    },
+    {
+        "index": 93,
+        "soal": "Proses perubahan gula menjadi etanol yang dilakukan oleh ragi?",
+        "jawaban": "Fermentasi"
+    },
+    {
+        "index": 94,
+        "soal": "Ramalan dalam tradisi jawa yang membahas mengenai adanya ratu adil?",
+        "jawaban": "Jayabaya"
+    },
+    {
+        "index": 95,
+        "soal": "Tokoh abad ke 15 dari Polandia yang mencetuskan teori heliosentrisme?",
+        "jawaban": "Copernicus"
+    },
+    {
+        "index": 96,
+        "soal": "Alat populer untuk menyambung dua sisi kain, digunakan dalam pakaian, tas, dsb?",
+        "jawaban": "Ritsleting"
+    },
+    {
+        "index": 97,
+        "soal": "Satuan perbedaan potensi listrik antara dua titik dalam rangkaian listrik?",
+        "jawaban": "Voltase"
+    },
+    {
+        "index": 98,
+        "soal": "Sistem sosial yang memberikan kekuasaan besar kepada golongan bangsawan?",
+        "jawaban": "Feodalisme"
+    },
+    {
+        "index": 99,
+        "soal": "Nama pemanis buatan/sintetis yang tersusun dari dua macam asam amino?",
+        "jawaban": "Aspartam"
+    },
+    {
+        "index": 100,
+        "soal": "Konsol permainan video yang pertama kali diproduksi oleh Sony tahun 1990an?",
+        "jawaban": "PlayStation"
+    },
+    {
+        "index": 101,
+        "soal": "Nama lain pulau Kalimantan, digunakan saat zaman pemerintahan Hindia Belanda?",
+        "jawaban": "Borneo"
+    },
+    {
+        "index": 102,
+        "soal": "Batu permata atau batu mulia yang warnanya pada kisaran hijau?",
+        "jawaban": "Zamrud"
+    },
+    {
+        "index": 103,
+        "soal": "Nama museum sejarah dan kebudayaan jawa yang berada di Yogyakarta?",
+        "jawaban": "Sonobudoyo"
+    },
+    {
+        "index": 104,
+        "soal": "Cabang ilmu kedokteran yang mempelajari aspek kesehatan jiwa dan tubuh manusia?",
+        "jawaban": "Psikiatri"
+    },
+    {
+        "index": 105,
+        "soal": "Presiden pertama Amerika Serikat, juga menjadi nama Ibukota Amerika Serikat?",
+        "jawaban": "Washingthon"
+    },
+    {
+        "index": 106,
+        "soal": "Satu-satunya jenis hewan mamalia yang bisa terbang?",
+        "jawaban": "Kelelawar"
+    },
+    {
+        "index": 107,
+        "soal": "Gugus kepulauan Oseania, terdiri lebih dari 1000 kepulauan?",
+        "jawaban": "Polinesia"
+    },
+    {
+        "index": 108,
+        "soal": "Gelar penguasa monarki zaman kerajaan, tingkatnya setara dengan kaisar?",
+        "jawaban": "Maharaja"
+    },
+    {
+        "index": 109,
+        "soal": "Nama pulau yang paling berdekatan dengan negara Singapura?",
+        "jawaban": "Batam"
+    },
+    {
+        "index": 110,
+        "soal": "Cabang angkatan bersenjata berkemampuan melakukan penyerbuan secara amfibi?",
+        "jawaban": "Marinir"
+    },
+    {
+        "index": 111,
+        "soal": "Perusahaan operator seluler di Indonesia dengan pelanggan terbanyak?",
+        "jawaban": "Telkomsel"
+    },
+    {
+        "index": 112,
+        "soal": "Nama binatang bercangkang dan berkaki 10?",
+        "jawaban": "Kepiting"
+    },
+    {
+        "index": 113,
+        "soal": "Benda miniatur untuk menggabarkan suatu pemandangan atau suatu adegan?",
+        "jawaban": "Diorama"
+    },
+    {
+        "index": 114,
+        "soal": "Rumah adat masyarakat Toraja, atapnya melengkung menyerupai perahu?",
+        "jawaban": "Tonkonan"
+    },
+    {
+        "index": 115,
+        "soal": "Gua yang menjadi markas besar pangeran Diponegoro pada tahun 1825?",
+        "jawaban": "Selarong"
+    },
+    {
+        "index": 116,
+        "soal": "Sebutan untuk makhluk berwujud perempuan yang tinggal di kahyangan/surga?",
+        "jawaban": "Bidadari"
+    },
+    {
+        "index": 117,
+        "soal": "Pedang melengkung satu mata yang digunakan para Samurai Jepang?",
+        "jawaban": "Katana"
+    },
+    {
+        "index": 118,
+        "soal": "Bahan perhiasan yang diproduksi di dalam jaringan lunak hewan moluska?",
+        "jawaban": "Mutiara"
+    },
+    {
+        "index": 119,
+        "soal": "Nama perusahaan dari Finlandia pengembang game Clash of Clans?",
+        "jawaban": "Supercell"
+    },
+    {
+        "index": 120,
+        "soal": "Minuman tradisional khas Sunda, berbahan utama gula aren dan santan?",
+        "jawaban": "Bajigur"
+    },
+    {
+        "index": 121,
+        "soal": "Aliran musik yang awalnya dikembangkan di jamaika pada tahun 1960an?",
+        "jawaban": "Reggae"
+    },
+    {
+        "index": 122,
+        "soal": "Drama tradisional dari Jawa Timur, bersifat menghibur dan membuat tertawa?",
+        "jawaban": "Ludruk"
+    },
+    {
+        "index": 123,
+        "soal": "Nama asrama sekolah fiksi dimana tokoh Harry Potter belajar sihir?",
+        "jawaban": "Hogwarts"
+    },
+    {
+        "index": 124,
+        "soal": "Kota yang asal mula namanya berasal dari sejarahnya sebagai pembuat terasi?",
+        "jawaban": "Cirebon"
+    },
+    {
+        "index": 125,
+        "soal": "Pejabat umum dalam bidang hukum yang berwenang membuat akta otentik?",
+        "jawaban": "Notaris"
+    },
+    {
+        "index": 126,
+        "soal": "Jenis gula yang diproses dari karbohidrat oleh tubuh manusia?",
+        "jawaban": "Glukosa"
+    },
+    {
+        "index": 127,
+        "soal": "Pisau genggam kecil berbentuk melengkung khas dari Asia Tenggara?",
+        "jawaban": "Kerambit"
+    },
+    {
+        "index": 128,
+        "soal": "Spesies gajah purba dari genus mamut, pemakan dedaunan dan dahan pohon?",
+        "jawaban": "Mastodon"
+    },
+    {
+        "index": 129,
+        "soal": "Sumpah yang dikemukakan Gajah Mada pada upacara pengangkatannya menjadi Patih?",
+        "jawaban": "Palapa"
+    },
+    {
+        "index": 130,
+        "soal": "Produk simpanan di bank, penarikannya hanya bisa dilakukan pada waktu tertentu saja?",
+        "jawaban": "Deposito"
+    },
+    {
+        "index": 131,
+        "soal": "Gejala optik dan meteorologi berupa cahaya beraneka warna yang tampak di langit?",
+        "jawaban": "Pelangi"
+    },
+    {
+        "index": 132,
+        "soal": "Senjata roket militer yang memiliki sistem pengendali otomatis untuk mencari target?",
+        "jawaban": "Rudal"
+    },
+    {
+        "index": 133,
+        "soal": "Sindikat kejahatan terorganisir di Jepang yang memiliki cara dan hukum mereka sendiri?",
+        "jawaban": "Yakuza"
+    },
+    {
+        "index": 134,
+        "soal": "Golongan cendekiawan yang juga merupakan golongan karya atau warna dalam agama Hindu?",
+        "jawaban": "Brahmana"
+    },
+    {
+        "index": 135,
+        "soal": "Musim kering pada daerah tropis yang dipengaruhi oleh sistem muson?",
+        "jawaban": "kemarau"
+    },
+    {
+        "index": 136,
+        "soal": "Sekolah umum yang kurikulumnya terdapat pelajaran-pelajaran tentang ke-islaman?",
+        "jawaban": "Madrasah"
+    },
+    {
+        "index": 137,
+        "soal": "Tanaman yang dapat tumbuh tanpa air pada waktu yang lama, ada di daerah gurun?",
+        "jawaban": "Kaktus"
+    },
+    {
+        "index": 138,
+        "soal": "Sebuah ordo berjari lima dari mamalia, diantaranya termasuk lemur, kera, dan manusia?",
+        "jawaban": "Primata"
+    },
+    {
+        "index": 139,
+        "soal": "Blus tradisional wanita yang terbuat dari bahan tipis, dikenakan dengan sarung atau batik?",
+        "jawaban": "Kebaya"
+    },
+    {
+        "index": 140,
+        "soal": "Jenis protein yang biasanya terkandung di dalam gandum, dihindari penderita celiac?",
+        "jawaban": "Gluten"
+    },
+    {
+        "index": 141,
+        "soal": "Olahraga bela diri yang dikembangkan oleh para Afrika di Brasil pada tahun 1500an?",
+        "jawaban": "Capoeira"
+    },
+    {
+        "index": 142,
+        "soal": "Peristiwa pengikisan padatan seperti batuan/tanah akibat transportasi angin, air, atau es?",
+        "jawaban": "Erosi"
+    },
+    {
+        "index": 143,
+        "soal": "Ikan yang merupakan kerabat dekat ikan tuna, sering diolah menjadi kerupuk, siomay, pempek?",
+        "jawaban": "Ikan tenggiri"
+    },
+    {
+        "index": 144,
+        "soal": "Sebuah jenis tari pergaulan tradisional masyarakat Sunda, khusunya daerah Karawang?",
+        "jawaban": "Jaipongan"
+    },
+    {
+        "index": 145,
+        "soal": "Sistem bilangan dimana penulisan angka menggunakan dua simbol yaitu 0 dan 1?",
+        "jawaban": "Biner"
+    },
+    {
+        "index": 146,
+        "soal": "Rempah dari biji keluarga jahe-jahean, merupakan rempah termahal ketiga di dunia?",
+        "jawaban": "Kapulaga"
+    },
+    {
+        "index": 147,
+        "soal": "Benua yang meliputi Kutub Selatan bumi memiliki suhu yang sangat rendah?",
+        "jawaban": "Antartika"
+    },
+    {
+        "index": 148,
+        "soal": "Senjata pelontar yang banyak digunakan pada Abad Pertengahan untuk menghancurkan dinding?",
+        "jawaban": "Trebuset"
+    },
+    {
+        "index": 149,
+        "soal": "Serpihan putih yang merupakan pengelupasan kulit mati berlebihan di kepala?",
+        "jawaban": "Ketombe"
+    },
+    {
+        "index": 150,
+        "soal": "Ilmu yang mempelajari bahasa dalam naskah-naskah manuskrip zaman kuno?",
+        "jawaban": "Filologi"
+    },
+    {
+        "index": 151,
+        "soal": "Susu yang hanya dihasilkan pada tahap akhir kehamilan beberapa hari setelah melahirkan?",
+        "jawaban": "Kolostrum"
+    },
+    {
+        "index": 152,
+        "soal": "Tanaman asli Jepang terasa tajam/pedas yang dimakan sebagai penyedap masakan Jepang?",
+        "jawaban": "Wasabi"
+    },
+    {
+        "index": 153,
+        "soal": "Olahraga yang menggunakan tongkat pemukul, lapangannya berbentuk bujur sangkar?",
+        "jawaban": "Bisbol"
+    },
+    {
+        "index": 154,
+        "soal": "Bumbu khas untuk masakan Batak Toba yang juga dikenal sebagai merica Batak?",
+        "jawaban": "Andaliman"
+    },
+    {
+        "index": 155,
+        "soal": "Sistem pemerintahan yang dianut oleh negara Inggris, Jepang, Belanda, Malaysia, Singapura?",
+        "jawaban": "Parelementer"
+    },
+    {
+        "index": 156,
+        "soal": "Makanan tradisional Korea berupa asinan sayur hasil fermentasi yang diberi bumbu pedas?",
+        "jawaban": "Kimchi"
+    },
+    {
+        "index": 157,
+        "soal": "Istilah untuk sesuatu yang bertujuan sosial atau lingkungan, bukan bertujuan keuntungan materi?",
+        "jawaban": "Nirlaba"
+    },
+    {
+        "index": 158,
+        "soal": "Gerakan yang memperjuangkan kesetaraan bagi perempuan dalam politik, ekonomi, budaya, dsb?",
+        "jawaban": "Feminisme"
+    },
+    {
+        "index": 159,
+        "soal": "Minuman hasil fermentasi teh dan gula yang berasal dari Asia Timur?",
+        "jawaban": "Kombucha"
+    },
+    {
+        "index": 160,
+        "soal": "Kelompok garis kerras dari Rusia tahun 1903 yang berpikir perubahan harus dimenangkan dengan senjata?",
+        "jawaban": "Bolshevic"
+    },
+    {
+        "index": 161,
+        "soal": "Nama pulau vulkanik yang berada di tengah Danau Toba Sumatera Utara?",
+        "jawaban": "Samosir"
+    },
+    {
+        "index": 162,
+        "soal": "Prajurit pada zaman Yunani Kuno, berfungsi sebagai penombak dalam formasi phalanx?",
+        "jawaban": "Hoplites"
+    },
+    {
+        "index": 163,
+        "soal": "Nama dari sebuah pekan yang terdiri dari 5 hari dalam budaya Jawa dan Bali?",
+        "jawaban": "Pancawara"
+    },
+    {
+        "index": 164,
+        "soal": "Cara penyajian makanan pada masa kolonial Belanda dengan berbagai macam hidangan Nusantara?",
+        "jawaban": "Rijsttafel"
+    },
+    {
+        "index": 165,
+        "soal": "Istilah untuk budidaya menanamdengan memanfaatkan air tanpa menggunakan tanah?",
+        "jawaban": "Hidroponik"
+    },
+    {
+        "index": 166,
+        "soal": "Jenis logam paling berlimpah di Bumi, merupakan konduktor listrik yang paling baik?",
+        "jawaban": "Aluminium"
+    },
+    {
+        "index": 167,
+        "soal": "Sebuah organisasi ekonomi berdasarkan ekonomi rakyat dan asas kekeluargaan?",
+        "jawaban": "Koperasi"
+    },
+    {
+        "index": 168,
+        "soal": "Hari raya umat hindu, dirayakan setiap 210 hari menggunakan perhitungan kalender Bali?",
+        "jawaban": "Galungan"
+    },
+    {
+        "index": 169,
+        "soal": "Ilmu yang mempelajari bentuk permukaan bumi serta permukaan planet, satelit alami, asteroid?",
+        "jawaban": "Topografi"
+    },
+    {
+        "index": 170,
+        "soal": "Persembahan kepada dewa atau arwah nenek moyang oleh penganut kepercayaan kuno di Indonesia?",
+        "jawaban": "Sesajen"
+    },
+    {
+        "index": 171,
+        "soal": "Judul lagurakyat Korea, sekaligus simbol Korea, dikenal di Korea Utara maupun Korea Selatan?",
+        "jawaban": "Arirang"
+    },
+    {
+        "index": 172,
+        "soal": "Istilah bentuk bangsa pengembara yang memilih hidup berpindah-pindah untuk bertahan hidup?",
+        "jawaban": "Nomaden"
+    },
+    {
+        "index": 173,
+        "soal": "Sejenis jamur pinus langka yang menjadi bahan makanan mewah berharga mahal di Jepang?",
+        "jawaban": "Matsutake"
+    },
+    {
+        "index": 174,
+        "soal": "Suatu adat masyarakat yang mengatur alur keturunan berasal dari pihak ibu?",
+        "jawaban": "Matrilineal"
+    },
+    {
+        "index": 175,
+        "soal": "Padang rumput yang dipenuhi semak dan beberapa jenis pohon yang tumbuh menyebar?",
+        "jawaban": "Sabana"
+    },
+    {
+        "index": 176,
+        "soal": "Penjelajah asal italia yang menemukan benua amerika pada tahun 1492?",
+        "jawaban": "Capoerira"
+    },
+    {
+        "index": 177,
+        "soal": "Skor atau skala yang digunakan unuk menilai kondisi kesehatan bayi yang baru lahir?",
+        "jawaban": "Apgar"
+    },
+    {
+        "index": 178,
+        "soal": "Salah satu pulau di Sulawesi Utara yang memiliki biodiversitas kelautan tertinngi di dunia?",
+        "jawaban": "Bunaken"
+    },
+    {
+        "index": 179,
+        "soal": "Ahli pengaplikasian ilmu keuangan dan teori statistik pada persoalan bisnis aktual?",
+        "jawaban": "Aktuaris"
+    },
+    {
+        "index": 180,
+        "soal": "Tradisi sepasang pengantin meminta doa restu kepada orang tua kedua belah pihak?",
+        "jawaban": "Sungkem"
+    },
+    {
+        "index": 181,
+        "soal": "Jenis saus berwarna putih yang terbuat dari minyak nabati, telur ayam, dan cuka?",
+        "jawaban": "Mayones"
+    },
+    {
+        "index": 182,
+        "soal": "Istilah yang artinya tidak memberikan suara atau sikap dalam sebuah pemungutan suara?",
+        "jawaban": "Abstain"
+    },
+    {
+        "index": 183,
+        "soal": "Salah satu bunga nasional indonesia memiliki julukan sebagai puspa bangsa?",
+        "jawaban": "Melati"
+    },
+    {
+        "index": 184,
+        "soal": "Alat musik dawai yang dimainkan dengan cara dipetik, berasal dari Rote, NTT?",
+        "jawaban": "Sasando"
+    },
+    {
+        "index": 185,
+        "soal": "Batu yang menggantungkan dan meneteskan air dari langit-langit gua kapur?",
+        "jawaban": "Stalaktit"
+    },
+    {
+        "index": 186,
+        "soal": "Ikon negara singapura berupa patung berkepala singa dengan berbadan ikan?",
+        "jawaban": "Merlion"
+    },
+    {
+        "index": 187,
+        "soal": "Istilah dalam catur ketika posisi raja tidak bisa lepas dari pergerakan lawan?",
+        "jawaban": "Sekakmat"
+    },
+    {
+        "index": 188,
+        "soal": "Alat untuk mengukur tekanan udara, digunakan dalam peramalan cuaca?",
+        "jawaban": "Barometer"
+    },
+    {
+        "index": 189,
+        "soal": "Presiden amerika ke 32 satu-satunya yang terpilih sebanyak 4 kali?",
+        "jawaban": "Roosevelt"
+    },
+    {
+        "index": 190,
+        "soal": "Jenis rumah arsitektur tradisional Jawa terbangun dari empat tiang utama?",
+        "jawaban": "Limasan"
+    },
+    {
+        "index": 191,
+        "soal": "Istilah bahasa Jepang untuk karakter gambar yang digunakan dalam pesan elektronik?",
+        "jawaban": "Emoji"
+    },
+    {
+        "index": 192,
+        "soal": "Salah satu senjata belati khas Nusantara yang seringkali bilahnya berkelok-kelok?",
+        "jawaban": "Keris"
+    },
+    {
+        "index": 193,
+        "soal": "Penduduk asli benua Australia yang berciri kulit gelap dan rambut keriting?",
+        "jawaban": "Aborigin"
+    },
+    {
+        "index": 194,
+        "soal": "Tarian khas suku gayo dari aceh, ditampilkan untuk merayakan peristiwa penting?",
+        "jawaban": "Tari saman"
+    },
+    {
+        "index": 195,
+        "soal": "Bentuk muda serangga atau amfibia yang perkembangannya melalui metamorfosis?",
+        "jawaban": "Larva"
+    },
+    {
+        "index": 196,
+        "soal": "Tempat kapal ditambatkan di pelabuhan untuk kegiatan bongkar muat barang?",
+        "jawaban": "Dermaga"
+    },
+    {
+        "index": 197,
+        "soal": "Jenis jam tangan yang digerakkan oleh mesin bertenaga listrik atau baterai?",
+        "jawaban": "Quartz"
+    },
+    {
+        "index": 198,
+        "soal": "Suku penganut Agama Hindu yang tinggal di sekitar pegunungan Bromo dan Semeru?",
+        "jawaban": "Tengger"
+    },
+    {
+        "index": 199,
+        "soal": "Mainan yang bisa berputar padaporos dan berkesetimbangan pada suatu titik?",
+        "jawaban": "Gasing"
+    },
+    {
+        "index": 200,
+        "soal": "Tanaman polong-polongan yang merupakan sumber utama protein nabati dunia?",
+        "jawaban": "Kedelai"
+    },
+    {
+        "index": 201,
+        "soal": "Cairan tidak berwarna, tidak berbau, digunakan sebagai senjata kimia pemusnah massal?",
+        "jawaban": "Sarin"
+    },
+    {
+        "index": 202,
+        "soal": "Cabang ilmu kedokteran gigi yang khusus mempelajari ilmu merapikan gigi?",
+        "jawaban": "Ortodonti"
+    },
+    {
+        "index": 203,
+        "soal": "Sstilah yang berasal dari Bahasa Italia, artinya penari baletperempuan?",
+        "jawaban": "Balerina"
+    },
+    {
+        "index": 204,
+        "soal": "Sawah berundak di Bali yang diakui UNESCO sebagai Warisan Budaya Dunia?",
+        "jawaban": "Jatiluwih"
+    },
+    {
+        "index": 205,
+        "soal": "Makanan pokok pengganti nasi yang dibuat dari ketela pohon atau singkong?",
+        "jawaban": "Tiwul"
+    },
+    {
+        "index": 206,
+        "soal": "Bagian mata yang mengubah cahaya menjadi sinyal saraf?",
+        "jawaban": "Retina"
+    },
+    {
+        "index": 207,
+        "soal": "Nama mesin penyandi yang digunakan Jerman nazi pada Perang Dunia II?",
+        "jawaban": "Enigma"
+    },
+    {
+        "index": 208,
+        "soal": "Kosmetika yang terbuat dari lilin, pigmen, minyak, diaplikasikan pada bibir?",
+        "jawaban": "Lipstik"
+    },
+    {
+        "index": 209,
+        "soal": "Bumbu makanan yang terbuat dari fermentasi kedelai, terigu, dan garam?",
+        "jawaban": "Tauco"
+    },
+    {
+        "index": 210,
+        "soal": "Hewan renik yang dapat menurunkan produktivitas hewan yang diumpanginya?",
+        "jawaban": "Parasit"
+    },
+    {
+        "index": 211,
+        "soal": "Cairan manis yang diproduksi bunga untuk menarik kedatangan hewan penyerbuk?",
+        "jawaban": "Nektar"
+    },
+    {
+        "index": 212,
+        "soal": "Proses pembuatan daratan baru dari dasar laut atau dasar sungai?",
+        "jawaban": "Reklamasi"
+    },
+    {
+        "index": 213,
+        "soal": "Istilah untuk keadaan niat sebelum melaksanakan ibadah Haji atau Umroh?",
+        "jawaban": "Ihram"
+    },
+    {
+        "index": 214,
+        "soal": "Alat musik senar khas suku Banjar, dimainkan dengan cara dipetik?",
+        "jawaban": "Panting"
+    },
+    {
+        "index": 215,
+        "soal": "Penyakit virus mematikan yang mewabah di Afrika Barat tahun 2014?",
+        "jawaban": "Ebola"
+    },
+    {
+        "index": 216,
+        "soal": "Jenis musang yang dikenal suka menyantap biji kopi secara utuh?",
+        "jawaban": "Luwak"
+    },
+    {
+        "index": 217,
+        "soal": "Nama pedang yang dimiliki raja Arthur menurut mitologi Britania Raya?",
+        "jawaban": "Excalibur"
+    },
+    {
+        "index": 218,
+        "soal": "Negara yang memiliki bendera merah putih persis seperti Indonesia?",
+        "jawaban": "Monako"
+    },
+    {
+        "index": 219,
+        "soal": "Suatu pertunjukan teater yang menggunakan isyarat gerak tubuh tanpa suara?",
+        "jawaban": "Pantomim"
+    },
+    {
+        "index": 220,
+        "soal": "Tradisi pernikahan calon mempelai wanita tidak diperkenankan keluar rumah?",
+        "jawaban": "Pingitan"
+    },
+    {
+        "index": 221,
+        "soal": "Tipe hewan yang beraktivitas pada malam hari dan tidur pada siang hari?",
+        "jawaban": "Nokturnal"
+    },
+    {
+        "index": 222,
+        "soal": "Kelainan bawaan tidak adanya pigmen melanin pada mata, kulit, rambut?",
+        "jawaban": "Albinisme"
+    },
+    {
+        "index": 223,
+        "soal": "Cabang ilmu linguistik yang mempelajari asal usul kata?",
+        "jawaban": "Etimologi"
+    },
+    {
+        "index": 224,
+        "soal": "Jenis ikan yang dapat melompat kedaratan, terdapat di Pulau Kalimantan?",
+        "jawaban": "Tembakul"
+    },
+    {
+        "index": 225,
+        "soal": "Mata uang elektronik dengan teknologi blockchain yang diciptakan pada tahun 2009?",
+        "jawaban": "Bitcoin"
+    },
+    {
+        "index": 226,
+        "soal": "Pengusaha rokok terbesar tahun 1918 pemilik pabrik kretek tjap bal tiga?",
+        "jawaban": "Nitisemito"
+    },
+    {
+        "index": 227,
+        "soal": "Pulau di Indonesia yang dikenal sebagai pulau rempah-rempah?",
+        "jawaban": "Maluku"
+    },
+    {
+        "index": 228,
+        "soal": "Tumbuhan pemakan serangga yang hidup di tanah miskin nitrogen?",
+        "jawaban": "Kantongsemar"
+    },
+    {
+        "index": 229,
+        "soal": "Planet yang memiliki cincin paling mencolok dalam tata surya?",
+        "jawaban": "Saturnus"
+    },
+    {
+        "index": 230,
+        "soal": "Alat musik tiup dari Tana Toraja berbentuk tanduk kerbau?",
+        "jawaban": "Pa'suling"
+    },
+    {
+        "index": 231,
+        "soal": "Zat warna hijau pada tumbuhan yang berperan dalam fotosintesis?",
+        "jawaban": "Klorofil"
+    },
+    {
+        "index": 232,
+        "soal": "Kota tertua yang masih berpenghuni dan terletak di Timur Tengah?",
+        "jawaban": "Damaskus"
+    },
+    {
+        "index": 233,
+        "soal": "Bangunan khas Suku Dani yang digunakan sebagai rumah dan lumbung?",
+        "jawaban": "Honai"
+    },
+    {
+        "index": 234,
+        "soal": "Kepulauan terluar Indonesia yang berbatasan dengan Filipina?",
+        "jawaban": "Miangas"
+    },
+    {
+        "index": 235,
+        "soal": "Satuan ukuran intensitas bunyi dalam fisika?",
+        "jawaban": "Desibel"
+    },
+    {
+        "index": 236,
+        "soal": "Gunung tertinggi di Papua yang juga tertinggi di Indonesia?",
+        "jawaban": "Puncakjaya"
+    },
+    {
+        "index": 237,
+        "soal": "Ilmu yang mempelajari fosil untuk mengetahui kehidupan masa lalu?",
+        "jawaban": "Paleontologi"
+    },
+    {
+        "index": 238,
+        "soal": "Cairan kental yang dihasilkan oleh lebah dari nektar bunga?",
+        "jawaban": "Madu"
+    },
+    {
+        "index": 239,
+        "soal": "Organisme pertama yang hidup di bumi menurut ilmu biologi?",
+        "jawaban": "Prokariota"
+    },
+    {
+        "index": 240,
+        "soal": "Suku yang tinggal di dataran tinggi Sulawesi Selatan?",
+        "jawaban": "Toraja"
+    },
+    {
+        "index": 241,
+        "soal": "Laut terdalam di dunia yang terletak di Samudra Pasifik?",
+        "jawaban": "Mindanao"
+    },
+    {
+        "index": 242,
+        "soal": "Negara di Eropa yang dikenal dengan julukan Negeri Seribu Danau?",
+        "jawaban": "Finlandia"
+    },
+    {
+        "index": 243,
+        "soal": "Sumber energi panas bumi berasal dari panas dalam bumi disebut?",
+        "jawaban": "Geotermal"
+    },
+    {
+        "index": 244,
+        "soal": "Benda langit kecil yang masuk atmosfer dan terbakar disebut?",
+        "jawaban": "Meteor"
+    },
+    {
+        "index": 245,
+        "soal": "Nama kucing besar bercorak tutul yang hidup di Afrika?",
+        "jawaban": "Macan tutul"
+    },
+    {
+        "index": 246,
+        "soal": "Negara terkecil di dunia yang juga merupakan pusat agama Katolik?",
+        "jawaban": "Vatikan"
+    },
+    {
+        "index": 247,
+        "soal": "Jenis logam cair yang digunakan dalam termometer tradisional?",
+        "jawaban": "Raksa"
+    },
+    {
+        "index": 248,
+        "soal": "Lapisan atmosfer tempat terjadinya cuaca dan iklim?",
+        "jawaban": "Troposfer"
+    },
+    {
+        "index": 249,
+        "soal": "Nama lain dari benua Amerika Selatan dalam bahasa Inggris?",
+        "jawaban": "South America"
+    },
+    {
+        "index": 250,
+        "soal": "Zat kimia dengan rumus H2O?",
+        "jawaban": "Air"
+    },
+    {
+        "index": 251,
+        "soal": "Bahan utama pembuatan kaca?",
+        "jawaban": "Pasir silika"
+    },
+    {
+        "index": 252,
+        "soal": "Gunung berapi aktif di Italia yang terkenal karena letusannya?",
+        "jawaban": "Vesuvius"
+    },
+    {
+        "index": 253,
+        "soal": "Satuan internasional untuk besar gaya?",
+        "jawaban": "Newton"
+    },
+    {
+        "index": 254,
+        "soal": "Pulau di Indonesia yang dikenal sebagai tanah para raja?",
+        "jawaban": "Ternate"
+    },
+    {
+        "index": 255,
+        "soal": "Proses perubahan zat cair menjadi gas disebut?",
+        "jawaban": "Evaporasi"
+    },
+    {
+        "index": 256,
+        "soal": "Benda langit yang mengorbit planet disebut?",
+        "jawaban": "Satelit"
+    },
+    {
+        "index": 257,
+        "soal": "Negara dengan ibukota Bern?",
+        "jawaban": "Swiss"
+    },
+    {
+        "index": 258,
+        "soal": "Alat untuk mengukur tekanan udara?",
+        "jawaban": "Barometer"
+    },
+    {
+        "index": 259,
+        "soal": "Proses pemisahan campuran berdasarkan perbedaan titik didih?",
+        "jawaban": "Distilasi"
+    },
+    {
+        "index": 260,
+        "soal": "Sistem penulisan yang digunakan oleh bangsa Mesir kuno?",
+        "jawaban": "Hieroglif"
+    },
+    {
+        "index": 261,
+        "soal": "Benua yang memiliki negara terbesar di dunia?",
+        "jawaban": "Asia"
+    },
+    {
+        "index": 262,
+        "soal": "Hewan yang dikenal sebagai penguasa hutan?",
+        "jawaban": "Singa"
+    },
+    {
+        "index": 263,
+        "soal": "Alat untuk memotong kertas?",
+        "jawaban": "Gunting"
+    },
+    {
+        "index": 264,
+        "soal": "Jenis tanaman yang dapat mengubah karbon dioksida menjadi oksigen?",
+        "jawaban": "Tumbuhan"
+    },
+    {
+        "index": 265,
+        "soal": "Bahan bakar fosil yang berasal dari tumbuhan purba?",
+        "jawaban": "Batubara"
+    },
+    {
+        "index": 266,
+        "soal": "Proses perubahan energi kimia menjadi energi listrik dalam sel bahan bakar hidrogen?",
+        "jawaban": "Elektrokimia"
+    },
+    {
+        "index": 267,
+        "soal": "Bagian dari otak yang mengatur keseimbangan dan koordinasi tubuh?",
+        "jawaban": "Serebelum"
+    },
+    {
+        "index": 268,
+        "soal": "Proses pembentukan batuan sedimen dari partikel halus di bawah air?",
+        "jawaban": "Sedimentasi"
+    },
+    {
+        "index": 269,
+        "soal": "Nama lain dari sistem organ peredaran darah manusia?",
+        "jawaban": "Sistem kardiovaskular"
+    },
+    {
+        "index": 270,
+        "soal": "Ilmu yang mempelajari tentang interaksi antara organisme dan lingkungan mereka?",
+        "jawaban": "Ekologi"
+    },
+    {
+        "index": 271,
+        "soal": "Jenis logam yang digunakan untuk membuat kabel listrik karena konduktivitasnya yang baik?",
+        "jawaban": "Tembaga"
+    },
+    {
+        "index": 272,
+        "soal": "Batuan beku yang terbentuk akibat pendinginan magma di permukaan bumi?",
+        "jawaban": "Batuan basal"
+    },
+    {
+        "index": 273,
+        "soal": "Sistem pemerintahan di mana kepala negara dan kepala pemerintahan dijabat oleh orang yang sama?",
+        "jawaban": "Republik presidensial"
+    },
+    {
+        "index": 274,
+        "soal": "Gaya fisik yang menyebabkan benda bergerak menuruni permukaan miring?",
+        "jawaban": "Gaya gravitasi"
+    },
+    {
+        "index": 275,
+        "soal": "Sumber daya alam yang dapat diperbaharui dan diperoleh dari angin?",
+        "jawaban": "Energi angin"
+    },
+    {
+        "index": 276,
+        "soal": "Jenis pohon yang menghasilkan getah yang digunakan untuk membuat karet?",
+        "jawaban": "Karet"
+    },
+    {
+        "index": 277,
+        "soal": "Nama ilmiah dari tanaman padi yang menjadi bahan makanan pokok di Indonesia?",
+        "jawaban": "Oryza sativa"
+    },
+    {
+        "index": 278,
+        "soal": "Tindak pidana yang melibatkan pemalsuan dokumen atau identitas?",
+        "jawaban": "Pemalsuan"
+    },
+    {
+        "index": 279,
+        "soal": "Bagian dari mata manusia yang berfungsi mengatur jumlah cahaya yang masuk?",
+        "jawaban": "Iris"
+    },
+    {
+        "index": 280,
+        "soal": "Bakteri yang digunakan dalam proses pembuatan yoghurt?",
+        "jawaban": "Lactobacillus"
+    },
+    {
+        "index": 281,
+        "soal": "Lembaga internasional yang mengatur hak cipta dan paten secara global?",
+        "jawaban": "WIPO"
+    },
+    {
+        "index": 282,
+        "soal": "Jenis kanker yang menyerang sel-sel darah?",
+        "jawaban": "Leukemia"
+    },
+    {
+        "index": 283,
+        "soal": "Metode pengukuran waktu yang menggunakan pergerakan bumi mengelilingi matahari?",
+        "jawaban": "Tahun"
+    },
+    {
+        "index": 284,
+        "soal": "Benda langit yang terdiri dari gas dan mengorbit bintang?",
+        "jawaban": "Planet"
+    },
+    {
+        "index": 285,
+        "soal": "Nama organisme yang mengubah bahan organik menjadi bahan anorganik dalam ekosistem?",
+        "jawaban": "Decomposer"
+    },
+    {
+        "index": 286,
+        "soal": "Ilmu yang mempelajari lapisan-lapisan tanah dan proses pembentukannya?",
+        "jawaban": "Pedologi"
+    },
+    {
+        "index": 287,
+        "soal": "Bagian dari mata yang berfungsi untuk mengubah cahaya menjadi impuls listrik?",
+        "jawaban": "Retina"
+    },
+    {
+        "index": 288,
+        "soal": "Penyakit yang disebabkan oleh kekurangan hormon insulin?",
+        "jawaban": "Diabetes"
+    },
+    {
+        "index": 289,
+        "soal": "Ilmu yang mempelajari interaksi antara organisme dengan lingkungan non-hidup?",
+        "jawaban": "Ekosistem"
+    },
+    {
+        "index": 290,
+        "soal": "Molekul yang menyimpan informasi genetik dalam tubuh makhluk hidup?",
+        "jawaban": "DNA"
+    },
+    {
+        "index": 291,
+        "soal": "Fenomena yang menyebabkan matahari tampak lebih besar dari ukuran sebenarnya di saat terbenam?",
+        "jawaban": "Ilusi optik"
+    },
+    {
+        "index": 292,
+        "soal": "Sumber daya alam yang berasal dari bahan organik dan dapat diperbaharui?",
+        "jawaban": "Bioenergi"
+    },
+    {
+        "index": 293,
+        "soal": "Bagian bumi yang terdiri dari lapisan batuan padat dan cair?",
+        "jawaban": "Mantle"
+    },
+    {
+        "index": 294,
+        "soal": "Jenis energi yang berasal dari reaksi nuklir?",
+        "jawaban": "Energi nuklir"
+    },
+    {
+        "index": 295,
+        "soal": "Sifat materi yang mengukur kemampuannya untuk menghantarkan arus listrik?",
+        "jawaban": "Konduktivitas"
+    },
+    {
+        "index": 296,
+        "soal": "Sumber energi terbarukan yang dihasilkan dari perbedaan suhu laut?",
+        "jawaban": "Energi termal laut"
+    },
+    {
+        "index": 297,
+        "soal": "Bagian dari sistem saraf yang bertanggung jawab untuk mengatur gerakan sadar tubuh?",
+        "jawaban": "Sistem saraf somatik"
+    },
+    {
+        "index": 298,
+        "soal": "Proses alami yang mengubah gas karbon dioksida menjadi oksigen oleh tumbuhan?",
+        "jawaban": "Fotosintesis"
+    },
+    {
+        "index": 299,
+        "soal": "Jenis material yang digunakan dalam pembuatan baterai ion litium?",
+        "jawaban": "Litium"
+    },
+    {
+        "index": 300,
+        "soal": "Partikel subatomik yang memiliki muatan negatif dalam atom?",
+        "jawaban": "Elektron"
+    },
+    {
+        "index": 301,
+        "soal": "Jenis sistem pemerintahan yang memberikan kekuasaan pada rakyat untuk memilih pemimpin?",
+        "jawaban": "Demokrasi"
+    },
+    {
+        "index": 302,
+        "soal": "Jaringan organ yang berfungsi mengangkut air dan mineral dari akar ke daun pada tumbuhan?",
+        "jawaban": "Xilem"
+    },
+    {
+        "index": 303,
+        "soal": "Benda langit yang memiliki orbit elips dan merupakan sumber cahaya utama bumi?",
+        "jawaban": "Matahari"
+    },
+    {
+        "index": 304,
+        "soal": "Bagian dari otak yang berperan dalam pengendalian emosi dan perilaku?",
+        "jawaban": "Limbik"
+    },
+    {
+        "index": 305,
+        "soal": "Kumpulan benda langit yang terdiri dari bintang, planet, dan objek lainnya?",
+        "jawaban": "Galaksi"
+    },
+    {
+        "index": 306,
+        "soal": "Ilmu yang mempelajari tentang perubahan sifat materi?",
+        "jawaban": "Kimia Fisika"
+    },
+    {
+        "index": 307,
+        "soal": "Hewan dengan sisik yang bisa berkembang biak di air dan darat?",
+        "jawaban": "Amfibi"
+    },
+    {
+        "index": 308,
+        "soal": "Bahan bakar fosil yang terbentuk dari sisa tanaman purba?",
+        "jawaban": "Minyak bumi"
+    },
+    {
+        "index": 309,
+        "soal": "Bagian otak yang mengontrol fungsi dasar tubuh?",
+        "jawaban": "Medula oblongata"
+    },
+    {
+        "index": 310,
+        "soal": "Sistem energi yang menggunakan sinar matahari untuk menghasilkan listrik?",
+        "jawaban": "Energi surya"
+    },
+    {
+        "index": 311,
+        "soal": "Penyakit yang disebabkan oleh kekurangan vitamin C?",
+        "jawaban": "Skorbut"
+    },
+    {
+        "index": 312,
+        "soal": "Reaksi kimia yang menghasilkan energi dalam bentuk cahaya dan panas?",
+        "jawaban": "Pembakaran"
+    },
+    {
+        "index": 313,
+        "soal": "Jenis jaringan tubuh yang bertugas untuk menghantarkan impuls listrik?",
+        "jawaban": "Jaringan saraf"
+    },
+    {
+        "index": 314,
+        "soal": "Satuan ukuran massa dalam sistem internasional?",
+        "jawaban": "Kilogram"
+    },
+    {
+        "index": 315,
+        "soal": "Proses perubahan air dari cair menjadi gas?",
+        "jawaban": "Evaporasi"
+    },
+    {
+        "index": 316,
+        "soal": "Alat yang digunakan untuk mengukur suhu?",
+        "jawaban": "Termometer"
+    },
+    {
+        "index": 317,
+        "soal": "Hewan yang dikenal dengan kemampuan mimikri menyerupai objek?",
+        "jawaban": "Chameleon"
+    },
+    {
+        "index": 318,
+        "soal": "Batuan yang terbentuk akibat pendinginan lava?",
+        "jawaban": "Batuan beku"
+    },
+    {
+        "index": 319,
+        "soal": "Bagian dari tumbuhan yang berfungsi untuk menyerap air?",
+        "jawaban": "Akar"
+    },
+    {
+        "index": 320,
+        "soal": "Alat musik tradisional Indonesia yang terbuat dari bambu?",
+        "jawaban": "Angklung"
+    },
+    {
+        "index": 321,
+        "soal": "Alat yang digunakan untuk memotong kayu?",
+        "jawaban": "Gergaji"
+    },
+    {
+        "index": 322,
+        "soal": "Bagian tubuh manusia yang berfungsi untuk mengedarkan darah?",
+        "jawaban": "Jantung"
+    },
+    {
+        "index": 323,
+        "soal": "Proses perubahan batuan sedimen menjadi batuan metamorf?",
+        "jawaban": "Metamorfosis"
+    },
+    {
+        "index": 324,
+        "soal": "Proses perubahan bahan organik menjadi batu bara?",
+        "jawaban": "Pembatubaraan"
+    },
+    {
+        "index": 325,
+        "soal": "Nama gas yang digunakan dalam lampu neon?",
+        "jawaban": "Neon"
+    },
+    {
+        "index": 326,
+        "soal": "Nama zat kimia yang digunakan untuk memutihkan pakaian?",
+        "jawaban": "Hidrogen peroksida"
+    },
+    {
+        "index": 327,
+        "soal": "Fenomena geologi akibat pergerakan lempeng tektonik di dasar laut?",
+        "jawaban": "Tsunami"
+    },
+    {
+        "index": 328,
+        "soal": "Planet terdekat dengan matahari dalam tata surya?",
+        "jawaban": "Merkurius"
+    },
+    {
+        "index": 329,
+        "soal": "Bagian dari daun tempat terjadinya fotosintesis paling aktif?",
+        "jawaban": "Mesofil palisade"
+    },
+    {
+        "index": 330,
+        "soal": "Jenis gunung api yang bentuknya menyerupai kerucut?",
+        "jawaban": "Stratovolcano"
+    },
+    {
+        "index": 331,
+        "soal": "Pusat pengendalian semua aktivitas tubuh manusia?",
+        "jawaban": "Otak"
+    },
+    {
+        "index": 332,
+        "soal": "Bagian dari sel hewan tempat respirasi seluler terjadi?",
+        "jawaban": "Mitokondria"
+    },
+    {
+        "index": 333,
+        "soal": "Aliran filsafat yang mengutamakan akal sebagai sumber pengetahuan?",
+        "jawaban": "Rasionalisme"
+    },
+    {
+        "index": 334,
+        "soal": "Gas yang paling banyak terdapat di atmosfer bumi?",
+        "jawaban": "Nitrogen"
+    },
+    {
+        "index": 335,
+        "soal": "Salah satu unsur logam alkali tanah dengan lambang Ca?",
+        "jawaban": "Kalsium"
+    },
+    {
+        "index": 336,
+        "soal": "Zat yang dibutuhkan tumbuhan untuk proses fotosintesis selain air dan cahaya?",
+        "jawaban": "Karbon dioksida"
+    },
+    {
+        "index": 337,
+        "soal": "Lapisan atmosfer yang melindungi bumi dari radiasi ultraviolet?",
+        "jawaban": "Lapisan ozon"
+    },
+    {
+        "index": 338,
+        "soal": "Proses pelepasan energi dari inti atom secara tiba-tiba?",
+        "jawaban": "Reaksi nuklir"
+    },
+    {
+        "index": 339,
+        "soal": "Bagian dari sel tumbuhan yang berfungsi menyimpan cadangan makanan?",
+        "jawaban": "Vakuola"
+    },
+    {
+        "index": 340,
+        "soal": "Jenis sel darah yang berfungsi melawan infeksi?",
+        "jawaban": "Sel putih"
+    },
+    {
+        "index": 341,
+        "soal": "Nama zat pewarna alami pada tumbuhan berdaun hijau?",
+        "jawaban": "Klorofil"
+    },
+    {
+        "index": 342,
+        "soal": "Salah satu komponen utama pembentuk tulang dan gigi manusia?",
+        "jawaban": "Kalsium"
+    },
+    {
+        "index": 343,
+        "soal": "Planet terbesar dalam tata surya kita?",
+        "jawaban": "Jupiter"
+    },
+    {
+        "index": 344,
+        "soal": "Benua yang terletak seluruhnya di belahan bumi selatan?",
+        "jawaban": "Antarktika"
+    },
+    {
+        "index": 345,
+        "soal": "Sistem organ pada manusia yang mengangkut oksigen ke seluruh tubuh?",
+        "jawaban": "Sistem pernapasan"
+    },
+    {
+        "index": 346,
+        "soal": "Proses pembentukan gamet melalui pembelahan sel secara meiosis?",
+        "jawaban": "Gametogenesis"
+    },
+    {
+        "index": 347,
+        "soal": "Bagian dari telinga yang berfungsi menangkap gelombang suara?",
+        "jawaban": "Daun telinga"
+    },
+    {
+        "index": 348,
+        "soal": "Unsur kimia ringan yang sangat mudah terbakar dan digunakan dalam balon?",
+        "jawaban": "Hidrogen"
+    },
+    {
+        "index": 349,
+        "soal": "Fenomena saat bayangan bumi menutupi bulan?",
+        "jawaban": "Gerhana bulan"
+    },
+    {
+        "index": 350,
+        "soal": "Alat optik yang digunakan untuk melihat benda sangat kecil?",
+        "jawaban": "Mikroskop"
+    },
+    {
+        "index": 351,
+        "soal": "Hewan mamalia terbesar yang hidup di laut?",
+        "jawaban": "Paus biru"
+    },
+    {
+        "index": 352,
+        "soal": "Lapisan mata yang berfungsi mengatur jumlah cahaya yang masuk?",
+        "jawaban": "Pupil"
+    },
+    {
+        "index": 353,
+        "soal": "Batuan metamorf yang berasal dari batu kapur?",
+        "jawaban": "Marmer"
+    },
+    {
+        "index": 354,
+        "soal": "Zat adiktif yang terkandung dalam rokok dan menyebabkan kecanduan?",
+        "jawaban": "Nikotin"
+    },
+    {
+        "index": 355,
+        "soal": "Sistem saraf yang bekerja secara tidak sadar atau otomatis?",
+        "jawaban": "Saraf otonom"
+    },
+    {
+        "index": 356,
+        "soal": "Jenis otot yang bekerja tanpa kesadaran manusia dan ditemukan di organ dalam?",
+        "jawaban": "Otot polos"
+    },
+    {
+        "index": 357,
+        "soal": "Reaksi kimia antara asam dan basa yang menghasilkan garam dan air?",
+        "jawaban": "Netralisasi"
+    },
+    {
+        "index": 358,
+        "soal": "Bakteri yang berperan dalam fiksasi nitrogen di akar tanaman polong?",
+        "jawaban": "Rhizobium"
+    },
+    {
+        "index": 359,
+        "soal": "Penyakit genetik yang ditandai dengan gangguan pembekuan darah?",
+        "jawaban": "Hemofilia"
+    },
+    {
+        "index": 360,
+        "soal": "Planet yang dikenal sebagai bintang fajar atau bintang senja?",
+        "jawaban": "Venus"
+    },
+    {
+        "index": 361,
+        "soal": "Gas mulia yang paling berat dalam tabel periodik?",
+        "jawaban": "Radon"
+    },
+    {
+        "index": 362,
+        "soal": "Bagian dari sistem saraf pusat yang menghubungkan otak dan tubuh?",
+        "jawaban": "Sumsum tulang"
+    },
+    {
+        "index": 363,
+        "soal": "Proses pembentukan glukosa dari karbon dioksida dan air oleh tumbuhan?",
+        "jawaban": "Fotosintesis"
+    },
+    {
+        "index": 364,
+        "soal": "Alat musik petik tradisional yang berasal dari Jawa?",
+        "jawaban": "Siter"
+    },
+    {
+        "index": 365,
+        "soal": "Fenomena pemantulan total cahaya dalam serat optik?",
+        "jawaban": "Refleksi internal"
+    },
+    {
+        "index": 366,
+        "soal": "Sistem pencernaan manusia dimulai dari?",
+        "jawaban": "Mulut"
+    },
+    {
+        "index": 367,
+        "soal": "Ibu kota Indonesia?",
+        "jawaban": "Jakarta"
+    },
+    {
+        "index": 368,
+        "soal": "Benua terbesar di dunia?",
+        "jawaban": "Asia"
+    },
+    {
+        "index": 369,
+        "soal": "Proses perubahan air menjadi uap?",
+        "jawaban": "Evaporasi"
+    },
+    {
+        "index": 370,
+        "soal": "Alat musik tradisional Bali?",
+        "jawaban": "Gamelan"
+    },
+    {
+        "index": 371,
+        "soal": "Proses fotosintesis terjadi di?",
+        "jawaban": "Daun"
+    },
+    {
+        "index": 372,
+        "soal": "Benda langit yang memantulkan cahaya?",
+        "jawaban": "Bulan"
+    },
+    {
+        "index": 373,
+        "soal": "Alat untuk mengukur suhu?",
+        "jawaban": "Termometer"
+    },
+    {
+        "index": 374,
+        "soal": "Satuan panjang internasional?",
+        "jawaban": "Meter"
+    },
+    {
+        "index": 375,
+        "soal": "Perubahan gas menjadi cair disebut?",
+        "jawaban": "Kondensasi"
+    },
+    {
+        "index": 376,
+        "soal": "Alat musik tradisional Jawa Tengah?",
+        "jawaban": "Gamelan"
+    },
+    {
+        "index": 377,
+        "soal": "Ibu kota Jawa Tengah?",
+        "jawaban": "Semarang"
+    },
+    {
+        "index": 378,
+        "soal": "Proses perubahan cair menjadi gas?",
+        "jawaban": "Evaporasi"
+    },
+    {
+        "index": 379,
+        "soal": "Sumber energi utama bumi?",
+        "jawaban": "Matahari"
+    },
+    {
+        "index": 380,
+        "soal": "Alat musik tradisional Sumatera?",
+        "jawaban": "Saluang"
+    },
+    {
+        "index": 381,
+        "soal": "Proses perubahan padat menjadi cair?",
+        "jawaban": "Meleleh"
+    },
+    {
+        "index": 382,
+        "soal": "Benua terkecil di dunia?",
+        "jawaban": "Australia"
+    },
+    {
+        "index": 383,
+        "soal": "Alat untuk mengukur tekanan udara?",
+        "jawaban": "Barometer"
+    },
+    {
+        "index": 384,
+        "soal": "Perubahan cair menjadi padat disebut?",
+        "jawaban": "Membeku"
+    },
+    {
+        "index": 385,
+        "soal": "Satuan waktu internasional?",
+        "jawaban": "Detik"
+    },
+    {
+        "index": 386,
+        "soal": "Alat musik tradisional Kalimantan?",
+        "jawaban": "Sape"
+    },
+    {
+        "index": 387,
+        "soal": "Proses perubahan gas menjadi padat?",
+        "jawaban": "Deposisi"
+    },
+    {
+        "index": 388,
+        "soal": "Benua yang memiliki gurun Sahara?",
+        "jawaban": "Afrika"
+    },
+    {
+        "index": 389,
+        "soal": "Alat untuk mengukur kelembapan udara?",
+        "jawaban": "Higrometer"
+    },
+    {
+        "index": 390,
+        "soal": "Proses perubahan padat menjadi gas?",
+        "jawaban": "Sublimasi"
+    },
+    {
+        "index": 391,
+        "soal": "Sumber energi alternatif?",
+        "jawaban": "Angin"
+    },
+    {
+        "index": 392,
+        "soal": "Alat musik tradisional Papua?",
+        "jawaban": "Tifa"
+    },
+    {
+        "index": 393,
+        "soal": "Alat ukur kecepatan angin?",
+        "jawaban": "Anemometer"
+    },
+    {
+        "index": 394,
+        "soal": "Negara dengan jumlah penduduk terbanyak?",
+        "jawaban": "Tiongkok"
+    },
+    {
+        "index": 395,
+        "soal": "Pulau terbesar di Indonesia?",
+        "jawaban": "Kalimantan"
+    },
+    {
+        "index": 396,
+        "soal": "Gunung tertinggi di Indonesia?",
+        "jawaban": "Puncak Jaya"
+    },
+    {
+        "index": 397,
+        "soal": "Planet terdekat dengan matahari?",
+        "jawaban": "Merkurius"
+    },
+    {
+        "index": 398,
+        "soal": "Ibu kota Australia?",
+        "jawaban": "Canberra"
+    },
+    {
+        "index": 399,
+        "soal": "Simbol kimia dari emas?",
+        "jawaban": "Au"
+    },
+    {
+        "index": 400,
+        "soal": "Organ untuk memompa darah?",
+        "jawaban": "Jantung"
+    },
+    {
+        "index": 401,
+        "soal": "Satuan internasional untuk intensitas cahaya?",
+        "jawaban": "Kandela"
+    },
+    {
+        "index": 402,
+        "soal": "Proses pelepasan energi pada inti atom?",
+        "jawaban": "Fisi"
+    },
+    {
+        "index": 403,
+        "soal": "Zat yang mempercepat reaksi tanpa ikut bereaksi?",
+        "jawaban": "Katalis"
+    },
+    {
+        "index": 404,
+        "soal": "Organisme yang menghasilkan makanan sendiri?",
+        "jawaban": "Autotrof"
+    },
+    {
+        "index": 405,
+        "soal": "Satuan SI untuk besar gaya?",
+        "jawaban": "Newton"
+    },
+    {
+        "index": 406,
+        "soal": "Sifat larutan dengan pH di atas 7?",
+        "jawaban": "Basa"
+    },
+    {
+        "index": 407,
+        "soal": "Cabang matematika tentang bentuk dan ruang?",
+        "jawaban": "Geometri"
+    },
+    {
+        "index": 408,
+        "soal": "Ilmu tentang hubungan makhluk hidup dengan lingkungannya?",
+        "jawaban": "Ekologi"
+    },
+    {
+        "index": 409,
+        "soal": "Nama ilmiah sel darah putih?",
+        "jawaban": "Leukosit"
+    },
+    {
+        "index": 410,
+        "soal": "Bagian otak yang mengatur keseimbangan?",
+        "jawaban": "Serebelum"
+    },
+    {
+        "index": 411,
+        "soal": "Partikel subatomik bermuatan negatif?",
+        "jawaban": "Elektron"
+    },
+    {
+        "index": 412,
+        "soal": "Lapisan atmosfer tempat ozon berada?",
+        "jawaban": "Stratosfer"
+    },
+    {
+        "index": 413,
+        "soal": "Satuan tekanan dalam sistem SI?",
+        "jawaban": "Pascal"
+    },
+    {
+        "index": 414,
+        "soal": "Batuan yang terbentuk dari magma yang membeku?",
+        "jawaban": "Igneus"
+    },
+    {
+        "index": 415,
+        "soal": "Hukum fisika tentang aksi dan reaksi?",
+        "jawaban": "Newton ketiga"
+    },
+    {
+        "index": 416,
+        "soal": "Molekul pembawa informasi genetik?",
+        "jawaban": "DNA"
+    },
+    {
+        "index": 417,
+        "soal": "Proses pembentukan sel kelamin?",
+        "jawaban": "Gametogenesis"
+    },
+    {
+        "index": 418,
+        "soal": "Sumber energi dari inti atom?",
+        "jawaban": "Nuklir"
+    },
+    {
+        "index": 419,
+        "soal": "Cabang ilmu yang mempelajari turunan dan integral?",
+        "jawaban": "Kalkulus"
+    },
+    {
+        "index": 420,
+        "soal": "Asam amino pembentuk insulin?",
+        "jawaban": "Leusin"
+    },
+    {
+        "index": 421,
+        "soal": "Sel hidup tanpa inti sejati?",
+        "jawaban": "Prokariot"
+    },
+    {
+        "index": 422,
+        "soal": "Bilangan yang hanya habis dibagi 1 dan dirinya sendiri?",
+        "jawaban": "Prima"
+    },
+    {
+        "index": 423,
+        "soal": "Gerak planet mengelilingi matahari?",
+        "jawaban": "Revolusi"
+    },
+    {
+        "index": 424,
+        "soal": "Bentuk energi pada makanan?",
+        "jawaban": "Kimia"
+    },
+    {
+        "index": 425,
+        "soal": "Pusat pengendali seluruh aktivitas sel?",
+        "jawaban": "Inti"
+    },
+    {
+        "index": 426,
+        "soal": "Zat penyusun dinding sel tumbuhan?",
+        "jawaban": "Selulosa"
+    },
+    {
+        "index": 427,
+        "soal": "Planet terpanas di tata surya?",
+        "jawaban": "Venus"
+    },
+    {
+        "index": 428,
+        "soal": "Proses pertukaran gas di paru-paru?",
+        "jawaban": "Difusi"
+    },
+    {
+        "index": 429,
+        "soal": "Jenis hewan berdarah dingin?",
+        "jawaban": "Reptil"
+    },
+    {
+        "index": 430,
+        "soal": "Ilmu tentang peta dan pemetaan?",
+        "jawaban": "Kartografi"
+    },
+    {
+        "index": 431,
+        "soal": "Bentuk sel bakteri?",
+        "jawaban": "Prokariotik"
+    },
+    {
+        "index": 432,
+        "soal": "Pencipta teori evolusi melalui seleksi alam?",
+        "jawaban": "Darwin"
+    },
+    {
+        "index": 433,
+        "soal": "Proses pembentukan energi di mitokondria?",
+        "jawaban": "Respirasi"
+    },
+    {
+        "index": 434,
+        "soal": "Zat pewarna hijau pada tumbuhan?",
+        "jawaban": "Klorofil"
+    },
+    {
+        "index": 435,
+        "soal": "Bagian telinga untuk menjaga keseimbangan?",
+        "jawaban": "Kanal semisirkular"
+    },
+    {
+        "index": 436,
+        "soal": "Bagian akar tempat pertumbuhan berlangsung?",
+        "jawaban": "Meristem"
+    },
+    {
+        "index": 437,
+        "soal": "Simbol kimia karbon dioksida?",
+        "jawaban": "CO2"
+    },
+    {
+        "index": 438,
+        "soal": "Enzim pemecah protein di lambung?",
+        "jawaban": "Pepsin"
+    },
+    {
+        "index": 439,
+        "soal": "Unit struktural dan fungsional makhluk hidup?",
+        "jawaban": "Sel"
+    },
+    {
+        "index": 440,
+        "soal": "Jenis reaksi pembentukan senyawa baru?",
+        "jawaban": "Sintesis"
+    },
+    {
+        "index": 441,
+        "soal": "Lapisan pelindung bumi dari sinar UV?",
+        "jawaban": "Ozon"
+    },
+    {
+        "index": 442,
+        "soal": "Pusat sistem saraf manusia?",
+        "jawaban": "Otak"
+    },
+    {
+        "index": 443,
+        "soal": "Proses pengubahan glukosa menjadi energi?",
+        "jawaban": "Glikolisis"
+    },
+    {
+        "index": 444,
+        "soal": "Alat pernapasan serangga?",
+        "jawaban": "Trakea"
+    },
+    {
+        "index": 445,
+        "soal": "Senyawa pembawa oksigen dalam darah?",
+        "jawaban": "Hemoglobin"
+    },
+    {
+        "index": 446,
+        "soal": "Gugus fungsi dari alkohol?",
+        "jawaban": "Hidroksil"
+    },
+    {
+        "index": 447,
+        "soal": "Proses penyaluran impuls saraf?",
+        "jawaban": "Sinapsis"
+    },
+    {
+        "index": 448,
+        "soal": "Pusat koordinasi sistem endokrin?",
+        "jawaban": "Hipotalamus"
+    },
+    {
+        "index": 449,
+        "soal": "Bagian tumbuhan tempat fotosintesis terjadi?",
+        "jawaban": "Kloroplas"
+    },
+    {
+        "index": 450,
+        "soal": "Ciri utama jaringan otot polos?",
+        "jawaban": "Tak sadar"
+    },
+    {
+        "index": 451,
+        "soal": "Gas penyusun terbesar atmosfer bumi?",
+        "jawaban": "Nitrogen"
+    },
+    {
+        "index": 452,
+        "soal": "Bentuk energi yang ditransfer melalui gelombang?",
+        "jawaban": "Panas"
+    },
+    {
+        "index": 453,
+        "soal": "Bagian tumbuhan untuk transportasi air?",
+        "jawaban": "Xilem"
+    },
+    {
+        "index": 454,
+        "soal": "Struktur DNA berbentuk?",
+        "jawaban": "Heliks ganda"
+    },
+    {
+        "index": 455,
+        "soal": "Penyusun utama dinding sel jamur?",
+        "jawaban": "Kitin"
+    },
+    {
+        "index": 456,
+        "soal": "Reaksi pembakaran termasuk reaksi?",
+        "jawaban": "Eksoterm"
+    },
+    {
+        "index": 457,
+        "soal": "Hormon pengatur kadar gula darah?",
+        "jawaban": "Insulin"
+    },
+    {
+        "index": 458,
+        "soal": "Lensa yang digunakan untuk rabun jauh?",
+        "jawaban": "Cekung"
+    },
+    {
+        "index": 459,
+        "soal": "Satuan arus listrik?",
+        "jawaban": "Ampere"
+    },
+    {
+        "index": 460,
+        "soal": "Kerusakan lapisan ozon disebabkan oleh?",
+        "jawaban": "CFC"
+    },
+    {
+        "index": 461,
+        "soal": "Nama lain vitamin C?",
+        "jawaban": "Asam askorbat"
+    },
+    {
+        "index": 462,
+        "soal": "Selubung pelindung akson neuron?",
+        "jawaban": "Mielin"
+    },
+    {
+        "index": 463,
+        "soal": "Ciri utama reaksi endoterm?",
+        "jawaban": "Menyerap panas"
+    },
+    {
+        "index": 464,
+        "soal": "Bagian mata yang mengatur cahaya masuk?",
+        "jawaban": "Pupil"
+    },
+    {
+        "index": 465,
+        "soal": "Hewan yang berkembang biak dengan bertelur?",
+        "jawaban": "Ovipar"
+    },
+    {
+        "index": 466,
+        "soal": "Alat ukur kuat arus listrik?",
+        "jawaban": "Amperemeter"
+    },
+    {
+        "index": 467,
+        "soal": "Jenis otot yang bekerja terus menerus?",
+        "jawaban": "Jantung"
+    },
+    {
+        "index": 468,
+        "soal": "Cairan pelindung otak dan sumsum tulang belakang?",
+        "jawaban": "Cerebrospinal"
+    },
+    {
+        "index": 469,
+        "soal": "Nama lain darah putih?",
+        "jawaban": "Leukosit"
+    },
+    {
+        "index": 470,
+        "soal": "Jenis jaringan pengangkut pada tumbuhan?",
+        "jawaban": "Floem"
+    },
+    {
+        "index": 471,
+        "soal": "Benda langit yang memancarkan cahaya sendiri?",
+        "jawaban": "Bintang"
+    },
+    {
+        "index": 472,
+        "soal": "Organ ekskresi utama pada manusia?",
+        "jawaban": "Ginjal"
+    },
+    {
+        "index": 473,
+        "soal": "Zat kimia dalam rokok yang adiktif?",
+        "jawaban": "Nikotin"
+    },
+    {
+        "index": 474,
+        "soal": "Bagian telinga tempat gendang telinga berada?",
+        "jawaban": "Telinga tengah"
+    },
+    {
+        "index": 475,
+        "soal": "Zat dalam sel darah merah pengikat oksigen?",
+        "jawaban": "Hemoglobin"
+    },
+    {
+        "index": 476,
+        "soal": "Apa satuan SI untuk suhu?",
+        "jawaban": "Kelvin"
+    },
+    {
+        "index": 477,
+        "soal": "Bagian sel tempat sintesis protein berlangsung?",
+        "jawaban": "Ribosom"
+    },
+    {
+        "index": 478,
+        "soal": "Nama ilmiah gas rumah kaca utama?",
+        "jawaban": "Karbon dioksida"
+    },
+    {
+        "index": 479,
+        "soal": "Zat yang mempercepat reaksi kimia dalam tubuh?",
+        "jawaban": "Enzim"
+    },
+    {
+        "index": 480,
+        "soal": "Jenis jaringan tumbuhan untuk pengangkutan air?",
+        "jawaban": "Xilem"
+    },
+    {
+        "index": 481,
+        "soal": "Hewan yang berkembang biak dengan bertelur dan melahirkan?",
+        "jawaban": "Ovovivipar"
+    },
+    {
+        "index": 482,
+        "soal": "Nama ilmiah sel darah putih?",
+        "jawaban": "Leukosit"
+    },
+    {
+        "index": 483,
+        "soal": "Bentuk energi yang digunakan oleh sel?",
+        "jawaban": "ATP"
+    },
+    {
+        "index": 484,
+        "soal": "Pusat pengaturan pernapasan di otak?",
+        "jawaban": "Medula oblongata"
+    },
+    {
+        "index": 485,
+        "soal": "Zat yang menyebabkan karat pada besi?",
+        "jawaban": "Oksigen"
+    },
+    {
+        "index": 486,
+        "soal": "Bakteri yang menguntungkan di usus manusia?",
+        "jawaban": "Lactobacillus"
+    },
+    {
+        "index": 487,
+        "soal": "Organ utama sistem ekskresi manusia?",
+        "jawaban": "Ginjal"
+    },
+    {
+        "index": 488,
+        "soal": "Cairan pelindung otak dan sumsum tulang belakang?",
+        "jawaban": "Cairan serebrospinal"
+    },
+    {
+        "index": 489,
+        "soal": "Proses perubahan zat cair menjadi gas?",
+        "jawaban": "Evaporasi"
+    },
+    {
+        "index": 490,
+        "soal": "Jenis gerhana saat bulan berada di antara matahari dan bumi?",
+        "jawaban": "Gerhana matahari"
+    },
+    {
+        "index": 491,
+        "soal": "Protein pembeku darah?",
+        "jawaban": "Fibrinogen"
+    },
+    {
+        "index": 492,
+        "soal": "Struktur pelindung inti sel?",
+        "jawaban": "Membran inti"
+    },
+    {
+        "index": 493,
+        "soal": "Bagian otak untuk berpikir dan mengingat?",
+        "jawaban": "Korteks serebral"
+    },
+    {
+        "index": 494,
+        "soal": "Gas yang dibutuhkan dalam fotosintesis?",
+        "jawaban": "Karbon dioksida"
+    },
+    {
+        "index": 495,
+        "soal": "Jenis lemak jenuh yang berbahaya bagi tubuh?",
+        "jawaban": "Kolesterol LDL"
+    },
+    {
+        "index": 496,
+        "soal": "Organisme yang menghasilkan makanan sendiri?",
+        "jawaban": "Autotrof"
+    },
+    {
+        "index": 497,
+        "soal": "Sel yang berfungsi membawa impuls?",
+        "jawaban": "Neuron"
+    },
+    {
+        "index": 498,
+        "soal": "Satuan intensitas bunyi?",
+        "jawaban": "Desibel"
+    },
+    {
+        "index": 499,
+        "soal": "Nama alat untuk mengukur tekanan udara?",
+        "jawaban": "Barometer"
+    },
+    {
+        "index": 500,
+        "soal": "Bagian kromosom yang menentukan sifat genetik?",
+        "jawaban": "Gen"
+    },
+    {
+        "index": 501,
+        "soal": "Penyebab utama efek rumah kaca?",
+        "jawaban": "Karbon dioksida"
+    },
+    {
+        "index": 502,
+        "soal": "Cahaya tidak bisa menembus benda ini?",
+        "jawaban": "Opaik"
+    },
+    {
+        "index": 503,
+        "soal": "Unit dasar kehidupan makhluk hidup?",
+        "jawaban": "Sel"
+    },
+    {
+        "index": 504,
+        "soal": "Sumber energi terbarukan dari air?",
+        "jawaban": "Hidroelektrik"
+    },
+    {
+        "index": 505,
+        "soal": "Jenis vitamin larut dalam lemak?",
+        "jawaban": "Vitamin A"
+    },
+    {
+        "index": 506,
+        "soal": "Organ yang menyaring racun dalam tubuh?",
+        "jawaban": "Hati"
+    },
+    {
+        "index": 507,
+        "soal": "Hewan pemakan tumbuhan dan daging?",
+        "jawaban": "Omnivora"
+    },
+    {
+        "index": 508,
+        "soal": "Sumber energi dari panas bumi?",
+        "jawaban": "Geotermal"
+    },
+    {
+        "index": 509,
+        "soal": "Kelompok hewan bertulang belakang?",
+        "jawaban": "Vertebrata"
+    },
+    {
+        "index": 510,
+        "soal": "Bagian otak untuk berpikir logis?",
+        "jawaban": "Korteks"
+    },
+    {
+        "index": 511,
+        "soal": "Cairan pencernaan di lambung?",
+        "jawaban": "Asam lambung"
+    },
+    {
+        "index": 512,
+        "soal": "Reaksi kimia yang melibatkan oksigen?",
+        "jawaban": "Oksidasi"
+    },
+    {
+        "index": 513,
+        "soal": "Jaringan pengangkut hasil fotosintesis?",
+        "jawaban": "Floem"
+    },
+    {
+        "index": 514,
+        "soal": "Zat yang membantu kerja enzim?",
+        "jawaban": "Kofaktor"
+    },
+    {
+        "index": 515,
+        "soal": "Simbol kimia air?",
+        "jawaban": "H2O"
+    },
+    {
+        "index": 516,
+        "soal": "Jenis pencernaan dalam lambung?",
+        "jawaban": "Kimiawi"
+    },
+    {
+        "index": 517,
+        "soal": "Tumbuhan yang hidup di air?",
+        "jawaban": "Hidrofit"
+    },
+    {
+        "index": 518,
+        "soal": "Asal energi dalam reaksi fotosintesis?",
+        "jawaban": "Cahaya"
+    },
+    {
+        "index": 519,
+        "soal": "Zat penyusun protein?",
+        "jawaban": "Asam amino"
+    },
+    {
+        "index": 520,
+        "soal": "Jenis batuan dari pelapukan batuan lain?",
+        "jawaban": "Sedimen"
+    },
+    {
+        "index": 521,
+        "soal": "Organ pada ikan untuk bernapas?",
+        "jawaban": "Insang"
+    },
+    {
+        "index": 522,
+        "soal": "Zat pewarna merah darah?",
+        "jawaban": "Hemoglobin"
+    },
+    {
+        "index": 523,
+        "soal": "Proses pemecahan glukosa tanpa oksigen?",
+        "jawaban": "Fermentasi"
+    },
+    {
+        "index": 524,
+        "soal": "Organisme yang hanya memakan tumbuhan?",
+        "jawaban": "Herbivora"
+    },
+    {
+        "index": 525,
+        "soal": "Jaringan dasar pembentuk daun?",
+        "jawaban": "Parenkim"
+    },
+    {
+        "index": 526,
+        "soal": "Proses pembentukan tulang baru dalam tubuh?",
+        "jawaban": "Osteogenesis"
+    },
+    {
+        "index": 527,
+        "soal": "Nama vitamin yang larut dalam air dan penting untuk pembekuan darah?",
+        "jawaban": "Vitamin K"
+    },
+    {
+        "index": 528,
+        "soal": "Sistem organ yang berfungsi mengedarkan darah?",
+        "jawaban": "Sistem kardiovaskular"
+    },
+    {
+        "index": 529,
+        "soal": "Hewan yang berkembang biak dengan metamorfosis sempurna?",
+        "jawaban": "Kupu-kupu"
+    },
+    {
+        "index": 530,
+        "soal": "Zat yang memberi warna merah pada darah?",
+        "jawaban": "Hemoglobin"
+    },
+    {
+        "index": 531,
+        "soal": "Nama lapisan pelindung luar bumi?",
+        "jawaban": "Kerak bumi"
+    },
+    {
+        "index": 532,
+        "soal": "Organ yang memproduksi insulin?",
+        "jawaban": "Pankreas"
+    },
+    {
+        "index": 533,
+        "soal": "Gas yang diproduksi oleh tumbuhan saat fotosintesis?",
+        "jawaban": "Oksigen"
+    },
+    {
+        "index": 534,
+        "soal": "Bagian mata yang mengatur banyak cahaya masuk?",
+        "jawaban": "Iris"
+    },
+    {
+        "index": 535,
+        "soal": "Proses perubahan air dari gas menjadi cair?",
+        "jawaban": "Kondensasi"
+    },
+    {
+        "index": 536,
+        "soal": "Hewan yang termasuk mamalia laut?",
+        "jawaban": "Paus"
+    },
+    {
+        "index": 537,
+        "soal": "Unit genetik terkecil dalam DNA?",
+        "jawaban": "Gen"
+    },
+    {
+        "index": 538,
+        "soal": "Mineral utama penyusun tulang manusia?",
+        "jawaban": "Kalsium"
+    },
+    {
+        "index": 539,
+        "soal": "Nama enzim yang memecah karbohidrat?",
+        "jawaban": "Amilase"
+    },
+    {
+        "index": 540,
+        "soal": "Lapisan atmosfer yang paling dekat dengan bumi?",
+        "jawaban": "Troposfer"
+    },
+    {
+        "index": 541,
+        "soal": "Bagian tumbuhan yang menyerap air dan mineral?",
+        "jawaban": "Akar"
+    },
+    {
+        "index": 542,
+        "soal": "Sistem tubuh yang berfungsi melawan penyakit?",
+        "jawaban": "Sistem imun"
+    },
+    {
+        "index": 543,
+        "soal": "Nama tulang dada dalam tubuh manusia?",
+        "jawaban": "Sternum"
+    },
+    {
+        "index": 544,
+        "soal": "Zat kimia dalam tubuh yang menyimpan energi jangka panjang?",
+        "jawaban": "Lemak"
+    },
+    {
+        "index": 545,
+        "soal": "Proses pelepasan energi dari makanan di sel?",
+        "jawaban": "Respirasi seluler"
+    },
+    {
+        "index": 546,
+        "soal": "Nama hormon yang mengatur gula darah?",
+        "jawaban": "Insulin"
+    },
+    {
+        "index": 547,
+        "soal": "Organ yang berfungsi menyaring darah dalam tubuh?",
+        "jawaban": "Ginjal"
+    },
+    {
+        "index": 548,
+        "soal": "Bagian tumbuhan yang berfungsi sebagai alat reproduksi?",
+        "jawaban": "Bunga"
+    },
+    {
+        "index": 549,
+        "soal": "Alat pernapasan pada ikan?",
+        "jawaban": "Insang"
+    },
+    {
+        "index": 550,
+        "soal": "Nama gaya tarik bumi yang membuat benda jatuh?",
+        "jawaban": "Gravitasi"
+    },
+    {
+        "index": 551,
+        "soal": "Proses perubahan air menjadi uap?",
+        "jawaban": "Evaporasi"
+    },
+    {
+        "index": 552,
+        "soal": "Bagian tumbuhan yang menyerap air dan nutrisi?",
+        "jawaban": "Akar"
+    },
+    {
+        "index": 553,
+        "soal": "Jenis tulang pada manusia yang terpanjang?",
+        "jawaban": "Femur"
+    },
+    {
+        "index": 554,
+        "soal": "Organ tubuh yang memompa darah?",
+        "jawaban": "Jantung"
+    },
+    {
+        "index": 555,
+        "soal": "Hormon yang mengatur gula darah?",
+        "jawaban": "Insulin"
+    },
+    {
+        "index": 556,
+        "soal": "Gas yang dibutuhkan tumbuhan untuk fotosintesis?",
+        "jawaban": "Karbon dioksida"
+    },
+    {
+        "index": 557,
+        "soal": "Lapisan pelindung luar tubuh manusia?",
+        "jawaban": "Kulit"
+    },
+    {
+        "index": 558,
+        "soal": "Nama lain dari biji pada tumbuhan?",
+        "jawaban": "Benih"
+    },
+    {
+        "index": 559,
+        "soal": "Matahari termasuk sumber energi?",
+        "jawaban": "Terbarukan"
+    },
+    {
+        "index": 560,
+        "soal": "Jaringan yang menghubungkan otot dengan tulang?",
+        "jawaban": "Tendon"
+    },
+    {
+        "index": 561,
+        "soal": "Proses perubahan cairan menjadi padatan?",
+        "jawaban": "Pembekuan"
+    },
+    {
+        "index": 562,
+        "soal": "Fungsi klorofil pada tumbuhan?",
+        "jawaban": "Menangkap cahaya"
+    },
+    {
+        "index": 563,
+        "soal": "Satuan terkecil penyusun zat?",
+        "jawaban": "Atom"
+    },
+    {
+        "index": 564,
+        "soal": "Proses perpindahan panas tanpa perantara?",
+        "jawaban": "Radiasi"
+    },
+    {
+        "index": 565,
+        "soal": "Alat musik tiup yang terbuat dari logam?",
+        "jawaban": "Terompet"
+    },
+    {
+        "index": 566,
+        "soal": "Alat yang digunakan untuk mengukur suhu?",
+        "jawaban": "Termometer"
+    },
+    {
+        "index": 567,
+        "soal": "Jaringan yang mengangkut darah dalam tubuh?",
+        "jawaban": "Pembuluh darah"
+    },
+    {
+        "index": 568,
+        "soal": "Nama lain dari kupu-kupu muda?",
+        "jawaban": "Kepompong"
+    },
+    {
+        "index": 569,
+        "soal": "Jenis energi yang dihasilkan dari bahan bakar fosil?",
+        "jawaban": "Energi kimia"
+    },
+    {
+        "index": 570,
+        "soal": "Jenis hewan yang berkembang biak dengan bertelur?",
+        "jawaban": "Ovipar"
+    },
+    {
+        "index": 571,
+        "soal": "Sistem organ yang bertanggung jawab untuk pencernaan?",
+        "jawaban": "Sistem pencernaan"
+    },
+    {
+        "index": 572,
+        "soal": "Proses di mana air bergerak dari akar ke daun tumbuhan?",
+        "jawaban": "Transpirasi"
+    },
+    {
+        "index": 573,
+        "soal": "Jenis hewan yang hanya memakan daging?",
+        "jawaban": "Karnivora"
+    },
+    {
+        "index": 574,
+        "soal": "Zat yang membuat tulang menjadi keras?",
+        "jawaban": "Kalsium"
+    },
+    {
+        "index": 575,
+        "soal": "Bagian tumbuhan yang biasanya berwarna hijau?",
+        "jawaban": "Daun"
+    },
+    {
+        "index": 576,
+        "soal": "Gas yang menyebabkan pernapasan pada manusia?",
+        "jawaban": "Oksigen"
+    },
+    {
+        "index": 577,
+        "soal": "Alat untuk mengukur suhu?",
+        "jawaban": "Termometer"
+    },
+    {
+        "index": 578,
+        "soal": "Satuan ukuran kuat magnet?",
+        "jawaban": "Tesla"
+    },
+    {
+        "index": 579,
+        "soal": "Zat yang membuat air menjadi asam?",
+        "jawaban": "Hidrogen"
+    },
+    {
+        "index": 580,
+        "soal": "Bagian mata yang berfungsi menangkap cahaya?",
+        "jawaban": "Retina"
+    },
+    {
+        "index": 581,
+        "soal": "Jenis gerak pada planet mengelilingi matahari?",
+        "jawaban": "Revolusi"
+    },
+    {
+        "index": 582,
+        "soal": "Elemen kimia dengan simbol Fe?",
+        "jawaban": "Besi"
+    },
+    {
+        "index": 583,
+        "soal": "Bagian sel yang mengandung klorofil?",
+        "jawaban": "Kloroplas"
+    },
+    {
+        "index": 584,
+        "soal": "Senyawa kimia utama pada bahan bakar fosil?",
+        "jawaban": "Hidrokarbon"
+    },
+    {
+        "index": 585,
+        "soal": "Satuan untuk frekuensi gelombang?",
+        "jawaban": "Hertz"
+    },
+    {
+        "index": 586,
+        "soal": "Proses pemisahan campuran berdasarkan titik didih?",
+        "jawaban": "Distilasi"
+    },
+    {
+        "index": 587,
+        "soal": "Jaringan yang menghubungkan otot dengan tulang?",
+        "jawaban": "Tendon"
+    },
+    {
+        "index": 588,
+        "soal": "Bakteri pengikat nitrogen di tanah?",
+        "jawaban": "Rhizobium"
+    },
+    {
+        "index": 589,
+        "soal": "Proses pertukaran gas di daun tumbuhan?",
+        "jawaban": "Stomata"
+    },
+    {
+        "index": 590,
+        "soal": "Zat yang mengatur keseimbangan air dalam tubuh?",
+        "jawaban": "Antidiuretik"
+    },
+    {
+        "index": 591,
+        "soal": "Bagian otak yang mengatur pernapasan?",
+        "jawaban": "Medula oblongata"
+    },
+    {
+        "index": 592,
+        "soal": "Organ utama sistem pencernaan?",
+        "jawaban": "Usus"
+    },
+    {
+        "index": 593,
+        "soal": "Gas rumah kaca selain karbon dioksida?",
+        "jawaban": "Metana"
+    },
+    {
+        "index": 594,
+        "soal": "Satuan pengukuran massa?",
+        "jawaban": "Kilogram"
+    },
+    {
+        "index": 595,
+        "soal": "Proses perpindahan panas secara sentuhan langsung?",
+        "jawaban": "Konduksi"
+    },
+    {
+        "index": 596,
+        "soal": "Hormon yang mengatur metabolisme?",
+        "jawaban": "Tiroid"
+    },
+    {
+        "index": 597,
+        "soal": "Molekul pembawa energi dalam sel?",
+        "jawaban": "ATP"
+    },
+    {
+        "index": 598,
+        "soal": "Sistem organ yang mengatur gerak tubuh?",
+        "jawaban": "Otot"
+    },
+    {
+        "index": 599,
+        "soal": "Reaksi kimia yang menghasilkan gas hidrogen?",
+        "jawaban": "Reaksi asam-logam"
+    },
+    {
+        "index": 600,
+        "soal": "Jenis batuan hasil dari pendinginan magma?",
+        "jawaban": "Beku"
+    },
+    {
+        "index": 601,
+        "soal": "Organ tempat pertukaran oksigen dan karbon dioksida?",
+        "jawaban": "Paru-paru"
+    },
+    {
+        "index": 602,
+        "soal": "Sumber energi utama bagi manusia?",
+        "jawaban": "Karbohidrat"
+    },
+    {
+        "index": 603,
+        "soal": "Alat optik untuk melihat benda jauh?",
+        "jawaban": "Teleskop"
+    },
+    {
+        "index": 604,
+        "soal": "Proses perubahan air jadi uap?",
+        "jawaban": "Evaporasi"
+    },
+    {
+        "index": 605,
+        "soal": "Zat warna pada tumbuhan hijau?",
+        "jawaban": "Klorofil"
+    },
+    {
+        "index": 606,
+        "soal": "Bagian tumbuhan tempat fotosintesis?",
+        "jawaban": "Daun"
+    },
+    {
+        "index": 607,
+        "soal": "Planet terdekat dengan matahari?",
+        "jawaban": "Merkurius"
+    },
+    {
+        "index": 608,
+        "soal": "Hewan yang berkembang biak dengan bertelur?",
+        "jawaban": "Ovipar"
+    },
+    {
+        "index": 609,
+        "soal": "Induk koordinasi tubuh manusia?",
+        "jawaban": "Otak"
+    },
+    {
+        "index": 610,
+        "soal": "Zat yang digunakan untuk membunuh kuman?",
+        "jawaban": "Disinfektan"
+    },
+    {
+        "index": 611,
+        "soal": "Bagian mata yang mengatur cahaya masuk?",
+        "jawaban": "Iris"
+    },
+    {
+        "index": 612,
+        "soal": "Jenis energi dari panas bumi?",
+        "jawaban": "Geotermal"
+    },
+    {
+        "index": 613,
+        "soal": "Alat untuk mengukur suhu?",
+        "jawaban": "Termometer"
+    },
+    {
+        "index": 614,
+        "soal": "Lapisan pelindung bumi dari sinar UV?",
+        "jawaban": "Ozon"
+    },
+    {
+        "index": 615,
+        "soal": "Benda langit penghasil cahaya sendiri?",
+        "jawaban": "Bintang"
+    },
+    {
+        "index": 616,
+        "soal": "Bagian terkecil dari makhluk hidup?",
+        "jawaban": "Sel"
+    },
+    {
+        "index": 617,
+        "soal": "Hewan menyusui disebut?",
+        "jawaban": "Mamalia"
+    },
+    {
+        "index": 618,
+        "soal": "Bagian telinga untuk menjaga keseimbangan?",
+        "jawaban": "Telinga dalam"
+    },
+    {
+        "index": 619,
+        "soal": "Proses pembuatan makanan oleh tumbuhan?",
+        "jawaban": "Fotosintesis"
+    },
+    {
+        "index": 620,
+        "soal": "Benda yang selalu mengelilingi planet?",
+        "jawaban": "Satelit"
+    },
+    {
+        "index": 621,
+        "soal": "Organ pencernaan setelah lambung?",
+        "jawaban": "Usus halus"
+    },
+    {
+        "index": 622,
+        "soal": "Gas yang diperlukan tumbuhan saat fotosintesis?",
+        "jawaban": "Karbon dioksida"
+    },
+    {
+        "index": 623,
+        "soal": "Hewan yang hidup di dua alam?",
+        "jawaban": "Amfibi"
+    },
+    {
+        "index": 624,
+        "soal": "Alat pernapasan ikan?",
+        "jawaban": "Insang"
+    },
+    {
+        "index": 625,
+        "soal": "Jenis energi yang digunakan pada kompor gas?",
+        "jawaban": "Kimia"
+    },
+    {
+        "index": 626,
+        "soal": "Organ yang memompa darah?",
+        "jawaban": "Jantung"
+    },
+    {
+        "index": 627,
+        "soal": "Indra untuk melihat?",
+        "jawaban": "Mata"
+    },
+    {
+        "index": 628,
+        "soal": "Zat warna daun?",
+        "jawaban": "Klorofil"
+    },
+    {
+        "index": 629,
+        "soal": "Hewan pemakan daging?",
+        "jawaban": "Karnivora"
+    },
+    {
+        "index": 630,
+        "soal": "Alat ukur suhu?",
+        "jawaban": "Termometer"
+    },
+    {
+        "index": 631,
+        "soal": "Planet terdekat matahari?",
+        "jawaban": "Merkurius"
+    },
+    {
+        "index": 632,
+        "soal": "Lapisan pelindung bumi?",
+        "jawaban": "Ozon"
+    },
+    {
+        "index": 633,
+        "soal": "Bagian tumbuhan tempat fotosintesis?",
+        "jawaban": "Daun"
+    },
+    {
+        "index": 634,
+        "soal": "Benda langit penghasil cahaya?",
+        "jawaban": "Bintang"
+    },
+    {
+        "index": 635,
+        "soal": "Hewan bertelur dan menyusui?",
+        "jawaban": "Ornitorink"
+    },
+    {
+        "index": 636,
+        "soal": "Logam ringan untuk pesawat?",
+        "jawaban": "Aluminium"
+    },
+    {
+        "index": 637,
+        "soal": "Pusat tata surya?",
+        "jawaban": "Matahari"
+    },
+    {
+        "index": 638,
+        "soal": "Bagian terkecil materi?",
+        "jawaban": "Atom"
+    },
+    {
+        "index": 639,
+        "soal": "Satuan arus listrik?",
+        "jawaban": "Ampere"
+    },
+    {
+        "index": 640,
+        "soal": "Gas pernapasan manusia?",
+        "jawaban": "Oksigen"
+    },
+    {
+        "index": 641,
+        "soal": "Sumber energi utama bumi?",
+        "jawaban": "Matahari"
+    },
+    {
+        "index": 642,
+        "soal": "Alat pengukur tekanan udara?",
+        "jawaban": "Barometer"
+    },
+    {
+        "index": 643,
+        "soal": "Proses cair jadi gas?",
+        "jawaban": "Menguap"
+    },
+    {
+        "index": 644,
+        "soal": "Zat penyusun protein?",
+        "jawaban": "Asam amino"
+    },
+    {
+        "index": 645,
+        "soal": "Kegiatan membuat peta?",
+        "jawaban": "Kartografi"
+    },
+    {
+        "index": 646,
+        "soal": "Planet bercincin besar?",
+        "jawaban": "Saturnus"
+    },
+    {
+        "index": 647,
+        "soal": "Bahan bakar fosil cair?",
+        "jawaban": "Minyak bumi"
+    },
+    {
+        "index": 648,
+        "soal": "Bulan penuh disebut?",
+        "jawaban": "Purnama"
+    },
+    {
+        "index": 649,
+        "soal": "Lapisan luar bumi?",
+        "jawaban": "Kerak"
+    },
+    {
+        "index": 650,
+        "soal": "Batuan dari tumbuhan mati?",
+        "jawaban": "Batu bara"
+    },
+    {
+        "index": 651,
+        "soal": "Bagian tubuh manusia yang berfungsi memompa darah ke seluruh tubuh?",
+        "jawaban": "Jantung"
+    },
+    {
+        "index": 652,
+        "soal": "Proses perubahan wujud gas menjadi cair disebut?",
+        "jawaban": "Kondensasi"
+    },
+    {
+        "index": 653,
+        "soal": "Bagian tumbuhan yang tumbuh di dalam tanah dan menyerap air?",
+        "jawaban": "Akar"
+    },
+    {
+        "index": 654,
+        "soal": "Zat yang mempercepat reaksi kimia tanpa ikut bereaksi?",
+        "jawaban": "Katalis"
+    },
+    {
+        "index": 655,
+        "soal": "Jenis tulang yang melindungi otak manusia?",
+        "jawaban": "Tengkorak"
+    },
+    {
+        "index": 656,
+        "soal": "Nama lain dari planet merah dalam tata surya?",
+        "jawaban": "Mars"
+    },
+    {
+        "index": 657,
+        "soal": "Sumber energi utama bagi tumbuhan saat fotosintesis?",
+        "jawaban": "Cahaya matahari"
+    },
+    {
+        "index": 658,
+        "soal": "Organ tubuh manusia yang berfungsi menyaring darah?",
+        "jawaban": "Ginjal"
+    },
+    {
+        "index": 659,
+        "soal": "Satuan besaran kuat arus listrik dalam SI?",
+        "jawaban": "Ampere"
+    },
+    {
+        "index": 660,
+        "soal": "Zat yang mengandung unsur karbon dan hidrogen?",
+        "jawaban": "Hidrokarbon"
+    },
+    {
+        "index": 661,
+        "soal": "Hewan pemakan tumbuhan disebut juga?",
+        "jawaban": "Herbivora"
+    },
+    {
+        "index": 662,
+        "soal": "Benda langit yang mengelilingi bumi dan terlihat malam hari?",
+        "jawaban": "Bulan"
+    },
+    {
+        "index": 663,
+        "soal": "Bagian tumbuhan yang menjadi tempat biji berkembang?",
+        "jawaban": "Buah"
+    },
+    {
+        "index": 664,
+        "soal": "Proses perpindahan panas tanpa zat perantara?",
+        "jawaban": "Radiasi"
+    },
+    {
+        "index": 665,
+        "soal": "Sumber protein hewani dari perairan?",
+        "jawaban": "Ikan"
+    },
+    {
+        "index": 666,
+        "soal": "Jenis otot yang bekerja di luar kesadaran?",
+        "jawaban": "Otot polos"
+    },
+    {
+        "index": 667,
+        "soal": "Organ manusia yang bertugas sebagai alat ekskresi?",
+        "jawaban": "Ginjal"
+    },
+    {
+        "index": 668,
+        "soal": "Cairan tubuh yang berfungsi mengangkut oksigen?",
+        "jawaban": "Darah"
+    },
+    {
+        "index": 669,
+        "soal": "Bahan bakar fosil berbentuk cair?",
+        "jawaban": "Minyak bumi"
+    },
+    {
+        "index": 670,
+        "soal": "Organ yang berperan dalam sistem pencernaan dan menghasilkan empedu?",
+        "jawaban": "Hati"
+    },
+    {
+        "index": 671,
+        "soal": "Zat yang membuat air berubah warna saat diuji dengan indikator?",
+        "jawaban": "Asam"
+    },
+    {
+        "index": 672,
+        "soal": "Gerak jatuh benda karena pengaruh gravitasi?",
+        "jawaban": "Jatuh bebas"
+    },
+    {
+        "index": 673,
+        "soal": "Alat untuk melihat benda sangat kecil?",
+        "jawaban": "Mikroskop"
+    },
+    {
+        "index": 674,
+        "soal": "Planet terbesar dalam tata surya?",
+        "jawaban": "Jupiter"
+    },
+    {
+        "index": 675,
+        "soal": "Proses keluarnya keringat dari tubuh manusia?",
+        "jawaban": "Sekresi"
+    },
+    {
+        "index": 676,
+        "soal": "Zat yang mempercepat reaksi kimia tanpa ikut bereaksi?",
+        "jawaban": "Katalis"
+    },
+    {
+        "index": 677,
+        "soal": "Bagian sel tempat berlangsungnya respirasi seluler?",
+        "jawaban": "Mitokondria"
+    },
+    {
+        "index": 678,
+        "soal": "Proses perubahan glukosa menjadi energi dalam tubuh?",
+        "jawaban": "Respirasi sel"
+    },
+    {
+        "index": 679,
+        "soal": "Ilmu yang mempelajari hubungan makhluk hidup dan lingkungannya?",
+        "jawaban": "Ekologi"
+    },
+    {
+        "index": 680,
+        "soal": "Organisme yang membuat makanan sendiri melalui fotosintesis?",
+        "jawaban": "Autotrof"
+    },
+    {
+        "index": 681,
+        "soal": "Bagian otak yang mengatur keseimbangan tubuh?",
+        "jawaban": "Serebelum"
+    },
+    {
+        "index": 682,
+        "soal": "Sistem saraf pusat terdiri dari otak dan?",
+        "jawaban": "Sumsum tulang"
+    },
+    {
+        "index": 683,
+        "soal": "Lapisan mata yang peka terhadap cahaya?",
+        "jawaban": "Retina"
+    },
+    {
+        "index": 684,
+        "soal": "Proses penyaluran air dari akar ke daun?",
+        "jawaban": "Transpirasi"
+    },
+    {
+        "index": 685,
+        "soal": "Senyawa organik penyusun gen dan kromosom?",
+        "jawaban": "Asam nukleat"
+    },
+    {
+        "index": 686,
+        "soal": "Tahapan pembelahan sel untuk membentuk gamet?",
+        "jawaban": "Meiosis"
+    },
+    {
+        "index": 687,
+        "soal": "Hasil pembelahan mitosis dari satu sel induk?",
+        "jawaban": "Dua sel"
+    },
+    {
+        "index": 688,
+        "soal": "Reaksi kimia di mana zat melepaskan elektron?",
+        "jawaban": "Oksidasi"
+    },
+    {
+        "index": 689,
+        "soal": "Ilmu tentang pewarisan sifat genetik?",
+        "jawaban": "Genetika"
+    },
+    {
+        "index": 690,
+        "soal": "Molekul pembawa pesan genetik dalam RNA?",
+        "jawaban": "mRNA"
+    },
+    {
+        "index": 691,
+        "soal": "Alat optik untuk melihat benda sangat kecil?",
+        "jawaban": "Mikroskop"
+    },
+    {
+        "index": 692,
+        "soal": "Pusat pengaturan semua aktivitas sel?",
+        "jawaban": "Inti sel"
+    },
+    {
+        "index": 693,
+        "soal": "Gugus makhluk hidup dalam satu jenis?",
+        "jawaban": "Populasi"
+    },
+    {
+        "index": 694,
+        "soal": "Gas utama penyebab efek rumah kaca?",
+        "jawaban": "Karbon dioksida"
+    },
+    {
+        "index": 695,
+        "soal": "Satuan frekuensi dalam sistem internasional?",
+        "jawaban": "Hertz"
+    },
+    {
+        "index": 696,
+        "soal": "Lapisan atmosfer tempat terjadi cuaca?",
+        "jawaban": "Troposfer"
+    },
+    {
+        "index": 697,
+        "soal": "Zat dalam darah yang mengangkut oksigen?",
+        "jawaban": "Hemoglobin"
+    },
+    {
+        "index": 698,
+        "soal": "Hewan yang mengalami metamorfosis sempurna?",
+        "jawaban": "Kupu-kupu"
+    },
+    {
+        "index": 699,
+        "soal": "Planet terpanas di tata surya?",
+        "jawaban": "Venus"
+    },
+    {
+        "index": 700,
+        "soal": "Alat musik berdawai dimainkan dengan digesek?",
+        "jawaban": "Biola"
+    },
+    {
+        "index": 701,
+        "soal": "Nama ilmiah proses pembentukan sel telur pada manusia?",
+        "jawaban": "Oogenesis"
+    },
+    {
+        "index": 702,
+        "soal": "Fenomena naiknya air laut ke daratan karena gaya gravitasi bulan?",
+        "jawaban": "Pasang naik"
+    },
+    {
+        "index": 703,
+        "soal": "Senyawa yang terbentuk dari reaksi antara asam dan basa?",
+        "jawaban": "Garam"
+    },
+    {
+        "index": 704,
+        "soal": "Proses pembentukan gamet secara meiosis disebut?",
+        "jawaban": "Gametogenesis"
+    },
+    {
+        "index": 705,
+        "soal": "Unit pewarisan sifat pada makhluk hidup?",
+        "jawaban": "Gen"
+    },
+    {
+        "index": 706,
+        "soal": "Cairan bening pelindung otak dan sumsum tulang belakang?",
+        "jawaban": "Cairan serebrospinal"
+    },
+    {
+        "index": 707,
+        "soal": "Bagian kromosom yang menjadi titik lekat dua kromatid?",
+        "jawaban": "Sentromer"
+    },
+    {
+        "index": 708,
+        "soal": "Zat kimia yang berfungsi mengatur kerja hormon dalam tubuh?",
+        "jawaban": "Enzim"
+    },
+    {
+        "index": 709,
+        "soal": "Tahapan pembelahan sel saat kromosom berjajar di tengah?",
+        "jawaban": "Metafase"
+    },
+    {
+        "index": 710,
+        "soal": "Proses perpindahan panas melalui zat perantara secara langsung?",
+        "jawaban": "Konduksi"
+    },
+    {
+        "index": 711,
+        "soal": "Organisme yang dapat membuat makanan sendiri?",
+        "jawaban": "Autotrof"
+    },
+    {
+        "index": 712,
+        "soal": "Bentuk adaptasi hewan terhadap lingkungan dingin?",
+        "jawaban": "Hibernasi"
+    },
+    {
+        "index": 713,
+        "soal": "Sel yang mengangkut oksigen dalam darah?",
+        "jawaban": "Eritrosit"
+    },
+    {
+        "index": 714,
+        "soal": "Bagian otak yang mengatur keseimbangan dan koordinasi?",
+        "jawaban": "Serebelum"
+    },
+    {
+        "index": 715,
+        "soal": "Jenis tumbuhan yang hidup menempel pada tumbuhan lain tanpa merugikan?",
+        "jawaban": "Epifit"
+    },
+    {
+        "index": 716,
+        "soal": "Proses pembentukan energi dalam sel mitokondria?",
+        "jawaban": "Respirasi sel"
+    },
+    {
+        "index": 717,
+        "soal": "Lensa mata yang digunakan untuk rabun jauh?",
+        "jawaban": "Lensa cekung"
+    },
+    {
+        "index": 718,
+        "soal": "Struktur penyusun dinding sel tumbuhan?",
+        "jawaban": "Selulosa"
+    },
+    {
+        "index": 719,
+        "soal": "Organisme yang hidup dengan cara menguraikan bahan organik?",
+        "jawaban": "Dekomposer"
+    },
+    {
+        "index": 720,
+        "soal": "Ilmu yang mempelajari tentang hubungan makhluk hidup dan lingkungannya?",
+        "jawaban": "Ekologi"
+    },
+    {
+        "index": 721,
+        "soal": "Gas hasil fermentasi anaerob oleh ragi?",
+        "jawaban": "Karbon dioksida"
+    },
+    {
+        "index": 722,
+        "soal": "Sifat bawaan yang tidak dapat berubah karena faktor lingkungan?",
+        "jawaban": "Sifat genetik"
+    },
+    {
+        "index": 723,
+        "soal": "Tahapan fotosintesis yang memerlukan cahaya?",
+        "jawaban": "Reaksi terang"
+    },
+    {
+        "index": 724,
+        "soal": "Struktur tempat berlangsungnya fotosintesis dalam sel tumbuhan?",
+        "jawaban": "Kloroplas"
+    },
+    {
+        "index": 725,
+        "soal": "Reaksi kimia yang menyerap panas dari lingkungan?",
+        "jawaban": "Endoterm"
+    },
+    {
+        "index": 726,
+        "soal": "Proses di mana tumbuhan mengubah energi cahaya menjadi energi kimia?",
+        "jawaban": "Fotosintesis"
+    },
+    {
+        "index": 727,
+        "soal": "Perubahan wujud benda dari gas menjadi cair disebut?",
+        "jawaban": "Kondensasi"
+    },
+    {
+        "index": 728,
+        "soal": "Ilmu yang mempelajari struktur dan fungsi jaringan tubuh?",
+        "jawaban": "Histologi"
+    },
+    {
+        "index": 729,
+        "soal": "Gugus protein yang berfungsi mempercepat reaksi kimia biologis?",
+        "jawaban": "Enzim"
+    },
+    {
+        "index": 730,
+        "soal": "Tahapan dalam siklus air di mana air meresap ke tanah?",
+        "jawaban": "Infiltrasi"
+    },
+    {
+        "index": 731,
+        "soal": "Gas yang paling banyak terkandung dalam udara atmosfer?",
+        "jawaban": "Nitrogen"
+    },
+    {
+        "index": 732,
+        "soal": "Bagian daun yang mengatur penguapan air dan pertukaran gas?",
+        "jawaban": "Stomata"
+    },
+    {
+        "index": 733,
+        "soal": "Jenis energi yang dihasilkan oleh getaran atau gelombang?",
+        "jawaban": "Energi suara"
+    },
+    {
+        "index": 734,
+        "soal": "Aliran listrik yang mengalir satu arah dan tetap besarannya?",
+        "jawaban": "Arus searah"
+    },
+    {
+        "index": 735,
+        "soal": "Struktur kimia dasar penyusun dinding sel tumbuhan?",
+        "jawaban": "Selulosa"
+    },
+    {
+        "index": 736,
+        "soal": "Zat dalam lambung yang membantu mencerna protein?",
+        "jawaban": "Asam klorida"
+    },
+    {
+        "index": 737,
+        "soal": "Cakupan wilayah hidup semua makhluk hidup di Bumi disebut?",
+        "jawaban": "Biosfer"
+    },
+    {
+        "index": 738,
+        "soal": "Jenis gerak tumbuhan karena rangsangan cahaya?",
+        "jawaban": "Fototropisme"
+    },
+    {
+        "index": 739,
+        "soal": "Benda langit yang memantulkan cahaya matahari dan mengorbit planet?",
+        "jawaban": "Satelit alami"
+    },
+    {
+        "index": 740,
+        "soal": "Lapisan kulit bumi yang tersusun dari lempeng tektonik?",
+        "jawaban": "Litosfer"
+    },
+    {
+        "index": 741,
+        "soal": "Bunyi yang frekuensinya di atas ambang pendengaran manusia?",
+        "jawaban": "Ultrasonik"
+    },
+    {
+        "index": 742,
+        "soal": "Bagian tumbuhan tempat terbentuknya biji?",
+        "jawaban": "Ovarium"
+    },
+    {
+        "index": 743,
+        "soal": "Hewan yang mampu hidup di air dan darat disebut?",
+        "jawaban": "Amfibi"
+    },
+    {
+        "index": 744,
+        "soal": "Komponen sistem peredaran darah yang mengangkut oksigen?",
+        "jawaban": "Sel darah"
+    },
+    {
+        "index": 745,
+        "soal": "Alat ukur kekuatan gempa bumi modern?",
+        "jawaban": "Seismograf"
+    },
+    {
+        "index": 746,
+        "soal": "Bintang besar yang meledak di akhir siklus hidupnya?",
+        "jawaban": "Supernova"
+    },
+    {
+        "index": 747,
+        "soal": "Ilmu yang mempelajari peta dan pemetaan wilayah?",
+        "jawaban": "Kartografi"
+    },
+    {
+        "index": 748,
+        "soal": "Lapisan pelindung sel hewan dan manusia?",
+        "jawaban": "Membran sel"
+    },
+    {
+        "index": 749,
+        "soal": "Zat penyusun tulang dan gigi dalam tubuh manusia?",
+        "jawaban": "Kalsium"
+    },
+    {
+        "index": 750,
+        "soal": "Proses perubahan energi kimia menjadi energi gerak di otot?",
+        "jawaban": "Kontraksi otot"
+    },
+    {
+        "index": 751,
+        "soal": "Bagian kromosom yang berfungsi menentukan sifat keturunan?",
+        "jawaban": "Gen"
+    },
+    {
+        "index": 752,
+        "soal": "Asam nukleat pembawa informasi genetik dalam sel?",
+        "jawaban": "DNA"
+    },
+    {
+        "index": 753,
+        "soal": "Molekul pembawa asam amino ke ribosom saat sintesis protein?",
+        "jawaban": "tRNA"
+    },
+    {
+        "index": 754,
+        "soal": "Tahap pembelahan mitosis saat kromatid ditarik ke kutub sel?",
+        "jawaban": "Anafase"
+    },
+    {
+        "index": 755,
+        "soal": "Jaringan tumbuhan yang berfungsi sebagai pengangkut air?",
+        "jawaban": "Xilem"
+    },
+    {
+        "index": 756,
+        "soal": "Jenis jaringan otot dengan kontraksi tidak sadar dan ritmis?",
+        "jawaban": "Otot jantung"
+    },
+    {
+        "index": 757,
+        "soal": "Laju reaksi kimia dipercepat oleh zat ini tanpa ikut bereaksi?",
+        "jawaban": "Katalis"
+    },
+    {
+        "index": 758,
+        "soal": "Tipe seleksi alam yang mempertahankan individu dengan sifat ekstrem?",
+        "jawaban": "Seleksi disruptif"
+    },
+    {
+        "index": 759,
+        "soal": "Peristiwa pertukaran segmen kromosom saat meiosis?",
+        "jawaban": "Pindah silang"
+    },
+    {
+        "index": 760,
+        "soal": "Bentuk simbiosis di mana kedua organisme saling menguntungkan?",
+        "jawaban": "Mutualisme"
+    },
+    {
+        "index": 761,
+        "soal": "Protein penyusun benang gelendong saat pembelahan sel?",
+        "jawaban": "Tubulin"
+    },
+    {
+        "index": 762,
+        "soal": "Hormon tumbuhan yang menghambat pertumbuhan?",
+        "jawaban": "Asam absisat"
+    },
+    {
+        "index": 763,
+        "soal": "Senyawa anorganik utama dalam tulang manusia?",
+        "jawaban": "Kalsium fosfat"
+    },
+    {
+        "index": 764,
+        "soal": "Sumber energi alternatif yang berasal dari bahan organik?",
+        "jawaban": "Biomassa"
+    },
+    {
+        "index": 765,
+        "soal": "Proses konversi nitrogen atmosfer menjadi senyawa amonia?",
+        "jawaban": "Fiksasi nitrogen"
+    },
+    {
+        "index": 766,
+        "soal": "Struktur lipid berlapis dua yang menyusun membran sel?",
+        "jawaban": "Fosfolipid bilayer"
+    },
+    {
+        "index": 767,
+        "soal": "Enzim pemecah pati menjadi gula sederhana?",
+        "jawaban": "Amilase"
+    },
+    {
+        "index": 768,
+        "soal": "Struktur otak yang berfungsi mengatur hormon dan suhu tubuh?",
+        "jawaban": "Hipotalamus"
+    },
+    {
+        "index": 769,
+        "soal": "Metode reproduksi aseksual pada protista seperti Amoeba?",
+        "jawaban": "Pembelahan biner"
+    },
+    {
+        "index": 770,
+        "soal": "Senjata kimia yang bekerja dengan menghambat sistem saraf?",
+        "jawaban": "Gas saraf"
+    },
+    {
+        "index": 771,
+        "soal": "Bagian enzim tempat substrat melekat?",
+        "jawaban": "Situs aktif"
+    },
+    {
+        "index": 772,
+        "soal": "Bagian ginjal tempat filtrasi darah berlangsung?",
+        "jawaban": "Glomerulus"
+    },
+    {
+        "index": 773,
+        "soal": "Tahapan respirasi sel yang menghasilkan ATP terbanyak?",
+        "jawaban": "Transpor elektron"
+    },
+    {
+        "index": 774,
+        "soal": "Molekul pembawa informasi genetik dari DNA ke ribosom?",
+        "jawaban": "mRNA"
+    },
+    {
+        "index": 775,
+        "soal": "Bentuk adaptasi sel darah merah untuk mengangkut oksigen?",
+        "jawaban": "Tanpa inti"
+    },
+    {
+        "index": 776,
+        "soal": "Bakteri yang digunakan dalam pembuatan yoghurt?",
+        "jawaban": "Lactobacillus bulgaricus"
+    },
+    {
+        "index": 777,
+        "soal": "Nama sistem transportasi internal pada tumbuhan?",
+        "jawaban": "Xilem floem"
+    },
+    {
+        "index": 778,
+        "soal": "Bagian dari sel hewan tempat sintesis protein?",
+        "jawaban": "Ribosom"
+    },
+    {
+        "index": 779,
+        "soal": "Gelombang elektromagnetik dengan panjang gelombang terpendek?",
+        "jawaban": "Sinar gamma"
+    },
+    {
+        "index": 780,
+        "soal": "Satuan tekanan dalam sistem internasional?",
+        "jawaban": "Pascal"
+    },
+    {
+        "index": 781,
+        "soal": "Proses pembentukan sel telur dalam ovarium?",
+        "jawaban": "Oogenesis"
+    },
+    {
+        "index": 782,
+        "soal": "Enzim yang mengubah amilum menjadi maltosa?",
+        "jawaban": "Amilase"
+    },
+    {
+        "index": 783,
+        "soal": "Bentuk energi yang dimiliki benda karena geraknya?",
+        "jawaban": "Energi kinetik"
+    },
+    {
+        "index": 784,
+        "soal": "Bagian otak yang mengatur suhu tubuh dan lapar?",
+        "jawaban": "Hipotalamus"
+    },
+    {
+        "index": 785,
+        "soal": "Zat kimia pembawa pesan antar sel saraf?",
+        "jawaban": "Neurotransmiter"
+    },
+    {
+        "index": 786,
+        "soal": "Struktur tumbuhan yang melindungi biji dan membantu penyebaran?",
+        "jawaban": "Buah"
+    },
+    {
+        "index": 787,
+        "soal": "Jenis pelapukan batuan akibat reaksi kimia?",
+        "jawaban": "Pelapukan kimia"
+    },
+    {
+        "index": 788,
+        "soal": "Pusat pengendali semua aktivitas sistem saraf?",
+        "jawaban": "Otak besar"
+    },
+    {
+        "index": 789,
+        "soal": "Bagian dari DNA yang membawa informasi genetik tertentu?",
+        "jawaban": "Gen"
+    },
+    {
+        "index": 790,
+        "soal": "Proses pelepasan energi tanpa oksigen dalam sel?",
+        "jawaban": "Fermentasi"
+    },
+    {
+        "index": 791,
+        "soal": "Cairan tubuh yang mengandung antibodi dan hormon?",
+        "jawaban": "Plasma darah"
+    },
+    {
+        "index": 792,
+        "soal": "Tipe mutasi yang terjadi pada satu pasangan basa nitrogen?",
+        "jawaban": "Mutasi titik"
+    },
+    {
+        "index": 793,
+        "soal": "Tumbuhan yang hidup di tempat kering?",
+        "jawaban": "Xerofit"
+    },
+    {
+        "index": 794,
+        "soal": "Struktur bunga tempat menempel benang sari?",
+        "jawaban": "Dasar bunga"
+    },
+    {
+        "index": 795,
+        "soal": "Jenis reaksi kimia yang menyerap panas?",
+        "jawaban": "Endoterm"
+    },
+    {
+        "index": 796,
+        "soal": "Kapasitas maksimum udara dalam paru-paru?",
+        "jawaban": "Volume total"
+    },
+    {
+        "index": 797,
+        "soal": "Hewan yang menghasilkan susu untuk menyusui anaknya?",
+        "jawaban": "Mamalia"
+    },
+    {
+        "index": 798,
+        "soal": "Alat pengukur besaran massa benda?",
+        "jawaban": "Neraca"
+    },
+    {
+        "index": 799,
+        "soal": "Bagian sel tumbuhan yang mengandung klorofil?",
+        "jawaban": "Kloroplas"
+    },
+    {
+        "index": 800,
+        "soal": "Zat kimia yang dapat memperlambat pertumbuhan mikroorganisme?",
+        "jawaban": "Antiseptik"
+    },
+    {
+        "index": 801,
+        "soal": "Proses pengikatan oksigen oleh hemoglobin dalam darah disebut?",
+        "jawaban": "Oksigenasi"
+    },
+    {
+        "index": 802,
+        "soal": "Enzim yang mengubah ATP menjadi energi seluler?",
+        "jawaban": "ATPase"
+    },
+    {
+        "index": 803,
+        "soal": "Tahapan meiosis yang terjadi setelah profase I dan sebelum anafase I?",
+        "jawaban": "Metafase I"
+    },
+    {
+        "index": 804,
+        "soal": "Struktur protein yang mengatur kontraksi otot rangka?",
+        "jawaban": "Aktin myosin"
+    },
+    {
+        "index": 805,
+        "soal": "Molekul pembawa elektron dalam rantai transportasi elektron mitokondria?",
+        "jawaban": "NADH FADH2"
+    },
+    {
+        "index": 806,
+        "soal": "Reaksi kimia yang menghasilkan panas dan cahaya spontan?",
+        "jawaban": "Reaksi eksoterm"
+    },
+    {
+        "index": 807,
+        "soal": "Lapisan tipis sel yang menutupi permukaan akar tumbuhan?",
+        "jawaban": "Epidermis akar"
+    },
+    {
+        "index": 808,
+        "soal": "Hormon yang mengatur kadar gula darah dalam tubuh manusia?",
+        "jawaban": "Insulin glukagon"
+    },
+    {
+        "index": 809,
+        "soal": "Proses konversi energi cahaya menjadi energi kimia dalam tumbuhan?",
+        "jawaban": "Fotosintesis"
+    },
+    {
+        "index": 810,
+        "soal": "Jenis ikatan kimia yang menyatukan atom dalam molekul air?",
+        "jawaban": "Ikatan kovalen"
+    },
+    {
+        "index": 811,
+        "soal": "Organ dalam tubuh manusia yang berfungsi sebagai filter darah dan penyimpan empedu?",
+        "jawaban": "Hati"
+    },
+    {
+        "index": 812,
+        "soal": "Senyawa yang digunakan sebagai sumber energi cadangan dalam tubuh hewan?",
+        "jawaban": "Glikogen"
+    },
+    {
+        "index": 813,
+        "soal": "Tahapan siklus sel yang melibatkan sintesis DNA?",
+        "jawaban": "Fase S"
+    },
+    {
+        "index": 814,
+        "soal": "Bagian otak yang bertanggung jawab atas fungsi penglihatan?",
+        "jawaban": "Korteks visual"
+    },
+    {
+        "index": 815,
+        "soal": "Proses perpindahan panas melalui gerakan zat cair atau gas?",
+        "jawaban": "Konveksi"
+    },
+    {
+        "index": 816,
+        "soal": "Senyawa kimia yang mengatur pH darah manusia?",
+        "jawaban": "Buffer darah"
+    },
+    {
+        "index": 817,
+        "soal": "Organ yang menghasilkan sel sperma pada pria?",
+        "jawaban": "Testis"
+    },
+    {
+        "index": 818,
+        "soal": "Jenis tulang yang terdapat di ujung tulang panjang dan berfungsi sebagai bantalan?",
+        "jawaban": "Tulang rawan"
+    },
+    {
+        "index": 819,
+        "soal": "Proses transportasi zat melalui membran sel tanpa memerlukan energi?",
+        "jawaban": "Difusi pasif"
+    },
+    {
+        "index": 820,
+        "soal": "Zat yang mempercepat reaksi kimia dalam tubuh manusia?",
+        "jawaban": "Enzim"
+    },
+    {
+        "index": 821,
+        "soal": "Organisme yang tidak memiliki inti sel sejati disebut?",
+        "jawaban": "Prokariot"
+    },
+    {
+        "index": 822,
+        "soal": "Senyawa kimia yang menjadi dasar pembentukan protein dalam tubuh?",
+        "jawaban": "Asam amino"
+    },
+    {
+        "index": 823,
+        "soal": "Jenis ikatan kimia yang menyatukan dua molekul air secara intermolekul?",
+        "jawaban": "Ikatan hidrogen"
+    },
+    {
+        "index": 824,
+        "soal": "Sistem organ yang berfungsi mengatur suhu tubuh manusia?",
+        "jawaban": "Kulit"
+    },
+    {
+        "index": 825,
+        "soal": "Mekanisme pertahanan tubuh terhadap patogen melalui produksi antibodi?",
+        "jawaban": "Imunitas adaptif"
+    },
+    {
+        "index": 826,
+        "soal": "Apa nama partikel dasar penyusun proton dan neutron?",
+        "jawaban": "Quark"
+    },
+    {
+        "index": 827,
+        "soal": "Hukum Newton yang menjelaskan aksi dan reaksi gaya?",
+        "jawaban": "Hukum ketiga"
+    },
+    {
+        "index": 828,
+        "soal": "Unsur kimia dengan nomor atom 79 yang digunakan dalam perhiasan?",
+        "jawaban": "Emas"
+    },
+    {
+        "index": 829,
+        "soal": "Sistem organ pada manusia yang berfungsi menyaring darah?",
+        "jawaban": "Ginjal"
+    },
+    {
+        "index": 830,
+        "soal": "Gelombang elektromagnetik yang digunakan untuk memasak makanan?",
+        "jawaban": "Gelombang mikro"
+    },
+    {
+        "index": 831,
+        "soal": "Bagian tumbuhan yang bertugas menyerap air dan mineral dari tanah?",
+        "jawaban": "Akar"
+    },
+    {
+        "index": 832,
+        "soal": "Satuan SI untuk mengukur energi atau kerja?",
+        "jawaban": "Joule"
+    },
+    {
+        "index": 833,
+        "soal": "Jenis ikatan kimia yang terbentuk akibat transfer elektron?",
+        "jawaban": "Ikatan ion"
+    },
+    {
+        "index": 834,
+        "soal": "Proses di mana air berubah langsung dari padat ke gas?",
+        "jawaban": "Sublimasi"
+    },
+    {
+        "index": 835,
+        "soal": "Organ tubuh manusia yang berfungsi sebagai pusat koordinasi saraf?",
+        "jawaban": "Otak"
+    },
+    {
+        "index": 836,
+        "soal": "Planet terbesar dalam tata surya kita?",
+        "jawaban": "Jupiter"
+    },
+    {
+        "index": 837,
+        "soal": "Jenis radiasi yang digunakan untuk sterilisasi alat medis?",
+        "jawaban": "Sinar gamma"
+    },
+    {
+        "index": 838,
+        "soal": "Reaksi kimia antara asam dan basa menghasilkan apa?",
+        "jawaban": "Garam air"
+    },
+    {
+        "index": 839,
+        "soal": "Tumbuhan yang tidak memiliki pembuluh angkut disebut?",
+        "jawaban": "Tumbuhan lumut"
+    },
+    {
+        "index": 840,
+        "soal": "Alat yang digunakan untuk mengukur massa jenis suatu benda?",
+        "jawaban": "Arkimedes"
+    },
+    {
+        "index": 841,
+        "soal": "Unsur yang memiliki sifat konduktor listrik terbaik?",
+        "jawaban": "Tembaga"
+    },
+    {
+        "index": 842,
+        "soal": "Bagian sistem pencernaan yang menyerap nutrisi terbesar?",
+        "jawaban": "Usus halus"
+    },
+    {
+        "index": 843,
+        "soal": "Jenis batuan yang terbentuk dari proses pengendapan?",
+        "jawaban": "Sedimen"
+    },
+    {
+        "index": 844,
+        "soal": "Gaya yang bekerja saat dua benda bersentuhan dan bergerak saling melawan?",
+        "jawaban": "Gaya gesek"
+    },
+    {
+        "index": 845,
+        "soal": "Partikel bermuatan negatif dalam atom?",
+        "jawaban": "Elektron"
+    },
+    {
+        "index": 846,
+        "soal": "Reaksi kimia yang melibatkan pelepasan panas disebut?",
+        "jawaban": "Eksoterm"
+    },
+    {
+        "index": 847,
+        "soal": "Satuan ukuran tekanan udara di atmosfer?",
+        "jawaban": "Milibar"
+    },
+    {
+        "index": 848,
+        "soal": "Proses fotosintesis terjadi di organel apa pada sel tumbuhan?",
+        "jawaban": "Kloroplas"
+    },
+    {
+        "index": 849,
+        "soal": "Sistem organ manusia yang bertanggung jawab menghasilkan hormon?",
+        "jawaban": "Kelenjar endokrin"
+    },
+    {
+        "index": 850,
+        "soal": "Gelombang suara tidak dapat merambat di media apa?",
+        "jawaban": "Vakum"
+    },
+    {
+        "index": 851,
+        "soal": "Ibukota negara Jepang?",
+        "jawaban": "Tokyo"
+    },
+    {
+        "index": 852,
+        "soal": "Penemu lampu pijar?",
+        "jawaban": "Thomas Edison"
+    },
+    {
+        "index": 853,
+        "soal": "Nama proses menghitung cepat dengan jari?",
+        "jawaban": "Aritmetika jari"
+    },
+    {
+        "index": 854,
+        "soal": "Bahasa resmi PBB yang berasal dari negara Prancis?",
+        "jawaban": "Bahasa Perancis"
+    },
+    {
+        "index": 855,
+        "soal": "Satuan untuk mengukur intensitas suara?",
+        "jawaban": "Desibel"
+    },
+    {
+        "index": 856,
+        "soal": "Perang dunia kedua berakhir tahun?",
+        "jawaban": "1945"
+    },
+    {
+        "index": 857,
+        "soal": "Karya sastra berupa cerita panjang dan imajinatif?",
+        "jawaban": "Novel"
+    },
+    {
+        "index": 858,
+        "soal": "Simbol kimia emas?",
+        "jawaban": "Au"
+    },
+    {
+        "index": 859,
+        "soal": "Bilangan prima terkecil?",
+        "jawaban": "Dua"
+    },
+    {
+        "index": 860,
+        "soal": "Nama ibukota Mesir?",
+        "jawaban": "Kairo"
+    },
+    {
+        "index": 861,
+        "soal": "Gaya tarik bumi pada benda disebut?",
+        "jawaban": "Gravitasi"
+    },
+    {
+        "index": 862,
+        "soal": "Negara yang terkenal dengan menara Pisa?",
+        "jawaban": "Italia"
+    },
+    {
+        "index": 863,
+        "soal": "Ilmu yang mempelajari tentang bumi?",
+        "jawaban": "Geografi"
+    },
+    {
+        "index": 864,
+        "soal": "Sistem bilangan berbasis dua?",
+        "jawaban": "Biner"
+    },
+    {
+        "index": 865,
+        "soal": "Bahasa pengantar Olimpiade internasional?",
+        "jawaban": "Bahasa Inggris"
+    },
+    {
+        "index": 866,
+        "soal": "Simbol matematika untuk akar kuadrat?",
+        "jawaban": "√"
+    },
+    {
+        "index": 867,
+        "soal": "Pulau terbesar di dunia?",
+        "jawaban": "Greenland"
+    },
+    {
+        "index": 868,
+        "soal": "Sungai terpanjang di dunia?",
+        "jawaban": "Nil"
+    },
+    {
+        "index": 869,
+        "soal": "Bahasa asli negara Brazil?",
+        "jawaban": "Portugis"
+    },
+    {
+        "index": 870,
+        "soal": "Peristiwa sejarah Proklamasi kemerdekaan Indonesia tanggal?",
+        "jawaban": "17 Agustus"
+    },
+    {
+        "index": 871,
+        "soal": "Bidang ilmu yang mempelajari bintang dan planet?",
+        "jawaban": "Astronomi"
+    },
+    {
+        "index": 872,
+        "soal": "Presiden pertama Republik Indonesia?",
+        "jawaban": "Soekarno"
+    },
+    {
+        "index": 873,
+        "soal": "Jenis puisi lama Indonesia dengan 4 baris?",
+        "jawaban": "Pantun"
+    },
+    {
+        "index": 874,
+        "soal": "Satuan panjang dalam sistem metrik?",
+        "jawaban": "Meter"
+    },
+    {
+        "index": 875,
+        "soal": "Kota di Italia terkenal dengan kanal airnya?",
+        "jawaban": "Venesia"
+    },
+    {
+        "index": 876,
+        "soal": "Apa nama gaya yang membuat benda jatuh ke bumi?",
+        "jawaban": "Gaya gravitasi"
+    },
+    {
+        "index": 877,
+        "soal": "Unsur kimia yang berwarna merah darah dan berperan dalam pernapasan?",
+        "jawaban": "Besi"
+    },
+    {
+        "index": 878,
+        "soal": "Bagian otak yang mengontrol pusat penglihatan manusia?",
+        "jawaban": "Korteks visual"
+    },
+    {
+        "index": 879,
+        "soal": "Jenis zat yang tidak dapat menghantarkan listrik dengan baik?",
+        "jawaban": "Isolator"
+    },
+    {
+        "index": 880,
+        "soal": "Proses perubahan cair menjadi gas pada suhu di bawah titik didih?",
+        "jawaban": "Penguapan"
+    },
+    {
+        "index": 881,
+        "soal": "Jenis hewan yang tubuhnya bersegmen dan memiliki kaki banyak?",
+        "jawaban": "Arthropoda"
+    },
+    {
+        "index": 882,
+        "soal": "Satuan SI untuk mengukur kuat arus listrik?",
+        "jawaban": "Ampere"
+    },
+    {
+        "index": 883,
+        "soal": "Zat yang berfungsi sebagai penyimpanan energi dalam sel tumbuhan?",
+        "jawaban": "Amilum"
+    },
+    {
+        "index": 884,
+        "soal": "Lapisan atmosfer yang mengandung ozon dan melindungi bumi dari UV?",
+        "jawaban": "Stratosfer"
+    },
+    {
+        "index": 885,
+        "soal": "Bagian mata yang mengatur jumlah cahaya masuk ke mata?",
+        "jawaban": "Iris"
+    },
+    {
+        "index": 886,
+        "soal": "Reaksi kimia yang mengubah senyawa menjadi unsur atau senyawa lain?",
+        "jawaban": "Reaksi kimia"
+    },
+    {
+        "index": 887,
+        "soal": "Organel yang berfungsi sebagai pusat penghasil energi dalam sel?",
+        "jawaban": "Mitokondria"
+    },
+    {
+        "index": 888,
+        "soal": "Sistem organ yang mengatur keseimbangan cairan tubuh manusia?",
+        "jawaban": "Sistem urin"
+    },
+    {
+        "index": 889,
+        "soal": "Gaya tarik-menarik antar partikel zat cair yang menyebabkan permukaan cekung?",
+        "jawaban": "Kohezi"
+    },
+    {
+        "index": 890,
+        "soal": "Planet yang dikenal sebagai planet merah dalam tata surya?",
+        "jawaban": "Mars"
+    },
+    {
+        "index": 891,
+        "soal": "Jenis gelombang yang digunakan dalam teknologi radar?",
+        "jawaban": "Gelombang mikro"
+    },
+    {
+        "index": 892,
+        "soal": "Tumbuhan yang hidup di air tawar dan memiliki daun mengapung?",
+        "jawaban": "Enceng gondok"
+    },
+    {
+        "index": 893,
+        "soal": "Unsur yang bersifat sangat ringan dan digunakan dalam balon udara?",
+        "jawaban": "Helium"
+    },
+    {
+        "index": 894,
+        "soal": "Zat yang menyusun dinding sel pada bakteri?",
+        "jawaban": "Peptidoglikan"
+    },
+    {
+        "index": 895,
+        "soal": "Jenis enzim yang memecah lemak menjadi asam lemak dan gliserol?",
+        "jawaban": "Lipase"
+    },
+    {
+        "index": 896,
+        "soal": "Satuan untuk mengukur frekuensi gelombang?",
+        "jawaban": "Hertz"
+    },
+    {
+        "index": 897,
+        "soal": "Bagian tumbuhan yang menghasilkan serbuk sari?",
+        "jawaban": "Benang sari"
+    },
+    {
+        "index": 898,
+        "soal": "Jenis batuan yang terbentuk dari magma yang membeku di permukaan bumi?",
+        "jawaban": "Batuan beku"
+    },
+    {
+        "index": 899,
+        "soal": "Nama ilmuwan yang menemukan hukum gravitasi universal?",
+        "jawaban": "Newton"
+    },
+    {
+        "index": 900,
+        "soal": "Proses perpindahan panas melalui sentuhan langsung antar benda?",
+        "jawaban": "Konduksi"
+    },
+    {
+        "index": 901,
+        "soal": "Pelukis ekspresionis ini dikenal sebagai maestro seni lukis Indonesia?",
+        "jawaban": "Affandi"
+    },
+    {
+        "index": 902,
+        "soal": "Planet terdekat dengan matahari?",
+        "jawaban": "Merkurius"
+    },
+    {
+        "index": 903,
+        "soal": "Zat hijau daun yang menangkap cahaya matahari?",
+        "jawaban": "Klorofil"
+    },
+    {
+        "index": 904,
+        "soal": "Organ pada manusia yang berfungsi menyaring darah?",
+        "jawaban": "Ginjal"
+    },
+    {
+        "index": 905,
+        "soal": "Gaya yang membuat benda jatuh ke bumi?",
+        "jawaban": "Gravitasi"
+    },
+    {
+        "index": 906,
+        "soal": "Ibu kota negara Indonesia?",
+        "jawaban": "Jakarta"
+    },
+    {
+        "index": 907,
+        "soal": "Proses perubahan air menjadi uap?",
+        "jawaban": "Penguapan"
+    },
+    {
+        "index": 908,
+        "soal": "Satuan ukuran massa?",
+        "jawaban": "Gram"
+    },
+    {
+        "index": 909,
+        "soal": "Nama gunung berapi tertinggi di Indonesia?",
+        "jawaban": "Semeru"
+    },
+    {
+        "index": 910,
+        "soal": "Alat yang digunakan untuk melihat benda sangat kecil?",
+        "jawaban": "Mikroskop"
+    },
+    {
+        "index": 911,
+        "soal": "Proses tumbuhan membuat makanan?",
+        "jawaban": "Fotosintesis"
+    },
+    {
+        "index": 912,
+        "soal": "Lapisan bumi tempat manusia tinggal?",
+        "jawaban": "Kerak bumi"
+    },
+    {
+        "index": 913,
+        "soal": "Alat pernapasan pada ikan?",
+        "jawaban": "Insang"
+    },
+    {
+        "index": 914,
+        "soal": "Planet terbesar di tata surya?",
+        "jawaban": "Jupiter"
+    },
+    {
+        "index": 915,
+        "soal": "Zat yang diperlukan tanaman untuk tumbuh?",
+        "jawaban": "Nutrisi"
+    },
+    {
+        "index": 916,
+        "soal": "Nama alat untuk mengukur suhu?",
+        "jawaban": "Termometer"
+    },
+    {
+        "index": 917,
+        "soal": "Satuan pengukuran panjang?",
+        "jawaban": "Meter"
+    },
+    {
+        "index": 918,
+        "soal": "Proses perubahan cairan menjadi padat?",
+        "jawaban": "Pembekuan"
+    },
+    {
+        "index": 919,
+        "soal": "Organ yang memompa darah ke seluruh tubuh?",
+        "jawaban": "Jantung"
+    },
+    {
+        "index": 920,
+        "soal": "Bagian mata yang berfungsi menangkap cahaya?",
+        "jawaban": "Retina"
+    },
+    {
+        "index": 921,
+        "soal": "Proses perpindahan panas tanpa sentuhan?",
+        "jawaban": "Radiasi"
+    },
+    {
+        "index": 922,
+        "soal": "Zat yang menyebabkan warna pada kulit dan rambut?",
+        "jawaban": "Melanin"
+    },
+    {
+        "index": 923,
+        "soal": "Alat yang digunakan untuk mengukur tekanan udara?",
+        "jawaban": "Barometer"
+    },
+    {
+        "index": 924,
+        "soal": "Bentuk energi yang dihasilkan oleh matahari?",
+        "jawaban": "Cahaya"
+    },
+    {
+        "index": 925,
+        "soal": "Satuan pengukuran waktu?",
+        "jawaban": "Detik"
+    },
+    {
+        "index": 926,
+        "soal": "Proses kimia yang terjadi pada tumbuhan hijau untuk mengubah cahaya matahari menjadi energi kimia disebut?",
+        "jawaban": "Fotosintesis"
+    },
+    {
+        "index": 927,
+        "soal": "Nama ilmuwan yang dikenal dengan teori relativitas khusus dan umum?",
+        "jawaban": "Einstein"
+    },
+    {
+        "index": 928,
+        "soal": "Proses perpindahan panas yang terjadi melalui aliran zat cair atau gas disebut?",
+        "jawaban": "Konveksi"
+    },
+    {
+        "index": 929,
+        "soal": "Lapisan atmosfer bumi yang paling dekat dengan permukaan dan tempat berlangsungnya cuaca?",
+        "jawaban": "Troposfer"
+    },
+    {
+        "index": 930,
+        "soal": "Organ dalam tubuh manusia yang berfungsi memproduksi insulin untuk mengatur kadar gula darah?",
+        "jawaban": "Pankreas"
+    },
+    {
+        "index": 931,
+        "soal": "Bagian otak manusia yang bertanggung jawab mengatur keseimbangan dan koordinasi tubuh?",
+        "jawaban": "Serebelum"
+    },
+    {
+        "index": 932,
+        "soal": "Jenis batuan yang terbentuk dari endapan sisa-sisa organisme dan bahan mineral?",
+        "jawaban": "Batuan sedimen"
+    },
+    {
+        "index": 933,
+        "soal": "Nama unsur kimia yang memiliki simbol O dan sangat penting untuk proses pernapasan makhluk hidup?",
+        "jawaban": "Oksigen"
+    },
+    {
+        "index": 934,
+        "soal": "Proses pemisahan campuran berdasarkan perbedaan titik didih tiap komponen disebut?",
+        "jawaban": "Distilasi"
+    },
+    {
+        "index": 935,
+        "soal": "Alat yang digunakan untuk mengukur besarnya arus listrik dalam rangkaian?",
+        "jawaban": "Amperemeter"
+    },
+    {
+        "index": 936,
+        "soal": "Nama planet yang memiliki cincin paling jelas dan paling banyak dalam tata surya?",
+        "jawaban": "Saturnus"
+    },
+    {
+        "index": 937,
+        "soal": "Jenis gelombang elektromagnetik yang digunakan dalam teknologi komunikasi nirkabel?",
+        "jawaban": "Gelombang radio"
+    },
+    {
+        "index": 938,
+        "soal": "Proses penguapan air dari permukaan daun tumbuhan yang berperan dalam siklus air?",
+        "jawaban": "Transpirasi"
+    },
+    {
+        "index": 939,
+        "soal": "Bagian tumbuhan yang berfungsi sebagai tempat penyimpanan cadangan makanan terutama pada umbi-umbian?",
+        "jawaban": "Akar tunggang"
+    },
+    {
+        "index": 940,
+        "soal": "Satuan internasional yang digunakan untuk mengukur energi dalam ilmu fisika?",
+        "jawaban": "Joule"
+    },
+    {
+        "index": 941,
+        "soal": "Nama unsur kimia yang memiliki simbol Fe dan merupakan logam yang banyak digunakan dalam industri?",
+        "jawaban": "Besi"
+    },
+    {
+        "index": 942,
+        "soal": "Proses perubahan zat cair menjadi gas yang terjadi pada suhu di bawah titik didih disebut?",
+        "jawaban": "Penguapan"
+    },
+    {
+        "index": 943,
+        "soal": "Organ tubuh manusia yang berfungsi untuk menyaring udara yang masuk sebelum mencapai paru-paru?",
+        "jawaban": "Hidung"
+    },
+    {
+        "index": 944,
+        "soal": "Nama zat yang memberikan warna merah pada darah manusia dan berfungsi mengikat oksigen?",
+        "jawaban": "Hemoglobin"
+    },
+    {
+        "index": 945,
+        "soal": "Alat optik yang digunakan untuk memperbesar benda jauh agar terlihat jelas?",
+        "jawaban": "Teleskop"
+    },
+    {
+        "index": 946,
+        "soal": "Jenis jaringan pada tumbuhan yang berfungsi untuk mengangkut air dan mineral dari akar ke daun?",
+        "jawaban": "Xilem"
+    },
+    {
+        "index": 947,
+        "soal": "Satuan yang digunakan untuk mengukur kuat medan magnet dalam fisika?",
+        "jawaban": "Tesla"
+    },
+    {
+        "index": 948,
+        "soal": "Nama organ yang berfungsi sebagai tempat pencernaan utama pada manusia setelah lambung?",
+        "jawaban": "Usus halus"
+    },
+    {
+        "index": 949,
+        "soal": "Fenomena alam berupa pergerakan massa air laut yang disebabkan oleh gaya tarik bulan?",
+        "jawaban": "Pasang surut"
+    },
+    {
+        "index": 950,
+        "soal": "Jenis energi yang dihasilkan dari reaksi inti atom seperti pada pembangkit listrik tenaga nuklir?",
+        "jawaban": "Energi nuklir"
+    },
+    {
+        "index": 951,
+        "soal": "Siapa presiden pertama Indonesia yang memimpin kemerdekaan dan masa awal republik?",
+        "jawaban": "Soekarno"
+    },
+    {
+        "index": 952,
+        "soal": "Apa nama sistem pemerintahan yang kekuasaannya dipegang oleh satu orang saja secara mutlak?",
+        "jawaban": "Monarki absolut"
+    },
+    {
+        "index": 953,
+        "soal": "Sungai terpanjang di dunia yang mengalir melalui beberapa negara di Afrika?",
+        "jawaban": "Sungai Nil"
+    },
+    {
+        "index": 954,
+        "soal": "Bahasa resmi yang digunakan dalam organisasi Perserikatan Bangsa-Bangsa selain bahasa Inggris?",
+        "jawaban": "Bahasa Arab"
+    },
+    {
+        "index": 955,
+        "soal": "Tokoh penulis puisi terkenal dari Indonesia yang juga dikenal dengan julukan Penyair Angkatan 45?",
+        "jawaban": "Chairil Anwar"
+    },
+    {
+        "index": 956,
+        "soal": "Nama karya seni rupa tradisional Indonesia yang dibuat dengan teknik menulis menggunakan lilin dan pewarna pada kain?",
+        "jawaban": "Batik tulis"
+    },
+    {
+        "index": 957,
+        "soal": "Proses perubahan masyarakat dari tradisional menuju modern dalam berbagai aspek kehidupan disebut?",
+        "jawaban": "Modernisasi"
+    },
+    {
+        "index": 958,
+        "soal": "Jenis musik tradisional dari daerah Sumatra Barat yang menggunakan alat musik talempong?",
+        "jawaban": "Musik Minang"
+    },
+    {
+        "index": 959,
+        "soal": "Benda peninggalan sejarah yang digunakan sebagai alat komunikasi tertulis di zaman kuno?",
+        "jawaban": "Prasasti batu"
+    },
+    {
+        "index": 960,
+        "soal": "Apa nama kerajaan maritim besar yang pernah menguasai wilayah Asia Tenggara abad ke-13 sampai 16?",
+        "jawaban": "Majapahit"
+    },
+    {
+        "index": 961,
+        "soal": "Sistem ekonomi yang didasarkan pada kepemilikan pribadi dan pasar bebas tanpa campur tangan pemerintah?",
+        "jawaban": "Ekonomi pasar"
+    },
+    {
+        "index": 962,
+        "soal": "Seni lukis yang menekankan ekspresi emosi dan warna kuat dengan goresan spontan disebut?",
+        "jawaban": "Ekspresionisme"
+    },
+    {
+        "index": 963,
+        "soal": "Kota pelabuhan terkenal di Italia yang dikenal dengan kanal-kanalnya yang indah?",
+        "jawaban": "Venesia"
+    },
+    {
+        "index": 964,
+        "soal": "Sistem penulisan yang digunakan oleh bangsa Mesir kuno dengan simbol gambar disebut?",
+        "jawaban": "Hieroglif"
+    },
+    {
+        "index": 965,
+        "soal": "Proses pengurangan nilai mata uang suatu negara terhadap mata uang asing disebut?",
+        "jawaban": "Depresiasi"
+    },
+    {
+        "index": 966,
+        "soal": "Siapa tokoh revolusi Prancis yang menjadi simbol kebebasan dan hak asasi manusia?",
+        "jawaban": "Maximilien Robespierre"
+    },
+    {
+        "index": 967,
+        "soal": "Sistem pemerintahan yang kekuasaan tertingginya dipegang oleh rakyat melalui wakil-wakilnya?",
+        "jawaban": "Demokrasi perwakilan"
+    },
+    {
+        "index": 968,
+        "soal": "Salah satu unsur utama dalam seni tari yang berhubungan dengan pengulangan gerak berirama?",
+        "jawaban": "Ritme tari"
+    },
+    {
+        "index": 969,
+        "soal": "Nama benda langit yang mengorbit bumi dan mempengaruhi pasang surut air laut?",
+        "jawaban": "Bulan"
+    },
+    {
+        "index": 970,
+        "soal": "Nama presiden Amerika Serikat yang terkenal dengan kebijakan New Deal pada masa Depresi Besar?",
+        "jawaban": "Franklin Roosevelt"
+    },
+    {
+        "index": 971,
+        "soal": "Metode komunikasi yang menggunakan simbol berupa titik dan garis untuk mewakili huruf?",
+        "jawaban": "Kode morse"
+    },
+    {
+        "index": 972,
+        "soal": "Istilah untuk aliran seni dan arsitektur Eropa abad ke-17 yang dikenal dengan gaya dramatis dan ornamen berlebihan?",
+        "jawaban": "Barok"
+    },
+    {
+        "index": 973,
+        "soal": "Gunung berapi aktif yang terletak di Pulau Jawa dan terkenal dengan letusan dahsyat pada tahun 2010?",
+        "jawaban": "Gunung Merapi"
+    },
+    {
+        "index": 974,
+        "soal": "Nama penulis novel klasik berjudul '1984' yang menggambarkan masa depan dystopia?",
+        "jawaban": "George Orwell"
+    },
+    {
+        "index": 975,
+        "soal": "Proses produksi barang dan jasa yang dilakukan oleh individu atau perusahaan untuk memenuhi kebutuhan pasar?",
+        "jawaban": "Produksi ekonomi"
+    },
+    {
+        "index": 976,
+        "soal": "Proses biologi di mana organisme mengubah makanan menjadi energi yang dapat digunakan?",
+        "jawaban": "Respirasi sel"
+    },
+    {
+        "index": 977,
+        "soal": "Nama perang besar yang berlangsung antara tahun 1939 sampai 1945 di seluruh dunia?",
+        "jawaban": "Perang Dunia 2"
+    },
+    {
+        "index": 978,
+        "soal": "Sistem pemerintahan yang kekuasaannya dibatasi oleh hukum dan konstitusi disebut?",
+        "jawaban": "Demokrasi konstitusional"
+    },
+    {
+        "index": 979,
+        "soal": "Nama benua terbesar kedua di dunia setelah Asia?",
+        "jawaban": "Benua Afrika"
+    },
+    {
+        "index": 980,
+        "soal": "Unit terkecil dari makhluk hidup yang mampu menjalankan fungsi kehidupan disebut?",
+        "jawaban": "Sel hidup"
+    },
+    {
+        "index": 981,
+        "soal": "Proses perubahan air dari bentuk cair menjadi gas yang terjadi pada suhu di bawah titik didih?",
+        "jawaban": "Penguapan"
+    },
+    {
+        "index": 982,
+        "soal": "Nama revolusi yang terjadi di Amerika Serikat untuk memisahkan diri dari Inggris pada abad ke-18?",
+        "jawaban": "Revolusi Amerika"
+    },
+    {
+        "index": 983,
+        "soal": "Nama jaringan tumbuhan yang berfungsi mengangkut hasil fotosintesis ke seluruh bagian tumbuhan?",
+        "jawaban": "Floem"
+    },
+    {
+        "index": 984,
+        "soal": "Nama sistem penulisan kuno yang menggunakan simbol berupa gambar di Mesopotamia?",
+        "jawaban": "Tulisan kuneiform"
+    },
+    {
+        "index": 985,
+        "soal": "Alat yang digunakan untuk mengukur tekanan udara di atmosfer?",
+        "jawaban": "Barometer"
+    },
+    {
+        "index": 986,
+        "soal": "Nama negara yang menjadi pusat peradaban kuno Mesir dengan piramida dan Sphinx?",
+        "jawaban": "Mesir kuno"
+    },
+    {
+        "index": 987,
+        "soal": "Bagian otak yang berfungsi mengatur fungsi dasar tubuh seperti pernapasan dan detak jantung?",
+        "jawaban": "Sistem limbik"
+    },
+    {
+        "index": 988,
+        "soal": "Jenis energi yang diperoleh dari pembakaran bahan bakar fosil seperti minyak bumi dan batu bara?",
+        "jawaban": "Energi kimia"
+    },
+    {
+        "index": 989,
+        "soal": "Nama teori ilmiah yang menjelaskan asal usul dan evolusi alam semesta sejak ledakan besar?",
+        "jawaban": "Teori bigbang"
+    },
+    {
+        "index": 990,
+        "soal": "Istilah untuk kemampuan suatu benda menahan gaya atau tekanan tanpa patah?",
+        "jawaban": "Kekuatan material"
+    },
+    {
+        "index": 991,
+        "soal": "Sistem perdagangan global yang menghubungkan berbagai negara dan benua disebut?",
+        "jawaban": "Perdagangan internasional"
+    },
+    {
+        "index": 992,
+        "soal": "Nama gunung tertinggi di dunia yang terletak di pegunungan Himalaya?",
+        "jawaban": "Gunung Everest"
+    },
+    {
+        "index": 993,
+        "soal": "Satuan ukuran untuk menyatakan besarnya arus listrik dalam suatu rangkaian?",
+        "jawaban": "Ampere"
+    },
+    {
+        "index": 994,
+        "soal": "Nama unsur kimia dengan simbol Au yang dikenal sebagai logam mulia berwarna kuning?",
+        "jawaban": "Emas"
+    },
+    {
+        "index": 995,
+        "soal": "Bagian tumbuhan yang berfungsi sebagai alat perkembangbiakan jantan menghasilkan serbuk sari?",
+        "jawaban": "Benang sari"
+    },
+    {
+        "index": 996,
+        "soal": "Nama alat yang digunakan untuk mengukur suhu tubuh manusia secara cepat dan akurat?",
+        "jawaban": "Termometer digital"
+    },
+    {
+        "index": 997,
+        "soal": "Proses dimana air berubah dari uap menjadi cairan di atmosfer disebut?",
+        "jawaban": "Kondensasi"
+    },
+    {
+        "index": 998,
+        "soal": "Nama zat yang berperan sebagai pembawa pesan kimia dalam sistem saraf manusia?",
+        "jawaban": "Neurotransmitter"
+    },
+    {
+        "index": 999,
+        "soal": "Istilah untuk lahan pertanian yang diolah secara tradisional dengan menggunakan tenaga manusia atau hewan?",
+        "jawaban": "Pertanian subsisten"
+    },
+    {
+        "index": 1000,
+        "soal": "Nama proses peningkatan suhu bumi akibat penumpukan gas rumah kaca di atmosfer?",
+        "jawaban": "Pemanasan global"
+    }
+]
