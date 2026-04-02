@@ -1,0 +1,300 @@
+{
+  "BUKITTINGGI": {
+    "AUR BIRUGO TIGO BALEH": {
+      "AUR KUNING": "26131",
+      "BELAKANG BALOK": "26136",
+      "BIRUGO": "26138",
+      "KUBU TANJUNG": "26133",
+      "LADANG CAKIAH": "26135",
+      "PAKAN LABUH": "26134",
+      "SAPIRAN": "26137"
+    }
+  },
+  "KEPULAUAN MENTAWAI": {
+    "PAGAI SELATAN": {
+      "BULASAT": "25782",
+      "MAKALO": "25782"
+    },
+    "PAGAI UTARA": {
+      "BETUMONGA": "25781",
+      "SILABU": "25781"
+    },
+    "SIBERUT BARAT": {
+      "SIGAPOKNA": "25795",
+      "SIMALEGI": "25795",
+      "SIMATALU": "25795"
+    },
+    "SIBERUT SELATAN": {
+      "MATOTONAN": "25793",
+      "MUNTEI": "25793"
+    },
+    "SIBERUT TENGAH": {
+      "CIMPUNGAN": "25796",
+      "SALIGUMA": "25796"
+    },
+    "SIBERUT UTARA": {
+      "BOJAKAN": "25794",
+      "MALANCAN": "25794",
+      "SIRILOGUI": "25794"
+    },
+    "SIKAKAP": {
+      "MATOBE": "25773",
+      "SIKAKAP": "25772",
+      "TAIKAKO": "25772"
+    },
+    "SIPORA SELATAN": {
+      "BERIULOU": "25773",
+      "BOSUA": "25773",
+      "MARA": "25773",
+      "MATOBE": "25773",
+      "SAUREINU": "25773",
+      "SIOBAN": "25773"
+    },
+    "SIPORA UTARA": {
+      "BETUMONGA": "25771",
+      "BUKIT PAMEWA": "25771",
+      "SIPORA JAYA": "25771"
+    }
+  },
+  "PADANG": {
+    "BUNGUS TELUK KABUNG": {
+      "BUNGUS BARAT": "25245",
+      "BUNGUS SELATAN": "25246",
+      "BUNGUS TIMUR": "25244",
+      "TELUK KABUNG SELATAN": "25243",
+      "TELUK KABUNG TENGAH": "25242",
+      "TELUK KABUNG UTARA": "25241"
+    },
+    "KOTO TANGAH": {
+      "AIR PACAH": "25176",
+      "BALAI GADANG": "25174",
+      "BATANG KABUNG": "25172",
+      "BATIPUH PANJANG": "25173",
+      "BUNGO PASANG": "25171",
+      "KOTO PANJANG IKUA KOTO": "25175",
+      "KOTO PULAI": "25172",
+      "LUBUK BUAYA": "25173",
+      "LUBUK MINTURUN": "25175",
+      "PADANG SARAI": "25173",
+      "PARUPUK TABING": "25171",
+      "PASIR NAN TIGO": "25172"
+    },
+    "KURANJI": {
+      "AMPANG": "25154",
+      "ANDURING": "25151",
+      "GUNUNG SARIK": "25158",
+      "KALUMBUK": "25155",
+      "KORONG GADANG": "25156",
+      "KURANJI": "25157",
+      "LUBUK LINTAH": "25153",
+      "PASAR AMBACANG": "25152",
+      "SUNGAI SAPIH": "25159"
+    },
+    "LUBUK BEGALUNG": {
+      "BANUARAN NAN XX": "25222",
+      "BATUANG TABA NAN XX": "25223",
+      "CENGKEH NAN XX": "25225",
+      "GATES NAN XX": "25227",
+      "GURUN LAWEH NAN XX": "25221",
+      "KAMPUNG BARU NAN XX": "25225",
+      "KAMPUNG JUA NAN XX": "25225",
+      "KOTO BARU NAN XX": "25227",
+      "LUBUK BEGALUNG NAN XX": "25221",
+      "PAGAMBIRAN AMPULU NAN XX": "25226",
+      "PAMPANGAN NAN XX": "25227",
+      "PARAK LAWEH PULAU AIR NAN XX": "25223",
+      "TANAH SIRAH PIAI NAN XX": "25224",
+      "TANJUANG AUR NAN XX": "25222"
+    },
+    "LUBUK KILANGAN": {
+      "BANDAR BUAT": "25231",
+      "BATU GADANG": "25236",
+      "BERINGIN": "25235",
+      "INDARUNG": "25237",
+      "KOTO LALANG": "25232",
+      "PADANG BESI": "25233",
+      "TARANTANG": "25234"
+    },
+    "NANGGALO": {
+      "GURUN LAWEH": "25145",
+      "KAMPUNG LAPAI BARU": "25142",
+      "KAMPUNG OLO": "25143",
+      "KURAO PAGANG": "25147",
+      "SURAU GADANG": "25146",
+      "TABIANG BANDA GADANG": "25144"
+    },
+    "PADANG BARAT": {
+      "BELAKANG TANGSI": "25118",
+      "BEROK NIPAH": "25118",
+      "FLAMBOYAN BARU": "25114",
+      "KAMPUNG JAO": "25112",
+      "KAMPUNG PONDOK": "25119",
+      "OLO": "25117",
+      "PADANG PASIR": "25112",
+      "PURUS": "25113",
+      "RIMBO KALUANG": "25115",
+      "UJUNG GURUN": "25114"
+    },
+    "PADANG SELATAN": {
+      "AIR MANIS": "25217",
+      "ALANG LAWEH": "25211",
+      "BATANG ARAU": "25215",
+      "BELAKANG PONDOK": "25211",
+      "RANAH PARAK RUMBIO": "25212",
+      "RAWANG": "25216",
+      "SEBERANG PADANG": "25214",
+      "SEBERANG PALINGGAM": "25215"
+    },
+    "PADANG TIMUR": {
+      "ANDALAS": "25126",
+      "GANTING PARAK GADANG": "25122",
+      "JATI": "25128",
+      "JATI BARU": "25129",
+      "KUBU MARAPALAM": "25125",
+      "KUBU PARAK KARAKAH": "25126",
+      "PARAK GADANG TIMUR": "25123",
+      "SAWAHAN": "25121",
+      "SAWAHAN TIMUR": "25121",
+      "SIMPANG HARU": "25127"
+    },
+    "PADANG UTARA": {
+      "AIR TAWAR BARAT": "25132",
+      "AIR TAWAR TIMUR": "25132",
+      "ALAI PARAK KOPI": "25139",
+      "GUNUNG PANGILUN": "25137",
+      "LOLONG BELANTI": "25136",
+      "ULAK KARANG SELATAN": "25134",
+      "ULAK KARANG UTARA": "25133"
+    },
+    "PAUH": {
+      "BINUANG KAMPUNG DALAM": "25161",
+      "CUPAK TANGAH": "25162",
+      "KAPALA KOTO": "25163",
+      "KOTO LUAR": "25164",
+      "LAMBUNG BUKIT": "25168",
+      "LIMAU MANIS": "25166",
+      "LIMAU MANIS SELATAN": "25163",
+      "PIAI TANGAH": "25162",
+      "PISANG": "25161"
+    }
+  },
+  "PARIAMAN": {
+    "PARIAMAN TENGAH": {
+      "ALAI GELOMBANG": "25519",
+      "CIMPARUH": "25517",
+      "JALAN BARU": "25515",
+      "JALAN KERETA API": "25515",
+      "JATI HILIR": "25519",
+      "JATI MUDIK": "25517",
+      "JAWI-JAWI I": "25518",
+      "JAWI-JAWI II": "25518",
+      "KAMPUNG BARU": "25514",
+      "KAMPUNG JAWA I": "25511",
+      "KAMPUNG JAWA II": "25511",
+      "KAMPUNG PERAK": "25513",
+      "KAMPUNG PONDOK": "25512",
+      "KARAN AUR": "25514",
+      "LOHONG": "25513",
+      "PASIR": "25513",
+      "PAUH BARAT": "25512",
+      "PAUH TIMUR": "25512",
+      "PONDOK II": "25512",
+      "RAWANG": "25511",
+      "TARATAK": "25517",
+      "UJUNG BATUNG": "25516"
+    },
+    "PARIAMAN TIMUR": {
+      "AIR SANTOK": "25546",
+      "BATANG KABUNG": "25549",
+      "BATO": "25549",
+      "SUNGAI PASAK": "25546",
+      "SUNGAI SIRAH": "25546"
+    }
+  },
+  "PAYAKUMBUH": {
+    "PAYAKUMBUH BARAT": {
+      "BULAKAN BALAI KANDI": "26225",
+      "IBUAH": "26229",
+      "KOTO TANGAH": "26223",
+      "KUBU GADANG": "26225",
+      "LABUAH BASILANG": "26229",
+      "NUNANG DAYA BANGUN": "26221",
+      "PADANG DATA": "26223",
+      "PADANG TINGGI PILIANG": "26224",
+      "PAKAN SINAYAN": "26225",
+      "PARAK BATUANG": "26222",
+      "PARIK RANTANG": "26222",
+      "PAYOLANSEK": "26225",
+      "SUBARANG BATUANG": "26223",
+      "TALANG": "26225",
+      "TANAH MATI": "26223"
+    },
+    "PAYAKUMBUH SELATAN": {
+      "BALAI PANJANG": "26214"
+    },
+    "PAYAKUMBUH TIMUR": {
+      "BALAI JARING": "26214",
+      "KOTO BARU": "26211",
+      "PAYOBASUNG": "26217"
+    },
+    "PAYAKUMBUH UTARA": {
+      "NAPAR": "26218"
+    }
+  },
+  "SAWAH LUNTO": {
+    "BARANGIN": {
+      "DURIAN I": "27428",
+      "DURIAN II": "27427",
+      "KOLOK NAN TUO": "27426",
+      "LUBANG PANJANG": "27424",
+      "LUMINDAI": "27421",
+      "SARINGAN": "27423",
+      "TALAGO GUNUNG": "27423"
+    },
+    "LEMBAH SEGAR": {
+      "KUBANG SIRAKUK UTARA": "27414",
+      "KUBANG TANGAH": "27413",
+      "KUBANG UTARA SIKABU": "27412",
+      "LUNTO BARAT": "27418",
+      "LUNTO TIMUR": "27416",
+      "PASAR": "27411",
+      "TANAH LAPANG": "27411"
+    },
+    "SILUNGKANG": {
+      "MUARO KALABAN": "27435",
+      "SILUNGKANG DUO": "27432",
+      "SILUNGKANG OSO": "27433",
+      "SILUNGKANG TIGO": "27431",
+      "TARATAK BANCAH": "27434"
+    },
+    "TALAWI": {
+      "BATU TANJUNG": "27443",
+      "BUKIK GADANG": "27444",
+      "DATAR MANSIANG": "27441",
+      "KUMBAYAU": "27443",
+      "SALAK": "27447",
+      "SIJANTANG KOTO": "27446",
+      "SIKALANG": "27448",
+      "TUMPUK TANGAH": "27442"
+    }
+  },
+  "SOLOK": {
+    "LUBUK SIKARAH": {
+      "ARO IV KORONG": "27317",
+      "IX KORONG": "27314",
+      "KAMPAI TABU KERAMBIL": "27315",
+      "SIMPANG RUMBIO": "27316",
+      "SINAPA PILIANG": "27313",
+      "TANAH GARAM": "27312",
+      "VI SUKU": "27311"
+    },
+    "TANJUNG HARAPAN": {
+      "KAMPUNG JAWA": "27321",
+      "KOTO PANJANG": "27323",
+      "LAING": "27325",
+      "NAN BALIMO": "27326",
+      "PASAR PANDAN AIR MATI": "27322",
+      "TANJUNG PAKU": "27324"
+    }
+  }
+}

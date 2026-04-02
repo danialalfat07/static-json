@@ -1,0 +1,11231 @@
+{
+ "80112": [
+  {
+   "p": "BALI",
+   "k": "DENPASAR",
+   "c": "DENPASAR BARAT",
+   "d": [
+    "DAUH PURI KANGIN"
+   ]
+  }
+ ],
+ "80113": [
+  {
+   "p": "BALI",
+   "k": "DENPASAR",
+   "c": "DENPASAR BARAT",
+   "d": [
+    "DAUH PURI",
+    "DAUH PURI KAUH"
+   ]
+  }
+ ],
+ "80114": [
+  {
+   "p": "BALI",
+   "k": "DENPASAR",
+   "c": "DENPASAR BARAT",
+   "d": [
+    "DAUH PURI KLOD"
+   ]
+  }
+ ],
+ "80117": [
+  {
+   "p": "BALI",
+   "k": "DENPASAR",
+   "c": "DENPASAR BARAT",
+   "d": [
+    "PADANGSAMBIAN",
+    "PADANGSAMBIAN KAJA",
+    "PADANGSAMBIAN KLOD"
+   ]
+  }
+ ],
+ "80119": [
+  {
+   "p": "BALI",
+   "k": "DENPASAR",
+   "c": "DENPASAR BARAT",
+   "d": [
+    "PEMECUTAN",
+    "PEMECUTAN KLOD",
+    "TEGAL HARUM",
+    "TEGAL KERTHA"
+   ]
+  }
+ ],
+ "80121": [
+  {
+   "p": "BALI",
+   "k": "DENPASAR",
+   "c": "DENPASAR UTARA",
+   "d": [
+    "DAUH PURI KAJA"
+   ]
+  }
+ ],
+ "80122": [
+  {
+   "p": "BALI",
+   "k": "DENPASAR",
+   "c": "DENPASAR UTARA",
+   "d": [
+    "PEGUYANGAN"
+   ]
+  }
+ ],
+ "80123": [
+  {
+   "p": "BALI",
+   "k": "DENPASAR",
+   "c": "DENPASAR UTARA",
+   "d": [
+    "PEGUYANGAN KAJA"
+   ]
+  }
+ ],
+ "80124": [
+  {
+   "p": "BALI",
+   "k": "DENPASAR",
+   "c": "DENPASAR UTARA",
+   "d": [
+    "PEGUYANGAN KANGIN"
+   ]
+  }
+ ],
+ "80125": [
+  {
+   "p": "BALI",
+   "k": "DENPASAR",
+   "c": "DENPASAR UTARA",
+   "d": [
+    "UBUNG"
+   ]
+  }
+ ],
+ "80126": [
+  {
+   "p": "BALI",
+   "k": "DENPASAR",
+   "c": "DENPASAR UTARA",
+   "d": [
+    "UBUNG  KAJA"
+   ]
+  }
+ ],
+ "80127": [
+  {
+   "p": "BALI",
+   "k": "DENPASAR",
+   "c": "DENPASAR UTARA",
+   "d": [
+    "PEMECUTAN KAJA"
+   ]
+  }
+ ],
+ "80128": [
+  {
+   "p": "BALI",
+   "k": "DENPASAR",
+   "c": "DENPASAR UTARA",
+   "d": [
+    "DANGIN PURI KAUH"
+   ]
+  }
+ ],
+ "80129": [
+  {
+   "p": "BALI",
+   "k": "DENPASAR",
+   "c": "DENPASAR UTARA",
+   "d": [
+    "DANGIN PURI KAJA",
+    "DANGIN PURI KANGIN",
+    "TONJA"
+   ]
+  }
+ ],
+ "80221": [
+  {
+   "p": "BALI",
+   "k": "DENPASAR",
+   "c": "DENPASAR SELATAN",
+   "d": [
+    "PEMOGAN"
+   ]
+  }
+ ],
+ "80222": [
+  {
+   "p": "BALI",
+   "k": "DENPASAR",
+   "c": "DENPASAR SELATAN",
+   "d": [
+    "PEDUNGAN"
+   ]
+  }
+ ],
+ "80223": [
+  {
+   "p": "BALI",
+   "k": "DENPASAR",
+   "c": "DENPASAR SELATAN",
+   "d": [
+    "SESETAN"
+   ]
+  }
+ ],
+ "80224": [
+  {
+   "p": "BALI",
+   "k": "DENPASAR",
+   "c": "DENPASAR SELATAN",
+   "d": [
+    "SIDAKARYA"
+   ]
+  }
+ ],
+ "80225": [
+  {
+   "p": "BALI",
+   "k": "DENPASAR",
+   "c": "DENPASAR SELATAN",
+   "d": [
+    "PANJER"
+   ]
+  }
+ ],
+ "80226": [
+  {
+   "p": "BALI",
+   "k": "DENPASAR",
+   "c": "DENPASAR SELATAN",
+   "d": [
+    "RENON"
+   ]
+  }
+ ],
+ "80227": [
+  {
+   "p": "BALI",
+   "k": "DENPASAR",
+   "c": "DENPASAR SELATAN",
+   "d": [
+    "SANUR KAJA",
+    "SANUR KAUH"
+   ]
+  }
+ ],
+ "80228": [
+  {
+   "p": "BALI",
+   "k": "DENPASAR",
+   "c": "DENPASAR SELATAN",
+   "d": [
+    "SANUR"
+   ]
+  }
+ ],
+ "80229": [
+  {
+   "p": "BALI",
+   "k": "DENPASAR",
+   "c": "DENPASAR SELATAN",
+   "d": [
+    "SERANGAN"
+   ]
+  }
+ ],
+ "80232": [
+  {
+   "p": "BALI",
+   "k": "DENPASAR",
+   "c": "DENPASAR TIMUR",
+   "d": [
+    "DANGIN PURI",
+    "DANGIN PURI KLOD"
+   ]
+  }
+ ],
+ "80234": [
+  {
+   "p": "BALI",
+   "k": "DENPASAR",
+   "c": "DENPASAR TIMUR",
+   "d": [
+    "DANGIN PURI KLOD"
+   ]
+  }
+ ],
+ "80235": [
+  {
+   "p": "BALI",
+   "k": "DENPASAR",
+   "c": "DENPASAR TIMUR",
+   "d": [
+    "SUMERTA",
+    "SUMERTA KELOD"
+   ]
+  }
+ ],
+ "80236": [
+  {
+   "p": "BALI",
+   "k": "DENPASAR",
+   "c": "DENPASAR TIMUR",
+   "d": [
+    "SUMERTA KAJA",
+    "SUMERTA KAUH"
+   ]
+  }
+ ],
+ "80237": [
+  {
+   "p": "BALI",
+   "k": "DENPASAR",
+   "c": "DENPASAR TIMUR",
+   "d": [
+    "KESIMAN",
+    "KESIMAN KERTALANGU",
+    "KESIMAN PETILAN"
+   ]
+  }
+ ],
+ "80238": [
+  {
+   "p": "BALI",
+   "k": "DENPASAR",
+   "c": "DENPASAR TIMUR",
+   "d": [
+    "PENATIH",
+    "PENATIH DANGIN PURI"
+   ]
+  }
+ ],
+ "80351": [
+  {
+   "p": "BALI",
+   "k": "BADUNG",
+   "c": "MENGWI",
+   "d": [
+    "ABIANBASE",
+    "BAHA",
+    "BUDUK",
+    "CEMAGI",
+    "GULINGAN",
+    "KAPAL",
+    "KEKERAN",
+    "LUKLUK",
+    "MENGWI",
+    "MENGWITANI",
+    "MUNGGU",
+    "PENARUNGAN",
+    "PERERENAN",
+    "SADING",
+    "SEMBUNG",
+    "SEMPIDI",
+    "SOBANGAN",
+    "TUMBAK BAYUH",
+    "WERDI BHUWANA"
+   ]
+  }
+ ],
+ "80352": [
+  {
+   "p": "BALI",
+   "k": "BADUNG",
+   "c": "ABIANSEMAL",
+   "d": [
+    "ABIANSEMAL",
+    "ANGANTAKA",
+    "AYUNAN",
+    "BLAHKIUH",
+    "BONGKASA",
+    "BONGKASA PERTIWI",
+    "DARMASABA",
+    "DAUH YEH CANI",
+    "JAGAPATI",
+    "MAMBAL",
+    "MEKAR BHUANA",
+    "PUNGGUL",
+    "SANGEH",
+    "SEDANG",
+    "SELAT",
+    "SIBANG GEDE",
+    "SIBANG KAJA",
+    "TAMAN"
+   ]
+  }
+ ],
+ "80353": [
+  {
+   "p": "BALI",
+   "k": "BADUNG",
+   "c": "PETANG",
+   "d": [
+    "BELOK/SIDAN",
+    "CARANGSARI",
+    "GETASAN",
+    "PANGSAN",
+    "PELAGA",
+    "PETANG",
+    "SULANGAI"
+   ]
+  }
+ ],
+ "80361": [
+  {
+   "p": "BALI",
+   "k": "BADUNG",
+   "c": "KUTA",
+   "d": [
+    "KEDONGANAN",
+    "KUTA",
+    "LEGIAN",
+    "SEMINYAK",
+    "TUBAN"
+   ]
+  }
+ ],
+ "80363": [
+  {
+   "p": "BALI",
+   "k": "BADUNG",
+   "c": "KUTA SELATAN",
+   "d": [
+    "BENOA",
+    "JIMBARAN",
+    "KUTUH",
+    "PECATU",
+    "TANJUNG BENOA",
+    "UNGASAN"
+   ]
+  }
+ ],
+ "80365": [
+  {
+   "p": "BALI",
+   "k": "BADUNG",
+   "c": "KUTA UTARA",
+   "d": [
+    "CANGGU",
+    "DALUNG",
+    "KEROBOKAN",
+    "KEROBOKAN KAJA",
+    "KEROBOKAN KELOD",
+    "TIBUBENENG"
+   ]
+  }
+ ],
+ "80511": [
+  {
+   "p": "BALI",
+   "k": "GIANYAR",
+   "c": "GIANYAR",
+   "d": [
+    "GIANYAR"
+   ]
+  }
+ ],
+ "80512": [
+  {
+   "p": "BALI",
+   "k": "GIANYAR",
+   "c": "GIANYAR",
+   "d": [
+    "SAMPLANGAN"
+   ]
+  }
+ ],
+ "80513": [
+  {
+   "p": "BALI",
+   "k": "GIANYAR",
+   "c": "GIANYAR",
+   "d": [
+    "BENG"
+   ]
+  }
+ ],
+ "80514": [
+  {
+   "p": "BALI",
+   "k": "GIANYAR",
+   "c": "GIANYAR",
+   "d": [
+    "BITERA"
+   ]
+  }
+ ],
+ "80515": [
+  {
+   "p": "BALI",
+   "k": "GIANYAR",
+   "c": "GIANYAR",
+   "d": [
+    "ABIANBASE"
+   ]
+  }
+ ],
+ "80519": [
+  {
+   "p": "BALI",
+   "k": "GIANYAR",
+   "c": "GIANYAR",
+   "d": [
+    "BAKBAKAN",
+    "LEBIH",
+    "PETAK",
+    "PETAK KAJA",
+    "SERONGGA",
+    "SIANGAN",
+    "SIDAN",
+    "SUMITA",
+    "SUWAT",
+    "TEGAL TUGU",
+    "TEMESI",
+    "TULIKUP"
+   ]
+  }
+ ],
+ "80552": [
+  {
+   "p": "BALI",
+   "k": "GIANYAR",
+   "c": "TAMPAKSIRING",
+   "d": [
+    "MANUKAYA",
+    "PEJENG",
+    "PEJENG KAJA",
+    "PEJENG KANGIN",
+    "PEJENG KAWAN",
+    "PEJENG KELOD",
+    "SANDING",
+    "TAMPAKSIRING"
+   ]
+  }
+ ],
+ "80561": [
+  {
+   "p": "BALI",
+   "k": "GIANYAR",
+   "c": "TEGALLALANG",
+   "d": [
+    "KEDISAN",
+    "KELIKI",
+    "KENDERAN",
+    "PUPUAN",
+    "SEBATU",
+    "TARO",
+    "TEGALLALANG"
+   ]
+  }
+ ],
+ "80571": [
+  {
+   "p": "BALI",
+   "k": "GIANYAR",
+   "c": "UBUD",
+   "d": [
+    "KEDEWATAN",
+    "LODTUNDUH",
+    "MAS",
+    "PELIATAN",
+    "PETULU",
+    "SAYAN",
+    "SINGEKERTA",
+    "UBUD"
+   ]
+  }
+ ],
+ "80572": [
+  {
+   "p": "BALI",
+   "k": "GIANYAR",
+   "c": "PAYANGAN",
+   "d": [
+    "BERESELA",
+    "BUAHAN",
+    "BUAHAN KAJA",
+    "BUKIAN",
+    "KELUSA",
+    "KERTA",
+    "MELINGGIH",
+    "MELINGGIH KELOD",
+    "PUHU"
+   ]
+  }
+ ],
+ "80581": [
+  {
+   "p": "BALI",
+   "k": "GIANYAR",
+   "c": "BLAHBATUH",
+   "d": [
+    "BEDULU",
+    "BELEGA",
+    "BLAHBATUH",
+    "BONA",
+    "BURUAN",
+    "KERAMAS",
+    "MEDAHAN",
+    "PERING",
+    "SABA"
+   ]
+  }
+ ],
+ "80582": [
+  {
+   "p": "BALI",
+   "k": "GIANYAR",
+   "c": "SUKAWATI",
+   "d": [
+    "BATUAN",
+    "BATUAN KALER",
+    "BATUBULAN",
+    "BATUBULAN KANGIN",
+    "CELUK",
+    "GUWANG",
+    "KEMENUH",
+    "KETEWEL",
+    "SINGAPADU",
+    "SINGAPADU KALER",
+    "SINGAPADU TENGAH",
+    "SUKAWATI"
+   ]
+  }
+ ],
+ "80611": [
+  {
+   "p": "BALI",
+   "k": "BANGLI",
+   "c": "BANGLI",
+   "d": [
+    "KUBU"
+   ]
+  }
+ ],
+ "80612": [
+  {
+   "p": "BALI",
+   "k": "BANGLI",
+   "c": "BANGLI",
+   "d": [
+    "CEMPAGA"
+   ]
+  }
+ ],
+ "80613": [
+  {
+   "p": "BALI",
+   "k": "BANGLI",
+   "c": "BANGLI",
+   "d": [
+    "KAWAN"
+   ]
+  }
+ ],
+ "80614": [
+  {
+   "p": "BALI",
+   "k": "BANGLI",
+   "c": "BANGLI",
+   "d": [
+    "BEBALANG"
+   ]
+  }
+ ],
+ "80619": [
+  {
+   "p": "BALI",
+   "k": "BANGLI",
+   "c": "BANGLI",
+   "d": [
+    "BUNUTIN",
+    "KAYUBIHI",
+    "LANDIH",
+    "PENGOTAN",
+    "TAMAN BALI"
+   ]
+  }
+ ],
+ "80652": [
+  {
+   "p": "BALI",
+   "k": "BANGLI",
+   "c": "KINTAMANI",
+   "d": [
+    "ABANG SONGAN",
+    "ABUAN",
+    "AWAN",
+    "BANTANG",
+    "BANUA",
+    "BATUKAANG",
+    "BATUR SELATAN",
+    "BATUR TENGAH",
+    "BATUR UTARA",
+    "BAYUNG GEDE",
+    "BAYUNGCERIK",
+    "BELANCAN",
+    "BELANDINGAN",
+    "BELANGA",
+    "BELANTIH",
+    "BINYAN",
+    "BONYOH",
+    "BUAHAN",
+    "BUNUTIN",
+    "CATUR",
+    "DAUP",
+    "DAUSA",
+    "GUNUNGBAU",
+    "KATUNG",
+    "KEDISAN",
+    "KINTAMANI",
+    "KUTUH",
+    "LANGGAHAN",
+    "LEMBEAN",
+    "MANGGUH",
+    "MANIKLIYU",
+    "MENGANI",
+    "PENGEJARAN",
+    "PINGGAN",
+    "SATRA",
+    "SEKAAN",
+    "SEKARDADI",
+    "SELULUNG",
+    "SONGAN A",
+    "SONGAN B",
+    "SUBAYA",
+    "SUKAWANA",
+    "SUTER",
+    "TERUNYAN",
+    "ULIAN"
+   ]
+  }
+ ],
+ "80661": [
+  {
+   "p": "BALI",
+   "k": "BANGLI",
+   "c": "SUSUT",
+   "d": [
+    "ABUAN",
+    "APUAN",
+    "DEMULIH",
+    "PENGIANGAN",
+    "PENGLUMBARAN",
+    "SELAT",
+    "SULAHAN",
+    "SUSUT",
+    "TIGA"
+   ]
+  }
+ ],
+ "80671": [
+  {
+   "p": "BALI",
+   "k": "BANGLI",
+   "c": "TEMBUKU",
+   "d": [
+    "BANGBANG",
+    "JEHEM",
+    "PENINJOAN",
+    "TEMBUKU",
+    "UNDISAN",
+    "YANGAPI"
+   ]
+  }
+ ],
+ "80711": [
+  {
+   "p": "BALI",
+   "k": "KLUNGKUNG",
+   "c": "KLUNGKUNG",
+   "d": [
+    "SEMARAPURA TENGAH"
+   ]
+  }
+ ],
+ "80712": [
+  {
+   "p": "BALI",
+   "k": "KLUNGKUNG",
+   "c": "KLUNGKUNG",
+   "d": [
+    "SEMARAPURA KAJA"
+   ]
+  }
+ ],
+ "80713": [
+  {
+   "p": "BALI",
+   "k": "KLUNGKUNG",
+   "c": "KLUNGKUNG",
+   "d": [
+    "SEMARAPURA KAUH"
+   ]
+  }
+ ],
+ "80714": [
+  {
+   "p": "BALI",
+   "k": "KLUNGKUNG",
+   "c": "KLUNGKUNG",
+   "d": [
+    "SEMARAPURA KELOD",
+    "SEMARAPURA KELOD KANGIN"
+   ]
+  }
+ ],
+ "80716": [
+  {
+   "p": "BALI",
+   "k": "KLUNGKUNG",
+   "c": "KLUNGKUNG",
+   "d": [
+    "SEMARAPURA KANGIN",
+    "SEMARAPURA KELOD KANGIN"
+   ]
+  }
+ ],
+ "80719": [
+  {
+   "p": "BALI",
+   "k": "KLUNGKUNG",
+   "c": "KLUNGKUNG",
+   "d": [
+    "AKAH",
+    "GELGEL",
+    "JUMPAI",
+    "KAMASAN",
+    "KAMPUNG GELGEL",
+    "MANDUANG",
+    "SATRA",
+    "SELAT",
+    "SELISIHAN",
+    "TANGKAS",
+    "TEGAK",
+    "TOJAN"
+   ]
+  }
+ ],
+ "80752": [
+  {
+   "p": "BALI",
+   "k": "KLUNGKUNG",
+   "c": "BANJARANGKAN",
+   "d": [
+    "AAN",
+    "BAKAS",
+    "BANJARANGKAN",
+    "BUNGBUNGAN",
+    "GETAKAN",
+    "NEGARI",
+    "NYALIAN",
+    "NYANGLAN",
+    "TAKMUNG",
+    "TIHINGAN",
+    "TIMUHUN",
+    "TOHPATI",
+    "TUSAN"
+   ]
+  }
+ ],
+ "80761": [
+  {
+   "p": "BALI",
+   "k": "KLUNGKUNG",
+   "c": "DAWAN",
+   "d": [
+    "BESAN",
+    "DAWAN KALER",
+    "DAWAN KLOD",
+    "GUNAKSA",
+    "KAMPUNG KUSAMBA",
+    "KUSAMBA",
+    "PAKSEBALI",
+    "PESINGGAHAN",
+    "PIKAT",
+    "SAMPALAN KLOD",
+    "SAMPALAN TENGAH",
+    "SULANG"
+   ]
+  }
+ ],
+ "80771": [
+  {
+   "p": "BALI",
+   "k": "KLUNGKUNG",
+   "c": "NUSAPENIDA",
+   "d": [
+    "BATUKANDIK",
+    "BATUMADEG",
+    "BATUNUNGGUL",
+    "BUNGA MEKAR",
+    "JUNGUTBATU",
+    "KAMPUNG TOYAPAKEH",
+    "KLUMPU",
+    "KUTAMPI",
+    "KUTAMPI KALER",
+    "LEMBONGAN",
+    "PED",
+    "PEJUKUTAN",
+    "SAKTI",
+    "SEKARTAJI",
+    "SUANA",
+    "TANGLAD"
+   ]
+  }
+ ],
+ "80812": [
+  {
+   "p": "BALI",
+   "k": "KARANG ASEM",
+   "c": "KARANGASEM",
+   "d": [
+    "PADANG KERTA"
+   ]
+  }
+ ],
+ "80813": [
+  {
+   "p": "BALI",
+   "k": "KARANG ASEM",
+   "c": "KARANGASEM",
+   "d": [
+    "SUBAGAN"
+   ]
+  }
+ ],
+ "80819": [
+  {
+   "p": "BALI",
+   "k": "KARANG ASEM",
+   "c": "KARANGASEM",
+   "d": [
+    "BUGBUG",
+    "BUKIT",
+    "PERTIMA",
+    "SERAYA",
+    "SERAYA BARAT",
+    "SERAYA TIMUR",
+    "TEGALLINGGAH",
+    "TUMBU"
+   ]
+  }
+ ],
+ "80852": [
+  {
+   "p": "BALI",
+   "k": "KARANG ASEM",
+   "c": "ABANG",
+   "d": [
+    "ABABI",
+    "ABANG",
+    "BUNUTAN",
+    "CULIK",
+    "DATAH",
+    "KERTA MANDALA",
+    "KESIMPAR",
+    "LABA SARI",
+    "NAWAKERTI",
+    "PIDPID",
+    "PURWAKERTI",
+    "TISTA",
+    "TIYINGTALI",
+    "TRI BUANA"
+   ]
+  }
+ ],
+ "80853": [
+  {
+   "p": "BALI",
+   "k": "KARANG ASEM",
+   "c": "KUBU",
+   "d": [
+    "BAN",
+    "BATURINGGIT",
+    "DUKUH",
+    "KUBU",
+    "SUKADANA",
+    "TIANYAR",
+    "TIANYAR BARAT",
+    "TIANYAR TENGAH",
+    "TULAMBEN"
+   ]
+  }
+ ],
+ "80861": [
+  {
+   "p": "BALI",
+   "k": "KARANG ASEM",
+   "c": "BEBANDEM",
+   "d": [
+    "BHUANA GIRI",
+    "BUDAKELING",
+    "BUNGAYA",
+    "BUNGAYA KANGIN",
+    "JUNGUTAN",
+    "MACANG",
+    "SIBETAN"
+   ]
+  }
+ ],
+ "80862": [
+  {
+   "p": "BALI",
+   "k": "KARANG ASEM",
+   "c": "SELAT",
+   "d": [
+    "AMERTA BHUANA",
+    "DUDA",
+    "DUDA TIMUR",
+    "DUDA UTARA",
+    "MUNCAN",
+    "PERING SARI",
+    "SEBUDI",
+    "SELAT"
+   ]
+  }
+ ],
+ "80863": [
+  {
+   "p": "BALI",
+   "k": "KARANG ASEM",
+   "c": "RENDANG",
+   "d": [
+    "BESAKIH",
+    "MENANGA",
+    "NONGAN",
+    "PEMPATAN",
+    "PESABAN",
+    "RENDANG"
+   ]
+  }
+ ],
+ "80864": [
+  {
+   "p": "BALI",
+   "k": "KARANG ASEM",
+   "c": "SIDEMEN",
+   "d": [
+    "KERTHA BUANA",
+    "SANGKAN GUNUNG",
+    "SIDEMEN",
+    "SINDU WATI",
+    "TALIBENG",
+    "TANGKUP",
+    "TELAGA TAWANG",
+    "TRI EKA BUANA",
+    "WISMA KERTA"
+   ]
+  }
+ ],
+ "80871": [
+  {
+   "p": "BALI",
+   "k": "KARANG ASEM",
+   "c": "MANGGIS",
+   "d": [
+    "ANTIGA",
+    "ANTIGA KELOD",
+    "GEGELANG",
+    "MANGGIS",
+    "NGIS",
+    "NYUH TEBEL",
+    "PADANGBAI",
+    "PESEDAHAN",
+    "SELUMBUNG",
+    "SENGKIDU",
+    "TENGANAN",
+    "ULAKAN"
+   ]
+  }
+ ],
+ "81111": [
+  {
+   "p": "BALI",
+   "k": "BULELENG",
+   "c": "BULELENG",
+   "d": [
+    "KAMPUNG SINGARAJA"
+   ]
+  }
+ ],
+ "81112": [
+  {
+   "p": "BALI",
+   "k": "BULELENG",
+   "c": "BULELENG",
+   "d": [
+    "ASTINA",
+    "KENDRAN"
+   ]
+  }
+ ],
+ "81113": [
+  {
+   "p": "BALI",
+   "k": "BULELENG",
+   "c": "BULELENG",
+   "d": [
+    "BANJAR BALI",
+    "BANJAR JAWA"
+   ]
+  }
+ ],
+ "81114": [
+  {
+   "p": "BALI",
+   "k": "BULELENG",
+   "c": "BULELENG",
+   "d": [
+    "KAMPUNG BARU",
+    "KAMPUNG KAJANAN"
+   ]
+  }
+ ],
+ "81115": [
+  {
+   "p": "BALI",
+   "k": "BULELENG",
+   "c": "BULELENG",
+   "d": [
+    "KAMPUNG BUGIS"
+   ]
+  }
+ ],
+ "81116": [
+  {
+   "p": "BALI",
+   "k": "BULELENG",
+   "c": "BULELENG",
+   "d": [
+    "BANYUASRI",
+    "KALIUNTU"
+   ]
+  }
+ ],
+ "81117": [
+  {
+   "p": "BALI",
+   "k": "BULELENG",
+   "c": "BULELENG",
+   "d": [
+    "BANJAR TEGAL"
+   ]
+  }
+ ],
+ "81118": [
+  {
+   "p": "BALI",
+   "k": "BULELENG",
+   "c": "BULELENG",
+   "d": [
+    "PAKET AGUNG"
+   ]
+  }
+ ],
+ "81119": [
+  {
+   "p": "BALI",
+   "k": "BULELENG",
+   "c": "BULELENG",
+   "d": [
+    "ALASANGKER",
+    "ANTURAN",
+    "BAKTISERAGA",
+    "BANYUNING",
+    "BERATAN",
+    "JINENGDALEM",
+    "KALIBUKBUK",
+    "LILIGUNDI",
+    "NAGASEPAHA",
+    "PEMARON",
+    "PENARUKAN",
+    "PENGLATAN",
+    "PETANDAKAN",
+    "POH BERGONG",
+    "SARI MEKAR",
+    "TUKADMUNGGA"
+   ]
+  }
+ ],
+ "81152": [
+  {
+   "p": "BALI",
+   "k": "BULELENG",
+   "c": "BANJAR",
+   "d": [
+    "BANJAR",
+    "BANJAR TEGEHA",
+    "BANYUATIS",
+    "BANYUSRI",
+    "CEMPAGA",
+    "DENCARIK",
+    "GESING",
+    "GOBLEG",
+    "KALIASEM",
+    "KAYUPUTIH",
+    "MUNDUK",
+    "PEDAWA",
+    "SIDETAPA",
+    "TAMPEKAN",
+    "TEMUKUS",
+    "TIGAWASA",
+    "TIRTASARI"
+   ]
+  }
+ ],
+ "81153": [
+  {
+   "p": "BALI",
+   "k": "BULELENG",
+   "c": "SERIRIT",
+   "d": [
+    "BANJAR ASEM",
+    "BESTALA",
+    "BUBUNAN",
+    "GUNUNGSARI",
+    "JOANYAR",
+    "KALIANGET",
+    "KALISADA",
+    "MAYONG",
+    "MUNDUK BESTALA",
+    "PANGKUNGPARUK",
+    "PENGASTULAN",
+    "RANGDU",
+    "RINGDIKIT",
+    "SERIRIT",
+    "SULANYAH",
+    "TANGGUWISIA",
+    "ULARAN",
+    "UMEANYAR",
+    "UNGGAHAN"
+   ]
+  }
+ ],
+ "81155": [
+  {
+   "p": "BALI",
+   "k": "BULELENG",
+   "c": "GEROKGAK",
+   "d": [
+    "BANYUPOH",
+    "CELUKAN BAWANG",
+    "GEROKGAK",
+    "MUSI",
+    "PATAS",
+    "PEJARAKAN",
+    "PEMUTERAN",
+    "PENGULON",
+    "PENYABANGAN",
+    "SANGGALANGIT",
+    "SUMBER KLAMPOK",
+    "SUMBERKIMA",
+    "TINGA TINGA",
+    "TUKAD SUMAGA"
+   ]
+  }
+ ],
+ "81161": [
+  {
+   "p": "BALI",
+   "k": "BULELENG",
+   "c": "SUKASADA",
+   "d": [
+    "AMBENGAN",
+    "GITGIT",
+    "KAYUPUTIH",
+    "PADANGBULIA",
+    "PANCASARI",
+    "PANJI",
+    "PANJI ANOM",
+    "PEGADUNGAN",
+    "PEGAYAMAN",
+    "SAMBANGAN",
+    "SELAT",
+    "SILANGJANA",
+    "SUKASADA",
+    "TEGAL LINGGAH",
+    "WANAGIRI"
+   ]
+  }
+ ],
+ "81171": [
+  {
+   "p": "BALI",
+   "k": "BULELENG",
+   "c": "SAWAN",
+   "d": [
+    "BEBETIN",
+    "BUNGKULAN",
+    "GALUNGAN",
+    "GIRI EMAS",
+    "JAGARAGA",
+    "KEROBOKAN",
+    "LEMUKIH",
+    "MENYALI",
+    "SANGSIT",
+    "SAWAN",
+    "SEKUMPUL",
+    "SINABUN",
+    "SUDAJI",
+    "SUWUG"
+   ]
+  }
+ ],
+ "81172": [
+  {
+   "p": "BALI",
+   "k": "BULELENG",
+   "c": "KUBUTAMBAHAN",
+   "d": [
+    "BENGKALA",
+    "BILA",
+    "BONTIHING",
+    "BUKTI",
+    "BULIAN",
+    "DEPEHA",
+    "KUBUTAMBAHAN",
+    "MENGENING",
+    "PAKISAN",
+    "TAJUN",
+    "TAMBAKAN",
+    "TAMBLANG",
+    "TUNJUNG"
+   ]
+  }
+ ],
+ "81173": [
+  {
+   "p": "BALI",
+   "k": "BULELENG",
+   "c": "TEJAKULA",
+   "d": [
+    "BONDALEM",
+    "JULAH",
+    "LES",
+    "MADENAN",
+    "PACUNG",
+    "PENUKTUKAN",
+    "SAMBIRENTENG",
+    "SEMBIRAN",
+    "TEJAKULA",
+    "TEMBOK"
+   ]
+  }
+ ],
+ "82111": [
+  {
+   "p": "BALI",
+   "k": "TABANAN",
+   "c": "TABANAN",
+   "d": [
+    "DAUH PEKEN"
+   ]
+  }
+ ],
+ "82112": [
+  {
+   "p": "BALI",
+   "k": "TABANAN",
+   "c": "TABANAN",
+   "d": [
+    "BONGAN"
+   ]
+  }
+ ],
+ "82113": [
+  {
+   "p": "BALI",
+   "k": "TABANAN",
+   "c": "TABANAN",
+   "d": [
+    "DELOD PEKEN"
+   ]
+  }
+ ],
+ "82114": [
+  {
+   "p": "BALI",
+   "k": "TABANAN",
+   "c": "TABANAN",
+   "d": [
+    "DAJAN PEKEN"
+   ]
+  }
+ ],
+ "82115": [
+  {
+   "p": "BALI",
+   "k": "TABANAN",
+   "c": "TABANAN",
+   "d": [
+    "DENBANTAS"
+   ]
+  }
+ ],
+ "82119": [
+  {
+   "p": "BALI",
+   "k": "TABANAN",
+   "c": "TABANAN",
+   "d": [
+    "BUAHAN",
+    "GUBUG",
+    "SUBAMIA",
+    "SUDIMARA",
+    "TUNJUK",
+    "WANASARI"
+   ]
+  }
+ ],
+ "82152": [
+  {
+   "p": "BALI",
+   "k": "TABANAN",
+   "c": "PENEBEL",
+   "d": [
+    "BIAUNG",
+    "BURUAN",
+    "JATILUWIH",
+    "JEGU",
+    "MENGESTE",
+    "PENATAHAN",
+    "PENEBEL",
+    "PESAGI",
+    "PITRA",
+    "REJASA",
+    "RIANG GEDE",
+    "SANGKETAN",
+    "SENGANAN",
+    "TAJEN",
+    "TEGALINGGAH",
+    "TENGKUDAK",
+    "WONGAYA GEDE"
+   ]
+  }
+ ],
+ "82161": [
+  {
+   "p": "BALI",
+   "k": "TABANAN",
+   "c": "KERAMBITAN",
+   "d": [
+    "BATUAJI",
+    "BATURITI",
+    "BELUMBANG",
+    "KELATING",
+    "KERAMBITAN",
+    "KESIUT",
+    "KUKUH",
+    "MELILING",
+    "PANGKUNG KARUNG",
+    "PENARUKAN",
+    "SAMSAM",
+    "SEMBUNG GEDE",
+    "TIBUBIYU",
+    "TIMPAG",
+    "TISTA"
+   ]
+  }
+ ],
+ "82162": [
+  {
+   "p": "BALI",
+   "k": "TABANAN",
+   "c": "SELEMADEG",
+   "d": [
+    "ANTAP",
+    "BAJERA",
+    "BAJERA UTARA",
+    "BEREMBENG",
+    "MANIKYANG",
+    "PUPUAN SAWAH",
+    "SELEMADEG",
+    "SERAMPINGAN",
+    "WANAGIRI",
+    "WANAGIRI KAUH"
+   ]
+  }
+ ],
+ "82163": [
+  {
+   "p": "BALI",
+   "k": "TABANAN",
+   "c": "PUPUAN",
+   "d": [
+    "BANTIRAN",
+    "BATUNGSEL",
+    "BELATUNGAN",
+    "BELIMBING",
+    "JELIJIH PUNGGANG",
+    "KARYA SARI",
+    "KEBON PADANGAN",
+    "MUNDUK TEMU",
+    "PADANGAN",
+    "PAJAHAN",
+    "PUJUNGAN",
+    "PUPUAN",
+    "SANDA"
+   ]
+  }
+ ],
+ "82171": [
+  {
+   "p": "BALI",
+   "k": "TABANAN",
+   "c": "KEDIRI",
+   "d": [
+    "ABIAN TUWUNG",
+    "BANJAR ANYAR",
+    "BELALANG",
+    "BENGKEL",
+    "BERABAN",
+    "BUWIT",
+    "CEPAKA",
+    "KABA-KABA",
+    "KEDIRI",
+    "NYAMBU",
+    "NYITDAH",
+    "PANDAK BANDUNG",
+    "PANDAK GEDE",
+    "PANGKUNG TIBAH",
+    "PEJATEN"
+   ]
+  }
+ ],
+ "82181": [
+  {
+   "p": "BALI",
+   "k": "TABANAN",
+   "c": "MARGA",
+   "d": [
+    "BATANNYUH",
+    "BERINGKIT BELAYU",
+    "CAUBELAYU",
+    "GELUNTUNG",
+    "KUKUH",
+    "KUWUM",
+    "MARGA",
+    "PAYANGAN",
+    "PETIGA",
+    "SELANBAWAK",
+    "TEGALJADI",
+    "TUA"
+   ]
+  }
+ ],
+ "82191": [
+  {
+   "p": "BALI",
+   "k": "TABANAN",
+   "c": "BATURITI",
+   "d": [
+    "ANGSERI",
+    "ANTAPAN",
+    "APUAN",
+    "BANGLI",
+    "BATUNYA",
+    "BATURITI",
+    "CANDIKUNING",
+    "LUWUS",
+    "MEKARSARI",
+    "PEREAN",
+    "PEREAN KANGIN",
+    "PEREAN TENGAH"
+   ]
+  }
+ ],
+ "82211": [
+  {
+   "p": "BALI",
+   "k": "JEMBRANA",
+   "c": "JEMBRANA",
+   "d": [
+    "PENDEM"
+   ]
+  }
+ ],
+ "82216": [
+  {
+   "p": "BALI",
+   "k": "JEMBRANA",
+   "c": "JEMBRANA",
+   "d": [
+    "LOLOAN TIMUR"
+   ]
+  }
+ ],
+ "82217": [
+  {
+   "p": "BALI",
+   "k": "JEMBRANA",
+   "c": "JEMBRANA",
+   "d": [
+    "DAUHWARU"
+   ]
+  }
+ ],
+ "82218": [
+  {
+   "p": "BALI",
+   "k": "JEMBRANA",
+   "c": "JEMBRANA",
+   "d": [
+    "BATUAGUNG"
+   ]
+  }
+ ],
+ "82219": [
+  {
+   "p": "BALI",
+   "k": "JEMBRANA",
+   "c": "JEMBRANA",
+   "d": [
+    "AIR KUNING",
+    "BUDENG",
+    "DANGIN TUKADAYA",
+    "PERANCAK",
+    "SANGKARAGUNG",
+    "YEH KUNING"
+   ]
+  }
+ ],
+ "82251": [
+  {
+   "p": "BALI",
+   "k": "JEMBRANA",
+   "c": "NEGARA",
+   "d": [
+    "BALER BALE AGUNG",
+    "BALUK",
+    "BANJAR TENGAH",
+    "BANYUBIRU",
+    "BERANGBANG",
+    "CUPEL",
+    "KALIAKAH",
+    "LELATENG",
+    "LOLOAN BARAT",
+    "PENGAMBENGAN",
+    "TEGAL BADENG BARAT",
+    "TEGAL BADENG TIMUR"
+   ]
+  }
+ ],
+ "82252": [
+  {
+   "p": "BALI",
+   "k": "JEMBRANA",
+   "c": "MELAYA",
+   "d": [
+    "BLIMBINGSARI",
+    "CANDIKUSUMA",
+    "EKASARI",
+    "GILIMANUK",
+    "MANISTUTU",
+    "MELAYA",
+    "NUSA SARI",
+    "TUKADAYA",
+    "TUWED",
+    "WARNASARI"
+   ]
+  }
+ ],
+ "82261": [
+  {
+   "p": "BALI",
+   "k": "JEMBRANA",
+   "c": "MENDOYO",
+   "d": [
+    "DELOD BERAWAH",
+    "MENDOYO DANGIN TUKAD",
+    "MENDOYO DAUH TUKAD",
+    "PENYARINGAN",
+    "PERGUNG",
+    "POHSANTEN",
+    "TEGAL CANGKRING",
+    "YEH EMBANG",
+    "YEH EMBANG KANGIN",
+    "YEH EMBANG KAUH",
+    "YEH SUMBUL"
+   ]
+  }
+ ],
+ "82262": [
+  {
+   "p": "BALI",
+   "k": "JEMBRANA",
+   "c": "PEKUTATAN",
+   "d": [
+    "ASAHDUREN",
+    "GUMBRIH",
+    "MANGGISSARI",
+    "MEDEWI",
+    "PANGYANGAN",
+    "PEKUTATAN",
+    "PENGERAGOAN",
+    "PULUKAN"
+   ]
+  }
+ ],
+ "83111": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "MATARAM",
+   "c": "AMPENAN",
+   "d": [
+    "AMPENAN UTARA",
+    "BINTARO"
+   ]
+  }
+ ],
+ "83112": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "MATARAM",
+   "c": "AMPENAN",
+   "d": [
+    "AMPENAN TENGAH",
+    "BANJAR",
+    "DAYAN PEKEN"
+   ]
+  }
+ ],
+ "83113": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "MATARAM",
+   "c": "AMPENAN",
+   "d": [
+    "KEBON SARI",
+    "PEJARAKAN KARYA",
+    "PEJERUK"
+   ]
+  }
+ ],
+ "83114": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "MATARAM",
+   "c": "AMPENAN",
+   "d": [
+    "AMPENAN SELATAN",
+    "TAMAN SARI"
+   ]
+  }
+ ],
+ "83115": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "MATARAM",
+   "c": "SEKARBELA",
+   "d": [
+    "KEKALIK JAYA",
+    "TANJUNG KARANG",
+    "TANJUNG KARANG PERMAI"
+   ]
+  }
+ ],
+ "83116": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "MATARAM",
+   "c": "SEKARBELA",
+   "d": [
+    "JEMPONG BARU",
+    "KARANG PULE"
+   ]
+  }
+ ],
+ "83131": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "MATARAM",
+   "c": "MATARAM",
+   "d": [
+    "MATARAM TIMUR",
+    "PEJANGGIK",
+    "PUNIA"
+   ]
+  }
+ ],
+ "83132": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "MATARAM",
+   "c": "MATARAM",
+   "d": [
+    "PAGESANGAN BARAT"
+   ]
+  }
+ ],
+ "83133": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "MATARAM",
+   "c": "MATARAM",
+   "d": [
+    "PAGESANGAN"
+   ]
+  }
+ ],
+ "83134": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "MATARAM",
+   "c": "MATARAM",
+   "d": [
+    "PAGESANGAN TIMUR"
+   ]
+  }
+ ],
+ "83135": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "MATARAM",
+   "c": "MATARAM",
+   "d": [
+    "PAGUTAN BARAT"
+   ]
+  }
+ ],
+ "83136": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "MATARAM",
+   "c": "MATARAM",
+   "d": [
+    "PAGUTAN"
+   ]
+  }
+ ],
+ "83137": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "MATARAM",
+   "c": "MATARAM",
+   "d": [
+    "PAGUTAN TIMUR"
+   ]
+  }
+ ],
+ "83231": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "MATARAM",
+   "c": "CAKRANEGARA",
+   "d": [
+    "CAKRANEGARA BARAT",
+    "CILINAYA"
+   ]
+  }
+ ],
+ "83234": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "MATARAM",
+   "c": "CAKRANEGARA",
+   "d": [
+    "CAKRANEGARA SELATAN",
+    "CAKRANEGARA SELATAN BARU"
+   ]
+  }
+ ],
+ "83235": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "MATARAM",
+   "c": "CAKRANEGARA",
+   "d": [
+    "CAKRANEGARA TIMUR",
+    "MAYURA",
+    "SAPTA MARGA"
+   ]
+  }
+ ],
+ "83238": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "MATARAM",
+   "c": "CAKRANEGARA",
+   "d": [
+    "CAKRANEGARA UTARA"
+   ]
+  }
+ ],
+ "83239": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "MATARAM",
+   "c": "CAKRANEGARA",
+   "d": [
+    "KARANG TALIWANG",
+    "SAYANG SAYANG"
+   ]
+  }
+ ],
+ "83242": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "MATARAM",
+   "c": "SANDUBAYA",
+   "d": [
+    "DASAN CERMEN"
+   ]
+  }
+ ],
+ "83243": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "MATARAM",
+   "c": "SANDUBAYA",
+   "d": [
+    "BABAKAN",
+    "TURIDA"
+   ]
+  }
+ ],
+ "83244": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "MATARAM",
+   "c": "SANDUBAYA",
+   "d": [
+    "ABIAN TUBUH BARU"
+   ]
+  }
+ ],
+ "83246": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "MATARAM",
+   "c": "SANDUBAYA",
+   "d": [
+    "BERTAIS",
+    "MANDALIKA"
+   ]
+  }
+ ],
+ "83247": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "MATARAM",
+   "c": "SANDUBAYA",
+   "d": [
+    "SELAGALAS"
+   ]
+  }
+ ],
+ "83311": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "LOMBOK BARAT",
+   "c": "GERUNG",
+   "d": [
+    "BABUSSALAM",
+    "BANYU URIP",
+    "BELEKE",
+    "DASAN TAPEN",
+    "GAPUK",
+    "SUKA MAKMUR",
+    "TEMPOS"
+   ]
+  }
+ ],
+ "83351": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "LOMBOK BARAT",
+   "c": "GUNUNG SARI",
+   "d": [
+    "DOPANG",
+    "GUNUNG SARI",
+    "JATI SELA",
+    "KEKAIT",
+    "KEKERI",
+    "MAMBALAN",
+    "MIDANG",
+    "PENIMBUNG",
+    "SESELA",
+    "TAMAN SARI"
+   ]
+  }
+ ],
+ "83355": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "LOMBOK BARAT",
+   "c": "BATU LAYAR",
+   "d": [
+    "BATU LAYAR",
+    "BATU LAYAR BARAT",
+    "LEMBAH SARI",
+    "SANDIK",
+    "SENGGIGI",
+    "SENTELUK"
+   ]
+  }
+ ],
+ "83361": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "LOMBOK BARAT",
+   "c": "LABU API",
+   "d": [
+    "BAGIK POLAK",
+    "BAGIK POLAK BARAT",
+    "BAJUR",
+    "BENGKEL",
+    "KARANG BONGKOT",
+    "KURANJI",
+    "LABU API",
+    "PERAMPUAN",
+    "TELAGA WARU",
+    "TERONG TAWAH"
+   ]
+  }
+ ],
+ "83362": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "LOMBOK BARAT",
+   "c": "KEDIRI",
+   "d": [
+    "BANYUMULEK",
+    "DASAN BARU",
+    "GELOGOR",
+    "JAGARAGA INDAH",
+    "KEDIRI",
+    "OMBE BARU",
+    "RUMAK"
+   ]
+  }
+ ],
+ "83364": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "LOMBOK BARAT",
+   "c": "LEMBAR",
+   "d": [
+    "JEMBATAN KEMBAR",
+    "JEMBATAN KEMBAR TIMUR",
+    "LABUAN TERENG",
+    "LEMBAR",
+    "MAREJE",
+    "SEKOTONG TIMUR"
+   ]
+  }
+ ],
+ "83365": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "LOMBOK BARAT",
+   "c": "SEKOTONG",
+   "d": [
+    "BATU PUTIH",
+    "BUWUN MAS",
+    "KEDARO",
+    "PELANGAN",
+    "SEKOTONG BARAT",
+    "SEKOTONG TENGAH"
+   ]
+  }
+ ],
+ "83371": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "LOMBOK BARAT",
+   "c": "NARMADA",
+   "d": [
+    "BADRAIN",
+    "BATU KUTA",
+    "DASAN TERENG",
+    "GERIMAX INDAH",
+    "KERU",
+    "KRAMA JAYA",
+    "LEBAH SEMPAGE",
+    "LEMBUAK",
+    "PERESAK",
+    "SEDAU",
+    "SELAT",
+    "SEMBUNG",
+    "SESAOT",
+    "SURANADI",
+    "TANAK BEAK"
+   ]
+  }
+ ],
+ "83372": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "LOMBOK BARAT",
+   "c": "LINGSAR",
+   "d": [
+    "BATU KUMBUNG",
+    "BATU MEKAR",
+    "DASAN GERIA",
+    "DUMAN",
+    "GEGERUNG",
+    "KARANG BAYAN",
+    "LINGSAR",
+    "SIGERONGAN"
+   ]
+  }
+ ],
+ "83373": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "LOMBOK BARAT",
+   "c": "KURIPAN",
+   "d": [
+    "JAGARAGA",
+    "KURIPAN",
+    "KURIPAN SELATAN",
+    "KURIPAN UTARA"
+   ]
+  }
+ ],
+ "83511": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "LOMBOK TENGAH",
+   "c": "PRAYA",
+   "d": [
+    "PRAYA"
+   ]
+  }
+ ],
+ "83512": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "LOMBOK TENGAH",
+   "c": "PRAYA",
+   "d": [
+    "SEMAYAN"
+   ]
+  }
+ ],
+ "83514": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "LOMBOK TENGAH",
+   "c": "PRAYA",
+   "d": [
+    "GERUNUNG"
+   ]
+  }
+ ],
+ "83515": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "LOMBOK TENGAH",
+   "c": "PRAYA",
+   "d": [
+    "LENENG"
+   ]
+  }
+ ],
+ "83516": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "LOMBOK TENGAH",
+   "c": "PRAYA",
+   "d": [
+    "PANJISARI"
+   ]
+  }
+ ],
+ "83518": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "LOMBOK TENGAH",
+   "c": "PRAYA",
+   "d": [
+    "TIWUGALIH"
+   ]
+  }
+ ],
+ "83519": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "LOMBOK TENGAH",
+   "c": "PRAYA",
+   "d": [
+    "AIK MUAL",
+    "BUNUT BAOK",
+    "GONJAK",
+    "JAGO",
+    "MONTONG TEREP",
+    "RENTENG"
+   ]
+  }
+ ],
+ "83552": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "LOMBOK TENGAH",
+   "c": "BATUKLIANG",
+   "d": [
+    "AIK DAREQ",
+    "BARABALI",
+    "BEBER",
+    "BUJAK",
+    "MANTANG",
+    "PAGUTAN",
+    "PERESAK",
+    "TAMPAK SIRING"
+   ]
+  }
+ ],
+ "83553": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "LOMBOK TENGAH",
+   "c": "KOPANG",
+   "d": [
+    "BEBUAQ",
+    "DARMAJI",
+    "DASAN BARU",
+    "KOPANG REMBIGA",
+    "LENDANG ARA",
+    "MONGGAS",
+    "MONTONG GAMANG",
+    "MUNCAN",
+    "WAJA GESENG"
+   ]
+  }
+ ],
+ "83554": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "LOMBOK TENGAH",
+   "c": "JANAPRIA",
+   "d": [
+    "BAKAN",
+    "DURIAN",
+    "JANAPRIA",
+    "KEREMBONG",
+    "LANGKO",
+    "LEKOR",
+    "LOANG MAKA",
+    "PENDEM",
+    "SABA",
+    "SELEBUNG REMBIGA"
+   ]
+  }
+ ],
+ "83555": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "LOMBOK TENGAH",
+   "c": "BATUKLIANG UTARA",
+   "d": [
+    "AIK BUKAQ",
+    "KARANG SIDEMEN",
+    "LANTAN",
+    "MAS-MAS",
+    "SETILING",
+    "TANAK BEAQ",
+    "TERATAK"
+   ]
+  }
+ ],
+ "83561": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "LOMBOK TENGAH",
+   "c": "JONGGAT",
+   "d": [
+    "BAREJULAT",
+    "BATUTULIS",
+    "BONJERUK",
+    "BUNKATE",
+    "GEMEL",
+    "JELANTIK",
+    "LABULIA",
+    "NYEROT",
+    "PENGENJEK",
+    "PERINA",
+    "PUYUNG",
+    "SUKARARA",
+    "UBUNG"
+   ]
+  }
+ ],
+ "83562": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "LOMBOK TENGAH",
+   "c": "PRINGGARATA",
+   "d": [
+    "MURBAYA",
+    "PEMEPEK",
+    "PRINGGARATA",
+    "SEPAKEK",
+    "SINTUNG"
+   ]
+  }
+ ],
+ "83571": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "LOMBOK TENGAH",
+   "c": "PRAYA BARAT DAYA",
+   "d": [
+    "BATU JANGKIH",
+    "DAREK",
+    "KABUL",
+    "MONTONG AJAN",
+    "MONTONG SAPAH",
+    "PANDAN INDAH",
+    "PELAMBIK",
+    "RANGGAGATA",
+    "SERAGE",
+    "UNGGA"
+   ]
+  }
+ ],
+ "83572": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "LOMBOK TENGAH",
+   "c": "PRAYA BARAT",
+   "d": [
+    "BANYU URIP",
+    "BATUJAI",
+    "KATENG",
+    "MANGKUNG",
+    "MEKAR SARI",
+    "SELONG BELANAK"
+   ]
+  }
+ ],
+ "83573": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "LOMBOK TENGAH",
+   "c": "PUJUT",
+   "d": [
+    "GAPURA",
+    "KAWO",
+    "KETARA",
+    "KUTA",
+    "MERTAK",
+    "PENGEMBUR",
+    "PENGENGAT",
+    "PRABU",
+    "REMBITAN",
+    "SEGALE ANYAR",
+    "SENGKOL",
+    "SUKADANA",
+    "TANAK AWU",
+    "TERUWAI",
+    "TUMPAK"
+   ]
+  }
+ ],
+ "83581": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "LOMBOK TENGAH",
+   "c": "PRAYA TIMUR",
+   "d": [
+    "BILELANDO",
+    "GANTI",
+    "KIDANG",
+    "LANDAH",
+    "MARONG",
+    "MUJUR",
+    "SEMOYANG",
+    "SUKARAJA"
+   ]
+  }
+ ],
+ "83582": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "LOMBOK TENGAH",
+   "c": "PRAYA TENGAH",
+   "d": [
+    "BATUNYALA",
+    "BERAIM",
+    "GERANTUNG",
+    "JONTLAK",
+    "KELEBUH",
+    "LAJUT",
+    "PENGADANG",
+    "SASAKE"
+   ]
+  }
+ ],
+ "83611": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "LOMBOK TIMUR",
+   "c": "SELONG",
+   "d": [
+    "PANCOR",
+    "SEKARTEJA"
+   ]
+  }
+ ],
+ "83612": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "LOMBOK TIMUR",
+   "c": "SELONG",
+   "d": [
+    "SANDUBAYA"
+   ]
+  }
+ ],
+ "83618": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "LOMBOK TIMUR",
+   "c": "SELONG",
+   "d": [
+    "KEMBANG SARI"
+   ]
+  }
+ ],
+ "83619": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "LOMBOK TIMUR",
+   "c": "SELONG",
+   "d": [
+    "DENGGEN TIMUR",
+    "KELAYU JORONG",
+    "KELAYU UTARA",
+    "MAJIDI",
+    "RAKAM"
+   ]
+  }
+ ],
+ "83652": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "LOMBOK TIMUR",
+   "c": "SUKAMULIA",
+   "d": [
+    "DASAN LEKONG",
+    "JANTUK",
+    "PADAMARA",
+    "PAOK PAMPANG",
+    "SETANGGOR",
+    "SETANGGOR SELATAN",
+    "SUKAMULIA",
+    "SUKAMULIA TIMUR"
+   ]
+  }
+ ],
+ "83653": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "LOMBOK TIMUR",
+   "c": "AIKMEL",
+   "d": [
+    "AIKMEL",
+    "AIKMEL BARAT",
+    "AIKMEL UTARA",
+    "KALIJAGA",
+    "KALIJAGA BARU",
+    "KALIJAGA SELATAN",
+    "KALIJAGA TIMUR",
+    "KEMBANG KERANG",
+    "KEMBANG KERANG DAYA",
+    "LENEK",
+    "LENEK DAYA",
+    "LENEK LAUQ",
+    "TOYA"
+   ]
+  }
+ ],
+ "83654": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "LOMBOK TIMUR",
+   "c": "PRINGGABAYA",
+   "d": [
+    "ANGGARAKSA",
+    "APITAIK",
+    "BAGIK PAPAN",
+    "BATUYANG",
+    "GUNUNG MALANG",
+    "KERUMUT",
+    "LABUHAN LOMBOK",
+    "POHGADING",
+    "POHGADING TIMUR",
+    "PRINGGABAYA",
+    "PRINGGABAYA UTARA",
+    "TANAK GADANG",
+    "TEKO"
+   ]
+  }
+ ],
+ "83656": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "LOMBOK TIMUR",
+   "c": "SAMBELIA",
+   "d": [
+    "BELANTING",
+    "LABUHAN PANDAN",
+    "OBEL OBEL",
+    "SUGIAN"
+   ]
+  }
+ ],
+ "83657": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "LOMBOK TIMUR",
+   "c": "KERUAK",
+   "d": [
+    "KETANGGA JERAING"
+   ]
+  },
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "LOMBOK TIMUR",
+   "c": "SUELA",
+   "d": [
+    "KETANGGA",
+    "MEKAR SARI",
+    "PERIGI",
+    "SAPIT",
+    "SELAPARANG",
+    "SUNTALANGU"
+   ]
+  }
+ ],
+ "83658": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "LOMBOK TIMUR",
+   "c": "WANASABA",
+   "d": [
+    "BEBIDAS",
+    "KARANG BARU",
+    "KARANG BARU TIMUR",
+    "MAMBEN DAYA",
+    "MAMBEN LAUQ",
+    "TEMBENG PUTIK",
+    "WANASABA",
+    "WANASABA DAYA",
+    "WANASABA LAUK"
+   ]
+  }
+ ],
+ "83659": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "LOMBOK TIMUR",
+   "c": "SURALAGA",
+   "d": [
+    "ANJANI",
+    "BAGIK PAYUNG",
+    "BAGIK PAYUNG SELATAN",
+    "BAGIKPAYUNG TIMUR",
+    "DASAN BOROK",
+    "GERUNG PERMAI",
+    "KERONGKONG",
+    "SURALAGA",
+    "TUMBUH MULIA"
+   ]
+  }
+ ],
+ "83661": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "LOMBOK TIMUR",
+   "c": "MASBAGIK",
+   "d": [
+    "DANGER",
+    "KESIK",
+    "KUMBANG",
+    "LENDANG NANGKA",
+    "LENDANG NANGKA UTARA",
+    "MASBAGIK SELATAN",
+    "MASBAGIK TIMUR",
+    "MASBAGIK UTARA",
+    "MASBAGIK UTARA BARU",
+    "PAOK MOTONG"
+   ]
+  }
+ ],
+ "83662": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "LOMBOK TIMUR",
+   "c": "SIKUR",
+   "d": [
+    "GELORA",
+    "KEMBANG KUNING",
+    "KOTARAJA",
+    "LOYOK",
+    "MONTONGBAAN",
+    "MONTONGBAAN SELATAN",
+    "SEMAYA",
+    "SIKUR",
+    "TETEBATU"
+   ]
+  }
+ ],
+ "83663": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "LOMBOK TIMUR",
+   "c": "TERARA",
+   "d": [
+    "EMBUNG RAJA",
+    "JENGGIK",
+    "LANDO",
+    "LEMING",
+    "RARANG",
+    "RARANG SELATAN",
+    "RARANG TENGAH",
+    "SANTONG",
+    "SELAGIK",
+    "SUKADANA",
+    "SURADADI",
+    "TERARA"
+   ]
+  }
+ ],
+ "83664": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "LOMBOK TIMUR",
+   "c": "MONTONG GADING",
+   "d": [
+    "JENGGIK UTARA",
+    "KILANG",
+    "MONTONG BETOK",
+    "PERIAN",
+    "PESANGGRAHAN",
+    "PRINGGAJURANG",
+    "PRINGGAJURANG UTARA"
+   ]
+  }
+ ],
+ "83665": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "LOMBOK TIMUR",
+   "c": "PRINGGASELA",
+   "d": [
+    "AIKDEWA",
+    "JURIT",
+    "JURIT BARU",
+    "PENGADANGAN",
+    "PENGADANGAN BARAT",
+    "PRINGGASELA",
+    "PRINGGASELA SELATAN",
+    "PRINGGASELA TIMUR",
+    "REMPUNG"
+   ]
+  }
+ ],
+ "83666": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "LOMBOK TIMUR",
+   "c": "SEMBALUN",
+   "d": [
+    "SAJANG",
+    "SEMBALUN BUMBUNG",
+    "SEMBALUN LAWANG"
+   ]
+  }
+ ],
+ "83671": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "LOMBOK TIMUR",
+   "c": "SAKRA",
+   "d": [
+    "KABAR",
+    "KESELET",
+    "RUMBUK",
+    "RUMBUK TIMUR",
+    "SAKRA",
+    "SAKRA SELATAN",
+    "SUANGI TIMUR"
+   ]
+  }
+ ],
+ "83672": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "LOMBOK TIMUR",
+   "c": "KERUAK",
+   "d": [
+    "BATU PUTIK",
+    "KERUAK",
+    "KETAPANG RAYA",
+    "PIJOT",
+    "SELEBUNG KETANGGA",
+    "SENYIUR",
+    "SEPIT",
+    "TANJUNG LUAR"
+   ]
+  }
+ ],
+ "83673": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "LOMBOK TIMUR",
+   "c": "SAKRA BARAT",
+   "d": [
+    "BOROK TOYANG",
+    "BUNGTIANG",
+    "GUNUNG RAJAK",
+    "PENGKELAKMAS",
+    "RENSING",
+    "RENSING BAT",
+    "RENSING RAYA",
+    "SUKARARA"
+   ]
+  }
+ ],
+ "83674": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "LOMBOK TIMUR",
+   "c": "SAKRA TIMUR",
+   "d": [
+    "GELANGGANG",
+    "GERENENG",
+    "GERENENG TIMUR",
+    "LEPAK",
+    "LEPAK TIMUR",
+    "MENCEH",
+    "MONTONGTANGI",
+    "SURABAYA",
+    "SURABAYA UTARA"
+   ]
+  }
+ ],
+ "83675": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "LOMBOK TIMUR",
+   "c": "LABUHAN HAJI",
+   "d": [
+    "BANJAR SARI",
+    "IJOBALIT",
+    "KERTA SARI",
+    "KORLEKO",
+    "LABUHAN HAJI",
+    "SURYA WANGI",
+    "TANJUNG",
+    "TEROS",
+    "TIRTANADI"
+   ]
+  }
+ ],
+ "83676": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "LOMBOK TIMUR",
+   "c": "JEROWARU",
+   "d": [
+    "BATU NAMPAR SELATAN",
+    "BATUNAMPAR",
+    "JEROWARU",
+    "PANDAN WANGI",
+    "PEMONGKONG",
+    "SEKAROH",
+    "SUKARAJA",
+    "WAKAN"
+   ]
+  }
+ ],
+ "83711": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "LOMBOK UTARA",
+   "c": "TANJUNG",
+   "d": [
+    "TANJUNG"
+   ]
+  }
+ ],
+ "83712": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "LOMBOK UTARA",
+   "c": "TANJUNG",
+   "d": [
+    "SOKONG"
+   ]
+  }
+ ],
+ "83713": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "LOMBOK UTARA",
+   "c": "TANJUNG",
+   "d": [
+    "MEDANA"
+   ]
+  }
+ ],
+ "83714": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "LOMBOK UTARA",
+   "c": "TANJUNG",
+   "d": [
+    "SIGAR PENJALIN"
+   ]
+  }
+ ],
+ "83715": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "LOMBOK UTARA",
+   "c": "TANJUNG",
+   "d": [
+    "TENIGA"
+   ]
+  }
+ ],
+ "83716": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "LOMBOK UTARA",
+   "c": "TANJUNG",
+   "d": [
+    "TEGAL MAJA"
+   ]
+  }
+ ],
+ "83717": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "LOMBOK UTARA",
+   "c": "TANJUNG",
+   "d": [
+    "JENGGALA"
+   ]
+  }
+ ],
+ "83753": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "LOMBOK UTARA",
+   "c": "GANGGA",
+   "d": [
+    "BENTEK",
+    "GENGGELANG",
+    "GONDANG",
+    "REMPEK",
+    "SAMBIK BANGKOL"
+   ]
+  }
+ ],
+ "83754": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "LOMBOK UTARA",
+   "c": "BAYAN",
+   "d": [
+    "ANYAR",
+    "BAYAN",
+    "KARANG BAJO",
+    "LOLOAN",
+    "MUMBUL SARI",
+    "SAMBIK ELEN",
+    "SENARU",
+    "SUKADANA"
+   ]
+  }
+ ],
+ "83755": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "LOMBOK UTARA",
+   "c": "KAYANGAN",
+   "d": [
+    "DANGIANG",
+    "GUMANTAR",
+    "KAYANGAN",
+    "PENDUA",
+    "SALUT",
+    "SANTONG",
+    "SELENGEN",
+    "SESAIT"
+   ]
+  }
+ ],
+ "83756": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "LOMBOK UTARA",
+   "c": "PEMENANG",
+   "d": [
+    "GILI INDAH",
+    "MALAKA",
+    "PEMENANG BARAT",
+    "PEMENANG TIMUR"
+   ]
+  }
+ ],
+ "84111": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "BIMA",
+   "c": "MPUNDA",
+   "d": [
+    "LEWIRATO",
+    "MANGGEMACI",
+    "MATAKANDO",
+    "MONGGONAO",
+    "SANTI"
+   ]
+  }
+ ],
+ "84112": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "BIMA",
+   "c": "MPUNDA",
+   "d": [
+    "SADIA",
+    "SAMBINAE"
+   ]
+  }
+ ],
+ "84115": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "BIMA",
+   "c": "MPUNDA",
+   "d": [
+    "MANDE",
+    "PANGGI",
+    "PENATOI"
+   ]
+  }
+ ],
+ "84116": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "BIMA",
+   "c": "RASANAE BARAT",
+   "d": [
+    "NAE"
+   ]
+  }
+ ],
+ "84117": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "BIMA",
+   "c": "RASANAE BARAT",
+   "d": [
+    "SARAE"
+   ]
+  }
+ ],
+ "84118": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "BIMA",
+   "c": "RASANAE BARAT",
+   "d": [
+    "DARA",
+    "PANE",
+    "PARUGA",
+    "TANJUNG"
+   ]
+  }
+ ],
+ "84121": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "BIMA",
+   "c": "RASANAE TIMUR",
+   "d": [
+    "NUNGGA"
+   ]
+  }
+ ],
+ "84122": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "BIMA",
+   "c": "RASANAE TIMUR",
+   "d": [
+    "LAMPE"
+   ]
+  }
+ ],
+ "84123": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "BIMA",
+   "c": "RASANAE TIMUR",
+   "d": [
+    "DODU"
+   ]
+  }
+ ],
+ "84124": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "BIMA",
+   "c": "RASANAE TIMUR",
+   "d": [
+    "KUMBE"
+   ]
+  }
+ ],
+ "84125": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "BIMA",
+   "c": "RASANAE TIMUR",
+   "d": [
+    "KODO"
+   ]
+  }
+ ],
+ "84127": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "BIMA",
+   "c": "RASANAE TIMUR",
+   "d": [
+    "LELAMASE"
+   ]
+  }
+ ],
+ "84131": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "BIMA",
+   "c": "RABA",
+   "d": [
+    "RABANGODU UTARA"
+   ]
+  }
+ ],
+ "84132": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "BIMA",
+   "c": "RABA",
+   "d": [
+    "RABANGODU SELATAN"
+   ]
+  }
+ ],
+ "84133": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "BIMA",
+   "c": "RABA",
+   "d": [
+    "RABADOMPU BARAT"
+   ]
+  }
+ ],
+ "84134": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "BIMA",
+   "c": "RABA",
+   "d": [
+    "RABADOMPU TIMUR"
+   ]
+  }
+ ],
+ "84135": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "BIMA",
+   "c": "RABA",
+   "d": [
+    "PENARAGA"
+   ]
+  }
+ ],
+ "84136": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "BIMA",
+   "c": "RABA",
+   "d": [
+    "PENANAE"
+   ]
+  }
+ ],
+ "84137": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "BIMA",
+   "c": "RABA",
+   "d": [
+    "RITE"
+   ]
+  }
+ ],
+ "84138": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "BIMA",
+   "c": "RABA",
+   "d": [
+    "KENDO",
+    "NTOBO"
+   ]
+  }
+ ],
+ "84139": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "BIMA",
+   "c": "RABA",
+   "d": [
+    "NITU",
+    "RONTU"
+   ]
+  }
+ ],
+ "84141": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "BIMA",
+   "c": "ASAKOTA",
+   "d": [
+    "JATIWANGI"
+   ]
+  }
+ ],
+ "84142": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "BIMA",
+   "c": "ASAKOTA",
+   "d": [
+    "JATIBARU"
+   ]
+  }
+ ],
+ "84143": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "BIMA",
+   "c": "ASAKOTA",
+   "d": [
+    "MELAYU"
+   ]
+  }
+ ],
+ "84144": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "BIMA",
+   "c": "ASAKOTA",
+   "d": [
+    "KOLO"
+   ]
+  }
+ ],
+ "84152": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "BIMA",
+   "c": "WERA",
+   "d": [
+    "BALA",
+    "NANGA WERA",
+    "NTOKE",
+    "NUNGGI",
+    "OITUI",
+    "PAI",
+    "SANGIANG",
+    "TADEWA",
+    "TAWALI",
+    "WORA"
+   ]
+  }
+ ],
+ "84153": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "BIMA",
+   "c": "AMBALAWI",
+   "d": [
+    "KOLE",
+    "MAWU",
+    "NIPA",
+    "RITE",
+    "TALAPITI",
+    "TOLOWATA"
+   ]
+  }
+ ],
+ "84161": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "BIMA",
+   "c": "BOLO",
+   "d": [
+    "BONTOKAPE",
+    "KANANGA",
+    "LEU",
+    "NGGEMBE",
+    "RADA",
+    "RATO",
+    "SANOLO",
+    "SONDOSIA",
+    "TAMBE",
+    "TIMU",
+    "TUMPU"
+   ]
+  }
+ ],
+ "84162": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "BIMA",
+   "c": "DONGGO",
+   "d": [
+    "BUMI PAJO",
+    "DORIDUNGGA",
+    "KALA",
+    "MBAWA",
+    "MPILI",
+    "PALAMA",
+    "RORA"
+   ]
+  }
+ ],
+ "84163": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "BIMA",
+   "c": "SOROMANDI",
+   "d": [
+    "BAJO",
+    "PUNTI",
+    "SAI",
+    "SAMPUNGU",
+    "WADUKOPA"
+   ]
+  }
+ ],
+ "84164": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "BIMA",
+   "c": "MADA PANGGA",
+   "d": [
+    "BOLO",
+    "CAMPA",
+    "DENA",
+    "MADA WAU",
+    "MONGGO",
+    "MPURI",
+    "NDANO",
+    "RADE",
+    "TONDA",
+    "WORO"
+   ]
+  }
+ ],
+ "84171": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "BIMA",
+   "c": "WOHA",
+   "d": [
+    "DADIBOU",
+    "DONGGOBOLO",
+    "KALAMPA",
+    "KELI",
+    "NARU",
+    "NISA",
+    "PANDAI",
+    "PENAPALI",
+    "RABAKODO",
+    "RISA",
+    "SAMILI",
+    "TALABIU",
+    "TENGA",
+    "TENTE",
+    "WADU WANI"
+   ]
+  }
+ ],
+ "84172": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "BIMA",
+   "c": "MONTA",
+   "d": [
+    "BARALAU",
+    "MONTA",
+    "PELA",
+    "SIE",
+    "SIMPASAI",
+    "SONDO",
+    "TANGGA",
+    "TANGGA BARU",
+    "TOLOTANGGA",
+    "TOLOUWI",
+    "WILLAMACI"
+   ]
+  }
+ ],
+ "84173": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "BIMA",
+   "c": "BELO",
+   "d": [
+    "CENGGU",
+    "LIDO",
+    "NCERA",
+    "NGALI",
+    "RENDA",
+    "ROKA",
+    "RUNGGU",
+    "SOKI"
+   ]
+  }
+ ],
+ "84174": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "BIMA",
+   "c": "PALIBELO",
+   "d": [
+    "BELO",
+    "DORE",
+    "NATA",
+    "NTONGGU",
+    "PANDA",
+    "ROI",
+    "TEKE",
+    "TONGGORISA"
+   ]
+  }
+ ],
+ "84175": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "BIMA",
+   "c": "LANGGUDU",
+   "d": [
+    "DUMU",
+    "KALODU",
+    "KANGGA",
+    "KARAMPI",
+    "KARUMBU",
+    "KAWUWU",
+    "LAJU",
+    "ROMPO",
+    "RUPE",
+    "WADU RUKA",
+    "WAWORADA"
+   ]
+  }
+ ],
+ "84176": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "BIMA",
+   "c": "PARADO",
+   "d": [
+    "KANCA",
+    "KUTA",
+    "LERE",
+    "PARADORATO",
+    "PARADOWANE"
+   ]
+  }
+ ],
+ "84181": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "BIMA",
+   "c": "WAWO",
+   "d": [
+    "KAMBILO",
+    "KOMBO",
+    "MARIA",
+    "MARIA UTARA",
+    "NTORI",
+    "PESA",
+    "RABA",
+    "TARLAWI"
+   ]
+  }
+ ],
+ "84182": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "BIMA",
+   "c": "SAPE",
+   "d": [
+    "BAJOPULAU",
+    "BOKE",
+    "BUGIS",
+    "BUNCU",
+    "JIA",
+    "KOWO",
+    "LAMERE",
+    "NARU BARAT",
+    "PARANGINA",
+    "POJA",
+    "RASABOU",
+    "SANGIA",
+    "SARI",
+    "TANAH PUTIH"
+   ]
+  }
+ ],
+ "84183": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "BIMA",
+   "c": "LAMBU",
+   "d": [
+    "HIDIRASA",
+    "KALEO",
+    "LAMBU",
+    "LANTA",
+    "LANTA BARAT",
+    "MANGGE",
+    "MELAYU",
+    "NGGELU",
+    "RATO",
+    "SIMPASAI",
+    "SORO",
+    "SUMI"
+   ]
+  }
+ ],
+ "84184": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "BIMA",
+   "c": "LAMBITU",
+   "d": [
+    "KUTA",
+    "SAMBORI",
+    "TETA"
+   ]
+  }
+ ],
+ "84191": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "BIMA",
+   "c": "SANGGAR",
+   "d": [
+    "BORO",
+    "KORE",
+    "OI SARO",
+    "PIONG",
+    "SANDUE",
+    "TALOKO"
+   ]
+  }
+ ],
+ "84192": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "BIMA",
+   "c": "TAMBORA",
+   "d": [
+    "KAWINDA NAE",
+    "KAWINDA TOI",
+    "LABUHAN KANANGA",
+    "OI BURA",
+    "OI PANIHI"
+   ]
+  }
+ ],
+ "84211": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "DOMPU",
+   "c": "DOMPU",
+   "d": [
+    "BADA"
+   ]
+  }
+ ],
+ "84212": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "DOMPU",
+   "c": "DOMPU",
+   "d": [
+    "DOROTANGGA"
+   ]
+  }
+ ],
+ "84213": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "DOMPU",
+   "c": "DOMPU",
+   "d": [
+    "BALI"
+   ]
+  }
+ ],
+ "84214": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "DOMPU",
+   "c": "DOMPU",
+   "d": [
+    "POTU"
+   ]
+  }
+ ],
+ "84215": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "DOMPU",
+   "c": "DOMPU",
+   "d": [
+    "KANDAI SATU"
+   ]
+  },
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "DOMPU",
+   "c": "WOJA",
+   "d": [
+    "KANDAI DUA"
+   ]
+  }
+ ],
+ "84217": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "DOMPU",
+   "c": "DOMPU",
+   "d": [
+    "DOREBARA",
+    "KARAMABURA",
+    "KAREKE",
+    "KARIJAWA",
+    "KATUA",
+    "MANGGE ASI",
+    "MANGGE NAE",
+    "MBAWI"
+   ]
+  }
+ ],
+ "84251": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "DOMPU",
+   "c": "WOJA",
+   "d": [
+    "BARA",
+    "MADAPRAMA",
+    "MUMBU",
+    "NOWA",
+    "RIWO"
+   ]
+  }
+ ],
+ "84252": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "DOMPU",
+   "c": "KILO",
+   "d": [
+    "K I W U",
+    "LASI",
+    "MALAJU",
+    "MBUJU",
+    "TAROPO"
+   ]
+  }
+ ],
+ "84253": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "DOMPU",
+   "c": "PAJO",
+   "d": [
+    "JAMBU",
+    "LEPADI",
+    "LUNE",
+    "RANGGO"
+   ]
+  }
+ ],
+ "84261": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "DOMPU",
+   "c": "KEMPO",
+   "d": [
+    "DORO KOBO",
+    "KEMPO",
+    "KONTE",
+    "SO NGGAJAH",
+    "SORO",
+    "TOLO KALO"
+   ]
+  }
+ ],
+ "84262": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "DOMPU",
+   "c": "MANGGALEWA",
+   "d": [
+    "BANGGO",
+    "DOROMELO",
+    "KWANGKO",
+    "LANCI JAYA",
+    "NANGATUMPU",
+    "NUSA JAYA",
+    "SORIUTU",
+    "SUKA DAMAI"
+   ]
+  }
+ ],
+ "84263": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "DOMPU",
+   "c": "PEKAT",
+   "d": [
+    "BERINGIN JAYA",
+    "KADINDI",
+    "NANGAMIRO",
+    "PEKAT",
+    "SORINOMO",
+    "TAMBORA"
+   ]
+  }
+ ],
+ "84311": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "SUMBAWA",
+   "c": "SUMBAWA",
+   "d": [
+    "SEKETENG"
+   ]
+  }
+ ],
+ "84312": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "SUMBAWA",
+   "c": "SUMBAWA",
+   "d": [
+    "LEMPEH"
+   ]
+  }
+ ],
+ "84313": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "SUMBAWA",
+   "c": "SUMBAWA",
+   "d": [
+    "BUGIS"
+   ]
+  }
+ ],
+ "84314": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "SUMBAWA",
+   "c": "SUMBAWA",
+   "d": [
+    "BRANG BARA"
+   ]
+  }
+ ],
+ "84315": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "SUMBAWA",
+   "c": "SUMBAWA",
+   "d": [
+    "PEKAT"
+   ]
+  }
+ ],
+ "84316": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "SUMBAWA",
+   "c": "SUMBAWA",
+   "d": [
+    "SAMAPUIN"
+   ]
+  }
+ ],
+ "84317": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "SUMBAWA",
+   "c": "SUMBAWA",
+   "d": [
+    "UMA SIMA"
+   ]
+  }
+ ],
+ "84318": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "SUMBAWA",
+   "c": "SUMBAWA",
+   "d": [
+    "BRANG BIJI"
+   ]
+  }
+ ],
+ "84351": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "SUMBAWA",
+   "c": "ALAS",
+   "d": [
+    "LABUHAN ALAS"
+   ]
+  },
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "SUMBAWA",
+   "c": "LABUHAN BADAS",
+   "d": [
+    "BAJO MEDANG",
+    "BUGIS MEDANG",
+    "KARANG DIMA",
+    "LABUAN AJI",
+    "LABUAN SUMBAWA",
+    "LABUHAN BADAS",
+    "SEBOTOK"
+   ]
+  }
+ ],
+ "84352": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "SUMBAWA",
+   "c": "UTAN",
+   "d": [
+    "BALE BRANG",
+    "JOROK",
+    "LABUAN BAJO",
+    "MOTONG",
+    "ORONG BAWA",
+    "PUKAT",
+    "STOWE BRANG",
+    "TENGAH"
+   ]
+  },
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "SUMBAWA",
+   "c": "UNTER IWES",
+   "d": [
+    "JOROK"
+   ]
+  }
+ ],
+ "84353": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "SUMBAWA",
+   "c": "ALAS",
+   "d": [
+    "BARU",
+    "DALAM",
+    "JURANALAS",
+    "KALIMANGO",
+    "LUAR",
+    "MARENTEH",
+    "PULAU BUNGIN"
+   ]
+  }
+ ],
+ "84359": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "SUMBAWA",
+   "c": "UTAN",
+   "d": [
+    "JOROK"
+   ]
+  },
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "SUMBAWA",
+   "c": "UNTER IWES",
+   "d": [
+    "BOAK",
+    "JOROK",
+    "KERATO",
+    "KEREKEH",
+    "PELAT",
+    "PUNGKA",
+    "UMA BERINGIN"
+   ]
+  }
+ ],
+ "84361": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "SUMBAWA",
+   "c": "BATULANTEH",
+   "d": [
+    "BAO DESA",
+    "BATUDULANG",
+    "BATUROTOK",
+    "KELUNGKUNG",
+    "TANGKAN PULIT",
+    "TEPAL"
+   ]
+  }
+ ],
+ "84362": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "SUMBAWA",
+   "c": "RHEE",
+   "d": [
+    "LUK",
+    "RHEE",
+    "RHEE LOKA",
+    "SAMPE"
+   ]
+  }
+ ],
+ "84363": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "SUMBAWA",
+   "c": "ALAS BARAT",
+   "d": [
+    "GONTAR",
+    "GONTAR BARU",
+    "LABUAN MAPIN",
+    "LEKONG",
+    "MAPIN KEBAK",
+    "MAPIN REA",
+    "USAR MAPIN"
+   ]
+  }
+ ],
+ "84364": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "SUMBAWA",
+   "c": "BUER",
+   "d": [
+    "BUIN BARU",
+    "KALABESO",
+    "LABUHAN BURUNG",
+    "PULAU KAUNG",
+    "TARUSA"
+   ]
+  }
+ ],
+ "84371": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "SUMBAWA",
+   "c": "MOYOHULU",
+   "d": [
+    "BATUBULAN",
+    "BATUTERING",
+    "BERANG REA",
+    "LESENG",
+    "LITO",
+    "MAMAN",
+    "MARGA KARYA",
+    "MOKONG",
+    "PERNEK",
+    "SEBASANG",
+    "SEMAMUNG",
+    "SEMPE"
+   ]
+  }
+ ],
+ "84372": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "SUMBAWA",
+   "c": "LENANGGUAR",
+   "d": [
+    "LEDANG",
+    "LENANGGUAR",
+    "TATEBAL",
+    "TELAGA"
+   ]
+  }
+ ],
+ "84373": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "SUMBAWA",
+   "c": "LUNYUK",
+   "d": [
+    "EMANG LESTARI",
+    "JAMU",
+    "LUNYUK ODE",
+    "LUNYUK REA",
+    "PADA SUKA",
+    "PERUNG"
+   ]
+  }
+ ],
+ "84374": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "SUMBAWA",
+   "c": "ORONG TELU",
+   "d": [
+    "KELAWIS",
+    "MUNGKIN",
+    "SEBEOK",
+    "SENAWANG"
+   ]
+  }
+ ],
+ "84375": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "SUMBAWA",
+   "c": "LANTUNG",
+   "d": [
+    "AI MUAL",
+    "LANTUNG",
+    "PADESA",
+    "SEPUKUR"
+   ]
+  }
+ ],
+ "84376": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "SUMBAWA",
+   "c": "ROPANG",
+   "d": [
+    "LAWIN",
+    "LEBANGKAR",
+    "LEBIN",
+    "RANAN",
+    "ROPANG"
+   ]
+  }
+ ],
+ "84381": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "SUMBAWA",
+   "c": "MOYOHILIR",
+   "d": [
+    "BATU BANGKA",
+    "BERARE",
+    "KAKIANG",
+    "MOYO",
+    "MOYO MEKAR",
+    "NGERU",
+    "OLAT RAWA",
+    "POTO",
+    "SERADING"
+   ]
+  }
+ ],
+ "84382": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "SUMBAWA",
+   "c": "LAPE",
+   "d": [
+    "DETE",
+    "HIJRAH",
+    "LABUAN KURIS",
+    "LAPE"
+   ]
+  }
+ ],
+ "84383": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "SUMBAWA",
+   "c": "PLAMPANG",
+   "d": [
+    "BRANG KOLONG",
+    "MUER",
+    "PLAMPANG",
+    "SELANTE",
+    "SEPAKAT",
+    "SEPAYUNG",
+    "TELUK SANTONG",
+    "USAR"
+   ]
+  }
+ ],
+ "84384": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "SUMBAWA",
+   "c": "EMPANG",
+   "d": [
+    "BOAL",
+    "EMPANG ATAS",
+    "EMPANG BAWAH",
+    "GAPIT",
+    "JOTANG",
+    "LAMENTA",
+    "ONGKO"
+   ]
+  }
+ ],
+ "84385": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "SUMBAWA",
+   "c": "TARANO",
+   "d": [
+    "BANTULANTEH",
+    "LABUAN AJI",
+    "LABUAN BONTONG",
+    "LABUAN JAMBU",
+    "MATA"
+   ]
+  }
+ ],
+ "84386": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "SUMBAWA",
+   "c": "MARONGE",
+   "d": [
+    "LABUHAN SANGORO",
+    "MARONGE",
+    "SIMU"
+   ]
+  }
+ ],
+ "84387": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "SUMBAWA",
+   "c": "LABANGKA",
+   "d": [
+    "JAYA MAKMUR",
+    "LABANGKA",
+    "SEKOKAT",
+    "SUKA DAMAI",
+    "SUKA MULYA"
+   ]
+  }
+ ],
+ "84388": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "SUMBAWA",
+   "c": "MOYO UTARA",
+   "d": [
+    "PUNGKIT"
+   ]
+  },
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "SUMBAWA",
+   "c": "LOPOK",
+   "d": [
+    "BERORA",
+    "LANGAM",
+    "LOPOK",
+    "LOPOK BERU",
+    "MAMA",
+    "PUNGKIT"
+   ]
+  }
+ ],
+ "84389": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "SUMBAWA",
+   "c": "MOYO UTARA",
+   "d": [
+    "BARU TAHAN",
+    "KUKIN",
+    "PENYARING",
+    "PUNGKIT",
+    "SEBEWE",
+    "SONGKAR"
+   ]
+  },
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "SUMBAWA",
+   "c": "LOPOK",
+   "d": [
+    "PUNGKIT"
+   ]
+  }
+ ],
+ "84411": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "SUMBAWA BARAT",
+   "c": "TALIWANG",
+   "d": [
+    "KUANG"
+   ]
+  }
+ ],
+ "84412": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "SUMBAWA BARAT",
+   "c": "TALIWANG",
+   "d": [
+    "BUGIS"
+   ]
+  }
+ ],
+ "84413": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "SUMBAWA BARAT",
+   "c": "TALIWANG",
+   "d": [
+    "DALAM"
+   ]
+  }
+ ],
+ "84414": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "SUMBAWA BARAT",
+   "c": "TALIWANG",
+   "d": [
+    "MENALA"
+   ]
+  }
+ ],
+ "84415": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "SUMBAWA BARAT",
+   "c": "TALIWANG",
+   "d": [
+    "SAMPIR"
+   ]
+  }
+ ],
+ "84416": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "SUMBAWA BARAT",
+   "c": "TALIWANG",
+   "d": [
+    "TELAGA BERTONG"
+   ]
+  }
+ ],
+ "84419": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "SUMBAWA BARAT",
+   "c": "TALIWANG",
+   "d": [
+    "BANJAR",
+    "BATU PUTIH",
+    "LALAR LIANG",
+    "SELOTO",
+    "TAMEKAN"
+   ]
+  }
+ ],
+ "84453": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "SUMBAWA BARAT",
+   "c": "POTO TANO",
+   "d": [
+    "KIANTAR",
+    "MANTAR",
+    "POTO TANO",
+    "SENAYAN",
+    "UPT TAMBAK SARI"
+   ]
+  }
+ ],
+ "84454": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "SUMBAWA BARAT",
+   "c": "SETELUK",
+   "d": [
+    "AIR SUNING",
+    "KELANIR",
+    "MERARAN",
+    "REMPE",
+    "SETELUK ATAS",
+    "SETELUK TENGAH",
+    "TAPIR"
+   ]
+  }
+ ],
+ "84455": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "SUMBAWA BARAT",
+   "c": "BRANG ENE",
+   "d": [
+    "KALIMANTONG",
+    "LAMPOK",
+    "MANEMENG",
+    "MUJAHIDDIN",
+    "MURA"
+   ]
+  }
+ ],
+ "84456": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "SUMBAWA BARAT",
+   "c": "JEREWEH",
+   "d": [
+    "BELO",
+    "BERU",
+    "DASAN ANYAR",
+    "GOA"
+   ]
+  }
+ ],
+ "84457": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "SUMBAWA BARAT",
+   "c": "SEKONGKANG",
+   "d": [
+    "AI KANGKUNG",
+    "TALONANG BARU",
+    "TATAR",
+    "TONGO"
+   ]
+  }
+ ],
+ "84458": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "SUMBAWA BARAT",
+   "c": "BRANG REA",
+   "d": [
+    "BANGKAT MONTEH",
+    "DESA BERU",
+    "SAPUGARA BREE",
+    "TEPAS"
+   ]
+  }
+ ],
+ "84459": [
+  {
+   "p": "NUSA TENGGARA BARAT",
+   "k": "SUMBAWA BARAT",
+   "c": "MALUK",
+   "d": [
+    "BENETE",
+    "BUKIT DAMAI",
+    "MALUK",
+    "MANTUN",
+    "PASIR PUTIH"
+   ]
+  }
+ ],
+ "85111": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "KUPANG",
+   "c": "OEBOBO",
+   "d": [
+    "FATULULI",
+    "KAYU PUTIH",
+    "LILIBA",
+    "OEBOBO",
+    "OEBUFU",
+    "TUAK DAUN MERAH"
+   ]
+  }
+ ],
+ "85112": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "KUPANG",
+   "c": "OEBOBO",
+   "d": [
+    "OETETE"
+   ]
+  }
+ ],
+ "85115": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "KUPANG",
+   "c": "KOTA RAJA",
+   "d": [
+    "AIR NONA"
+   ]
+  }
+ ],
+ "85116": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "KUPANG",
+   "c": "KOTA RAJA",
+   "d": [
+    "BAKUNASE",
+    "BAKUNASE II"
+   ]
+  }
+ ],
+ "85118": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "KUPANG",
+   "c": "KOTA RAJA",
+   "d": [
+    "NAIKOTEN I",
+    "NAIKOTEN II"
+   ]
+  }
+ ],
+ "85119": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "KUPANG",
+   "c": "KOTA RAJA",
+   "d": [
+    "FONTEIN",
+    "KUANINO",
+    "NUNLEU"
+   ]
+  }
+ ],
+ "85141": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "KUPANG",
+   "c": "MAULAFA",
+   "d": [
+    "MAULAFA"
+   ]
+  }
+ ],
+ "85142": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "KUPANG",
+   "c": "MAULAFA",
+   "d": [
+    "NAIKOLAN",
+    "OEPURA"
+   ]
+  }
+ ],
+ "85143": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "KUPANG",
+   "c": "MAULAFA",
+   "d": [
+    "SIKUMANA"
+   ]
+  }
+ ],
+ "85144": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "KUPANG",
+   "c": "MAULAFA",
+   "d": [
+    "FATUKOA"
+   ]
+  }
+ ],
+ "85145": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "KUPANG",
+   "c": "MAULAFA",
+   "d": [
+    "BELLO"
+   ]
+  }
+ ],
+ "85146": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "KUPANG",
+   "c": "MAULAFA",
+   "d": [
+    "KOLHUA"
+   ]
+  }
+ ],
+ "85147": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "KUPANG",
+   "c": "MAULAFA",
+   "d": [
+    "NAIMATA"
+   ]
+  }
+ ],
+ "85148": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "KUPANG",
+   "c": "MAULAFA",
+   "d": [
+    "PENFUI"
+   ]
+  }
+ ],
+ "85211": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "KUPANG",
+   "c": "KELAPA LIMA",
+   "d": [
+    "KELAPA LIMA"
+   ]
+  }
+ ],
+ "85212": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "KUPANG",
+   "c": "KELAPA LIMA",
+   "d": [
+    "OESAPA BARAT"
+   ]
+  }
+ ],
+ "85213": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "KUPANG",
+   "c": "KELAPA LIMA",
+   "d": [
+    "OESAPA SELATAN"
+   ]
+  }
+ ],
+ "85214": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "KUPANG",
+   "c": "KELAPA LIMA",
+   "d": [
+    "OESAPA"
+   ]
+  }
+ ],
+ "85215": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "KUPANG",
+   "c": "KELAPA LIMA",
+   "d": [
+    "LASIANA"
+   ]
+  }
+ ],
+ "85221": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "KUPANG",
+   "c": "KOTA LAMA",
+   "d": [
+    "AIR MATA",
+    "BONIPOI",
+    "LAHILAI BISSI KOPAN"
+   ]
+  }
+ ],
+ "85225": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "KUPANG",
+   "c": "KOTA LAMA",
+   "d": [
+    "MERDEKA"
+   ]
+  }
+ ],
+ "85226": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "KUPANG",
+   "c": "KOTA LAMA",
+   "d": [
+    "FATUBESI",
+    "OEBA"
+   ]
+  }
+ ],
+ "85227": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "KUPANG",
+   "c": "KOTA LAMA",
+   "d": [
+    "NEFONAEK",
+    "PASIR PANJANG"
+   ]
+  }
+ ],
+ "85229": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "KUPANG",
+   "c": "KOTA LAMA",
+   "d": [
+    "SOLOR",
+    "TODEKISAR"
+   ]
+  }
+ ],
+ "85231": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "KUPANG",
+   "c": "ALAK",
+   "d": [
+    "ALAK",
+    "PENKASE-OELETA"
+   ]
+  }
+ ],
+ "85232": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "KUPANG",
+   "c": "ALAK",
+   "d": [
+    "NAMOSAIN"
+   ]
+  }
+ ],
+ "85233": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "KUPANG",
+   "c": "ALAK",
+   "d": [
+    "NUNBAUN DELHA",
+    "NUNBAUN SABU"
+   ]
+  }
+ ],
+ "85234": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "KUPANG",
+   "c": "ALAK",
+   "d": [
+    "FATUFETO",
+    "NUNHILA"
+   ]
+  }
+ ],
+ "85235": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "KUPANG",
+   "c": "ALAK",
+   "d": [
+    "MANTASI"
+   ]
+  }
+ ],
+ "85236": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "KUPANG",
+   "c": "ALAK",
+   "d": [
+    "MANUTAPEN"
+   ]
+  }
+ ],
+ "85237": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "KUPANG",
+   "c": "ALAK",
+   "d": [
+    "BATUPLAT"
+   ]
+  }
+ ],
+ "85238": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "KUPANG",
+   "c": "ALAK",
+   "d": [
+    "MANULAI II"
+   ]
+  }
+ ],
+ "85239": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "KUPANG",
+   "c": "ALAK",
+   "d": [
+    "NAIONI"
+   ]
+  }
+ ],
+ "85331": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "KUPANG",
+   "c": "NEKAMESE",
+   "d": [
+    "BONE",
+    "OBEN",
+    "OEMASI",
+    "OENIF",
+    "OEPAHA",
+    "TALOETAN",
+    "TASIKONA",
+    "TUNFEU",
+    "USAPISONBAI"
+   ]
+  }
+ ],
+ "85332": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "KUPANG",
+   "c": "TAEBENU",
+   "d": [
+    "BAUMATA",
+    "BAUMATA BARAT",
+    "BAUMATA TIMUR",
+    "BAUMATA UTARA",
+    "BOKONG",
+    "KUAKLALO",
+    "OELETSALA",
+    "OELTUA"
+   ]
+  }
+ ],
+ "85333": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "KUPANG",
+   "c": "AMARASI SELATAN",
+   "d": [
+    "BURAEN",
+    "NEKMESE",
+    "RETRAEN",
+    "SAHRAEN",
+    "SONRAEN"
+   ]
+  }
+ ],
+ "85334": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "KUPANG",
+   "c": "AMARASI TIMUR",
+   "d": [
+    "ENORAEN",
+    "OEBESI",
+    "PAKUBAUN",
+    "RABEKA"
+   ]
+  }
+ ],
+ "85335": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "KUPANG",
+   "c": "AMABI OEFETO TIMUR",
+   "d": [
+    "ENOLANAN",
+    "MUKE",
+    "NUNMAFO",
+    "OEMOFA",
+    "OEMOLO",
+    "OENAUNU",
+    "OENIKO",
+    "OENUNUTONO",
+    "PATHAU",
+    "SEKI"
+   ]
+  }
+ ],
+ "85336": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "KUPANG",
+   "c": "AMABI OEFETO",
+   "d": [
+    "FATUKNUTU",
+    "FATUTETA",
+    "KAIRANE",
+    "KUANHEUM",
+    "NIUNBAUN",
+    "OEFETO",
+    "RAKNAMO"
+   ]
+  }
+ ],
+ "85341": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "KUPANG",
+   "c": "FATULEU TENGAH",
+   "d": [
+    "NONBAUN",
+    "NUNSAEN",
+    "OELBITENO",
+    "PASSI"
+   ]
+  }
+ ],
+ "85342": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "KUPANG",
+   "c": "FATULEU BARAT",
+   "d": [
+    "KALALI",
+    "NAITAE",
+    "NUATAUS",
+    "POTO",
+    "TUAKAU"
+   ]
+  }
+ ],
+ "85343": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "KUPANG",
+   "c": "AMFOANG BARAT DAYA",
+   "d": [
+    "BIOBA BARUTAEN",
+    "LETKOLE",
+    "MANUBELON",
+    "NEFONEUT"
+   ]
+  }
+ ],
+ "85344": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "KUPANG",
+   "c": "AMFOANG BARAT LAUT",
+   "d": [
+    "FAUMES",
+    "HONUK",
+    "OELFATU",
+    "SAUKIBE",
+    "SOLIU",
+    "TIMAU"
+   ]
+  }
+ ],
+ "85345": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "KUPANG",
+   "c": "AMFOANG TENGAH",
+   "d": [
+    "BINAFUN",
+    "BITOBE",
+    "BONMUTI",
+    "FATUMONAS"
+   ]
+  }
+ ],
+ "85346": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "KUPANG",
+   "c": "AMFOANG TIMUR",
+   "d": [
+    "KIFU",
+    "NETEMNANU",
+    "NETEMNANU SELATAN",
+    "NETEMNANU UTARA",
+    "NUNUANAH"
+   ]
+  }
+ ],
+ "85351": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "KUPANG",
+   "c": "KUPANG BARAT",
+   "d": [
+    "BATAKTE",
+    "BOLOK",
+    "KUANHEUM",
+    "LIFULEO",
+    "MANULAI I",
+    "NITNEO",
+    "OEMAT NUNU",
+    "OENAEK",
+    "OENESU",
+    "SUMLILI",
+    "TABLOLONG",
+    "TESABELA"
+   ]
+  }
+ ],
+ "85353": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "KUPANG",
+   "c": "SEMAU",
+   "d": [
+    "BATUINAN",
+    "BOKONUSAN",
+    "HANSISI",
+    "HUILELOT",
+    "LETBAUN",
+    "OTAN",
+    "UIASA",
+    "UITAO"
+   ]
+  }
+ ],
+ "85354": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "KUPANG",
+   "c": "SEMAU SELATAN",
+   "d": [
+    "AKLE",
+    "NAIKEAN",
+    "ONANSILA",
+    "UITIUH ANA",
+    "UITIUHTUAN"
+   ]
+  }
+ ],
+ "85361": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "KUPANG",
+   "c": "KUPANG TENGAH",
+   "d": [
+    "MATA AIR",
+    "NOELBAKI",
+    "OEBELO",
+    "OELNASI",
+    "OELPUAH",
+    "PENFUI TIMUR",
+    "TANAH MERAH",
+    "TARUS"
+   ]
+  }
+ ],
+ "85362": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "KUPANG",
+   "c": "KUPANG TIMUR",
+   "d": [
+    "BABAU",
+    "MANUSAK",
+    "MERDEKA",
+    "NAIBONAT",
+    "NUNKURUS",
+    "OEFAFI",
+    "OELATIMO",
+    "OESAO",
+    "OESAO II",
+    "PUKDALE",
+    "TANAH PUTIH",
+    "TUAPUKAN",
+    "TUATUKA"
+   ]
+  }
+ ],
+ "85363": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "KUPANG",
+   "c": "FATULEU",
+   "d": [
+    "CAMPLONG I",
+    "CAMPLONG II",
+    "EKATETA",
+    "KIUONI",
+    "KUIMASI",
+    "NAUNU",
+    "OEBOLA",
+    "OEBOLA DALAM",
+    "SILLU",
+    "TOLNAKU"
+   ]
+  }
+ ],
+ "85364": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "KUPANG",
+   "c": "AMFOANG SELATAN",
+   "d": [
+    "FATUMETAN",
+    "FATUSUKI",
+    "LELOBOKO",
+    "LELOGAMA",
+    "OELBANU"
+   ]
+  }
+ ],
+ "85365": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "KUPANG",
+   "c": "AMFOANG UTARA",
+   "d": [
+    "AFOAN",
+    "BAKUIN",
+    "FATUNAUS",
+    "KOLABE",
+    "LILMUS",
+    "NAIKLIU"
+   ]
+  }
+ ],
+ "85366": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "KUPANG",
+   "c": "AMARASI",
+   "d": [
+    "APREN",
+    "KOTABES",
+    "NONBES",
+    "OENONI",
+    "OENONI II",
+    "OESENA",
+    "PONAIN",
+    "TESBATAN",
+    "TESBATAN II"
+   ]
+  }
+ ],
+ "85367": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "KUPANG",
+   "c": "AMARASI BARAT",
+   "d": [
+    "ERBAUN",
+    "MERBAUN",
+    "NEKBAUN",
+    "NIUKBAUN",
+    "SOBA",
+    "TEUNBAUN",
+    "TOOBAUN",
+    "TUNBAUN"
+   ]
+  }
+ ],
+ "85368": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "KUPANG",
+   "c": "SULAMU",
+   "d": [
+    "BIPOLO",
+    "OETETA",
+    "PANTAI BERINGIN",
+    "PANTULAN",
+    "PARITI",
+    "PITAI",
+    "SULAMU"
+   ]
+  }
+ ],
+ "85369": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "KUPANG",
+   "c": "TAKARI",
+   "d": [
+    "BENU",
+    "FATUKONA",
+    "HUEKNUTU",
+    "KAUNIKI",
+    "NOELMINA",
+    "OELNAINENO",
+    "OESUSU",
+    "TAKARI",
+    "TANINI",
+    "TUAPANAF"
+   ]
+  }
+ ],
+ "85391": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "SABU RAIJUA",
+   "c": "SABU BARAT",
+   "d": [
+    "DELO",
+    "DEPE",
+    "LEDEANA",
+    "LEDEKEPAKA",
+    "MEBBA",
+    "MENIA",
+    "NADAWAWI",
+    "RAEDEWA",
+    "RAELORO",
+    "RAEMADIA",
+    "RAEMUDE",
+    "RAENALULU",
+    "RAENYALE",
+    "ROBOABA",
+    "TERIWU",
+    "TITINALEDE"
+   ]
+  }
+ ],
+ "85392": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "SABU RAIJUA",
+   "c": "SABU TIMUR",
+   "d": [
+    "BODAE",
+    "BOLOU",
+    "EIADA",
+    "HUWAGA",
+    "KEDURU",
+    "KELIHA",
+    "KUJIRATU",
+    "LIMAGGU",
+    "LOBODEI",
+    "LOBORAI"
+   ]
+  }
+ ],
+ "85393": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "SABU RAIJUA",
+   "c": "RAIJUA",
+   "d": [
+    "BALLU",
+    "BOLUA",
+    "KOLORAE",
+    "LEDEKE",
+    "LEDEUNU"
+   ]
+  },
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "SABU RAIJUA",
+   "c": "SABU LIAE",
+   "d": [
+    "LEDEKE"
+   ]
+  }
+ ],
+ "85394": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "SABU RAIJUA",
+   "c": "SABU TENGAH",
+   "d": [
+    "BEBAE",
+    "EILODE",
+    "EIMAU",
+    "EIMMADAKE",
+    "JIWUWU",
+    "LOBOAJU",
+    "MATEI",
+    "TADA"
+   ]
+  }
+ ],
+ "85395": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "SABU RAIJUA",
+   "c": "RAIJUA",
+   "d": [
+    "LEDEKE"
+   ]
+  },
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "SABU RAIJUA",
+   "c": "SABU LIAE",
+   "d": [
+    "DAINAO",
+    "DEME",
+    "EIKARE",
+    "EILOGO",
+    "HALAPAJI",
+    "KOTAHAWU",
+    "LEDEKE",
+    "LEDETALO",
+    "LOBORUI",
+    "MEHONA",
+    "RAEROBO",
+    "WADUWALA"
+   ]
+  }
+ ],
+ "85396": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "SABU RAIJUA",
+   "c": "HAWU MEHARA",
+   "d": [
+    "DAIEKO",
+    "GURIMONEARU",
+    "LEDEAE",
+    "LEDERAGA",
+    "LOBOHEDE",
+    "MOLIE",
+    "PEDARRO",
+    "RAMEDUE",
+    "TANAJAWA",
+    "WADUMEDDI"
+   ]
+  }
+ ],
+ "85511": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "TIMOR TENGAH SELATAN",
+   "c": "KOTA SOE",
+   "d": [
+    "TAUBNENO"
+   ]
+  }
+ ],
+ "85513": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "TIMOR TENGAH SELATAN",
+   "c": "KOTA SOE",
+   "d": [
+    "OEBESA"
+   ]
+  }
+ ],
+ "85515": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "TIMOR TENGAH SELATAN",
+   "c": "KOTA SOE",
+   "d": [
+    "KOBEKAMUSA"
+   ]
+  }
+ ],
+ "85516": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "TIMOR TENGAH SELATAN",
+   "c": "KOTA SOE",
+   "d": [
+    "NUNUMEU"
+   ]
+  }
+ ],
+ "85517": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "TIMOR TENGAH SELATAN",
+   "c": "KOTA SOE",
+   "d": [
+    "NONOHONIS"
+   ]
+  }
+ ],
+ "85518": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "TIMOR TENGAH SELATAN",
+   "c": "KOTA SOE",
+   "d": [
+    "KARANG SIRI"
+   ]
+  }
+ ],
+ "85519": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "TIMOR TENGAH SELATAN",
+   "c": "KOTA SOE",
+   "d": [
+    "CENDANA",
+    "KAMPUNG BARU",
+    "KOTA BARU",
+    "KUATAE",
+    "NOEMETO",
+    "OEKEFAN"
+   ]
+  }
+ ],
+ "85551": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "TIMOR TENGAH SELATAN",
+   "c": "AMANUBAN BARAT",
+   "d": [
+    "HAUMENIBAKI",
+    "MNELALETE",
+    "NULLE",
+    "NUSA",
+    "PUSU",
+    "TUBUHUE"
+   ]
+  }
+ ],
+ "85552": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "TIMOR TENGAH SELATAN",
+   "c": "MOLLO UTARA",
+   "d": [
+    "AJAOBAKI",
+    "BIJAEPUNU",
+    "BOSEN",
+    "EON BESI",
+    "FATUKOTO",
+    "HALME",
+    "LELOBATAN",
+    "LELOBOKO",
+    "NEFOKOKO",
+    "NETPALA",
+    "SEBOT",
+    "TUNUA"
+   ]
+  }
+ ],
+ "85553": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "TIMOR TENGAH SELATAN",
+   "c": "KUATNANA",
+   "d": [
+    "ENONEONTES",
+    "LAKAT",
+    "NAUKAE",
+    "SUPUL",
+    "TETAF",
+    "TUBMONAS"
+   ]
+  }
+ ],
+ "85554": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "TIMOR TENGAH SELATAN",
+   "c": "OENINO",
+   "d": [
+    "ABI",
+    "HOI",
+    "NEKE",
+    "NIKI NIKI UN",
+    "NOE NONI",
+    "OENINO",
+    "PENE UTARA"
+   ]
+  }
+ ],
+ "85555": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "TIMOR TENGAH SELATAN",
+   "c": "POLEN",
+   "d": [
+    "BALU",
+    "BIJELI",
+    "FATUMNUTU",
+    "KONBAKI",
+    "LAOB",
+    "LOLI",
+    "MNESATBUBAK",
+    "OELNUNUH",
+    "PUNA",
+    "USAPIMNASI"
+   ]
+  }
+ ],
+ "85556": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "TIMOR TENGAH SELATAN",
+   "c": "TOBU",
+   "d": [
+    "BONLEU",
+    "TOBU",
+    "TUNE",
+    "TUTEM"
+   ]
+  }
+ ],
+ "85557": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "TIMOR TENGAH SELATAN",
+   "c": "FATUMNASI",
+   "d": [
+    "FATUMNASI",
+    "KUANOEL",
+    "NENAS",
+    "NUAPIN"
+   ]
+  }
+ ],
+ "85558": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "TIMOR TENGAH SELATAN",
+   "c": "NUNBENA",
+   "d": [
+    "NOEBESI",
+    "NUNBENA",
+    "TANEOTOP"
+   ]
+  }
+ ],
+ "85561": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "TIMOR TENGAH SELATAN",
+   "c": "MOLLO SELATAN",
+   "d": [
+    "BIKEKNENO",
+    "BILOTO",
+    "BISENE",
+    "KESETNANA",
+    "KLANI/NOINBILA",
+    "OINLASI",
+    "TUASENE"
+   ]
+  }
+ ],
+ "85562": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "TIMOR TENGAH SELATAN",
+   "c": "AMANUBAN SELATAN",
+   "d": [
+    "BATNUN",
+    "BENA",
+    "ENO NETTEN",
+    "KIUBAAT",
+    "LINAMNUTU",
+    "MIO",
+    "NOEMUKE",
+    "OEBELO",
+    "OEKIU",
+    "POLLO"
+   ]
+  }
+ ],
+ "85563": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "TIMOR TENGAH SELATAN",
+   "c": "KUAN FATU",
+   "d": [
+    "BASMUTI",
+    "KAKAN",
+    "KELLE",
+    "KUANFATU",
+    "KUSI",
+    "LASI",
+    "OLAIS"
+   ]
+  }
+ ],
+ "85564": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "TIMOR TENGAH SELATAN",
+   "c": "KUALIN",
+   "d": [
+    "KIUFATU",
+    "KUALIN",
+    "NUNUSUNU",
+    "ONI",
+    "TOINEKE",
+    "TUAFANU",
+    "TUAPAKAS"
+   ]
+  }
+ ],
+ "85565": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "TIMOR TENGAH SELATAN",
+   "c": "NOEBEBA",
+   "d": [
+    "FATUTNANA",
+    "NAIP",
+    "OEBAKI",
+    "OEPLIKI",
+    "TEAS"
+   ]
+  }
+ ],
+ "85566": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "TIMOR TENGAH SELATAN",
+   "c": "BATU PUTIH",
+   "d": [
+    "BENLUTU",
+    "BOENTUKA",
+    "HANE",
+    "OEBOBO",
+    "TUAKOLE",
+    "TUPPAN"
+   ]
+  },
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "TIMOR TENGAH SELATAN",
+   "c": "KUAN FATU",
+   "d": [
+    "OEBO"
+   ]
+  }
+ ],
+ "85567": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "TIMOR TENGAH SELATAN",
+   "c": "MOLLO BARAT",
+   "d": [
+    "BESANA",
+    "FATUKOKO",
+    "KOA",
+    "SALBAIT"
+   ]
+  }
+ ],
+ "85568": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "TIMOR TENGAH SELATAN",
+   "c": "MOLLO TENGAH",
+   "d": [
+    "BINAUS",
+    "KUALEU",
+    "NEKE MANI FETO",
+    "OELBUBUK",
+    "PIKA"
+   ]
+  }
+ ],
+ "85571": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "TIMOR TENGAH SELATAN",
+   "c": "AMANUBAN TENGAH",
+   "d": [
+    "BAKI",
+    "BONE",
+    "MAUNUM NIKI NIKI",
+    "NAKFUNU",
+    "NIKI NIKI",
+    "NOBI NOBI",
+    "NOEBESA",
+    "SOPO",
+    "TAEBESA",
+    "TUMU"
+   ]
+  },
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "TIMOR TENGAH SELATAN",
+   "c": "AMANATUN UTARA",
+   "d": [
+    "TUMU"
+   ]
+  }
+ ],
+ "85572": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "TIMOR TENGAH SELATAN",
+   "c": "AMANUBAN TIMUR",
+   "d": [
+    "BILLA",
+    "MAULEUM",
+    "MNELAANEN",
+    "NIFUKIU",
+    "OELET",
+    "PISAN",
+    "SINI",
+    "TELUK",
+    "TLIU"
+   ]
+  }
+ ],
+ "85573": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "TIMOR TENGAH SELATAN",
+   "c": "AMANATUN SELATAN",
+   "d": [
+    "ANIN",
+    "FAE",
+    "FATULUNU",
+    "FENUN",
+    "KOKOI",
+    "LANU",
+    "NETUTNANA",
+    "NIFULEO",
+    "OINLASI",
+    "SUNU"
+   ]
+  }
+ ],
+ "85574": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "TIMOR TENGAH SELATAN",
+   "c": "AMANUBAN TENGAH",
+   "d": [
+    "TUMU"
+   ]
+  },
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "TIMOR TENGAH SELATAN",
+   "c": "AMANATUN UTARA",
+   "d": [
+    "FATUONI",
+    "LILO",
+    "NASI",
+    "SNOK",
+    "SONO",
+    "TAUANAS",
+    "TUMU"
+   ]
+  }
+ ],
+ "85576": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "TIMOR TENGAH SELATAN",
+   "c": "FAUTMOLO",
+   "d": [
+    "KAENENO",
+    "OELEON",
+    "SILLU"
+   ]
+  }
+ ],
+ "85577": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "TIMOR TENGAH SELATAN",
+   "c": "KOKBAUN",
+   "d": [
+    "KOL OTO",
+    "LOTAS",
+    "NITI",
+    "OBAKI",
+    "SABNALA"
+   ]
+  }
+ ],
+ "85581": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "TIMOR TENGAH SELATAN",
+   "c": "KOLBANO",
+   "d": [
+    "BABUIN",
+    "HAUNOBENAK",
+    "KOLBANO",
+    "NOESIU",
+    "NUNUNAMAT",
+    "OELEU",
+    "OETUKE",
+    "OFU",
+    "PANA",
+    "PENE SELATAN"
+   ]
+  },
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "TIMOR TENGAH SELATAN",
+   "c": "TOIANAS",
+   "d": [
+    "OELEU"
+   ]
+  }
+ ],
+ "85582": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "TIMOR TENGAH SELATAN",
+   "c": "KIE",
+   "d": [
+    "FATU ULAN",
+    "FATUKUSI"
+   ]
+  }
+ ],
+ "85583": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "TIMOR TENGAH SELATAN",
+   "c": "NUNKOLO",
+   "d": [
+    "FAT",
+    "HAUMENI",
+    "NENOAT",
+    "NUNKOLO",
+    "PUTUN",
+    "SAENAM",
+    "SAHAN"
+   ]
+  }
+ ],
+ "85584": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "TIMOR TENGAH SELATAN",
+   "c": "SANTIAN",
+   "d": [
+    "MANUFUI",
+    "NENOTES",
+    "POLI",
+    "SANTIAN"
+   ]
+  }
+ ],
+ "85585": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "TIMOR TENGAH SELATAN",
+   "c": "NOEBANA",
+   "d": [
+    "FATUMNASI",
+    "MELLA",
+    "NOEBANA",
+    "SUNI"
+   ]
+  }
+ ],
+ "85586": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "TIMOR TENGAH SELATAN",
+   "c": "BOKING",
+   "d": [
+    "BAUS",
+    "BOKING",
+    "LEONMENI",
+    "MEUSIN",
+    "NANO",
+    "SABUN"
+   ]
+  }
+ ],
+ "85587": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "TIMOR TENGAH SELATAN",
+   "c": "KOLBANO",
+   "d": [
+    "OELEU"
+   ]
+  },
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "TIMOR TENGAH SELATAN",
+   "c": "TOIANAS",
+   "d": [
+    "BOKONG",
+    "LOBUS",
+    "OELEU",
+    "SKINU",
+    "TOIANAS",
+    "TUATAUM"
+   ]
+  }
+ ],
+ "85588": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "TIMOR TENGAH SELATAN",
+   "c": "FATUKOPA",
+   "d": [
+    "BESNAM",
+    "FATUKOPA",
+    "NUNFUTU",
+    "TAEBONE"
+   ]
+  }
+ ],
+ "85611": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "TIMOR TENGAH UTARA",
+   "c": "KOTA KEFAMENANU",
+   "d": [
+    "KEFAMENANU UTARA"
+   ]
+  }
+ ],
+ "85612": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "TIMOR TENGAH UTARA",
+   "c": "KOTA KEFAMENANU",
+   "d": [
+    "KEFAMENANU TENGAH"
+   ]
+  }
+ ],
+ "85613": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "TIMOR TENGAH UTARA",
+   "c": "KOTA KEFAMENANU",
+   "d": [
+    "KEFAMENANU SELATAN"
+   ]
+  }
+ ],
+ "85614": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "TIMOR TENGAH UTARA",
+   "c": "KOTA KEFAMENANU",
+   "d": [
+    "APLASI"
+   ]
+  }
+ ],
+ "85615": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "TIMOR TENGAH UTARA",
+   "c": "KOTA KEFAMENANU",
+   "d": [
+    "BANSONE"
+   ]
+  }
+ ],
+ "85616": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "TIMOR TENGAH UTARA",
+   "c": "KOTA KEFAMENANU",
+   "d": [
+    "SASI"
+   ]
+  }
+ ],
+ "85617": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "TIMOR TENGAH UTARA",
+   "c": "KOTA KEFAMENANU",
+   "d": [
+    "TUBUHUE"
+   ]
+  }
+ ],
+ "85618": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "TIMOR TENGAH UTARA",
+   "c": "KOTA KEFAMENANU",
+   "d": [
+    "MAUBELI"
+   ]
+  }
+ ],
+ "85619": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "TIMOR TENGAH UTARA",
+   "c": "KOTA KEFAMENANU",
+   "d": [
+    "BENPASI"
+   ]
+  }
+ ],
+ "85621": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "TIMOR TENGAH UTARA",
+   "c": "BIKOMI UTARA",
+   "d": [
+    "NAPAN"
+   ]
+  }
+ ],
+ "85622": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "TIMOR TENGAH UTARA",
+   "c": "BIKOMI UTARA",
+   "d": [
+    "HAUMENI",
+    "SAINONI"
+   ]
+  }
+ ],
+ "85623": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "TIMOR TENGAH UTARA",
+   "c": "BIKOMI UTARA",
+   "d": [
+    "BANAIN",
+    "BANAIN B"
+   ]
+  }
+ ],
+ "85624": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "TIMOR TENGAH UTARA",
+   "c": "BIKOMI UTARA",
+   "d": [
+    "BANAIN",
+    "BANAIN C",
+    "FAENNAKE"
+   ]
+  }
+ ],
+ "85625": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "TIMOR TENGAH UTARA",
+   "c": "BIKOMI UTARA",
+   "d": [
+    "BAAS",
+    "TES"
+   ]
+  }
+ ],
+ "85626": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "TIMOR TENGAH UTARA",
+   "c": "NAIBENU",
+   "d": [
+    "MANAMAS"
+   ]
+  }
+ ],
+ "85627": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "TIMOR TENGAH UTARA",
+   "c": "NAIBENU",
+   "d": [
+    "BENUS"
+   ]
+  }
+ ],
+ "85628": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "TIMOR TENGAH UTARA",
+   "c": "NAIBENU",
+   "d": [
+    "SUNSEA"
+   ]
+  }
+ ],
+ "85629": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "TIMOR TENGAH UTARA",
+   "c": "NAIBENU",
+   "d": [
+    "BAKITOLAS"
+   ]
+  }
+ ],
+ "85631": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "TIMOR TENGAH UTARA",
+   "c": "BIKOMI TENGAH",
+   "d": [
+    "OENINO"
+   ]
+  }
+ ],
+ "85633": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "TIMOR TENGAH UTARA",
+   "c": "BIKOMI TENGAH",
+   "d": [
+    "OENENU"
+   ]
+  }
+ ],
+ "85634": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "TIMOR TENGAH UTARA",
+   "c": "BIKOMI TENGAH",
+   "d": [
+    "BUK",
+    "OELBONAK"
+   ]
+  }
+ ],
+ "85635": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "TIMOR TENGAH UTARA",
+   "c": "BIKOMI TENGAH",
+   "d": [
+    "OENENU SELATAN",
+    "OENENU UTARA"
+   ]
+  }
+ ],
+ "85636": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "TIMOR TENGAH UTARA",
+   "c": "BIKOMI NILULAT",
+   "d": [
+    "SUNKAEN"
+   ]
+  }
+ ],
+ "85637": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "TIMOR TENGAH UTARA",
+   "c": "BIKOMI NILULAT",
+   "d": [
+    "INBATE",
+    "NAINABAN"
+   ]
+  }
+ ],
+ "85638": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "TIMOR TENGAH UTARA",
+   "c": "BIKOMI NILULAT",
+   "d": [
+    "NILULAT"
+   ]
+  }
+ ],
+ "85639": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "TIMOR TENGAH UTARA",
+   "c": "BIKOMI NILULAT",
+   "d": [
+    "TUBU"
+   ]
+  }
+ ],
+ "85641": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "TIMOR TENGAH UTARA",
+   "c": "MUSI",
+   "d": [
+    "OEOLO"
+   ]
+  }
+ ],
+ "85642": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "TIMOR TENGAH UTARA",
+   "c": "MUSI",
+   "d": [
+    "OELNEKE",
+    "OETULU"
+   ]
+  }
+ ],
+ "85643": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "TIMOR TENGAH UTARA",
+   "c": "MUSI",
+   "d": [
+    "AINAN"
+   ]
+  }
+ ],
+ "85644": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "TIMOR TENGAH UTARA",
+   "c": "MUSI",
+   "d": [
+    "BATNES"
+   ]
+  }
+ ],
+ "85645": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "TIMOR TENGAH UTARA",
+   "c": "MUSI",
+   "d": [
+    "BISAFE"
+   ]
+  }
+ ],
+ "85648": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "TIMOR TENGAH UTARA",
+   "c": "MUTIS",
+   "d": [
+    "TASINIFU"
+   ]
+  }
+ ],
+ "85649": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "TIMOR TENGAH UTARA",
+   "c": "MUTIS",
+   "d": [
+    "NOELELO"
+   ]
+  }
+ ],
+ "85651": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "TIMOR TENGAH UTARA",
+   "c": "MIOMAFFO TIMUR",
+   "d": [
+    "AMOL",
+    "BITEFA",
+    "BOKON",
+    "FATUSENE",
+    "FEMNASI",
+    "JAK",
+    "KAENBAUN",
+    "OESENA",
+    "TAEKAS",
+    "TUNOE",
+    "TUNTUN"
+   ]
+  },
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "TIMOR TENGAH UTARA",
+   "c": "INSANA",
+   "d": [
+    "FATUANA"
+   ]
+  }
+ ],
+ "85652": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "TIMOR TENGAH UTARA",
+   "c": "BIKOMI SELATAN",
+   "d": [
+    "KIUSILI",
+    "MAURISU",
+    "MAURISU SELATAN",
+    "MAURISU UTARA",
+    "OELAMI",
+    "OETALUS",
+    "TUBLOPO"
+   ]
+  }
+ ],
+ "85661": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "TIMOR TENGAH UTARA",
+   "c": "MIOMAFFO BARAT",
+   "d": [
+    "EBAN",
+    "FATUNENO",
+    "FATUNISUAN",
+    "FATUTASU",
+    "HAULASI",
+    "LEMON",
+    "MANUSASI",
+    "NOELTOKO",
+    "NOEPESU",
+    "SAENAM",
+    "SALLU",
+    "SUANAE"
+   ]
+  },
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "TIMOR TENGAH UTARA",
+   "c": "INSANA",
+   "d": [
+    "FATUANA"
+   ]
+  }
+ ],
+ "85662": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "TIMOR TENGAH UTARA",
+   "c": "MIOMAFFO TENGAH",
+   "d": [
+    "AKOMI",
+    "BIJAEPASU",
+    "NIAN",
+    "TUABATAN",
+    "TUABATAN BARAT"
+   ]
+  }
+ ],
+ "85663": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "TIMOR TENGAH UTARA",
+   "c": "NOEMUTI",
+   "d": [
+    "BANFANU",
+    "BIJELI",
+    "FATUMUTI",
+    "KIUOLA",
+    "NIBAAF",
+    "NIFUBOKE",
+    "NOEBAUN",
+    "NOEMUTI",
+    "OENAK",
+    "OEPERIGI",
+    "POPNAM",
+    "S E O"
+   ]
+  }
+ ],
+ "85664": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "TIMOR TENGAH UTARA",
+   "c": "NOEMUTI TIMUR",
+   "d": [
+    "HAEKTO",
+    "KUAKEN",
+    "MANIKIN",
+    "NAOB"
+   ]
+  }
+ ],
+ "85671": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "TIMOR TENGAH UTARA",
+   "c": "INSANA",
+   "d": [
+    "AINIUT",
+    "FATOIN",
+    "KEUN",
+    "LOERAM",
+    "MANUNAIN  A",
+    "MANUNAIN  B",
+    "NUNMAFO",
+    "SEKON",
+    "SUSULAKU",
+    "SUSULAKU B",
+    "TAPENPAH"
+   ]
+  }
+ ],
+ "85672": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "TIMOR TENGAH UTARA",
+   "c": "INSANA UTARA",
+   "d": [
+    "FATUMTASA",
+    "HUMUSU C",
+    "OESOKO"
+   ]
+  }
+ ],
+ "85673": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "TIMOR TENGAH UTARA",
+   "c": "INSANA BARAT",
+   "d": [
+    "ATMEN",
+    "BANAE",
+    "LAPEOM",
+    "LETNEO",
+    "SUBUN",
+    "USAPINONOT"
+   ]
+  }
+ ],
+ "85674": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "TIMOR TENGAH UTARA",
+   "c": "INSANA FAFINESU",
+   "d": [
+    "FAFINESU",
+    "FAFINESU A",
+    "FAFINESU B",
+    "FAFINESU C",
+    "OENAIN"
+   ]
+  }
+ ],
+ "85675": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "TIMOR TENGAH UTARA",
+   "c": "INSANA TENGAH",
+   "d": [
+    "LANAUS",
+    "LETMAFO",
+    "MAUBESI",
+    "SONE",
+    "TAINSALA"
+   ]
+  }
+ ],
+ "85681": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "TIMOR TENGAH UTARA",
+   "c": "BIBOKI SELATAN",
+   "d": [
+    "OENAEM",
+    "PANTAE",
+    "SAINIUP",
+    "SUPUN",
+    "TAUTPAH",
+    "TOKBESI",
+    "TUNBAEN",
+    "UPFAON"
+   ]
+  }
+ ],
+ "85682": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "TIMOR TENGAH UTARA",
+   "c": "BIBOKI UTARA",
+   "d": [
+    "BILOE",
+    "BORONUBAEN",
+    "BORONUBAEN TIMUR",
+    "LOKOMEA",
+    "SAPAEN",
+    "TAUNBAEN",
+    "TAUNBAEN TIMUR",
+    "TUALENE"
+   ]
+  }
+ ],
+ "85683": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "TIMOR TENGAH UTARA",
+   "c": "BIBOKI ANLEU",
+   "d": [
+    "KOTAFOUN",
+    "MAUKABATAN",
+    "MOTADIK",
+    "NIFUTASI",
+    "NONATBATAN",
+    "OEMANU",
+    "PONU",
+    "SIFANIHA",
+    "TUAMESE"
+   ]
+  }
+ ],
+ "85684": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "TIMOR TENGAH UTARA",
+   "c": "BIBOKI FEOTLEU",
+   "d": [
+    "BIRUNATUN",
+    "KULUAN",
+    "MAKUN",
+    "MANUMEAN",
+    "NAKU"
+   ]
+  }
+ ],
+ "85685": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "TIMOR TENGAH UTARA",
+   "c": "BIBOKI MOENLEU",
+   "d": [
+    "KAUBELE",
+    "LUNIUP",
+    "MATABESI",
+    "OEPUAH",
+    "OEPUAH SELATAN",
+    "OEPUAH UTARA",
+    "TUNBES"
+   ]
+  }
+ ],
+ "85686": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "TIMOR TENGAH UTARA",
+   "c": "BIBOKI TANPAH",
+   "d": [
+    "OEKOPA",
+    "OERINBESI"
+   ]
+  }
+ ],
+ "85711": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "BELU",
+   "c": "ATAMBUA",
+   "d": [
+    "ATAMBUA"
+   ]
+  }
+ ],
+ "85712": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "BELU",
+   "c": "ATAMBUA",
+   "d": [
+    "FATUBENAO",
+    "MANUMUTIN",
+    "TENUKIIK"
+   ]
+  }
+ ],
+ "85713": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "BELU",
+   "c": "ATAMBUA BARAT",
+   "d": [
+    "UMANEN"
+   ]
+  }
+ ],
+ "85714": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "BELU",
+   "c": "ATAMBUA BARAT",
+   "d": [
+    "TULAMALAE"
+   ]
+  }
+ ],
+ "85715": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "BELU",
+   "c": "ATAMBUA BARAT",
+   "d": [
+    "BEIRAFU"
+   ]
+  }
+ ],
+ "85716": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "BELU",
+   "c": "ATAMBUA SELATAN",
+   "d": [
+    "LIDAK",
+    "RINBESI"
+   ]
+  }
+ ],
+ "85717": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "BELU",
+   "c": "ATAMBUA SELATAN",
+   "d": [
+    "FATUKBOT",
+    "MANUAMAN"
+   ]
+  }
+ ],
+ "85725": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "BELU",
+   "c": "LASIOLAT",
+   "d": [
+    "BAUDAOK",
+    "FATULOTU",
+    "LASIOLAT",
+    "MANEIKUN"
+   ]
+  }
+ ],
+ "85726": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "BELU",
+   "c": "LASIOLAT",
+   "d": [
+    "DUALASI",
+    "LAKANMAU"
+   ]
+  }
+ ],
+ "85727": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "BELU",
+   "c": "RAIHAT",
+   "d": [
+    "ASUMANU",
+    "TOHE"
+   ]
+  }
+ ],
+ "85728": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "BELU",
+   "c": "RAIHAT",
+   "d": [
+    "MAUMUTIN",
+    "TOHE LETEN"
+   ]
+  }
+ ],
+ "85729": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "BELU",
+   "c": "RAIHAT",
+   "d": [
+    "AITOUN",
+    "RAIFATUS"
+   ]
+  }
+ ],
+ "85731": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "BELU",
+   "c": "LAMAKNEN",
+   "d": [
+    "DIRUN",
+    "MAUDEMU"
+   ]
+  }
+ ],
+ "85732": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "BELU",
+   "c": "LAMAKNEN",
+   "d": [
+    "DUARATO",
+    "LEOWALU"
+   ]
+  }
+ ],
+ "85733": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "BELU",
+   "c": "LAMAKNEN",
+   "d": [
+    "FULUR",
+    "KEWAR"
+   ]
+  }
+ ],
+ "85734": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "BELU",
+   "c": "LAMAKNEN",
+   "d": [
+    "LAMAK SENULU",
+    "MAHUITAS",
+    "MAKIR"
+   ]
+  }
+ ],
+ "85736": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "BELU",
+   "c": "LAMAKNEN SELATAN",
+   "d": [
+    "HENES",
+    "LAKMARAS"
+   ]
+  }
+ ],
+ "85737": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "BELU",
+   "c": "LAMAKNEN SELATAN",
+   "d": [
+    "EKIN",
+    "NUALAIN"
+   ]
+  }
+ ],
+ "85738": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "BELU",
+   "c": "LAMAKNEN SELATAN",
+   "d": [
+    "LOONUNA"
+   ]
+  }
+ ],
+ "85739": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "BELU",
+   "c": "LAMAKNEN SELATAN",
+   "d": [
+    "DEBULULIK",
+    "SISI FATUBERAL"
+   ]
+  }
+ ],
+ "85741": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "MALAKA",
+   "c": "KOBALIMA TIMUR",
+   "d": [
+    "ALAS UTARA"
+   ]
+  }
+ ],
+ "85743": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "MALAKA",
+   "c": "KOBALIMA TIMUR",
+   "d": [
+    "ALAS"
+   ]
+  }
+ ],
+ "85744": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "MALAKA",
+   "c": "KOBALIMA TIMUR",
+   "d": [
+    "ALAS SELATAN"
+   ]
+  }
+ ],
+ "85746": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "BELU",
+   "c": "TASIFETO BARAT",
+   "d": [
+    "LAWALUTOLUS"
+   ]
+  },
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "BELU",
+   "c": "NANAET DUBESI",
+   "d": [
+    "NANAET"
+   ]
+  }
+ ],
+ "85748": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "BELU",
+   "c": "NANAET DUBESI",
+   "d": [
+    "NANAENOE"
+   ]
+  }
+ ],
+ "85749": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "BELU",
+   "c": "NANAET DUBESI",
+   "d": [
+    "FOHOEKA"
+   ]
+  }
+ ],
+ "85751": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "BELU",
+   "c": "TASIFETO BARAT",
+   "d": [
+    "BAKUSTULAMA",
+    "DEROK FATURENE",
+    "LOOKEU",
+    "NAEKASA",
+    "NAITIMU",
+    "RINBESIHAT",
+    "TUKUNENO"
+   ]
+  }
+ ],
+ "85752": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "BELU",
+   "c": "KAKULUK MESAK",
+   "d": [
+    "DUALAUS",
+    "FATUKETY",
+    "JENILU",
+    "KABUNA",
+    "KENEBIBI",
+    "LEOSAMA"
+   ]
+  }
+ ],
+ "85755": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "BELU",
+   "c": "RAI MANUK",
+   "d": [
+    "DUAKORAN",
+    "FATURIKA",
+    "LEUNTOLU",
+    "MANDEU",
+    "RAFAE",
+    "RENRUA",
+    "TASAIN",
+    "TEUN"
+   ]
+  }
+ ],
+ "85761": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "MALAKA",
+   "c": "MALAKA TIMUR",
+   "d": [
+    "DIRMA",
+    "KUSA",
+    "NUMPONI",
+    "RAIULUN",
+    "SANLEO",
+    "WEMEDA"
+   ]
+  }
+ ],
+ "85762": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "MALAKA",
+   "c": "MALAKA TENGAH",
+   "d": [
+    "BAKIRUK",
+    "BARADA",
+    "BARENE",
+    "BERELIKU",
+    "FAHILUKA",
+    "KAKANIUK",
+    "KAMANASA",
+    "KATERI",
+    "KLETEK",
+    "LAWALU",
+    "NAIMANA",
+    "SUAI",
+    "UMAKATAHAN",
+    "UMANENLAWALU",
+    "UPT HAREKAKAE",
+    "WEHALI"
+   ]
+  }
+ ],
+ "85763": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "MALAKA",
+   "c": "MALAKA BARAT",
+   "d": [
+    "BESIKAMA",
+    "FAFOE",
+    "LASAEN",
+    "LOOFOUN",
+    "MAKTIHAN",
+    "MOTAAIN",
+    "MOTAULUN",
+    "NAAS",
+    "OAN MANE",
+    "RABASA",
+    "RABASA HAERAIN",
+    "RABASAHAIN",
+    "RAIMATAUS",
+    "SIKUN",
+    "UMALOR",
+    "UMATOOS"
+   ]
+  }
+ ],
+ "85764": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "MALAKA",
+   "c": "RINHAT",
+   "d": [
+    "ALALA",
+    "B O E N",
+    "BIUDUKFOHO",
+    "LOTAS",
+    "MUKE",
+    "N A E  T",
+    "NABUTAEK",
+    "NAIUSU",
+    "NANEBOT",
+    "NANIN",
+    "NITI",
+    "RAISAMANE",
+    "SAENAMA",
+    "TAFULI",
+    "TAFULI I",
+    "WEAIN",
+    "WEBETUN",
+    "WEKEKE",
+    "WEKMIDAR"
+   ]
+  }
+ ],
+ "85765": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "MALAKA",
+   "c": "SASITA MEAN",
+   "d": [
+    "AS MANULEA",
+    "BEANENO",
+    "BUILARAN",
+    "FATUARUIN",
+    "MANULEA",
+    "MANUMUTIN SILOLE",
+    "NAIBONE",
+    "NAISAU",
+    "UMUTNANA"
+   ]
+  }
+ ],
+ "85766": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "MALAKA",
+   "c": "KOBALIMA",
+   "d": [
+    "BABULU",
+    "BABULU SELATAN",
+    "LAKEKUN",
+    "LAKEKUN BARAT",
+    "LAKEKUN UTARA",
+    "LITAMALI",
+    "RAINAWE",
+    "S I S I"
+   ]
+  }
+ ],
+ "85768": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "MALAKA",
+   "c": "WELIMAN",
+   "d": [
+    "ANGKAES",
+    "FOREKMODOK",
+    "HAITIMUK",
+    "KLESELEON",
+    "LAKULO",
+    "LALETEN",
+    "LAMUDUR",
+    "LEUNKLOT",
+    "TAABA",
+    "UMALAWAIN",
+    "WEDEROK",
+    "WESEY"
+   ]
+  }
+ ],
+ "85769": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "MALAKA",
+   "c": "WEWIKU",
+   "d": [
+    "ALKANI",
+    "BADARAI",
+    "BIRIS",
+    "HALIBASAR",
+    "LAMEA",
+    "LOROTOLUS",
+    "RABASA BIRIS",
+    "SESERAI",
+    "WEBRIAMATA",
+    "WEOE",
+    "WESEBEN",
+    "WEULUN"
+   ]
+  }
+ ],
+ "85782": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "MALAKA",
+   "c": "IO KUFEU",
+   "d": [
+    "BANI BANI",
+    "BIAU",
+    "FATOIN",
+    "IKAN TUNABEIS",
+    "KUFEU",
+    "TUNABESI",
+    "TUNMAT"
+   ]
+  }
+ ],
+ "85811": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "ALOR",
+   "c": "TELUK MUTIARA",
+   "d": [
+    "KALABAHI TIMUR"
+   ]
+  }
+ ],
+ "85812": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "ALOR",
+   "c": "TELUK MUTIARA",
+   "d": [
+    "KALABAHI TENGAH"
+   ]
+  }
+ ],
+ "85813": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "ALOR",
+   "c": "TELUK MUTIARA",
+   "d": [
+    "KALABAHI KOTA"
+   ]
+  }
+ ],
+ "85814": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "ALOR",
+   "c": "TELUK MUTIARA",
+   "d": [
+    "KALABAHI BARAT"
+   ]
+  }
+ ],
+ "85815": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "ALOR",
+   "c": "TELUK MUTIARA",
+   "d": [
+    "BINONGKO"
+   ]
+  }
+ ],
+ "85816": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "ALOR",
+   "c": "TELUK MUTIARA",
+   "d": [
+    "WELAI BARAT"
+   ]
+  }
+ ],
+ "85817": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "ALOR",
+   "c": "TELUK MUTIARA",
+   "d": [
+    "WELAI TIMUR"
+   ]
+  }
+ ],
+ "85818": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "ALOR",
+   "c": "TELUK MUTIARA",
+   "d": [
+    "NUSA KENARI"
+   ]
+  }
+ ],
+ "85819": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "ALOR",
+   "c": "TELUK MUTIARA",
+   "d": [
+    "ADANG BUOM",
+    "AIR KENARI",
+    "FANATING",
+    "LENDOLA",
+    "MOTONGBANG",
+    "MUTIARA",
+    "TELUK KENARI",
+    "WETABUA"
+   ]
+  }
+ ],
+ "85851": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "ALOR",
+   "c": "ALOR BARAT LAUT",
+   "d": [
+    "ADANG",
+    "AIMOLI",
+    "ALAANG",
+    "ALILA",
+    "ALILA SELATAN",
+    "ALOR BESAR",
+    "ALOR KECIL",
+    "AMPERA",
+    "BAMPALOLA",
+    "DULOLONG",
+    "DULOLONG BARAT",
+    "HULNANI",
+    "LEFOKISU",
+    "LEWALU",
+    "OTVAI",
+    "PULAU BUAYA",
+    "TERNATE",
+    "TERNATE SELATAN"
+   ]
+  }
+ ],
+ "85852": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "ALOR",
+   "c": "KABOLA",
+   "d": [
+    "ALILA TIMUR",
+    "KABOLA",
+    "KOPIDIL",
+    "LAWAHING",
+    "PANTE DEERA"
+   ]
+  }
+ ],
+ "85853": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "ALOR",
+   "c": "PULAU PURA",
+   "d": [
+    "MARU",
+    "PURA",
+    "PURA BARAT",
+    "PURA SELATAN",
+    "PURA TIMUR",
+    "PURA UTARA"
+   ]
+  }
+ ],
+ "85861": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "ALOR",
+   "c": "ALOR BARAT DAYA",
+   "d": [
+    "HALERMAN",
+    "KAFELULANG",
+    "KUIFANA",
+    "MANATANG",
+    "MARGETA",
+    "MORAMAM",
+    "MORBA",
+    "MORU",
+    "ORGEN",
+    "PAILELANG",
+    "PINTU MAS",
+    "PROBUR",
+    "PROBUR UTARA",
+    "TRIBUR",
+    "WAKAPSIR",
+    "WAKAPSIR TIMUR",
+    "WOLWAL",
+    "WOLWAL BARAT",
+    "WOLWAL SELATAN",
+    "WOLWAL TENGAH"
+   ]
+  }
+ ],
+ "85862": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "ALOR",
+   "c": "MATARU",
+   "d": [
+    "KAMAIFUI",
+    "LAKATULI",
+    "MATARU BARAT",
+    "MATARU SELATAN",
+    "MATARU TIMUR",
+    "MATARU UTARA",
+    "TAMAN MATARU"
+   ]
+  }
+ ],
+ "85871": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "ALOR",
+   "c": "ALOR SELATAN",
+   "d": [
+    "KELAISI BARAT",
+    "KELAISI TENGAH",
+    "KELAISI TIMUR",
+    "KIRAMAN",
+    "KUNEMAN",
+    "LELLA",
+    "MAIKANG",
+    "MALAIPEA",
+    "MANMAS",
+    "PADANG ALANG",
+    "S U B O",
+    "SIDABUI",
+    "SILAIPUI",
+    "TAMANAPUI"
+   ]
+  }
+ ],
+ "85872": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "ALOR",
+   "c": "ALOR TIMUR",
+   "d": [
+    "BELEMANA",
+    "ELOK",
+    "KOLANA SELATAN",
+    "KOLANA UTARA",
+    "MARITAING",
+    "MAUKURU",
+    "MAUSAMANG",
+    "PADANG PANJANG",
+    "TANGLAPUI",
+    "TANGLAPUI TIMUR"
+   ]
+  }
+ ],
+ "85873": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "ALOR",
+   "c": "PUREMAN",
+   "d": [
+    "KAILESA",
+    "LANGKURU",
+    "LANGKURU UTARA",
+    "PURNAMA"
+   ]
+  }
+ ],
+ "85874": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "ALOR",
+   "c": "ALOR TIMUR LAUT",
+   "d": [
+    "AIR MANCUR",
+    "KAMOT",
+    "KENARIMBALA",
+    "LIPPANG",
+    "NAILANG",
+    "PIDO",
+    "TARAMANA",
+    "WAISIKA"
+   ]
+  }
+ ],
+ "85875": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "ALOR",
+   "c": "ALOR TENGAH UTARA",
+   "d": [
+    "ALIM MEBUNG",
+    "DAPITAU",
+    "FUISAMA",
+    "FUNGAFENG",
+    "KAFAKBEKA",
+    "LAKWATI",
+    "LEMBUR BARAT",
+    "LEMBUR TENGAH",
+    "LIKUWATANG",
+    "MANETWATI",
+    "NURBENLELANG",
+    "PETLENG",
+    "TOMINUKU",
+    "WELAI SELATAN"
+   ]
+  }
+ ],
+ "85876": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "ALOR",
+   "c": "LEMBUR",
+   "d": [
+    "LEMBUR TIMUR",
+    "LUBA",
+    "T A S I",
+    "TALWAI",
+    "TULLENG",
+    "WAIMI"
+   ]
+  }
+ ],
+ "85881": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "ALOR",
+   "c": "PANTAR",
+   "d": [
+    "B A N A",
+    "BANDAR",
+    "BAOLANG",
+    "BOUWELI",
+    "BUKITMAS",
+    "HELANDOHI",
+    "KABIR",
+    "MADAR",
+    "MUNASELI",
+    "PANDAI",
+    "WAILAWAR"
+   ]
+  }
+ ],
+ "85882": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "ALOR",
+   "c": "PANTAR BARAT",
+   "d": [
+    "BARALER",
+    "BARANUSA",
+    "BLANG MERANG",
+    "ILLU",
+    "KALONDAMA",
+    "LEER",
+    "PIRING SINA"
+   ]
+  }
+ ],
+ "85884": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "ALOR",
+   "c": "PANTAR TENGAH",
+   "d": [
+    "ARAMABA",
+    "BAGANG",
+    "DELAKI",
+    "EKA JAYA",
+    "MAUTA",
+    "MURIABANG",
+    "TAMAKH",
+    "TOANG",
+    "TUBE",
+    "TUDE"
+   ]
+  }
+ ],
+ "85885": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "ALOR",
+   "c": "PANTAR TIMUR",
+   "d": [
+    "BATU",
+    "BUNGA BALI",
+    "KAERA",
+    "KALEB",
+    "LALAFANG",
+    "LEKOM",
+    "MAWAR",
+    "MERDEKA",
+    "NULE",
+    "OMBAY",
+    "TREWENG"
+   ]
+  }
+ ],
+ "85911": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "ROTE NDAO",
+   "c": "LOBALAIN",
+   "d": [
+    "BAADALE",
+    "BEBALAIN",
+    "HELEBEIK",
+    "HOLOAMA",
+    "KOLOBOLON",
+    "KULI",
+    "METINA",
+    "MOKDALE",
+    "NAMODALE",
+    "OELUNGGU",
+    "OEMATAMBOLI",
+    "SANGGAOEN",
+    "SUELAIN",
+    "TUANATUK"
+   ]
+  }
+ ],
+ "85972": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "ROTE NDAO",
+   "c": "ROTE TENGAH",
+   "d": [
+    "LIDABESI",
+    "LIDAMANU",
+    "LIMAKOLI",
+    "MAUBESI",
+    "NGGODIMEDA",
+    "SUEBELA"
+   ]
+  }
+ ],
+ "85973": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "ROTE NDAO",
+   "c": "PANTAI BARU",
+   "d": [
+    "BATULILOK",
+    "EDALODE",
+    "KEOEN",
+    "LENUPETU",
+    "NUSAKDALE",
+    "OEBAU",
+    "OELEDO",
+    "OLAFULIHAA",
+    "SONIMANU",
+    "TESABELA",
+    "TUNGANAMO"
+   ]
+  }
+ ],
+ "85974": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "ROTE NDAO",
+   "c": "ROTE TIMUR",
+   "d": [
+    "FAIFUA",
+    "HUNDI HOPO",
+    "LAKAMOLA",
+    "LONDALUSI",
+    "MATASIO",
+    "MUKEKUKU",
+    "SERUBEBA"
+   ]
+  }
+ ],
+ "85975": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "ROTE NDAO",
+   "c": "LANDU LEKO",
+   "d": [
+    "BOLATENA",
+    "DAIAMA",
+    "LIFULEO",
+    "PUKUAFU",
+    "SOTIMORI"
+   ]
+  }
+ ],
+ "85981": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "ROTE NDAO",
+   "c": "ROTE BARAT LAUT",
+   "d": [
+    "BONI",
+    "BUSALANGGA",
+    "DAUDOLU",
+    "INGGUINAK",
+    "LIDOR",
+    "MODOSINAL",
+    "NETENAEN",
+    "OEBELA",
+    "OELUA",
+    "OETUTULU",
+    "TEMAS",
+    "TOLAMA"
+   ]
+  }
+ ],
+ "85982": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "ROTE NDAO",
+   "c": "ROTE BARAT DAYA",
+   "d": [
+    "BATUTUA",
+    "DOLASI",
+    "LALUKOEN",
+    "LEKIK",
+    "MBOKAK",
+    "MEOAIN",
+    "OEBAFFOK",
+    "OEBATU",
+    "OEBOU",
+    "OEHANDI",
+    "OELASIN",
+    "OESELI",
+    "OETEFFU"
+   ]
+  }
+ ],
+ "85983": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "ROTE NDAO",
+   "c": "ROTE BARAT",
+   "d": [
+    "MBUEAIN",
+    "NEMBERALA",
+    "OELOLOT",
+    "OENGGAUT",
+    "OENITAS",
+    "SEDEOEN"
+   ]
+  }
+ ],
+ "85984": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "ROTE NDAO",
+   "c": "NDAO NUSE",
+   "d": [
+    "ANARAE",
+    "NUSE"
+   ]
+  }
+ ],
+ "86112": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "SIKKA",
+   "c": "ALOK",
+   "d": [
+    "KABOR",
+    "MADAWAT",
+    "NANGALIMANG"
+   ]
+  }
+ ],
+ "86113": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "SIKKA",
+   "c": "ALOK",
+   "d": [
+    "GUNUNG SARI",
+    "KOTA UNENG",
+    "PEMANA",
+    "SAMPARONG"
+   ]
+  }
+ ],
+ "86114": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "SIKKA",
+   "c": "ALOK BARAT",
+   "d": [
+    "WAILITI",
+    "WOLOMARANG"
+   ]
+  }
+ ],
+ "86115": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "SIKKA",
+   "c": "ALOK BARAT",
+   "d": [
+    "HEWULI",
+    "WURING"
+   ]
+  }
+ ],
+ "86121": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "SIKKA",
+   "c": "ALOK TIMUR",
+   "d": [
+    "BERU",
+    "KOTA BARU",
+    "WAIROTANG"
+   ]
+  }
+ ],
+ "86122": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "SIKKA",
+   "c": "ALOK TIMUR",
+   "d": [
+    "WATUGONG"
+   ]
+  }
+ ],
+ "86123": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "SIKKA",
+   "c": "ALOK TIMUR",
+   "d": [
+    "NANGAMETING",
+    "WAIOTI"
+   ]
+  }
+ ],
+ "86124": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "SIKKA",
+   "c": "ALOK TIMUR",
+   "d": [
+    "LEPOLIMA"
+   ]
+  }
+ ],
+ "86125": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "SIKKA",
+   "c": "ALOK TIMUR",
+   "d": [
+    "KOJADOI",
+    "KOJAGETE"
+   ]
+  }
+ ],
+ "86151": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "SIKKA",
+   "c": "KOTING",
+   "d": [
+    "KOTING A",
+    "KOTING B",
+    "KOTING C",
+    "KOTING D",
+    "PAUBEKOR",
+    "RIBANG"
+   ]
+  }
+ ],
+ "86152": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "SIKKA",
+   "c": "NITA",
+   "d": [
+    "BLORO",
+    "LADOGAHAR",
+    "LUSITADA",
+    "MAHEBORA",
+    "NIRANGKLIUNG",
+    "NITA",
+    "NITAKLOANG",
+    "RIIT",
+    "TAKAPLAGER",
+    "TEBUK",
+    "TILANG",
+    "WULIWUTIK"
+   ]
+  }
+ ],
+ "86153": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "SIKKA",
+   "c": "PAGA",
+   "d": [
+    "LENANDARETA",
+    "MAULOO",
+    "MBENGU",
+    "PAGA",
+    "WOLOREGA",
+    "WOLOWIRO",
+    "WOLOWONA"
+   ]
+  }
+ ],
+ "86154": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "SIKKA",
+   "c": "TANA WAWO",
+   "d": [
+    "BU SELATAN",
+    "BU UTARA",
+    "BU WATUWETI",
+    "DETUBINGA",
+    "LOKE",
+    "POMA",
+    "RENGGARASI",
+    "TUWA"
+   ]
+  }
+ ],
+ "86155": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "SIKKA",
+   "c": "MEGO",
+   "d": [
+    "BHERA",
+    "DOBO",
+    "DOBO NUA PUU",
+    "GERA",
+    "KOROBHERA",
+    "KOWI",
+    "LIAKUTU",
+    "NAPU GERA",
+    "PARABUBU",
+    "WOLODHESA"
+   ]
+  }
+ ],
+ "86156": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "SIKKA",
+   "c": "MAGEPANDA",
+   "d": [
+    "DONE",
+    "KOLISIA",
+    "KOLISIA B",
+    "MAGEPANDA",
+    "REROROJA"
+   ]
+  }
+ ],
+ "86159": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "SIKKA",
+   "c": "NELLE",
+   "d": [
+    "MANUBURA",
+    "NELLE BARAT",
+    "NELLE LORANG",
+    "NELLE URUNG",
+    "NELLE WUTUNG"
+   ]
+  }
+ ],
+ "86161": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "SIKKA",
+   "c": "LELA",
+   "d": [
+    "BAOPAAT",
+    "DU",
+    "HEPANG",
+    "ILIGAI",
+    "KOLIDETUNG",
+    "KOROWUWU",
+    "LELA",
+    "SIKKA",
+    "WATUTEDANG"
+   ]
+  }
+ ],
+ "86171": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "SIKKA",
+   "c": "BOLA",
+   "d": [
+    "BOLA",
+    "HOKOR",
+    "IPIR",
+    "UMAUTA",
+    "WOLOKOLI",
+    "WOLONWALU"
+   ]
+  }
+ ],
+ "86172": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "SIKKA",
+   "c": "DORENG",
+   "d": [
+    "KLOANGPOPOT",
+    "NEN BURA",
+    "WAIHAWA",
+    "WATUMERAK",
+    "WOGALIRIT",
+    "WOLOMOTONG",
+    "WOLONTERANG"
+   ]
+  }
+ ],
+ "86173": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "SIKKA",
+   "c": "MAPITARA",
+   "d": [
+    "EGON GAHAR",
+    "HALE",
+    "HEBING",
+    "NATAKOLI"
+   ]
+  }
+ ],
+ "86181": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "SIKKA",
+   "c": "KEWAPANTE",
+   "d": [
+    "GELITING",
+    "IAN TENA",
+    "KOPONG",
+    "NAMANGKEWA",
+    "SEUSINA",
+    "UMAGERA",
+    "WAIARA",
+    "WAIRKOJA"
+   ]
+  }
+ ],
+ "86182": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "SIKKA",
+   "c": "WAIGETE",
+   "d": [
+    "AIBURA",
+    "EGON",
+    "HODER",
+    "NANGATOBONG",
+    "POGON",
+    "RUNUT",
+    "WAIRBLELER",
+    "WAIRTERANG",
+    "WATUDIRAN"
+   ]
+  }
+ ],
+ "86183": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "SIKKA",
+   "c": "TALIBURA",
+   "d": [
+    "BAANG KOOR",
+    "DARAT GUNUNG",
+    "DARAT PANTAI",
+    "HIKONG",
+    "KRINGA",
+    "LEWOMADA",
+    "NANGAHALE",
+    "NEBE",
+    "OJANG",
+    "TALIBURA",
+    "TIMUTAWA",
+    "WAILAMUNG"
+   ]
+  }
+ ],
+ "86184": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "SIKKA",
+   "c": "WAIBLAMA",
+   "d": [
+    "ILINMEDO",
+    "NATARMAGE",
+    "PRUDA",
+    "TANARAWA",
+    "TUA BAO",
+    "WERANG"
+   ]
+  }
+ ],
+ "86185": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "SIKKA",
+   "c": "KANGAE",
+   "d": [
+    "BLATATATIN",
+    "HABI",
+    "KOKOWAHOR",
+    "LANGIR",
+    "MEKENDETUN",
+    "TANADUEN",
+    "TEKAIKU",
+    "WATULIWUNG",
+    "WATUMILOK"
+   ]
+  }
+ ],
+ "86186": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "SIKKA",
+   "c": "HEWOKLOANG",
+   "d": [
+    "BAOMEKOT",
+    "HEOPUAT",
+    "HEWOKLOANG",
+    "KAJOWAIR",
+    "MUNERANA",
+    "RUBIT",
+    "WOLOMAPA"
+   ]
+  }
+ ],
+ "86191": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "SIKKA",
+   "c": "PALUE",
+   "d": [
+    "KESOKOJA",
+    "LADOLAKA",
+    "LIDI",
+    "MALURIWU",
+    "NITUNGLEA",
+    "RERUWAIRERE",
+    "ROKIROLE",
+    "TUANGGEO"
+   ]
+  }
+ ],
+ "86211": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "FLORES TIMUR",
+   "c": "LARANTUKA",
+   "d": [
+    "LAMAWALANG"
+   ]
+  }
+ ],
+ "86212": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "FLORES TIMUR",
+   "c": "LARANTUKA",
+   "d": [
+    "LEWOLERE",
+    "WAIBALUN"
+   ]
+  }
+ ],
+ "86213": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "FLORES TIMUR",
+   "c": "LARANTUKA",
+   "d": [
+    "LARANTUKA",
+    "PANTAI BESAR"
+   ]
+  }
+ ],
+ "86214": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "FLORES TIMUR",
+   "c": "LARANTUKA",
+   "d": [
+    "BALELA",
+    "POHON SIRIH"
+   ]
+  }
+ ],
+ "86215": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "FLORES TIMUR",
+   "c": "LARANTUKA",
+   "d": [
+    "LOHAYONG",
+    "LOKEA"
+   ]
+  }
+ ],
+ "86216": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "FLORES TIMUR",
+   "c": "LARANTUKA",
+   "d": [
+    "AMAGARAPATI"
+   ]
+  }
+ ],
+ "86217": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "FLORES TIMUR",
+   "c": "LARANTUKA",
+   "d": [
+    "EKASAPTA"
+   ]
+  }
+ ],
+ "86218": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "FLORES TIMUR",
+   "c": "LARANTUKA",
+   "d": [
+    "PUKEN TOBI WANGI BAO"
+   ]
+  }
+ ],
+ "86219": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "FLORES TIMUR",
+   "c": "LARANTUKA",
+   "d": [
+    "MOKANTARAK",
+    "POHON BAO",
+    "POSTOH",
+    "SAROTARI",
+    "SAROTARI TIMUR",
+    "WAIHALI",
+    "WERI"
+   ]
+  }
+ ],
+ "86251": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "FLORES TIMUR",
+   "c": "DEMON PAGONG",
+   "d": [
+    "BAMA",
+    "BLEPANAWA",
+    "KAWALELO",
+    "LAMIKA",
+    "LEWOKLUOK",
+    "LEWOMUDA",
+    "WATOTIKA ILE"
+   ]
+  }
+ ],
+ "86252": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "FLORES TIMUR",
+   "c": "TANJUNG BUNGA",
+   "d": [
+    "ARAN SINA",
+    "BAHINGA",
+    "BANDONA",
+    "GEKENG DERAN",
+    "KOLAKA",
+    "LAMANABI",
+    "LAMATUTU",
+    "LATON LIWO",
+    "LATON LIWO II",
+    "LEWOBUNGA",
+    "NUSANIPA",
+    "PATISIRAWALANG",
+    "RATU LODONG",
+    "SINA HADIGALA",
+    "SINAMALAKA",
+    "WAIBAO"
+   ]
+  }
+ ],
+ "86253": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "FLORES TIMUR",
+   "c": "WULANGGITANG",
+   "d": [
+    "BORU",
+    "BORU KEDANG",
+    "HEWA",
+    "HOKENG JAYA",
+    "KLATANLO",
+    "NAWOKOTE",
+    "NILEKNOHENG",
+    "OJAN DETUN",
+    "PANTAI OA",
+    "PULULERA",
+    "WAIULA"
+   ]
+  }
+ ],
+ "86254": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "FLORES TIMUR",
+   "c": "ILEBURA",
+   "d": [
+    "BIRAWAN",
+    "DULIPALI",
+    "LEWOAWANG",
+    "NOBOKONGA",
+    "NURRI",
+    "RIANG BURA",
+    "RIANG RITA"
+   ]
+  }
+ ],
+ "86255": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "FLORES TIMUR",
+   "c": "TITEHENA",
+   "d": [
+    "ADABANG",
+    "BOKANG WOLOMATANG",
+    "DULI JAYA",
+    "DUN TANA LEWOINGU",
+    "ILE GERONG",
+    "KOBASOMA",
+    "KONGA",
+    "LERABOLENG",
+    "LEWOINGU",
+    "LEWOLAGA",
+    "SERINUHO",
+    "TENAWAHANG",
+    "TUAKEPA",
+    "WATOWARA"
+   ]
+  }
+ ],
+ "86256": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "FLORES TIMUR",
+   "c": "ILE MANDIRI",
+   "d": [
+    "HALAKODANUAN",
+    "LEWOHALA",
+    "LEWOLOBA",
+    "MUDAKEPUTU",
+    "RIANG KEMIE",
+    "TIWATOBI",
+    "WAILOLONG",
+    "WATOTUTU"
+   ]
+  }
+ ],
+ "86257": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "FLORES TIMUR",
+   "c": "LEWO LEMA",
+   "d": [
+    "BALUK HERING",
+    "BANTALA",
+    "ILE PADUNG",
+    "LEWOBELE",
+    "PAINAPANG",
+    "RIANGKOTEK",
+    "SINAR HADING"
+   ]
+  }
+ ],
+ "86261": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "FLORES TIMUR",
+   "c": "ADONARA TIMUR",
+   "d": [
+    "BILAL",
+    "DAWATAA",
+    "GELONG",
+    "IPIEBANG",
+    "KARINGLAMALOUK",
+    "KIWANG ONA",
+    "KWAELAGA LAMAWATO",
+    "LAMAHALA JAYA",
+    "LAMATEWELU",
+    "LELEN BALA",
+    "LEWOBUNGA",
+    "NARASAOSINA",
+    "PUHU",
+    "SAOSINA",
+    "TAPOBALI",
+    "TUAWOLO",
+    "WAIBURAK",
+    "WAIWERANG KOTA"
+   ]
+  }
+ ],
+ "86262": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "FLORES TIMUR",
+   "c": "ADONARA BARAT",
+   "d": [
+    "BUGALIMA",
+    "BUKIT SEBURI",
+    "BUKIT SEBURI II",
+    "DANIBAO",
+    "HOMA",
+    "HURUNG",
+    "ILEPATI",
+    "KIMA KAMAK",
+    "NIMUN DANI BAO",
+    "PAJINIAN",
+    "RIANG PADU",
+    "TONUWOTAN",
+    "WAI TUKAN",
+    "WAIWADAN",
+    "WATO BAYA",
+    "WOLOKLIBANG",
+    "WUREH"
+   ]
+  }
+ ],
+ "86263": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "FLORES TIMUR",
+   "c": "WOTAN ULU MADO",
+   "d": [
+    "BLIKO",
+    "KAWELA",
+    "KLUKENGNUKING",
+    "NAYUBAYA",
+    "OYANGBARANG",
+    "PANDAI",
+    "SAMASOGE",
+    "TANAH TUKAN",
+    "TOBILOTA",
+    "WAILEBE",
+    "WOTANULUMADO"
+   ]
+  }
+ ],
+ "86264": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "FLORES TIMUR",
+   "c": "ADONARA TENGAH",
+   "d": [
+    "BAYA",
+    "BIDARA",
+    "HOKO HOROWURA",
+    "HOROWURA",
+    "KENOTAN",
+    "KOKOTOBO",
+    "LEWOBELE",
+    "LEWOPAO",
+    "LITE",
+    "NUBALEMA",
+    "NUBALEMA DUA",
+    "OE SAYANG",
+    "WEWIT"
+   ]
+  },
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "FLORES TIMUR",
+   "c": "ILE BOLENG",
+   "d": [
+    "LEWOPAO"
+   ]
+  }
+ ],
+ "86265": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "FLORES TIMUR",
+   "c": "ADONARA",
+   "d": [
+    "ADONARA",
+    "KOLI MASANG",
+    "KOLILANANG",
+    "KOLIPETUNG",
+    "LAMAHODA",
+    "NISA NULAN",
+    "SAGU",
+    "TIKATUKANG"
+   ]
+  }
+ ],
+ "86266": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "FLORES TIMUR",
+   "c": "KELUBAGOLIT",
+   "d": [
+    "HINGA",
+    "HORINARA",
+    "KELUWAIN",
+    "LAMABUNGA",
+    "LAMAPAHA",
+    "MANGAALENG",
+    "MUDA",
+    "NISAKARANG",
+    "PEPAK KELU",
+    "SUKUTOKAN"
+   ]
+  }
+ ],
+ "86267": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "FLORES TIMUR",
+   "c": "WITIHAMA",
+   "d": [
+    "BALAWELING",
+    "BALAWELING NOTEN",
+    "BAOBAGE",
+    "LAMABLAWA",
+    "LAMALEKA",
+    "LEWOPULO",
+    "ORINGBELE",
+    "PLEDO",
+    "RIANGDULI",
+    "SANDOSI",
+    "TOBITIKA",
+    "TUWAGOETOBI",
+    "WAIWURING",
+    "WATOLOLONG",
+    "WATOONE",
+    "WERANGGERE"
+   ]
+  }
+ ],
+ "86268": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "FLORES TIMUR",
+   "c": "ADONARA TENGAH",
+   "d": [
+    "LEWOPAO"
+   ]
+  },
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "FLORES TIMUR",
+   "c": "ILE BOLENG",
+   "d": [
+    "BEDALEWUN",
+    "BOLENG",
+    "BUNGALAWAN",
+    "DOKENG",
+    "DUABLOLONG",
+    "HARUBALA",
+    "LAMABAYUNG",
+    "LAMAWOLO",
+    "LEBANUBA",
+    "LEWAT",
+    "LEWO KELENG",
+    "LEWOPAO",
+    "NELE LAMAWANGI",
+    "NELE LAMAWANGI II",
+    "NELEBLOLONG",
+    "NELELAMADIKEN",
+    "NELERERENG",
+    "NOBO",
+    "RIAWALE"
+   ]
+  }
+ ],
+ "86271": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "FLORES TIMUR",
+   "c": "SOLOR TIMUR",
+   "d": [
+    "KAWUTA",
+    "LABELEN",
+    "LAMAWAI",
+    "LEBAO",
+    "LEWOGEKA",
+    "LEWOHEDO",
+    "LIWO",
+    "LOHAYONG",
+    "LOHAYONG II",
+    "MENANGA",
+    "MOTONWUTUN",
+    "TANAH WERANG",
+    "WATANHURA",
+    "WATANHURA II",
+    "WATOBUKU",
+    "WATOHARI",
+    "WULUBLOLONG"
+   ]
+  }
+ ],
+ "86272": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "FLORES TIMUR",
+   "c": "SOLOR BARAT",
+   "d": [
+    "BALAWELING I",
+    "BALAWELING II",
+    "DANI WATO",
+    "KALELU",
+    "KARAWATUNG",
+    "LAMAOLE",
+    "LAMAWALANG",
+    "LEWONAMA",
+    "LEWOTANAH OLE",
+    "NUSADANI",
+    "ONGALERENG",
+    "PAMAKAYO",
+    "RITAEBANG",
+    "TANAH LEIN",
+    "TITEHENA"
+   ]
+  }
+ ],
+ "86273": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "FLORES TIMUR",
+   "c": "SOLOR SELATAN",
+   "d": [
+    "BUBU ATAGAMU",
+    "KALIKE AIMATAN",
+    "KENERE",
+    "LEMANU",
+    "LEWOGRARAN",
+    "SULENGWASENG"
+   ]
+  }
+ ],
+ "86313": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "ENDE",
+   "c": "ENDE SELATAN",
+   "d": [
+    "KEL. MBONGAWANI"
+   ]
+  }
+ ],
+ "86314": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "ENDE",
+   "c": "ENDE SELATAN",
+   "d": [
+    "KEL. RUKUNLIMA"
+   ]
+  }
+ ],
+ "86315": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "ENDE",
+   "c": "ENDE SELATAN",
+   "d": [
+    "KEL. PAUPANDA"
+   ]
+  }
+ ],
+ "86316": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "ENDE",
+   "c": "ENDE SELATAN",
+   "d": [
+    "KEL. TANJUNG",
+    "KEL. TETANDARA"
+   ]
+  }
+ ],
+ "86321": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "ENDE",
+   "c": "ENDE TIMUR",
+   "d": [
+    "KEL. MAUTAPAGA"
+   ]
+  }
+ ],
+ "86322": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "ENDE",
+   "c": "ENDE TIMUR",
+   "d": [
+    "KEL. REWARANGGA"
+   ]
+  }
+ ],
+ "86323": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "ENDE",
+   "c": "ENDE TIMUR",
+   "d": [
+    "KEDEBODU"
+   ]
+  }
+ ],
+ "86324": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "ENDE",
+   "c": "ENDE TIMUR",
+   "d": [
+    "NDUNGGA"
+   ]
+  }
+ ],
+ "86325": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "ENDE",
+   "c": "ENDE TIMUR",
+   "d": [
+    "TIWUTEWA"
+   ]
+  }
+ ],
+ "86326": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "ENDE",
+   "c": "ENDE TIMUR",
+   "d": [
+    "KEL. REWARANGGA SELATAN"
+   ]
+  }
+ ],
+ "86331": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "ENDE",
+   "c": "ENDE TENGAH",
+   "d": [
+    "KEL. POTULANDO"
+   ]
+  }
+ ],
+ "86332": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "ENDE",
+   "c": "ENDE TENGAH",
+   "d": [
+    "KEL. ONEKORE"
+   ]
+  }
+ ],
+ "86333": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "ENDE",
+   "c": "ENDE TENGAH",
+   "d": [
+    "KEL. KELIMUTU"
+   ]
+  }
+ ],
+ "86334": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "ENDE",
+   "c": "ENDE TENGAH",
+   "d": [
+    "KEL. PAUPIRE"
+   ]
+  }
+ ],
+ "86341": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "ENDE",
+   "c": "ENDE UTARA",
+   "d": [
+    "KEL. KOTARATU"
+   ]
+  }
+ ],
+ "86342": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "ENDE",
+   "c": "ENDE UTARA",
+   "d": [
+    "KEL. ROWORENA"
+   ]
+  }
+ ],
+ "86343": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "ENDE",
+   "c": "ENDE UTARA",
+   "d": [
+    "KEL. KOTARAJA"
+   ]
+  }
+ ],
+ "86344": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "ENDE",
+   "c": "ENDE UTARA",
+   "d": [
+    "GHEOGHOMA"
+   ]
+  }
+ ],
+ "86345": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "ENDE",
+   "c": "ENDE UTARA",
+   "d": [
+    "BOROKANDA"
+   ]
+  }
+ ],
+ "86346": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "ENDE",
+   "c": "ENDE UTARA",
+   "d": [
+    "WATUSIPI"
+   ]
+  }
+ ],
+ "86347": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "ENDE",
+   "c": "ENDE UTARA",
+   "d": [
+    "KEL. ROWORENA BARAT"
+   ]
+  }
+ ],
+ "86351": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "ENDE",
+   "c": "ENDE",
+   "d": [
+    "EMBURIA",
+    "JAMOKEASA",
+    "MBOTUTENDA",
+    "NAKURAMBA",
+    "NDETUNDORA I",
+    "NDETUNDORA II",
+    "RABURIA",
+    "RANDOTONDA",
+    "RIARAJA",
+    "RUKURAMBA",
+    "TINABANI",
+    "TOMBERABU I",
+    "TOMBERABU II",
+    "UZURAMBA",
+    "UZURAMBA BARAT",
+    "WOLOGAI",
+    "WOLOGAI DUA",
+    "WOLOKARO"
+   ]
+  }
+ ],
+ "86352": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "ENDE",
+   "c": "NANGAPANDA",
+   "d": [
+    "BHERAMARI",
+    "JEGHARANGGA",
+    "KEL. NDORUREA",
+    "KERIREA",
+    "NDORUREA I",
+    "NGGOREA",
+    "ONDOREA",
+    "ONDOREA BARAT",
+    "PENGGAJAWA",
+    "RAPORENDU",
+    "RAPOWAWO",
+    "SANGGARHORHO",
+    "TENDAMBEPA",
+    "TENDAREA",
+    "TIWE REA",
+    "WATUMITE",
+    "ZOZOZEA"
+   ]
+  }
+ ],
+ "86353": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "ENDE",
+   "c": "MAUKARO",
+   "d": [
+    "BOAFEO",
+    "KAMUBHEKA",
+    "KEBIRANGGA",
+    "KEBIRANGGA SELATAN",
+    "KEBIRANGGA TENGAH",
+    "KOBALEBA",
+    "KOLIKAPA",
+    "MAGEKAPA",
+    "MUNDINGGASA",
+    "NABE"
+   ]
+  }
+ ],
+ "86359": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "ENDE",
+   "c": "PULAU ENDE",
+   "d": [
+    "AEJETI",
+    "NDORIWOY",
+    "PADERAPE",
+    "PUUTARA",
+    "REDORORI",
+    "RENDORATERUA",
+    "RORURANGGA"
+   ]
+  }
+ ],
+ "86361": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "ENDE",
+   "c": "NDONA",
+   "d": [
+    "KEKASEWA",
+    "KEL. LOKOBOKO",
+    "KEL. ONELAKO",
+    "KELIKIKU",
+    "MANULONDO",
+    "NANGANESA",
+    "NGALUPOLO",
+    "NGALUROGA",
+    "NILA",
+    "PUUTUGA",
+    "REKA",
+    "WOLOKOTA",
+    "WOLOTOPO",
+    "WOLOTOPO TIMUR"
+   ]
+  }
+ ],
+ "86362": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "ENDE",
+   "c": "NDONA TIMUR",
+   "d": [
+    "DEMULAKA",
+    "KURULIMBU",
+    "KURULIMBU SELATAN",
+    "NGGUWA",
+    "ROGA",
+    "SOKORIA"
+   ]
+  }
+ ],
+ "86371": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "ENDE",
+   "c": "DETUSOKO",
+   "d": [
+    "DETUSOKO BARAT",
+    "DILE",
+    "GOLULADA",
+    "KEL. DETUSOKO",
+    "NDITO",
+    "NIOWULA",
+    "NUAONE",
+    "RANDORIA",
+    "RANGA",
+    "RATERORU",
+    "ROA",
+    "SAGA",
+    "SIPIJENA",
+    "TURUNALU",
+    "WOLOFEO",
+    "WOLOGAI",
+    "WOLOGAI TENGAH",
+    "WOLOMAGE",
+    "WOLOMASI",
+    "WOLOTOLO",
+    "WOLOTOLO TENGAH"
+   ]
+  }
+ ],
+ "86372": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "ENDE",
+   "c": "WOLOWARU",
+   "d": [
+    "BOKASAPE",
+    "BOKASAPE TIMUR",
+    "JOPU",
+    "LIKANAKA",
+    "LISEDETU",
+    "LISELOWOBORA",
+    "MBULILOO",
+    "MBULIWARALAU",
+    "MBULIWARALAU UTARA",
+    "NAKAMBARA",
+    "NIRAMESI",
+    "NUALISE",
+    "RINDIWAWO",
+    "WOLOKOLI",
+    "WOLOSOKO"
+   ]
+  }
+ ],
+ "86373": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "ENDE",
+   "c": "WOLOJITA",
+   "d": [
+    "KEL. WOLOJITA",
+    "NGGELA",
+    "NUAMULI",
+    "PORA",
+    "TENDA",
+    "WIWIPEMO"
+   ]
+  }
+ ],
+ "86374": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "ENDE",
+   "c": "NDORI",
+   "d": [
+    "KELISAMBA",
+    "MAUBASA",
+    "MAUBASA TIMUR",
+    "SERANDORI",
+    "WONDA"
+   ]
+  }
+ ],
+ "86375": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "ENDE",
+   "c": "LIO TIMUR",
+   "d": [
+    "DETUPERA",
+    "FATAMARI",
+    "HOBATUWA",
+    "KEL. WATUNESO",
+    "LIABEKE",
+    "WOLOARO",
+    "WOLOLELE A",
+    "WOLOSAMBI"
+   ]
+  },
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "ENDE",
+   "c": "KELIMUTU",
+   "d": [
+    "WOLOARA"
+   ]
+  }
+ ],
+ "86376": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "ENDE",
+   "c": "KELIMUTU",
+   "d": [
+    "KOANARA",
+    "NDUARIA",
+    "NUAMURI",
+    "NUAMURI BARAT",
+    "PEMO",
+    "WOLOARA"
+   ]
+  }
+ ],
+ "86377": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "ENDE",
+   "c": "DETUKELI",
+   "d": [
+    "DETUKELI",
+    "DETUMBEWA",
+    "KANGANARA",
+    "KEBESANI",
+    "MAUROLE SELATAN",
+    "NGGESA",
+    "NGGESA BIRI",
+    "NIDA",
+    "UNGGU",
+    "WOLOMUKU"
+   ]
+  }
+ ],
+ "86378": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "ENDE",
+   "c": "WEWARIA",
+   "d": [
+    "AELIPO",
+    "AEMURI",
+    "DETUBELA",
+    "EKOAE",
+    "FATAATU",
+    "FATAATU TIMUR",
+    "KELITEMBU",
+    "MAUTENDA",
+    "MAUTENDA BARAT",
+    "MBOTULAKA",
+    "MUKUSAKI",
+    "NUANGENDA",
+    "NUMBA",
+    "RATEWATI",
+    "TANALI",
+    "WELAMOSA",
+    "WEWARIA"
+   ]
+  }
+ ],
+ "86381": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "ENDE",
+   "c": "MAUROLE",
+   "d": [
+    "AEWORA",
+    "DETUWULU",
+    "KELIWUMBU",
+    "MAUROLE",
+    "MAUSAMBI",
+    "OTOGEDU",
+    "RANOKOLO SELATAN",
+    "WATUKAMBA"
+   ]
+  }
+ ],
+ "86382": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "ENDE",
+   "c": "KOTABARU",
+   "d": [
+    "HANGALANDE",
+    "KOTABARU",
+    "LISELANDE",
+    "LOBONIKI",
+    "NDONDO",
+    "NIOPANDA",
+    "RANGALAKA",
+    "TOU",
+    "TOU BARAT",
+    "TOU TIMUR"
+   ]
+  }
+ ],
+ "86383": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "ENDE",
+   "c": "LEPEMBUSU KELISOKE",
+   "d": [
+    "DETUARA",
+    "KURU",
+    "MUKUREKU",
+    "MUKUREKU SAATE",
+    "NDENGGARONGGE",
+    "NDIKOSAPU",
+    "NGGUMBELAKA",
+    "TANALANGI",
+    "TANIWODA",
+    "TIWUSORA",
+    "WOLOGAI TIMUR"
+   ]
+  }
+ ],
+ "86411": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "NGADA",
+   "c": "BAJAWA",
+   "d": [
+    "KISANATA"
+   ]
+  }
+ ],
+ "86412": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "NGADA",
+   "c": "BAJAWA",
+   "d": [
+    "TANALODU"
+   ]
+  }
+ ],
+ "86413": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "NGADA",
+   "c": "BAJAWA",
+   "d": [
+    "BAJAWA"
+   ]
+  }
+ ],
+ "86414": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "NGADA",
+   "c": "BAJAWA",
+   "d": [
+    "TRIKORA"
+   ]
+  }
+ ],
+ "86415": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "NGADA",
+   "c": "BAJAWA",
+   "d": [
+    "NGEDUKELU"
+   ]
+  }
+ ],
+ "86416": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "NGADA",
+   "c": "BAJAWA",
+   "d": [
+    "JAWAMEZE"
+   ]
+  }
+ ],
+ "86417": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "NGADA",
+   "c": "BAJAWA",
+   "d": [
+    "SUSU"
+   ]
+  }
+ ],
+ "86418": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "NGADA",
+   "c": "BAJAWA",
+   "d": [
+    "LEBIJAGA"
+   ]
+  }
+ ],
+ "86419": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "NGADA",
+   "c": "BAJAWA",
+   "d": [
+    "BEIWALI",
+    "BEJA",
+    "BELA",
+    "BOMARI",
+    "BORANI",
+    "BOWALI",
+    "FAOBATA",
+    "LANGAGEDHA",
+    "NARU",
+    "NGORANALE",
+    "PAPE",
+    "UBEDOLUMOLO",
+    "UBEDOLUMOLO I",
+    "WAWOWAE"
+   ]
+  }
+ ],
+ "86451": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "NGADA",
+   "c": "SOA",
+   "d": [
+    "LIBUNIO",
+    "LOA",
+    "MASU KEDHI",
+    "MELI WARU",
+    "MENGERUDA",
+    "NGABHEO",
+    "PIGA",
+    "PIGA I",
+    "SESO",
+    "TARAWAJA",
+    "WAEPANA"
+   ]
+  }
+ ],
+ "86452": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "NGADA",
+   "c": "AIMERE",
+   "d": [
+    "AIMERE",
+    "AIMERE TIMUR",
+    "BINAWALI",
+    "FOA",
+    "HEAWEA",
+    "KELIGEJO",
+    "KILA",
+    "LEGELAPU",
+    "LEKOGOKO",
+    "WAESAE"
+   ]
+  }
+ ],
+ "86454": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "NGADA",
+   "c": "JEREBUU",
+   "d": [
+    "DARIWALI",
+    "DARIWALI I",
+    "NARUWOLO",
+    "NARUWOLO I",
+    "NARUWOLO II",
+    "NENOWEA",
+    "NIO LEWA",
+    "TIWORIWU",
+    "TIWORIWU I",
+    "TIWORIWU II",
+    "WATUMANU"
+   ]
+  }
+ ],
+ "86455": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "NGADA",
+   "c": "BAJAWA UTARA",
+   "d": [
+    "GENAMERE",
+    "INEGENA",
+    "INELIKA",
+    "NABELENA",
+    "TURA MURI",
+    "ULUWAE",
+    "ULUWAE I",
+    "ULUWAE II",
+    "WAEWEA",
+    "WATUKAPU",
+    "WOLOLIKA"
+   ]
+  }
+ ],
+ "86456": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "NGADA",
+   "c": "INERIE",
+   "d": [
+    "INERIE",
+    "KELITEI",
+    "LEGERIWU",
+    "PAUPAGA",
+    "SEBOWULI",
+    "TIWURANA",
+    "WAEBELA",
+    "WARUPELE I",
+    "WARUPELE II"
+   ]
+  }
+ ],
+ "86461": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "NGADA",
+   "c": "GOLEWA",
+   "d": [
+    "DADAWEA",
+    "EKO ROKA",
+    "MALANUZA",
+    "MALANUZA I",
+    "MATALOKO",
+    "RADABATA",
+    "RATOGESA",
+    "SANGADETO",
+    "SARASEDU",
+    "SARASEDU I",
+    "TODABELU",
+    "ULU BELU",
+    "WERE",
+    "WERE I",
+    "WERE IV"
+   ]
+  },
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "NGADA",
+   "c": "GOLEWA SELATAN",
+   "d": [
+    "BAWARANI",
+    "BOBA",
+    "BOBA I",
+    "KEZEWEA",
+    "NIRMALA",
+    "RADAMASA",
+    "SADHA",
+    "TAKATUNGA",
+    "WATUSIPI",
+    "WOGOWELA"
+   ]
+  }
+ ],
+ "86463": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "NGADA",
+   "c": "GOLEWA BARAT",
+   "d": [
+    "DIZI GEDHA",
+    "MANGULEWA",
+    "RAKALABA",
+    "SOBO",
+    "SOBO I",
+    "TUREKISA",
+    "WATUNAY"
+   ]
+  }
+ ],
+ "86471": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "NGADA",
+   "c": "RIUNG",
+   "d": [
+    "BENTENG TENGAH",
+    "LATUNG",
+    "LENGKOSAMBI",
+    "LENGKOSAMBI BARAT",
+    "LENGKOSAMBI TIMUR",
+    "LENGKOSAMBI UTARA",
+    "NANGAMESE",
+    "RAWANGKALO",
+    "SAMBINASI",
+    "SAMBINASI BARAT",
+    "TADHO",
+    "TAEN TERONG",
+    "TAEN TERONG I",
+    "TAEN TERONG II",
+    "WANGKA",
+    "WANGKA SELATAN"
+   ]
+  }
+ ],
+ "86473": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "NGADA",
+   "c": "RIUNG BARAT",
+   "d": [
+    "BENTENG TAWA",
+    "BENTENG TAWA I",
+    "LANAMAI",
+    "LANAMAI I",
+    "NGARA",
+    "RIA",
+    "RIA I",
+    "WOLOMEZE",
+    "WOLOMEZE I"
+   ]
+  }
+ ],
+ "86474": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "NGADA",
+   "c": "WOLOMEZE",
+   "d": [
+    "DENATANA",
+    "DENATANA TIMUR",
+    "MAINAI",
+    "NGINAMANU",
+    "NGINAMANU BARAT",
+    "NGINAMANU SELATAN",
+    "TURALOA"
+   ]
+  }
+ ],
+ "86511": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "MANGGARAI",
+   "c": "LANGKE REMBONG",
+   "d": [
+    "MBAUMUKU",
+    "WATU"
+   ]
+  }
+ ],
+ "86512": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "MANGGARAI",
+   "c": "LANGKE REMBONG",
+   "d": [
+    "KAROT"
+   ]
+  }
+ ],
+ "86513": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "MANGGARAI",
+   "c": "LANGKE REMBONG",
+   "d": [
+    "PITAK"
+   ]
+  }
+ ],
+ "86514": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "MANGGARAI",
+   "c": "LANGKE REMBONG",
+   "d": [
+    "WALI"
+   ]
+  }
+ ],
+ "86515": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "MANGGARAI",
+   "c": "LANGKE REMBONG",
+   "d": [
+    "GOLO DUKAL"
+   ]
+  }
+ ],
+ "86516": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "MANGGARAI",
+   "c": "LANGKE REMBONG",
+   "d": [
+    "LAWIR",
+    "PAU"
+   ]
+  }
+ ],
+ "86517": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "MANGGARAI",
+   "c": "LANGKE REMBONG",
+   "d": [
+    "WASO"
+   ]
+  }
+ ],
+ "86518": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "MANGGARAI",
+   "c": "LANGKE REMBONG",
+   "d": [
+    "TENDA"
+   ]
+  }
+ ],
+ "86519": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "MANGGARAI",
+   "c": "LANGKE REMBONG",
+   "d": [
+    "CAREP"
+   ]
+  }
+ ],
+ "86551": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "MANGGARAI",
+   "c": "RUTENG",
+   "d": [
+    "BANGKA LAO",
+    "BELANG TURI",
+    "BENTENG KUWU",
+    "BEO RAHONG",
+    "BULAN",
+    "COMPANG DALO",
+    "CUMBI",
+    "GOLOWOROK",
+    "KAKOR",
+    "MELER",
+    "PONG LAO",
+    "PONG LEKO",
+    "PONG MURUNG",
+    "RAI",
+    "WAE BELANG"
+   ]
+  }
+ ],
+ "86558": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "MANGGARAI",
+   "c": "RAHONG UTARA",
+   "d": [
+    "BANGKA AJANG",
+    "BANGKA RUANG",
+    "BENTENG TUBI",
+    "BUAR",
+    "COMPANG DARI",
+    "DIMPONG",
+    "GOLO LANGKOK",
+    "LIANG BUA",
+    "MANONG",
+    "TENGKU LESE",
+    "WAE MANTANG"
+   ]
+  }
+ ],
+ "86559": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "MANGGARAI",
+   "c": "LELAK",
+   "d": [
+    "BANGKA DESE",
+    "BANGKA LELAK",
+    "GELONG",
+    "KETANG",
+    "NATI",
+    "NDIWAR",
+    "URANG"
+   ]
+  }
+ ],
+ "86561": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "MANGGARAI",
+   "c": "SATAR MESE",
+   "d": [
+    "GARA",
+    "GOLO LAMBO",
+    "GOLO MUNTAS",
+    "JAONG",
+    "KOAK",
+    "LANGGO",
+    "LEGU",
+    "LUNGAR",
+    "MOCOK",
+    "NGKAER",
+    "PAKA",
+    "PAPANG",
+    "PONGGEOK",
+    "PONGKOR",
+    "TADO",
+    "TAL",
+    "UMUNG",
+    "WAE AJANG",
+    "WEWO"
+   ]
+  }
+ ],
+ "86562": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "MANGGARAI",
+   "c": "SATAR MESE BARAT",
+   "d": [
+    "BEA KONDO",
+    "BORIK",
+    "CEKA LUJU",
+    "GOLO ROPONG",
+    "HILIHINTIR",
+    "NUCA MOLAS",
+    "SATAR LENDA",
+    "SATAR LUJU",
+    "SATAR RUWUK",
+    "TERONG"
+   ]
+  }
+ ],
+ "86591": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "MANGGARAI",
+   "c": "CIBAL",
+   "d": [
+    "BARANG",
+    "BEA MESE",
+    "GAPONG",
+    "GOLO",
+    "GOLO NCUANG",
+    "KENTOL",
+    "LADUR",
+    "LANDO",
+    "LANGKAS",
+    "NENU",
+    "PAGAL",
+    "PERAK",
+    "PINGGANG",
+    "RADO",
+    "WELU",
+    "WUDI"
+   ]
+  }
+ ],
+ "86592": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "MANGGARAI",
+   "c": "REOK",
+   "d": [
+    "BAJAK",
+    "BARU",
+    "MATA AIR",
+    "REO",
+    "ROBEK",
+    "RUIS",
+    "SALAMA",
+    "WANGKUNG",
+    "WATU BAUR",
+    "WATU TANGO"
+   ]
+  }
+ ],
+ "86593": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "MANGGARAI",
+   "c": "REOK BARAT",
+   "d": [
+    "LANTE",
+    "LEMARANG",
+    "LOCE",
+    "NGGALAK",
+    "PARA LANDO",
+    "RURA",
+    "SAMBI",
+    "TOE",
+    "TORONG KOE"
+   ]
+  }
+ ],
+ "86595": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "MANGGARAI",
+   "c": "WAE RII",
+   "d": [
+    "BANGKA JONG",
+    "BANGKA KENDA",
+    "COMPANG NDEHES",
+    "GOLO CADOR",
+    "GOLO MENDO",
+    "GOLO WATU",
+    "GOLO WUA",
+    "LALONG",
+    "LONGKO",
+    "NDEHES",
+    "POCO",
+    "RANGGI",
+    "SATAR NGKELING",
+    "WAE MULU",
+    "WAE RII"
+   ]
+  }
+ ],
+ "86611": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "LEMBATA",
+   "c": "NUBATUKAN",
+   "d": [
+    "LEWOLEBA"
+   ]
+  }
+ ],
+ "86612": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "LEMBATA",
+   "c": "NUBATUKAN",
+   "d": [
+    "LEWOLEBA UTARA"
+   ]
+  }
+ ],
+ "86613": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "LEMBATA",
+   "c": "NUBATUKAN",
+   "d": [
+    "LEWOLEBA BARAT"
+   ]
+  }
+ ],
+ "86614": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "LEMBATA",
+   "c": "NUBATUKAN",
+   "d": [
+    "LEWOLEBA SELATAN"
+   ]
+  }
+ ],
+ "86615": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "LEMBATA",
+   "c": "NUBATUKAN",
+   "d": [
+    "LEWOLEBA TENGAH"
+   ]
+  }
+ ],
+ "86616": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "LEMBATA",
+   "c": "NUBATUKAN",
+   "d": [
+    "LEWOLEBA TIMUR"
+   ]
+  }
+ ],
+ "86617": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "LEMBATA",
+   "c": "NUBATUKAN",
+   "d": [
+    "SELANDORO"
+   ]
+  }
+ ],
+ "86619": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "LEMBATA",
+   "c": "NUBATUKAN",
+   "d": [
+    "BAKALEREK",
+    "BAOLANGU",
+    "BELOBATANG",
+    "LITEULUMADO",
+    "NUBA MADO",
+    "PADA",
+    "UDAK MELOMATA",
+    "WAIJARANG",
+    "WATOKOBU"
+   ]
+  }
+ ],
+ "86681": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "LEMBATA",
+   "c": "LEBATUKAN",
+   "d": [
+    "ATAKOWA",
+    "BALUREBONG",
+    "BANITOBO",
+    "BAOPANA",
+    "DIKESARE",
+    "HADAKEWA",
+    "LAMADALE",
+    "LAMALELA",
+    "LAMATUKA",
+    "LERAHINGA",
+    "LEWOELENG",
+    "LODOTODOKOWA",
+    "MERDEKA",
+    "SERANGGORANG",
+    "TAPOBARAN",
+    "TAPOLANGU",
+    "WAIENGA"
+   ]
+  }
+ ],
+ "86683": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "LEMBATA",
+   "c": "ILE APE",
+   "d": [
+    "AMAKAKA",
+    "BEUTARAN",
+    "BUNGAMUDA",
+    "DULITUKAN",
+    "KOLIPADAN",
+    "KOLONTOBO",
+    "LAMAWARA",
+    "LARANWUNTUN",
+    "MURUONA",
+    "NAPASABOK",
+    "PALILOLON",
+    "PETUNTAWA",
+    "TAGAWITI",
+    "TANJUNG BATU",
+    "WAOWALA",
+    "WATODIRI"
+   ]
+  }
+ ],
+ "86684": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "LEMBATA",
+   "c": "NAGAWUTUNG",
+   "d": [
+    "ATAWAI",
+    "BABOKERONG",
+    "BAOBOLAK",
+    "BOLIBEAN",
+    "DUAWUTUN",
+    "ILE BOLI",
+    "LABALIMUT",
+    "LOLONG",
+    "LUSIDUAWUTUN",
+    "PASIR PUTIH",
+    "PENIKENE",
+    "TEWAOWUTUNG"
+   ]
+  }
+ ],
+ "86685": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "LEMBATA",
+   "c": "WULANDONI",
+   "d": [
+    "ATAKERA"
+   ]
+  },
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "LEMBATA",
+   "c": "ATADEI",
+   "d": [
+    "DORI PEWUT",
+    "DULIR",
+    "ILE KERBAU",
+    "ILE KIMOK",
+    "KATAKEJA",
+    "LEBAATA",
+    "LEREK",
+    "LEWOGROMA",
+    "LUSILAME",
+    "NOGO DONI",
+    "NUBABOLI",
+    "NUBAHAERAKA",
+    "TUBUK RAJAN"
+   ]
+  }
+ ],
+ "86686": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "LEMBATA",
+   "c": "WULANDONI",
+   "d": [
+    "ALAP ATADEI",
+    "ATAILI",
+    "ATAKERA",
+    "BELOBAO",
+    "IMULOLONG",
+    "LAMALERA A",
+    "LAMALERA B",
+    "LELATA",
+    "LEWORAJA",
+    "PANTAI HARAPAN",
+    "POSIWATU",
+    "PUOR",
+    "PUOR B",
+    "TAPOBALI",
+    "WULANDONI"
+   ]
+  }
+ ],
+ "86687": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "LEMBATA",
+   "c": "ILE APE TIMUR",
+   "d": [
+    "AULESA",
+    "BAO LALI DULI",
+    "JONTONA",
+    "LAMAAU",
+    "LAMAGUTE",
+    "LAMATOKAN",
+    "LAMAWOLO",
+    "TODANARA",
+    "WAIMATAN"
+   ]
+  }
+ ],
+ "86691": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "LEMBATA",
+   "c": "OMESURI",
+   "d": [
+    "ARAMENGI",
+    "BALAURING",
+    "DOLULOLONG",
+    "HINGALAMAMENGI",
+    "HOELEA",
+    "HOELEA II",
+    "LEBEWALA",
+    "LEUBATANG",
+    "LEUDANUNG",
+    "LEUWAYANG",
+    "MAHAL",
+    "MAHAL II",
+    "MELUWITING",
+    "MELUWITING I",
+    "NILANAPO",
+    "NORMAL",
+    "NORMAL I",
+    "PEUSAWAH",
+    "ROMA",
+    "WAILOLONG",
+    "WALANGSAWAH",
+    "WOWONG"
+   ]
+  }
+ ],
+ "86692": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "LEMBATA",
+   "c": "BUYASARI",
+   "d": [
+    "ATULALENG",
+    "BARENG",
+    "BEAN",
+    "BENIHADING",
+    "BENIHADING II",
+    "BURIWUTUNG",
+    "KALIKUR",
+    "KALIKUR WL",
+    "KAOHUA",
+    "LEUBURI",
+    "LEUWOHUNG",
+    "LOYOBOHOR",
+    "MAMPIR",
+    "PANAMA",
+    "ROHO",
+    "RUMANG",
+    "TOBOTANI",
+    "TUBUNG WALANG",
+    "UMALEU"
+   ]
+  }
+ ],
+ "86711": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "MANGGARAI BARAT",
+   "c": "KOMODO",
+   "d": [
+    "BATU CERMIN",
+    "GOLO BILAS",
+    "GOLO MORI",
+    "GOLO PONGKOR",
+    "GORON TALO",
+    "KOMODO",
+    "LABUAN BAJO",
+    "MACANG TANGGAR",
+    "NGGORANG",
+    "PAPA GARANG",
+    "PASIR PANJANG",
+    "PASIR PUTIH",
+    "TIWU NAMPAR",
+    "WAE KELAMBU",
+    "WARLOKA",
+    "WATU NGGELEK"
+   ]
+  }
+ ],
+ "86752": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "MANGGARAI BARAT",
+   "c": "KUWUS",
+   "d": [
+    "BENTENG CURU",
+    "COAL",
+    "COMPANG KULES",
+    "COMPANG SUKA",
+    "GOLO LEWE",
+    "GOLO RIWU",
+    "GOLO WEDONG",
+    "KOLANG",
+    "LAWI",
+    "LEWUR",
+    "NANTAL",
+    "PANGGA",
+    "RANGGU",
+    "SAMA",
+    "TENGKU",
+    "TUENG"
+   ]
+  }
+ ],
+ "86753": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "MANGGARAI BARAT",
+   "c": "LEMBOR",
+   "d": [
+    "DALENG",
+    "NGANCAR",
+    "POCO RUTANG",
+    "PONDO",
+    "PONG MAJOK",
+    "PONTO ARA",
+    "SIRU",
+    "TANGGE",
+    "WAE BANGKA",
+    "WAE KANTA",
+    "WAE WAKO"
+   ]
+  }
+ ],
+ "86756": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "MANGGARAI BARAT",
+   "c": "MACANG PACAR",
+   "d": [
+    "BARI",
+    "COMPANG",
+    "GOLO LAJANG",
+    "GOLO LAJANG BARAT",
+    "KOMBO",
+    "LOHA",
+    "MBAKUNG",
+    "NANGA KANTOR",
+    "NANGA KANTOR BARAT",
+    "NGGILAT",
+    "PACAR",
+    "RABA",
+    "REGO",
+    "ROKAP",
+    "WONTONG"
+   ]
+  }
+ ],
+ "86757": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "MANGGARAI BARAT",
+   "c": "SANO NGGOANG",
+   "d": [
+    "GOLO KEMPO",
+    "GOLO LELENG",
+    "GOLO MANTING",
+    "GOLO MBU",
+    "GOLO NDARING",
+    "GOLO SENGANG",
+    "MATA WAE",
+    "NAMPAR MACING",
+    "SANO NGGOANG",
+    "WAE LOLOS",
+    "WAE SANO"
+   ]
+  }
+ ],
+ "86761": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "MANGGARAI BARAT",
+   "c": "BOLENG",
+   "d": [
+    "BATU TIGA",
+    "GOLO KETAK",
+    "GOLO LUJANG",
+    "GOLO SEPANG",
+    "MBUIT",
+    "POTA WANGKA",
+    "SEPANG",
+    "TANJUNG BOLENG"
+   ]
+  }
+ ],
+ "86762": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "MANGGARAI BARAT",
+   "c": "MBELILING",
+   "d": [
+    "CUNCA LOLOS",
+    "CUNCA WULANG",
+    "GOLO DAMU",
+    "GOLO DESAT",
+    "GOLO NDOAL",
+    "GOLO SEMBEA",
+    "GOLO TANTONG",
+    "KEMPO",
+    "LIANG NDARA",
+    "TIWU RIWUNG",
+    "TONDONG BELANG",
+    "WAE JARE",
+    "WATU WANGKA"
+   ]
+  }
+ ],
+ "86763": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "MANGGARAI BARAT",
+   "c": "LEMBOR SELATAN",
+   "d": [
+    "BENTENG DEWA",
+    "KAKOR",
+    "LALONG",
+    "MUNTING",
+    "NANGA BERE",
+    "NANGA LILI",
+    "REPI",
+    "SURUNUMBENG",
+    "WAE MOSE",
+    "WATU WAJA"
+   ]
+  }
+ ],
+ "86764": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "MANGGARAI BARAT",
+   "c": "WELAK",
+   "d": [
+    "DUNTA",
+    "GALANG",
+    "GOLO RONGGOT",
+    "GURUNG",
+    "LALE",
+    "ORONG",
+    "PENGKA",
+    "PONG WELAK",
+    "REHAK",
+    "SEMANG",
+    "WATU UMPU"
+   ]
+  }
+ ],
+ "86765": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "MANGGARAI BARAT",
+   "c": "NDOSO",
+   "d": [
+    "GOLO POLENG",
+    "KASONG",
+    "LUMUT",
+    "MOMOL",
+    "NDOSO",
+    "PONG NARANG",
+    "RAKA",
+    "TENTANG",
+    "WAE BUKA",
+    "WANING"
+   ]
+  }
+ ],
+ "86811": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "MANGGARAI TIMUR",
+   "c": "BORONG",
+   "d": [
+    "BENTENG RAJA",
+    "BENTENG RIWU",
+    "GOLO KANTAR",
+    "GOLO LALONG",
+    "GURUNG LIWUT",
+    "KOTA NDORA",
+    "NANGA LABANG",
+    "NGAMPANG MAS",
+    "POCO RII",
+    "RANA LOBA",
+    "RANA MASAK"
+   ]
+  }
+ ],
+ "86872": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "MANGGARAI TIMUR",
+   "c": "KOTA KOMBA",
+   "d": [
+    "BAMO",
+    "GOLO NDERU",
+    "GOLO TOLANG",
+    "GOLOMENI",
+    "GOLON DELE",
+    "KOMBA",
+    "LEMBUR",
+    "MBENGAN",
+    "MOKEL",
+    "PAAN LELENG",
+    "PONG RUAN",
+    "RANA KOLONG",
+    "RANA MBELING",
+    "RUAN",
+    "TANAH RATA"
+   ]
+  }
+ ],
+ "86881": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "MANGGARAI TIMUR",
+   "c": "ELAR",
+   "d": [
+    "BITING",
+    "GOLO LEBO",
+    "GOLO LIJUN",
+    "GOLO MUNDE",
+    "HAJU NGENDONG",
+    "LENGKO NAMUT",
+    "RANA GAPANG",
+    "RANA KULAN",
+    "SISIR",
+    "TIWU KONDO"
+   ]
+  }
+ ],
+ "86882": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "MANGGARAI TIMUR",
+   "c": "LAMBA LEDA",
+   "d": [
+    "COMPANG DERU",
+    "COMPANG MEKAR",
+    "COMPANG NECAK",
+    "GOLO LEMBUR",
+    "GOLO MANGUNG",
+    "GOLO MUNGA",
+    "GOLO MUNGA BARAT",
+    "GOLO RENTUNG",
+    "GORENG MENI",
+    "GORENG MENI UTARA",
+    "LENCUR",
+    "LIANG DERUK",
+    "NAMPAR TABANG",
+    "SATAR PADUT",
+    "SATAR PUNDA",
+    "SATAR PUNDA BARAT",
+    "TENGKU LEDA",
+    "TENGKULAWAR"
+   ]
+  }
+ ],
+ "86883": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "MANGGARAI TIMUR",
+   "c": "SAMBI RAMPAS",
+   "d": [
+    "COMPANG LAWI"
+   ]
+  },
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "MANGGARAI TIMUR",
+   "c": "POCO RANAKA",
+   "d": [
+    "BANGKA KULENG",
+    "BANGKA LELENG",
+    "BANGKA PAU",
+    "COMPANG LAHO",
+    "GOLO NDARI",
+    "GOLO NDERU",
+    "GURUNG TURI",
+    "LENANG",
+    "LEONG",
+    "MANDO SAWU",
+    "MELO",
+    "NGGALAK LELENG",
+    "POCOLIA",
+    "POCONG",
+    "SATAR TESEM",
+    "WATU LANUR"
+   ]
+  }
+ ],
+ "86884": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "MANGGARAI TIMUR",
+   "c": "SAMBI RAMPAS",
+   "d": [
+    "BUTI",
+    "COMPANG CONGKAR",
+    "GOLO NGAWAN",
+    "GOLO WANGKUNG",
+    "GOLO WANGKUNG BARAT",
+    "GOLO WANGKUNG UTARA",
+    "LADA MESE",
+    "NANGA BARAS",
+    "NANGA MBALING",
+    "NANGA MBAUR",
+    "POTA",
+    "RANA MESE",
+    "SATAR NAWANG"
+   ]
+  }
+ ],
+ "86885": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "MANGGARAI TIMUR",
+   "c": "POCO RANAKA TIMUR",
+   "d": [
+    "ARUS",
+    "BANGKA ARUS",
+    "BENTENG RAMPAS",
+    "BENTENG WUNIS",
+    "COLOL",
+    "COMPANG RACI",
+    "COMPANG WUNIS",
+    "GOLO LERO",
+    "NGKIONG DORA",
+    "RENDE NAO",
+    "RENGKAM",
+    "TANGO MOLAS",
+    "ULU WAE",
+    "URUNG DORA",
+    "WANGKAR WELI",
+    "WATU ARUS",
+    "WEJANG MALI",
+    "WEJANG MAWE"
+   ]
+  }
+ ],
+ "86886": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "MANGGARAI TIMUR",
+   "c": "ELAR SELATAN",
+   "d": [
+    "BENTENG PAU",
+    "GISING",
+    "GOLO LINUS",
+    "GOLO WUAS",
+    "LANGGASAI",
+    "LEMPANG PAJI",
+    "MOSI NGARAN",
+    "NANGA MEJE",
+    "PAAN WARU",
+    "SANGAN KALO",
+    "SIPI",
+    "TENO MESE",
+    "WAE RASAN"
+   ]
+  }
+ ],
+ "86911": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "NAGEKEO",
+   "c": "AESESA",
+   "d": [
+    "AERAMO",
+    "DANGA",
+    "DHAWE",
+    "LABOLEWA",
+    "LAPE",
+    "MARAPOKOT",
+    "MBAY I",
+    "MBAY II",
+    "NANGADHERO",
+    "NGEGEDHAWE",
+    "NGGOLO MBAY",
+    "NGGOLONIO",
+    "OLAIA",
+    "TEDAMUDE",
+    "TONGGU RAMBANG",
+    "TOWAK",
+    "WAEKOKAK"
+   ]
+  }
+ ],
+ "86962": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "NAGEKEO",
+   "c": "BOAWAE",
+   "d": [
+    "ALORAWE",
+    "DHEREISA",
+    "FOCOLODORAWE",
+    "GERODHERE",
+    "KELEWAE",
+    "KELIMADO",
+    "MULAKOLI",
+    "NAGEOGA",
+    "NAGERAWE",
+    "NAGESAPADHI",
+    "NATANAGE",
+    "NATANAGE TIMUR",
+    "OLAKILE",
+    "RAJA",
+    "RATONGAMOBO",
+    "REGA",
+    "RIGI",
+    "ROWA",
+    "SOLO",
+    "WEA AU",
+    "WOLOPOGO",
+    "WOLOWEA"
+   ]
+  }
+ ],
+ "86963": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "NAGEKEO",
+   "c": "MAUPONGGO",
+   "d": [
+    "AEWOE",
+    "BELA",
+    "JAWAPOGO",
+    "KELIWATULEWA",
+    "KOTAGANA",
+    "LAJAWAJO",
+    "LODAOLO",
+    "LOKALABA",
+    "MAUKELI",
+    "MAUPONGGO",
+    "SAWU",
+    "UA",
+    "ULULOGA",
+    "WOEWOLO",
+    "WOLOEDE",
+    "WOLOKISA",
+    "WOLOLELU",
+    "WOLOTELU",
+    "WULIWALO"
+   ]
+  }
+ ],
+ "86964": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "NAGEKEO",
+   "c": "NANGARORO",
+   "d": [
+    "BIDOA",
+    "DEGALEA",
+    "KOTAKEO",
+    "KOTAKEO I",
+    "NANGARORO",
+    "NATAUTE",
+    "PAGOMOGO",
+    "PODENURA",
+    "RITI",
+    "TONGGO",
+    "ULUPULU",
+    "ULUPULU 1",
+    "UTETOTO",
+    "WOEDOA",
+    "WOEWUTU",
+    "WOKODEKORORO"
+   ]
+  }
+ ],
+ "86965": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "NAGEKEO",
+   "c": "KEO TENGAH",
+   "d": [
+    "KELI",
+    "KOTADIRUMALI",
+    "KOTAWUJI BARAT",
+    "KOTAWUJI TIMUR",
+    "LADOLIMA",
+    "LADOLIMA TIMUR",
+    "LADOLIMA UTARA",
+    "LEWANGERA",
+    "MBAENUAMURI",
+    "NGERA",
+    "PAUTOLA",
+    "UDIWOROWATU",
+    "WAJO",
+    "WITUROMBAUA"
+   ]
+  }
+ ],
+ "86966": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "NAGEKEO",
+   "c": "WOLOWAE",
+   "d": [
+    "ANAKOLI",
+    "NATATOTO",
+    "TENDA KINDE",
+    "TENDATOTO",
+    "TOTOMALA"
+   ]
+  }
+ ],
+ "86972": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "NAGEKEO",
+   "c": "AESESA SELATAN",
+   "d": [
+    "LANGEDHAWE",
+    "RENDU BUTOWE",
+    "RENDUTENOE",
+    "RENDUWAWO",
+    "TENGATIBA"
+   ]
+  }
+ ],
+ "87111": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "SUMBA TIMUR",
+   "c": "KOTA WAINGAPU",
+   "d": [
+    "KAMALAPUTI"
+   ]
+  }
+ ],
+ "87112": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "SUMBA TIMUR",
+   "c": "KOTA WAINGAPU",
+   "d": [
+    "HAMBALA",
+    "KAMBAJAWA",
+    "LUKU KAMARU",
+    "MATAWAI",
+    "MBATAKAPIDU",
+    "PAMBOTANJARA"
+   ]
+  }
+ ],
+ "87121": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "SUMBA TIMUR",
+   "c": "KAMBERA",
+   "d": [
+    "WANGGA"
+   ]
+  }
+ ],
+ "87122": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "SUMBA TIMUR",
+   "c": "KAMBERA",
+   "d": [
+    "MALUMBI"
+   ]
+  }
+ ],
+ "87123": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "SUMBA TIMUR",
+   "c": "KAMBERA",
+   "d": [
+    "MAU HAU"
+   ]
+  }
+ ],
+ "87124": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "SUMBA TIMUR",
+   "c": "KAMBERA",
+   "d": [
+    "KIRITANA"
+   ]
+  }
+ ],
+ "87125": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "SUMBA TIMUR",
+   "c": "KAMBERA",
+   "d": [
+    "LAMBANAPU"
+   ]
+  }
+ ],
+ "87126": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "SUMBA TIMUR",
+   "c": "KAMBERA",
+   "d": [
+    "MAULIRU"
+   ]
+  }
+ ],
+ "87127": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "SUMBA TIMUR",
+   "c": "KAMBERA",
+   "d": [
+    "PRAILIU"
+   ]
+  }
+ ],
+ "87128": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "SUMBA TIMUR",
+   "c": "KAMBERA",
+   "d": [
+    "KAMBANIRU"
+   ]
+  }
+ ],
+ "87151": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "SUMBA TIMUR",
+   "c": "PANDAWAI",
+   "d": [
+    "KADUMBUL",
+    "KAMBATA TANA",
+    "KAWANGU",
+    "LAINDEHA",
+    "MAU BOKUL",
+    "PALAKAHEMBI",
+    "WATUMBAKA"
+   ]
+  }
+ ],
+ "87152": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "SUMBA TIMUR",
+   "c": "LEWA",
+   "d": [
+    "BIDI HUNGA",
+    "KAMBATA WUNDUT",
+    "KAMBU HAPANG",
+    "KONDAMARA",
+    "LEWAPAKU",
+    "MATAWAI PAWALI",
+    "RAKAWATU",
+    "TANARARA"
+   ]
+  }
+ ],
+ "87153": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "SUMBA TIMUR",
+   "c": "KATALA HAMU LINGU",
+   "d": [
+    "PRAI BAKUL"
+   ]
+  },
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "SUMBA TIMUR",
+   "c": "HAHARU",
+   "d": [
+    "KADAHANG",
+    "KALAMBA",
+    "MBATAPUHU",
+    "N A P U",
+    "PRAI BAKUL",
+    "RAMBANGARU",
+    "WUNGA"
+   ]
+  }
+ ],
+ "87154": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "SUMBA TIMUR",
+   "c": "KANATANG",
+   "d": [
+    "HAMBA PRAING",
+    "KUTA",
+    "MONDU",
+    "NDAPAYAMI",
+    "TEMU"
+   ]
+  }
+ ],
+ "87155": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "SUMBA TIMUR",
+   "c": "NGGAHA ORIANGU",
+   "d": [
+    "MAKAMENGGIT",
+    "NGADU LANGGI",
+    "PRAI KARANG",
+    "PRAI PAHA",
+    "PULU PANJANG",
+    "TANATUKU",
+    "TANDULA JANGGA"
+   ]
+  }
+ ],
+ "87156": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "SUMBA TIMUR",
+   "c": "KATALA HAMU LINGU",
+   "d": [
+    "KOMBAPARI",
+    "LAI LARA",
+    "MANDAHU",
+    "MATAWAI AMAHU",
+    "PRAI BAKUL"
+   ]
+  },
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "SUMBA TIMUR",
+   "c": "HAHARU",
+   "d": [
+    "PRAI BAKUL"
+   ]
+  }
+ ],
+ "87157": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "SUMBA TIMUR",
+   "c": "LEWA TIDAHU",
+   "d": [
+    "BIDI PRAING",
+    "KANGELI",
+    "MONDU LAMBI",
+    "UMAMANU",
+    "WATUMBELAR"
+   ]
+  }
+ ],
+ "87159": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "SUMBA TIMUR",
+   "c": "KAMBATA MAPAMBUHANG",
+   "d": [
+    "LAI META",
+    "LUKU WINGIR",
+    "MAHU BOKUL",
+    "MAIDANG",
+    "MARADA MUNDI",
+    "WAIMBIDI"
+   ]
+  }
+ ],
+ "87161": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "SUMBA TIMUR",
+   "c": "TABUNDUNG",
+   "d": [
+    "BANGGA WATU",
+    "BILLA",
+    "KARITA",
+    "KUKI TALU",
+    "PINDU HURANI",
+    "PRAING KAREHA",
+    "TAPIL",
+    "TARIMBANG",
+    "WAIKANABU",
+    "WUDI PANDAK"
+   ]
+  }
+ ],
+ "87162": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "SUMBA TIMUR",
+   "c": "PINUPAHAR",
+   "d": [
+    "LAILUNGGI",
+    "MAHA NIWA",
+    "RAMUK",
+    "TAWUI",
+    "WAHANG",
+    "WANGGA BEWA"
+   ]
+  }
+ ],
+ "87163": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "SUMBA TIMUR",
+   "c": "MATAWAI LA PAWU",
+   "d": [
+    "KARIPI",
+    "KATIKU LUKU",
+    "KATIKUTANA",
+    "KATIKUWAI",
+    "PRAI BOKUL",
+    "WANGGAMETI"
+   ]
+  }
+ ],
+ "87171": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "SUMBA TIMUR",
+   "c": "PABERIWAI",
+   "d": [
+    "KANANGGAR",
+    "KARERA JANGGA",
+    "LAI TAKU",
+    "MEHANG MATA",
+    "PABERA MANERA",
+    "PRAI MBANA",
+    "WINU MURU"
+   ]
+  }
+ ],
+ "87172": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "SUMBA TIMUR",
+   "c": "KARERA",
+   "d": [
+    "ANANJAKI",
+    "JANGGA MANGU",
+    "NANGGA",
+    "NGGONGI",
+    "PRAI SALURA",
+    "PRAIMADITA",
+    "TANDULA JANGGA"
+   ]
+  }
+ ],
+ "87173": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "SUMBA TIMUR",
+   "c": "NGADU NGALA",
+   "d": [
+    "HAMBA WUTANG",
+    "KABANDA",
+    "KAKAHA",
+    "PRAI WITU",
+    "PRAU RAMING"
+   ]
+  }
+ ],
+ "87174": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "SUMBA TIMUR",
+   "c": "MAHU",
+   "d": [
+    "HARAY",
+    "LA HIRU",
+    "LULUNDILU",
+    "PATAMAWAI",
+    "PRAI KALALA",
+    "WAIRARA"
+   ]
+  }
+ ],
+ "87175": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "SUMBA TIMUR",
+   "c": "KAHAUNGU ETI",
+   "d": [
+    "KAMANGGIH",
+    "KAMBATA BUNDUNG",
+    "KATAKA",
+    "KOTAK KAWAU",
+    "LAI MBONGA",
+    "MATAWAI KATINGGA",
+    "MATAWAI MARINGU",
+    "MAU RAMBA"
+   ]
+  }
+ ],
+ "87181": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "SUMBA TIMUR",
+   "c": "UMALULU",
+   "d": [
+    "LAIRURU",
+    "LUMBUKORE",
+    "MATAWAI ATU",
+    "MUTUNGGEDING",
+    "NGARU KANORU",
+    "PATAWANG",
+    "UMALULU",
+    "WANGA",
+    "WATU HADANG",
+    "WATU PUDA"
+   ]
+  }
+ ],
+ "87182": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "SUMBA TIMUR",
+   "c": "PAHUNGA LODU",
+   "d": [
+    "KALIUDA",
+    "KURUWAKI",
+    "LAMBAKARA",
+    "MBURUKULU",
+    "PALANGGAI",
+    "PAMBURU",
+    "TAMMA",
+    "TANAMANANG"
+   ]
+  }
+ ],
+ "87183": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "SUMBA TIMUR",
+   "c": "WULA WAIJELU",
+   "d": [
+    "HADAKAMALI",
+    "LA TENA",
+    "LAI PANDAK",
+    "LAINJANJI",
+    "LUMBU MANGGIT",
+    "PARANDA",
+    "W U L A"
+   ]
+  }
+ ],
+ "87184": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "SUMBA TIMUR",
+   "c": "RINDI",
+   "d": [
+    "HANGGARORU",
+    "HEIKATAPU",
+    "KABARU",
+    "KAYURI",
+    "LAI LANJANG",
+    "RINDI",
+    "TAMBURI",
+    "TANARAING"
+   ]
+  }
+ ],
+ "87211": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "SUMBA BARAT",
+   "c": "KOTA WAIKABUBAK",
+   "d": [
+    "KOMERDA"
+   ]
+  }
+ ],
+ "87212": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "SUMBA BARAT",
+   "c": "KOTA WAIKABUBAK",
+   "d": [
+    "WAILIANG"
+   ]
+  }
+ ],
+ "87213": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "SUMBA BARAT",
+   "c": "KOTA WAIKABUBAK",
+   "d": [
+    "KAMPUNG SAWAH"
+   ]
+  }
+ ],
+ "87214": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "SUMBA BARAT",
+   "c": "KOTA WAIKABUBAK",
+   "d": [
+    "KAMPUNG BARU"
+   ]
+  }
+ ],
+ "87215": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "SUMBA BARAT",
+   "c": "KOTA WAIKABUBAK",
+   "d": [
+    "KODAKA"
+   ]
+  }
+ ],
+ "87216": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "SUMBA BARAT",
+   "c": "KOTA WAIKABUBAK",
+   "d": [
+    "TEBARA"
+   ]
+  }
+ ],
+ "87217": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "SUMBA BARAT",
+   "c": "KOTA WAIKABUBAK",
+   "d": [
+    "KALEMBU KUNI"
+   ]
+  }
+ ],
+ "87219": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "SUMBA BARAT",
+   "c": "KOTA WAIKABUBAK",
+   "d": [
+    "LAPALE",
+    "MALITI",
+    "MODU WAIMARINGU",
+    "PADA EWETA",
+    "SOBA RADE"
+   ]
+  }
+ ],
+ "87257": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "SUMBA BARAT",
+   "c": "TANA RIGHU",
+   "d": [
+    "BONDO TERA",
+    "KAREKA NDUKU",
+    "LINGU LANGO",
+    "LOKO RY",
+    "LOLO WANO",
+    "MALATA",
+    "MANU KUKU",
+    "NGADU PADA",
+    "WEE PATOLA",
+    "ZALA KADU"
+   ]
+  }
+ ],
+ "87271": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "SUMBA BARAT",
+   "c": "LAMBOYA",
+   "d": [
+    "BODO HULA",
+    "KABU KARUDI",
+    "LABOYA DETE",
+    "PATIALA BAWA",
+    "RAJAKA",
+    "RINGU RARA",
+    "SODANA",
+    "WATU KARERE"
+   ]
+  }
+ ],
+ "87272": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "SUMBA BARAT",
+   "c": "WANOKAKA",
+   "d": [
+    "BALI LOKU",
+    "HOBA WAWI",
+    "HUPU MADA",
+    "KATIKU LOKU",
+    "MAMODU",
+    "PAHOLA",
+    "PRAI BAKUL",
+    "RUA",
+    "TARA MANU",
+    "WAI HURA"
+   ]
+  }
+ ],
+ "87273": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "SUMBA BARAT",
+   "c": "LABOYA BARAT",
+   "d": [
+    "GAURA",
+    "HARONA KALA",
+    "PATIALA DETE",
+    "WETANA"
+   ]
+  }
+ ],
+ "87284": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "SUMBA BARAT",
+   "c": "LOLI",
+   "d": [
+    "BALI LEDO",
+    "BERA DOLU",
+    "DEDE KADU",
+    "DIRA TANA",
+    "DOKA KAKA",
+    "LODA PARE",
+    "SOBA WAWI",
+    "TANA RARA",
+    "TEMA TANA",
+    "UBU PEDE",
+    "UBU RAYA",
+    "WEE DABO",
+    "WEE KAROU"
+   ]
+  }
+ ],
+ "87311": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "SUMBA TENGAH",
+   "c": "KATIKUTANA",
+   "d": [
+    "ANAKALANG"
+   ]
+  }
+ ],
+ "87312": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "SUMBA TENGAH",
+   "c": "KATIKUTANA",
+   "d": [
+    "MAKATA KERI"
+   ]
+  }
+ ],
+ "87313": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "SUMBA TENGAH",
+   "c": "KATIKUTANA",
+   "d": [
+    "KABELA WUNTU"
+   ]
+  }
+ ],
+ "87314": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "SUMBA TENGAH",
+   "c": "KATIKUTANA",
+   "d": [
+    "MATA WOGA"
+   ]
+  }
+ ],
+ "87315": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "SUMBA TENGAH",
+   "c": "KATIKUTANA",
+   "d": [
+    "UMBU RIRI"
+   ]
+  }
+ ],
+ "87316": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "SUMBA TENGAH",
+   "c": "KATIKUTANA",
+   "d": [
+    "DEWA JARA"
+   ]
+  }
+ ],
+ "87317": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "SUMBA TENGAH",
+   "c": "KATIKUTANA",
+   "d": [
+    "MATA REDI"
+   ]
+  }
+ ],
+ "87358": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "SUMBA TENGAH",
+   "c": "MAMBORO",
+   "d": [
+    "BONDO SULLA",
+    "CENDANA",
+    "CENDANA BARAT",
+    "MANU WOLU",
+    "OLE ATE",
+    "OLE DEWA",
+    "SUSU WENDEWA",
+    "WATU ASA",
+    "WEE LURI",
+    "WENDEWA BARAT",
+    "WENDEWA SELATAN",
+    "WENDEWA TIMUR",
+    "WENDEWA UTARA"
+   ]
+  }
+ ],
+ "87381": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "SUMBA TENGAH",
+   "c": "KATIKUTANA SELATAN",
+   "d": [
+    "DAMEKA",
+    "KONDA MALOBA",
+    "MALINJAK",
+    "MANURARA",
+    "OKA WACU",
+    "TANA MODU",
+    "WAI LAWA",
+    "WAI MANU"
+   ]
+  }
+ ],
+ "87383": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "SUMBA TENGAH",
+   "c": "UMBU RATU NGGAY",
+   "d": [
+    "BOLUBOKAT",
+    "BOLUBOKAT BARAT",
+    "BOLUBOKAT UTARA",
+    "LENANG",
+    "LENANG SELATAN",
+    "MARADESA",
+    "MARADESA SELATAN",
+    "MARADESA TIMUR",
+    "MBILUR PANGADU",
+    "NGADU MBOLU",
+    "NGADU OLU",
+    "PADIRA TANA",
+    "PRAI KAROKU JANGGA",
+    "SORU",
+    "TANA MBANAS",
+    "TANA MBANAS BARAT",
+    "TANA MBANAS SELATAN",
+    "WELUK PRAI MEMANG"
+   ]
+  }
+ ],
+ "87384": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "SUMBA TENGAH",
+   "c": "UMBU RATU NGGAY BARAT",
+   "d": [
+    "ANAJIAKA",
+    "ANAPALU",
+    "DAHA ELU",
+    "DEWA TANA",
+    "HOLUR KAMBATA",
+    "MADERI",
+    "MATA WAIKAJAWI",
+    "PONDOK",
+    "PRAI MADETA",
+    "SAMBALI LOKU",
+    "UMBU JODU",
+    "UMBU KAWOLU",
+    "UMBU LANGGANG",
+    "UMBU MAMIJUK",
+    "UMBU PABAL",
+    "UMBU PABAL SELATAN",
+    "WAI RASA",
+    "WANGGA WAIYENGU"
+   ]
+  }
+ ],
+ "87415": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "SUMBA BARAT DAYA",
+   "c": "LOURA",
+   "d": [
+    "KARUNI"
+   ]
+  }
+ ],
+ "87416": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "SUMBA BARAT DAYA",
+   "c": "LOURA",
+   "d": [
+    "BONDO BOGHILA",
+    "LETE KONDA",
+    "RAMMA DANA",
+    "TOTOK",
+    "WEE MANADA"
+   ]
+  }
+ ],
+ "87452": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "SUMBA BARAT DAYA",
+   "c": "WEWEWA TIMUR",
+   "d": [
+    "DANGGA MANGO",
+    "DIKIRA",
+    "KALEMBU NDARA MANE",
+    "LETEKAMOUNA",
+    "MAREDA KALADA",
+    "MATA PYAWU",
+    "PADA EWATA",
+    "TEMA TANA",
+    "WEE LIMA",
+    "WEELIMBU"
+   ]
+  }
+ ],
+ "87453": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "SUMBA BARAT DAYA",
+   "c": "WEWEWA BARAT",
+   "d": [
+    "KABALI DANA",
+    "KALEMBU TILU",
+    "KALEMBU WERI",
+    "MAROKOTA",
+    "MENNE ATE",
+    "REDA PADA",
+    "WAIMANGURA",
+    "WALI ATE",
+    "WATU LAMBARA",
+    "WEE KOMBAKA"
+   ]
+  }
+ ],
+ "87455": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "SUMBA BARAT DAYA",
+   "c": "WEWEWA UTARA",
+   "d": [
+    "MALI MADA",
+    "MATALOKO",
+    "PUU POTTO",
+    "WANO TALLA",
+    "WEE NAMBA",
+    "WEE PABOBA"
+   ]
+  }
+ ],
+ "87461": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "SUMBA BARAT DAYA",
+   "c": "KODI",
+   "d": [
+    "BONDO KODI",
+    "HAMONGGO LELE",
+    "HOMBA RANDE",
+    "KAPAKA MADETA",
+    "KAWANGO HARI",
+    "KOKI",
+    "ONGGOL",
+    "PERO BATANG",
+    "WURA HOMBA"
+   ]
+  }
+ ],
+ "87462": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "SUMBA BARAT DAYA",
+   "c": "KODI BANGEDO",
+   "d": [
+    "DINJO",
+    "LETE LOKO",
+    "MATA KAPORE",
+    "RADA LOKO",
+    "UMBU NGEDO",
+    "WAI KADADA",
+    "WALLA NDIMU"
+   ]
+  }
+ ],
+ "87463": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "SUMBA BARAT DAYA",
+   "c": "WEWEWA SELATAN",
+   "d": [
+    "BONDO BELA",
+    "BONDO UKKA",
+    "BURU DEILO",
+    "DELO",
+    "DENDUKA",
+    "WERI LOLO"
+   ]
+  }
+ ],
+ "87464": [
+  {
+   "p": "NUSA TENGGARA TIMUR",
+   "k": "SUMBA BARAT DAYA",
+   "c": "KODI UTARA",
+   "d": [
+    "BILA CENGE",
+    "BUKAMBERO",
+    "HOHA WUNGO",
+    "HOMBA KARIPIT",
+    "KALENA RONGO",
+    "KENDU WELA",
+    "KORI",
+    "MANGGA NIPI",
+    "NOHA",
+    "WAI HOLO",
+    "WAILA BUBUR"
+   ]
+  }
+ ]
+}

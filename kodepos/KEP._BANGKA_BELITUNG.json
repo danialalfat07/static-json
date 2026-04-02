@@ -1,0 +1,424 @@
+{
+  "BANGKA": {
+    "BAKAM": {
+      "BAKAM": "33252",
+      "BUKITLAYANG": "33252",
+      "DALIL": "33252",
+      "KAPUK": "33252",
+      "MABAT": "33252",
+      "MANGKA": "33252",
+      "MARAS SENANG": "33252",
+      "NEKNANG": "33252",
+      "TIANG TARA": "33252"
+    },
+    "BELINYU": {
+      "AIR JUKUNG": "33254",
+      "BINTET": "33254",
+      "BUKIT KETOK": "33254",
+      "GUNUNG MUDA": "33254",
+      "GUNUNG PELAWAN": "33254",
+      "KUTO PANJI": "33254",
+      "LUMUT": "33254",
+      "RIDING PANJANG": "33254"
+    },
+    "MENDO BARAT": {
+      "AIR BULUH": "33273",
+      "AIRDUREN": "33273",
+      "CENGKONGABANG": "33273",
+      "KACE": "33273",
+      "KEMUJA": "33273",
+      "KOTA KAPUR": "33273",
+      "LABUH AIR PANDAN": "33273",
+      "PAYABENUA": "33273",
+      "PENAGAN": "33273",
+      "PETALING": "33273",
+      "RUKAM": "33273",
+      "ZED": "33273"
+    },
+    "MERAWANG": {
+      "AIR ANYIR": "33272",
+      "BALUNIJUK": "33272",
+      "BATURUSA": "33272",
+      "DWI MAKMUR": "33272",
+      "JADA BAHRIN": "33272",
+      "JURUNG": "33272",
+      "KIMAK": "33272",
+      "MERAWANG": "33272",
+      "PAGARAWAN": "33272",
+      "RIDING PANJANG": "33272"
+    },
+    "PEMALI": {
+      "AIR DUREN": "33255",
+      "AIR RUAI": "33255",
+      "KARYA MAKMUR": "33255",
+      "PEMALI": "33255",
+      "PENYAMUN": "33255",
+      "SEMPAN": "33255"
+    },
+    "PUDING BESAR": {
+      "KOTAWARINGIN": "33279",
+      "LABU": "33279",
+      "NIBUNG": "33279",
+      "PUDINGBESAR": "33279",
+      "SAING": "33279",
+      "TANAH BAWAH": "33279"
+    },
+    "RIAU SILIP": {
+      "BANYU ASIN": "33253",
+      "BERBURA": "33253",
+      "CIT": "33253",
+      "DENIANG": "33253",
+      "MAPUR": "33253",
+      "PANGKAL NIUR": "33253",
+      "PUGUL": "33253",
+      "RIAU": "33253",
+      "SILIP": "33253"
+    },
+    "SUNGAI LIAT": {
+      "KENANGA": "33216",
+      "KUDAY": "33213",
+      "PARIT PADANG": "33215",
+      "REBO": "33217",
+      "SINAR BARU": "33212",
+      "SRIMENANTI": "33214",
+      "SUNGAILIAT": "33211"
+    }
+  },
+  "BANGKA BARAT": {
+    "JEBUS": {
+      "AIR KUANG": "33362",
+      "JEBUS": "33362",
+      "KETAP": "33362",
+      "LIMBUNG": "33362",
+      "MISLAK": "33362",
+      "PEBUAR": "33362",
+      "RANGGI/ASAM": "33362",
+      "RUKAM": "33362",
+      "SINAR MANIK": "33362",
+      "SUNGAI BULUH": "33362",
+      "TUMBAK PETAR": "33362"
+    },
+    "KELAPA": {
+      "AIR BULIN": "33364",
+      "BERUAS": "33364",
+      "DENDANG": "33364",
+      "KACUNG": "33364",
+      "KAYUARANG": "33364",
+      "MANCUNG": "33364",
+      "PANGKAL BERAS": "33364",
+      "PUSUK": "33364",
+      "SINAR SARI": "33364",
+      "TEBING": "33364",
+      "TERENTANG": "33364",
+      "TUGANG": "33364",
+      "TUIK": "33364"
+    },
+    "MENTOK": {
+      "AIR BELO": "33315",
+      "AIR PUTIH": "33317",
+      "AIRLIMAU": "33314",
+      "BELOLAUT": "33316",
+      "SUNGAI BARU": "33312",
+      "SUNGAI DAENG": "33313",
+      "TANJUNG": "33311"
+    },
+    "PARITTIGA": {
+      "AIR GANTANG": "33363",
+      "BAKIT": "33363",
+      "CUPAT": "33363",
+      "KAPIT": "33363",
+      "KELABAT": "33363",
+      "PUPUT": "33363",
+      "SEKAR BIRU": "33363",
+      "SEMULUT": "33363",
+      "TELAK": "33363",
+      "TELUK LIMAU": "33363"
+    },
+    "SIMPANG TERITIP": {
+      "AIR MENDUYUNG": "33366",
+      "AIR NYATOH": "33366",
+      "BERANG": "33366",
+      "BUKIT TERAK": "33366",
+      "IBUL": "33366",
+      "KUNDI": "33366",
+      "MAYANG": "33366",
+      "PANGEK": "33366",
+      "PELANGAS": "33366",
+      "RAMBAT": "33366",
+      "SIMPANG GONG": "33366",
+      "SIMPANG TIGA": "33366"
+    },
+    "TEMPILANG": {
+      "AIR LINTANG": "33365",
+      "BENTENG KUTA": "33365",
+      "BUYAN KELUMBI": "33365",
+      "PENYAMPAK": "33365",
+      "SANGKU": "33365",
+      "SINAR SURYA": "33365",
+      "TANJUNGNIUR": "33365",
+      "TEMPILANG": "33365"
+    }
+  },
+  "BANGKA SELATAN": {
+    "AIR GEGAS": {
+      "AIR BARA": "33782",
+      "AIRGEGAS": "33782",
+      "BENCAH": "33782",
+      "DELAS": "33782",
+      "NANGKA": "33782",
+      "NYELANDING": "33782",
+      "PERGAM": "33782",
+      "RANGGAS": "33782",
+      "SIDOHARJO": "33782",
+      "TEPUS": "33782"
+    },
+    "LEPAR PONGOK": {
+      "KUMBUNG": "33791",
+      "PENUTUK": "33791"
+    },
+    "PAYUNG": {
+      "BEDENGUNG": "33778",
+      "IRAT": "33778",
+      "MALIK": "33778",
+      "NADUNG": "33778",
+      "PAKU": "33778",
+      "PANGKALBULUH": "33778",
+      "PAYUNG": "33778",
+      "RANGGUNG": "33778",
+      "SENGIR": "33778"
+    },
+    "SIMPANG RIMBA": {
+      "BANGKA KOTA": "33777",
+      "GUDANG": "33777",
+      "JELUTUNG II": "33777",
+      "PERMIS": "33777",
+      "RAJIK": "33777",
+      "SEBAGIN": "33777",
+      "SIMPANG RIMBA": "33777"
+    },
+    "TOBOALI": {
+      "BIKANG": "33719",
+      "GADUNG": "33711",
+      "JERIJI": "33719",
+      "KEPOH": "33719",
+      "RIAS": "33719",
+      "RINDIK": "33719",
+      "SERDANG": "33719",
+      "TELADAN": "33712",
+      "TOBOALI": "33714"
+    },
+    "TUKAK SADAI": {
+      "PASIR PUTIH": "33784",
+      "SADAI": "33784",
+      "TIRAM": "33784",
+      "TUKAK": "33784"
+    }
+  },
+  "BANGKA TENGAH": {
+    "KOBA": {
+      "ARUNG DALAM": "33615",
+      "BEROK": "33614",
+      "GUNTUNG": "33615",
+      "KOBA": "33613",
+      "KURAU BARAT": "33617",
+      "NIBUNG": "33612",
+      "PADANG MULIA": "33614",
+      "PENYAK": "33616",
+      "SIMPANG PERLANG": "33611"
+    },
+    "LUBUK BESAR": {
+      "BATU BERIGA": "33686",
+      "KULUR": "33686",
+      "KULUR ILIR": "33686",
+      "LUBUK BESAR": "33686",
+      "LUBUK LINGKUK": "33686",
+      "LUBUK PABRIK": "33686",
+      "PERLANG": "33686"
+    },
+    "NAMANG": {
+      "BASKARA BAKTI": "33685",
+      "BELILIK": "33685",
+      "BUKIT KIJANG": "33685",
+      "CAMBAI": "33685",
+      "JELUTUNG": "33685",
+      "KAYU BESI": "33685",
+      "NAMANG": "33685"
+    },
+    "PANGKALAN BARU": {
+      "AIRMESU": "33684",
+      "BATU BELUBANG": "33684",
+      "BELULUK": "33684",
+      "BENTENG": "33684",
+      "JERUK": "33684",
+      "MANGKOL": "33684",
+      "PADANG BARU": "33684",
+      "PEDINDANG": "33684",
+      "TANJUNG GUNUNG": "33684"
+    },
+    "SIMPANG KATIS": {
+      "BERUAS": "33674",
+      "CELUAK": "33674",
+      "KATIS": "33674",
+      "PASIR GARAM": "33674",
+      "PINANG SEBATANG": "33674",
+      "PUPUT": "33674",
+      "SIMPANG KATIS": "33674",
+      "SUNGKAP": "33674",
+      "TERAK": "33674",
+      "TERU": "33674"
+    },
+    "SUNGAI SELAN": {
+      "KEMINGKING": "33675",
+      "KERAKAS": "33675",
+      "KERANTAI": "33675",
+      "KERETAK": "33675",
+      "KERETAK ATAS": "33675",
+      "LAMPUR": "33675",
+      "MUNGGU": "33675",
+      "RAMADHON": "33675",
+      "SARANGMANDI": "33675",
+      "SUNGAI SELAN": "33675",
+      "SUNGAI SELAN ATAS": "33675",
+      "TANJUNGPURA": "33675"
+    }
+  },
+  "BELITUNG": {
+    "BADAU": {
+      "AIR BATU BUDING": "33453",
+      "BADAU": "33453",
+      "CERUCUK": "33453",
+      "IBUL": "33453",
+      "KACANG BOTOR": "33453",
+      "PEGANTUNGAN": "33453"
+    },
+    "MEMBALONG": {
+      "BANTAN": "33452",
+      "KEMBIRI": "33452",
+      "LASSAR": "33452",
+      "MEMBALONG": "33452",
+      "MENTIGI": "33452",
+      "PADANG KANDIS": "33452",
+      "PERPAT": "33452",
+      "SIMPANG RUSA": "33452"
+    },
+    "SELAT NASIK": {
+      "PETALING": "33481",
+      "SELAT NASIK": "33481",
+      "SUAK GUAL": "33481"
+    },
+    "SIJUK": {
+      "AIR SELUMAR": "33454",
+      "BATU ITAM": "33454",
+      "KECIPUT": "33454",
+      "PELEPAK  PUTE": "33454",
+      "SIJUK": "33454",
+      "TERONG": "33454"
+    },
+    "TANJUNG PANDAN": {
+      "AIR MERBAU": "33419",
+      "AIR SAGA": "33415",
+      "BULUH TUMBANG": "33419",
+      "DUKONG": "33418",
+      "JURU SEBERANG": "33417",
+      "KAMPONG DAMAI": "33416",
+      "PAAL SATU": "33414",
+      "PARIT": "33416",
+      "PERAWAS": "33413"
+    }
+  },
+  "BELITUNG TIMUR": {
+    "DAMAR": {
+      "AIR KELIK": "33573",
+      "BURUNG MANDI": "33573",
+      "MEMPAYA": "33573",
+      "MENGKUBANG": "33573",
+      "SUKAMANDI": "33573"
+    },
+    "DENDANG": {
+      "BALOK": "33561",
+      "DENDANG": "33561",
+      "JANGKANG": "33561",
+      "NYURUK": "33561"
+    },
+    "GANTUNG": {
+      "BATU PENYU": "33562",
+      "GANTUNG": "33562",
+      "JANGKAR ASAM": "33562",
+      "LENGGANG": "33562",
+      "LILANGAN": "33562",
+      "LIMBONGAN": "33563",
+      "SELINGSING": "33562"
+    },
+    "KELAPA KAMPIT": {
+      "BUDING": "33571",
+      "CENDIL": "33571",
+      "MAYANG": "33571",
+      "MENTAWAK": "33571",
+      "PEMBAHARUAN": "33571",
+      "SENYUBUK": "33571"
+    },
+    "MANGGAR": {
+      "BARU": "33515",
+      "BENTAIAN JAYA": "33519",
+      "KELUBI": "33517",
+      "KURNIA JAYA": "33514",
+      "LALANG": "33512",
+      "LALANG JAYA": "33513",
+      "MEKAR JAYA": "33519",
+      "PADANG": "33511"
+    },
+    "SIMPANG PESAK": {
+      "DUKONG": "33564",
+      "SIMPANG PESAK": "33564",
+      "TANJUNG BATU ITAM": "33564",
+      "TANJUNG KELUMPANG": "33564"
+    },
+    "SIMPANG RENGGIANG": {
+      "AIK MADU": "33563",
+      "LINTANG": "33563",
+      "RENGGIANG": "33563",
+      "SIMPANG TIGA": "33563"
+    }
+  },
+  "PANGKAL PINANG": {
+    "GABEK": {
+      "AIR SALEMBA": "33119",
+      "JERAMBAH GANTUNG": "33118",
+      "SELINDUNG": "33117",
+      "SELINDUNG BARU": "33117"
+    },
+    "GERUNGGANG": {
+      "KACANG PEDANG": "33124",
+      "TAMAN BUNGA": "33122"
+    },
+    "GIRIMAYA": {
+      "PASAR PADI": "33146",
+      "SEMABUNG BARU": "33146",
+      "SRIWIJAYA": "33143"
+    },
+    "PANGKAL BALAM": {
+      "AMPUI": "33113",
+      "KETAPANG": "33114",
+      "LONTONG PANCUR": "33115",
+      "PASIR GARAM": "33115",
+      "REJOSARI": "33111"
+    },
+    "RANGKUI": {
+      "ASAM": "33135",
+      "BINTANG": "33138",
+      "GAJAH MADA": "33133",
+      "KERAMAT": "33134",
+      "MASJID JAMIK": "33132",
+      "MELINTANG": "33136",
+      "PARIT LALANG": "33137",
+      "PINTU AIR": "33133"
+    },
+    "TAMAN SARI": {
+      "BATIN TIKAL": "33126",
+      "GEDUNG NASIONAL": "33127",
+      "KEJAKSAAN": "33125",
+      "OPAS INDAH": "33129",
+      "RAWA BANGUN": "33127"
+    }
+  }
+}

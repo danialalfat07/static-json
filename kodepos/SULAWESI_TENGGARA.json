@@ -1,0 +1,2060 @@
+{
+  "BAUBAU": {
+    "BETOAMBARI": {
+      "KATOBENGKE": "93724",
+      "LABALAWA": "93724",
+      "LIPU": "93724",
+      "SULAA": "93724",
+      "WABOROBO": "93724"
+    },
+    "BUNGI": {
+      "KAMPEONAHO": "93729",
+      "LIABUKU": "93729",
+      "NGKARI-NGKARI": "93729",
+      "TAMPUNA": "93729",
+      "WALIABUKU": "93729"
+    },
+    "KOKALUKUNA": {
+      "KADOLO": "93716",
+      "KADOLOMOKO": "93716",
+      "LAKOLOGOU": "93716",
+      "LIWUTO": "93716",
+      "SUKANAYO": "93716",
+      "WARURUMA": "93716"
+    },
+    "LEA-LEA": {
+      "KALIA-LIA": "93719",
+      "KANTALAI": "93719",
+      "KOLESE": "93719",
+      "LOWU-LOWU": "93719",
+      "PALABUSA": "93719"
+    },
+    "MURHUM": {
+      "BAADIA": "93727",
+      "LAMANGGA": "93725",
+      "MELAI": "93727",
+      "TANGANAPADA": "93725",
+      "WAJO": "93726"
+    },
+    "SORAWOLIO": {
+      "BUGI": "93728",
+      "GONDA BARU": "93728",
+      "KAISABU BARU": "93728",
+      "KARYA BARU": "93728"
+    },
+    "WOLIO": {
+      "BATARAGURU": "93713",
+      "BATULO": "93712",
+      "BUKIT WOLIO INDAH": "93714",
+      "KADOLO KATAPI": "93715",
+      "TOMBA": "93712",
+      "WALE": "93711",
+      "WANGKANAPI": "93714"
+    }
+  },
+  "BOMBANA": {
+    "KABAENA": {
+      "RAHADOPI": "93781",
+      "RAHAMPUU": "93781",
+      "TEOMOKOLE": "93781",
+      "TIRONGKOTUA": "93781"
+    },
+    "KABAENA BARAT": {
+      "BALIARA": "93786",
+      "BALIARA KEPULAUAN": "93786",
+      "BALIARA SELATAN": "93786",
+      "RAHANTARI": "93786",
+      "SIKELI": "93786"
+    },
+    "KABAENA SELATAN": {
+      "BATUAWU": "93782",
+      "LANGKEMA": "93782",
+      "PONGKALAERO": "93782",
+      "PUU NUNU": "93782"
+    },
+    "KABAENA TENGAH": {
+      "ENANO": "93784",
+      "LAMONGGI": "93784",
+      "LENGORA": "93784",
+      "LENGORA PANTAI": "93784",
+      "LENGORA SELATAN": "93784",
+      "TANGKENO": "93784",
+      "ULUNGKURA": "93784",
+      "UPT LENGORA PANTAI": "93784"
+    },
+    "KABAENA TIMUR": {
+      "BALO": "93783",
+      "BUNGI-BUNGI": "93783",
+      "DONGKALA": "93783",
+      "LAMBALE": "93783",
+      "TAPUHAKA": "93783",
+      "TOLI-TOLI": "93783",
+      "WUMBUBURO": "93783"
+    },
+    "KABAENA UTARA": {
+      "EEMOKOLO": "93785",
+      "LAROLANU (SP3)": "93785",
+      "MAPILA": "93785",
+      "TEDUBARA": "93785",
+      "WUMBULASA": "93785"
+    },
+    "KEP. MASALOKA RAYA": {
+      "BATU LAMBURI": "93779",
+      "MASALOKA": "93779",
+      "MASALOKA BARAT": "93779",
+      "MASALOKA SELATAN": "93779",
+      "MASALOKA TIMUR": "93779"
+    },
+    "LANTARI JAYA": {
+      "ANUGERAH": "93775",
+      "KALAERO": "93775",
+      "LANGKOWALA": "93775",
+      "LANTARI": "93775",
+      "PASSARE APUA": "93775",
+      "RARONGKEU": "93775",
+      "TINABITE": "93775",
+      "WATU-WATU": "93775"
+    },
+    "MATA OLEO": {
+      "BATU SEMPE INDAH": "93771",
+      "HAMBAWA": "93771",
+      "LALOA": "93771",
+      "LIANO": "93771",
+      "LORA": "93771",
+      "MAWAR": "93771",
+      "POMONTORO": "93771",
+      "PULAU TAMBAKO": "93771",
+      "TAJUNCU": "93771",
+      "TOLI-TOLI": "93771"
+    },
+    "MATA USU": {
+      "KOLOMBI MATA USU": "93775",
+      "LAMURU": "93775",
+      "MORENGKE": "93775",
+      "TOTOLE": "93775",
+      "WIA-WIA": "93775"
+    },
+    "POLEANG": {
+      "BOEARA": "93772",
+      "BOEPINANG": "93772",
+      "BOEPINANG BARAT": "93772",
+      "KASABOLO": "93772",
+      "KASTARIB": "93772",
+      "MATTIROWALIE": "93772",
+      "PALLIMAE": "93772",
+      "SALOSA": "93772"
+    },
+    "POLEANG BARAT": {
+      "BABAMOLINGKU": "93772",
+      "BALASARI": "93772",
+      "BULU MANAI": "93772",
+      "LAMEO-MEONG": "93772",
+      "PABIRING": "93772",
+      "RAKADUA": "93772",
+      "RANOKOMEA": "93772",
+      "TIMBALA": "93772"
+    },
+    "POLEANG SELATAN": {
+      "AKACIPONG": "93773",
+      "BATU PUTIH": "93773",
+      "KALIBARU": "93773",
+      "LAEA": "93773",
+      "WAEMPUTANG": "93773"
+    },
+    "POLEANG TENGAH": {
+      "LABO EA": "93745",
+      "MULAENO": "93772",
+      "PARIA": "93772",
+      "POLEONRO": "93772"
+    },
+    "POLEANG TENGGARA": {
+      "LAMOARE": "93773",
+      "LARETE": "93773",
+      "TERAPUNG": "93773"
+    },
+    "POLEANG TIMUR": {
+      "BAMBAEA": "93773",
+      "BIRU": "93773",
+      "MAMBO": "93773",
+      "PUULEMO": "93773",
+      "TEPPOE": "93773"
+    },
+    "POLEANG UTARA": {
+      "KARYA BARU": "93774",
+      "LAWATU EA": "93774",
+      "PUSU EA": "93774",
+      "ROMPU ROMPU": "93774",
+      "TANAH POLEANG": "93774",
+      "TOBURI": "93774",
+      "WAMBAREMA": "93774"
+    },
+    "RAROWATU": {
+      "LADUMPI": "93774",
+      "LAKOMEA": "93774",
+      "LAMPEANTANI": "93774",
+      "PANGKURI": "93774",
+      "RAROWATU": "93774",
+      "RAU-RAU": "93774",
+      "TAUBONTO": "93774",
+      "WATU KALANGKARI": "93774"
+    },
+    "RAROWATU UTARA": {
+      "ANEKA MARGA": "93774",
+      "HUKAEA": "93774",
+      "LANTOWUA": "93774",
+      "MARGA JAYA": "93774",
+      "TEMBE": "93774",
+      "TUNAS BARU": "93774",
+      "WATU MENTADE": "93774",
+      "WUMBUBANGKA": "93774"
+    },
+    "RUMBIA": {
+      "DOULE": "93771",
+      "KASIPUTE": "93771",
+      "LAMERORO": "93771",
+      "LAMPOPALA": "93771",
+      "LANTOWONUA": "93771"
+    },
+    "RUMBIA TENGAH": {
+      "KAMPUNG BARU": "93771",
+      "LAMPATA": "93771",
+      "LAURU": "93771",
+      "PO EA": "93771",
+      "TAPUHAHI": "93771"
+    },
+    "TONTONUNU": {
+      "PUU WONUA": "93775",
+      "TETEHAKA": "93775",
+      "TONGKOSENG": "93775",
+      "TONTONUNU": "93775",
+      "WATU MELOMBA": "93775"
+    }
+  },
+  "BUTON": {
+    "KAPONTORI": {
+      "BARANGKA": "93755",
+      "BONEATIRO": "93755",
+      "BONEATIRO BARAT": "93755",
+      "BUKIT ASRI": "93755",
+      "KAMELANTA": "93755",
+      "LAMBUSANGO": "93755",
+      "LAMBUSANGO TIMUR": "93755",
+      "MABULUGO": "93755",
+      "TODANGA": "93755",
+      "TUANGILA": "93755",
+      "TUMADA": "93755",
+      "WAKALAMBE": "93755",
+      "WAKANGKA": "93755",
+      "WAKULI": "93755",
+      "WAMBULU": "93755",
+      "WAONDO WOLIO": "93755",
+      "WATUMOTOBE": "93755"
+    },
+    "LASALIMU": {
+      "BONELALO": "93756",
+      "KAKENAUWE": "93756",
+      "KAMARU": "93756",
+      "LASEMBANGI": "93756",
+      "LAWELE": "93756",
+      "SRIBATARA": "93756",
+      "SUANDALA": "93756",
+      "TOGO MANGURA": "93756",
+      "WAGARI": "93756",
+      "WAOLEONA": "93756",
+      "WASUAMBA": "93756"
+    },
+    "LASALIMU SELATAN": {
+      "AMBUAU INDAH": "93757",
+      "HARAPAN JAYA": "93757",
+      "KINAPANI MAKMUR": "93757",
+      "LASALIMU": "93757",
+      "MEGA BAHARI": "93757",
+      "MOPAANO": "93757",
+      "MULYA JAYA": "93734",
+      "SANGIA ARANO": "93757",
+      "SIOMANURU": "93757",
+      "SIONTAPINA": "93757",
+      "SUMBER AGUNG": "93757",
+      "UMALAOGE": "93757"
+    },
+    "PASAR WAJO": {
+      "AWAINULU": "93754",
+      "BANABUNGI": "93754",
+      "DONGKALA": "93754",
+      "HOLIMOMBO": "93754",
+      "HOLIMOMBO JAYA": "93754",
+      "KAMBULA MBULANA": "93754",
+      "KANCINAA": "93754",
+      "KOMBELI": "93754",
+      "KONDOWA": "93754",
+      "LABURUNCI": "93754",
+      "LAPODI": "93754",
+      "PASAR WAJO": "93754",
+      "SARAGI": "93754",
+      "TAKIMPO": "93754",
+      "WARINTA": "93754",
+      "WASAGA": "93754",
+      "WINNING": "93754"
+    },
+    "SIONTAPINA": {
+      "KARYA": "93734",
+      "KUMBEWAHA": "93734",
+      "KURAA": "93734",
+      "LABUANDIRI": "93734",
+      "MANURU": "93734",
+      "MATANAUWE": "93734",
+      "SAMPUABALO": "93734",
+      "SUMBER SARI": "93734",
+      "WALOMPO": "93734"
+    },
+    "WABULA": {
+      "HOLIMOMBO": "93732",
+      "WABULA": "93732",
+      "WABULA 1": "93732",
+      "WASAMPELA": "93732",
+      "WASUEMBA": "93732"
+    },
+    "WOLOWA": {
+      "BUNGI": "93728",
+      "KAUMBU": "93733",
+      "MATAWIA": "93733",
+      "SUKAMAJU": "93733",
+      "WOLOWA": "93733",
+      "WOLOWA BARU": "93733"
+    }
+  },
+  "BUTON SELATAN": {
+    "BATAUGA": {
+      "BOLA": "93752",
+      "BUSOA": "93752",
+      "LAMPANAIRI": "93752",
+      "LAOMPO": "93752",
+      "LAWELA": "93752",
+      "LAWELA SELATAN": "93752",
+      "MAJAPAHIT": "93752",
+      "MASIRI": "93752",
+      "POGALAMPA": "93752"
+    },
+    "BATU ATAS": {
+      "BATU ATAS LIWU": "93739",
+      "BATUATAS BARAT": "93739",
+      "BATUATAS TIMUR": "93739",
+      "TADUASA": "93739",
+      "TOLANDO JAYA": "93739",
+      "WACUALA": "93739",
+      "WAMBONGI": "93739"
+    },
+    "KADATUA": {
+      "BANABUNGI": "93738",
+      "BANABUNGI SELATAN": "93738",
+      "KAOFE": "93738",
+      "KAPOA": "93738",
+      "KAPOA BARAT": "93738",
+      "LIPU": "93738",
+      "MARAWALI": "93738",
+      "MAWAMBUNGA": "93738",
+      "UWEMAASI": "93738",
+      "WAONU": "93738"
+    },
+    "LAPANDEWA": {
+      "BURANGASI": "93731",
+      "BURANGASI RUMBIA": "93731",
+      "GAYABARU": "93731",
+      "LAPANDEWA": "93731",
+      "LAPANDEWA JAYA": "93731",
+      "LAPANDEWA KAINDEA": "93731",
+      "LAPANDEWA MAKMUR": "93731"
+    },
+    "SAMPOLAWA": {
+      "BAHARI": "93753",
+      "BAHARI II": "93753",
+      "BANGUN": "93753",
+      "GERAK MAKMUR": "93753",
+      "GUNUNG SEJUK": "93753",
+      "HENDEA": "93753",
+      "JAYABAKTI": "93753",
+      "KATILOMBU": "93753",
+      "SANDANG PANGAN": "93753",
+      "TIRA": "93753",
+      "TODOMBULU": "93753",
+      "WAWOANGI": "93753"
+    },
+    "SIOMPU": {
+      "BIWINAPADA": "93739",
+      "KAIMBULAWA": "93739",
+      "KARAE": "93739",
+      "LONTOI": "93739",
+      "TONGALI": "93739",
+      "WAKINAMBORO": "93739"
+    },
+    "SIOMPU BARAT": {
+      "KATAMPE": "93739",
+      "LALOLE": "93739",
+      "MBANUA": "93739",
+      "MOLONA": "93739",
+      "WATUAMPARA": "93739"
+    }
+  },
+  "BUTON TENGAH": {
+    "LAKUDO": {
+      "BONEOGE": "93763",
+      "LAKUDO": "93763",
+      "LOLIBU": "93763",
+      "MADONGKA": "93763",
+      "MATAWINE": "93763",
+      "METERE": "93763",
+      "MOKO": "93763",
+      "MONE": "93763",
+      "NEPA MEKAR": "93763",
+      "ONE WAARA": "93763",
+      "WAARA": "93763",
+      "WAJOGU": "93763",
+      "WONGKO LAKUDO": "93763"
+    },
+    "MAWASANGKA": {
+      "BANGA": "93762",
+      "GUMAMANO": "93762",
+      "KANCE BUNGI": "93762",
+      "MATARA": "93762",
+      "NAPA": "93762",
+      "OENGKOLAKI": "93762",
+      "POLINDU": "93762",
+      "TANAILANDU": "93762",
+      "TERAPUNG": "93762",
+      "WAKAMBANGURA": "93762",
+      "WAKAMBANGURA II": "93762",
+      "WATOLO": "93762"
+    },
+    "MAWASANGKA TENGAH": {
+      "LALIBO": "93766",
+      "LANGKOMU": "93766",
+      "LANTO": "93766",
+      "LANTONGAU": "93766",
+      "MORIKANA": "93766",
+      "WATORUMBE": "93766",
+      "WATORUMBE BATA": "93766"
+    },
+    "MAWASANGKA TIMUR": {
+      "BATUBANAWA": "93765",
+      "BONE MARAMBE": "93765",
+      "BUNGI": "93765",
+      "INULU": "93765",
+      "LAGILI": "93765",
+      "LASORI": "93765",
+      "WAMBULOLI": "93765",
+      "WANTOPI": "93765"
+    },
+    "SANGIA WAMBULU": {
+      "BARUTA": "93764",
+      "BARUTA ANALAKI": "93764",
+      "BARUTA LESTARI": "93764",
+      "DODA BAHARI": "93764",
+      "TOLANDONA": "93764",
+      "TOLANDONA MATANAEO": "93764"
+    }
+  },
+  "BUTON UTARA": {
+    "BONEGUNU": {
+      "BONEGUNU(KIOKO)": "93742",
+      "GUNUNG SARI": "93742",
+      "KOEPISINO": "93742",
+      "LAANOIPI": "93742",
+      "LANGERE": "93742",
+      "RONTA": "93742",
+      "WAODE ANGKALO": "93742",
+      "WAODE KALOWO": "93742"
+    },
+    "KAMBOWA": {
+      "BUBU": "93743",
+      "LAGUNDI": "93743",
+      "M A T A": "93743",
+      "MORINDINO": "93743",
+      "PONGKOWULU": "93743"
+    },
+    "KULISUSU": {
+      "BANGKUDU": "93741",
+      "BONELIPU": "93741",
+      "EELAHAJI": "93741",
+      "JAMPAKA": "93741",
+      "KALIBU": "93741",
+      "L O J I": "93741",
+      "LAKONEA": "93745",
+      "LEMO": "93741",
+      "LIPU": "93741",
+      "R O M B O": "93741",
+      "TOMOAHI": "93741",
+      "TRI WACU-WACU": "93741",
+      "WACULAEA": "93741"
+    },
+    "KULISUSU BARAT": {
+      "BUMI LAPERO": "93744",
+      "KARYA BAKTI": "93734",
+      "KARYA MULIA": "93734",
+      "KASULATOMBI": "93744",
+      "LABULANDA": "93734",
+      "MARGA KARYA": "93744",
+      "RAHMAT BARU": "93744",
+      "SOLOY AGUNG": "93742"
+    },
+    "KULISUSU UTARA": {
+      "LAMOAHI": "93746",
+      "LANOSANGIA": "93746",
+      "LELAMO": "93746",
+      "PEBAOA": "93746",
+      "PETETEAA": "93746",
+      "ULUNAMBO": "93746",
+      "WAODE BURI": "93746"
+    },
+    "WAKORUMBA": {
+      "LABARAGA": "93745",
+      "LABUAN": "93745",
+      "LABUAN BAJO": "93745",
+      "LABUAN WOLIO": "93734",
+      "LABUKO": "93745",
+      "LAEYA": "93745",
+      "LASIWA": "93745",
+      "MATALAGI": "93745",
+      "WANTULASI": "93745"
+    }
+  },
+  "KENDARI": {
+    "ABELI": {
+      "ABELI": "93234",
+      "ANGGOLOMELAI": "93237",
+      "BENUA NIRAE": "93234",
+      "BUNGKUTOKO": "93239",
+      "LAPULU": "93234",
+      "NAMBO": "93236",
+      "PETOAHA": "93236",
+      "POASIA": "93235",
+      "SAMBULI": "93238",
+      "TALIA": "93235",
+      "TOBIMEITA": "93237",
+      "TONDONGGEU": "93238"
+    },
+    "BARUGA": {
+      "BARUGA": "93116",
+      "LEPO-LEPO": "93116",
+      "WATUBANGGA": "93116",
+      "WUNDUDOPI": "93116"
+    },
+    "KADIA": {
+      "ANAIWOI": "93118",
+      "BENDE": "93118",
+      "KADIA": "93118",
+      "PONDAMBEA": "93118",
+      "WOWAWANGGU": "93118"
+    },
+    "KAMBU": {
+      "KAMBU": "93231",
+      "LALOLARA": "93231",
+      "MOKOAU": "93231",
+      "PADALEU": "93231"
+    },
+    "KENDARI": {
+      "GUNUNG JATI": "93129",
+      "JATI MEKAR": "93129",
+      "KAMPUNG SALO": "93128",
+      "KANDAI": "93127",
+      "KENDARI CADDI": "93126",
+      "KESSILAMPE": "93128",
+      "MANGGA DUA": "93128",
+      "MATA": "93129",
+      "PURIRANO": "93129"
+    },
+    "KENDARI BARAT": {
+      "BENU-BENUA": "93123",
+      "DAPU-DAPURA": "93124",
+      "KEMARAYA": "93121",
+      "LAHUNDAPE": "93121",
+      "PUNGGALOBA": "93123",
+      "SANUA": "93124",
+      "TIPULU": "93122",
+      "WATU-WATU": "93121"
+    },
+    "MANDONGA": {
+      "ALOLAMA": "93112",
+      "ANGGILOWU": "93113",
+      "KORUMBA": "93111",
+      "LABIBIA": "93113",
+      "MANDONGA": "93111",
+      "WAWOMBALATA": "93113"
+    },
+    "POASIA": {
+      "ANDUONOHU": "93232",
+      "ANGGOEYA": "93233",
+      "MATABUBU": "93233",
+      "RAHANDOUNA": "93232"
+    },
+    "PUUWATU": {
+      "ABELI DALAM": "93115",
+      "LALODATI": "93115",
+      "PUNGGOLAKA": "93115",
+      "PUUWATU": "93114",
+      "TOBUUHA": "93115",
+      "WATULONDO": "93114"
+    },
+    "WUA-WUA": {
+      "ANAWAI": "93117",
+      "BONGGOEYA": "93117",
+      "MATAIWOI": "93117",
+      "WUA-WUA": "93117"
+    }
+  },
+  "KOLAKA": {
+    "BAULA": {
+      "BAULA": "93567",
+      "PEWUTAA": "93567",
+      "PUUBENUA": "93567",
+      "PUUBUNGA": "93567",
+      "PUULEMO": "93567",
+      "PUUNDOHO": "93567",
+      "PUURODA": "93567",
+      "WATALARA": "93567"
+    },
+    "IWOIMENDAA": {
+      "IWOIMENDAA": "93557",
+      "LADAHAI": "93557",
+      "LAMBOPINI": "93557",
+      "LANDOULA": "93557",
+      "LASIROKU": "93557",
+      "LAWOLIA": "93557",
+      "TAMBORASI": "93557",
+      "ULU KALO": "93557",
+      "WATUMELEWE": "93557",
+      "WONUA LAKU": "93557"
+    },
+    "KOLAKA": {
+      "BALANDETE": "93511",
+      "LALOEHA": "93511",
+      "LALOMBAA": "93511",
+      "LAMOKATO": "93511",
+      "SABILAMBO": "93511",
+      "TAHOA": "93511",
+      "WATULIANDU": "93511"
+    },
+    "LATAMBAGA": {
+      "INDUHA": "93512",
+      "KOLAKAASIH": "93512",
+      "LATAMBAGA": "93514",
+      "MANGOLO": "93512",
+      "SAKULI": "93514",
+      "SEA": "93514",
+      "ULUNGGOLAKA": "93512"
+    },
+    "POLINGGONA": {
+      "PLASMA JAYA": "93565",
+      "PUUDONGI": "93565",
+      "TANGGEAU": "93565",
+      "WULONGGERE": "93565"
+    },
+    "POMALAA": {
+      "HAKATUTOBU": "93562",
+      "HUKO HUKO": "93562",
+      "KUMORO": "93562",
+      "OKO OKO": "93562",
+      "PELAMBUA": "93562",
+      "PESOUHA": "93562",
+      "POMALAA": "93562",
+      "SOPURA": "93562",
+      "TAMBEA": "93562",
+      "TONGGONI": "93562",
+      "TOTOBO": "93562"
+    },
+    "SAMATURU": {
+      "A W A": "93552",
+      "KALOLOA": "93552",
+      "KONAWEHA": "93552",
+      "LAMBOLEMO": "93552",
+      "LATUO": "93552",
+      "LAWULO": "93552",
+      "MALAHA": "93552",
+      "SANI SANI": "93552",
+      "TAMBOLI": "93552",
+      "TONGANAPO": "93552",
+      "TOSIBA": "93552"
+    },
+    "TANGGETADA": {
+      "ANAIWOI": "93566",
+      "LALONGGOLOSUA": "93566",
+      "LAMEDAI": "93566",
+      "PALEWAI": "93566",
+      "PETUDUA": "93566",
+      "PEWISOA JAYA": "93566",
+      "POPALIA": "93566",
+      "RAHANGGADA": "93566",
+      "TANGGETADA": "93566",
+      "TONDOWOLIO": "93566"
+    },
+    "TOARI": {
+      "LAKITO": "93564",
+      "TOARI": "93564",
+      "WOWOLI": "93564"
+    },
+    "WATUBANGGA": {
+      "KASTURA": "93563",
+      "KUKUTIO": "93563",
+      "LAMUNDE": "93563",
+      "LONGGOSIPI": "93563",
+      "MATAOSU": "93563",
+      "PEOHO": "93563",
+      "POLENGA": "93563",
+      "SUMBER REJEKI": "93563",
+      "TANDEBURA": "93563",
+      "WATUBANGGA": "93563",
+      "WOLULU": "93563"
+    },
+    "WOLO": {
+      "DONGGALA": "93557",
+      "L A N A": "93557",
+      "LALONAHA": "93557",
+      "LANGGOMALI": "93557",
+      "MUARA LAPAO PAO": "93557",
+      "TOLOWE PONRE WARU": "93557",
+      "ULU WOLO": "93557",
+      "WOLO": "93557"
+    },
+    "WUNDULAKO": {
+      "BENDE": "93561",
+      "KOWIOHA": "93561",
+      "LAMEKONGGA": "93561",
+      "NGAPA": "93561",
+      "SILEA": "93561",
+      "TIKONU": "93561",
+      "TOWUA I": "93561",
+      "UNA MENDAA": "93561",
+      "WUNDULAKO": "93561"
+    }
+  },
+  "KOLAKA TIMUR": {
+    "AERE": {
+      "AERE": "93578",
+      "ALADADIO": "93578",
+      "AWIU": "93578",
+      "IWOI MEA JAYA": "93578",
+      "IWOIMENGGURA": "93578",
+      "PEKOREA": "93578",
+      "RUBIA": "93578",
+      "TAORE": "93578",
+      "TINETE": "93578",
+      "ULUNDORO": "93578",
+      "WATUOHA": "93578"
+    },
+    "DANGIA": {
+      "ANAMBADA": "93577",
+      "DANGIA": "93577",
+      "GUNUNG JAYA": "93577",
+      "LALOKATEBA": "93577",
+      "LAMOSILA": "93577",
+      "LEMBAH SUBUR": "93577",
+      "MEKAR JAYA": "93577",
+      "MULIA JAYA": "93577",
+      "TALINDUKA": "93577",
+      "TETEMBUTA": "93577",
+      "TETEWUA": "93577",
+      "WANDE": "93577"
+    },
+    "LADONGI": {
+      "ATULA": "93573",
+      "LADONGI JAYA": "93573",
+      "LALOWOSULA": "93573",
+      "PUTEMATA": "93573",
+      "RARAA": "93573",
+      "WELALA": "93573",
+      "WUNGGULOKO": "93573"
+    },
+    "LALOLAE": {
+      "KEISIO": "93581",
+      "LALOLAE": "93581",
+      "LALOSINGI": "93581",
+      "TALODO": "93581"
+    },
+    "LAMBANDIA": {
+      "BOU": "93579",
+      "LAMBANDIA": "93579",
+      "LERE JAYA": "93579",
+      "LOWA": "93579",
+      "MOKUPA": "93579",
+      "PENANGGO JAYA": "93579",
+      "PENANGGOOSI": "93579",
+      "PENANGGOOTU": "93579",
+      "WONUAMBUTEO": "93579"
+    },
+    "LOEA": {
+      "IWOIKONDO": "93574",
+      "LAMOARE": "93574",
+      "LOEA": "93574",
+      "PEATOA": "93574"
+    },
+    "MOWEWE": {
+      "HORODOPI": "93571",
+      "INEBENGGI": "93571",
+      "NELOMBU": "93571",
+      "ULU MOWEWE": "93571",
+      "WATUPUTE": "93571",
+      "WOITOMBO": "93571"
+    },
+    "TINONDO": {
+      "AMBAPA": "93582",
+      "AMERORO": "93582",
+      "LAMUNDE": "93582",
+      "TAWAROMBADAKA": "93582"
+    },
+    "TIRAWUTA": {
+      "LALINGATO": "93572",
+      "LARA": "93572",
+      "ORAWA": "93572",
+      "PONI PONIKI": "93572",
+      "RATE-RATE": "93572",
+      "SIMBUNE": "93572",
+      "TASAHEA": "93572",
+      "TAWAINALU": "93572",
+      "TIRAWUTA": "93572",
+      "TUMBUDADIO": "93572",
+      "WOIHA": "93572"
+    },
+    "UEESI": {
+      "ALAAHA": "93583",
+      "KONAWENDEPIHA": "93583",
+      "LIKU WALANAPO": "93583",
+      "PORABUA": "93583",
+      "PUURAU": "93583",
+      "SILUI": "93583",
+      "TONGAUNA": "93583",
+      "UEESI": "93583",
+      "WATUMENDONGA": "93583",
+      "WESINGGOTE": "93583"
+    },
+    "ULUIWOI": {
+      "PEHANGGO": "93575",
+      "SANGGONA": "93575",
+      "TAWANGA": "93575",
+      "TONDOWATU": "93575",
+      "UNDOLO": "93575"
+    }
+  },
+  "KOLAKA UTARA": {
+    "BATU PUTIH": {
+      "BATU API": "93955",
+      "BATU PUTIH": "93955",
+      "BUKIT BARU": "93955",
+      "BUKIT TINGGI": "93955",
+      "LATOWU": "93955",
+      "LELEWAWO": "93955",
+      "MAKKUASENG": "93955",
+      "MOSIKU": "93955",
+      "PARU LAMPE": "93955",
+      "PUNCAK HARAPAN": "93955",
+      "TETEBAWO": "93955"
+    },
+    "KATOI": {
+      "KATOI": "93951",
+      "LAMBUNO": "93951",
+      "LANIPA-NIPA": "93951",
+      "MARUGE": "93951",
+      "SIMBULA": "93951",
+      "UJUNG TOBAKU": "93951"
+    },
+    "KODEOHA": {
+      "AWO": "93957",
+      "JABAL KUBIS": "93957",
+      "JABAL NUR": "93957",
+      "KALU KALUKU": "93957",
+      "KAMISI": "93957",
+      "KOROHA": "93957",
+      "LAMETUNA": "93957",
+      "MALA MALA": "93957",
+      "MEETO": "93957",
+      "SAWANGAOHA": "93957"
+    },
+    "LAMBAI": {
+      "LAMBAI": "93953",
+      "LAPASI-PASI": "93953",
+      "LATAWARO": "93953",
+      "RAODA": "93953",
+      "WOISE": "93953",
+      "WOITOMBO": "93953"
+    },
+    "LASUSUA": {
+      "BABUSSALAM": "93919",
+      "BATUGANDA PERMAI": "93919",
+      "LASUSUA": "93911",
+      "PATOWONUA": "93919",
+      "PITULUA": "93915",
+      "PONGGIHA": "93912",
+      "PUNCAK MONAPA": "93919",
+      "RANTE LIMBONG": "93916",
+      "SULAHO": "93916",
+      "TOJABI": "93919",
+      "WATULIU": "93911"
+    },
+    "NGAPA": {
+      "BERINGIN": "93958",
+      "KOREIHA": "93958",
+      "LAPAI": "93958",
+      "LAWOLATU": "93958",
+      "NGAPA": "93958",
+      "PARUTELLANG": "93958",
+      "PUURAU": "93958",
+      "TADOUMERA": "93958",
+      "WATU MUTAHA": "93958"
+    },
+    "PAKUE": {
+      "KASUMEETO": "93954",
+      "KONDARA": "93954",
+      "KOSALI": "93954",
+      "LALOMBUNDI": "93954",
+      "MIKUASI": "93954",
+      "SIPAKAINGE": "93954",
+      "TOAHA": "93954"
+    },
+    "PAKUE TENGAH": {
+      "LABIPI": "93963",
+      "LANIPA": "93963",
+      "LATALI": "93963",
+      "MAJAPAHIT": "93963",
+      "PASAMPANG": "93963",
+      "POWALAA": "93963",
+      "SALULOTONG": "93963"
+    },
+    "PAKUE UTARA": {
+      "KALO": "93964",
+      "LAWATA": "93964",
+      "PAKUE": "93964",
+      "PUUNDOHO": "93964",
+      "SALU DONGKA": "93964",
+      "TEPOSUA": "93964"
+    },
+    "POREHU": {
+      "BANGSALA": "93965",
+      "LARUI": "93965",
+      "PONGGI": "93965",
+      "POREHU": "93965",
+      "SARAMBU": "93965",
+      "TANGGA RURU": "93965",
+      "TINUNA": "93965",
+      "TOBELA": "93965"
+    },
+    "RANTEANGIN": {
+      "LANDOLIA": "93956",
+      "LAWEKARA": "93956",
+      "MAROKO": "93956",
+      "POHU": "93956",
+      "RANTE BARU": "93956",
+      "RANTEANGIN": "93956",
+      "TOROTUO": "93956"
+    },
+    "TIWU": {
+      "LAPOLU": "93961",
+      "LAWADIA": "93961",
+      "MATTIRO BULU": "93961",
+      "TAHIBUA": "93961",
+      "TANGGEAO": "93961",
+      "TIWU": "93961",
+      "WATUMEA": "93961"
+    },
+    "TOLALA": {
+      "BAHARI": "93966",
+      "LAWAKI JAYA": "93966",
+      "LELEWULU": "93966",
+      "LOKA": "93966",
+      "PATIKALA": "93966",
+      "TOLALA": "93966"
+    },
+    "WATUNOHU": {
+      "LAHABARU": "93962",
+      "NYULE": "93962",
+      "SAMATURU": "93962",
+      "SAPOIHA": "93962",
+      "SARONA": "93962",
+      "TAMBUHA": "93962",
+      "WATUNOHU": "93962"
+    },
+    "WAWO": {
+      "PUUMBOLO": "93952",
+      "SALURENGKO": "93952",
+      "TINUKARI": "93952",
+      "ULUWAWO": "93952",
+      "WALASIHO": "93952",
+      "WAWO": "93952"
+    }
+  },
+  "KONAWE": {
+    "ABUKI": {
+      "ABUKI": "93452",
+      "ASOLU": "93452",
+      "KUMAPO": "93452",
+      "PADANGGUNI UTAMA": "93452",
+      "PUNGGALUKU": "93452",
+      "SAMBEANI": "93452",
+      "WALAY": "93452"
+    },
+    "AMONGGEDO": {
+      "AMONGGEDO": "93466",
+      "AMONGGEDO BARU": "93466",
+      "ANAHINUNU": "93466",
+      "BENUA": "93466",
+      "DUNGGUA": "93466",
+      "LALONONA": "93466",
+      "MATAIWOI": "93465",
+      "MENDIKONU": "93466",
+      "PUASANA": "93466",
+      "ULU BENUA": "93466",
+      "WATULAWU": "93466",
+      "WAWOHINE": "93466"
+    },
+    "ANGGABERI": {
+      "ANGGABERI": "93418"
+    },
+    "ASINUA": {
+      "ANGOHI": "93416",
+      "ASINUA JAYA": "93416",
+      "LASADA": "93416",
+      "NEKUDU": "93416",
+      "UPT ASINUA JAYA": "93416"
+    },
+    "BESULUTU": {
+      "AMOSILU": "93476",
+      "ANDOMESINGGO": "93476",
+      "ASUNDE": "93476",
+      "LABELA": "93476",
+      "LALOUMERA": "93476",
+      "LAWONUA": "93476",
+      "ONEMBUTE": "93476",
+      "RANOMOLUA": "93476",
+      "SILEA": "93476",
+      "ULU POHARA": "93476",
+      "WAWORAHA": "93471"
+    },
+    "BONDOALA": {
+      "DIOLO": "93473",
+      "L A O S U": "93473",
+      "LALONGGALUKU": "93473",
+      "LALONGGALUKU TIMUR": "93473",
+      "PEBUNOOHA": "93473",
+      "PEBUNOOHA DALAM": "93473",
+      "RUMBIA": "93473"
+    },
+    "KAPOIALA": {
+      "KAPOI ALA": "93474",
+      "KAPOIALA BARU": "93474",
+      "LABOTOY": "93474",
+      "LABOTOY JAYA": "93474",
+      "LALIMBUE": "93474",
+      "LALIMBUE JAYA": "93474",
+      "LAMENDORA": "93474",
+      "MUARA SAMPARA": "93474",
+      "PEREOA": "93474",
+      "SAMBARAASI": "93474",
+      "TANI INDAH": "93474",
+      "ULU LALIMBUE": "93474"
+    },
+    "KONAWE": {
+      "BUNGGUOSU": "93451",
+      "HUDOA": "93451",
+      "KONAWE": "93451",
+      "SANGGONA": "93451",
+      "TUDAONE": "93451",
+      "UELAWU": "93451",
+      "UETE": "93451"
+    },
+    "LALONGGASUMEETO": {
+      "BUMI INDAH": "93472",
+      "LALOMBODA": "93472",
+      "LALONGGASUMEETO": "93472",
+      "NII TANASA": "93472",
+      "PUUWONUA": "93472",
+      "RAPAMBINOPAKA": "93472",
+      "TOLI-TOLI": "93472",
+      "TOOLA  WAWO": "93472",
+      "WAWOBUNGI": "93472"
+    },
+    "LAMBUYA": {
+      "AMBERI": "93464",
+      "ASAKI": "93464",
+      "AWULITI": "93464",
+      "LAMBUYA": "93464",
+      "MERAKA": "93464",
+      "TANGGOBU": "93464",
+      "WAWORAHA": "93464"
+    },
+    "LATOMA": {
+      "AMBEKAERI UTAMA": "93453",
+      "AMBONIKI": "93453",
+      "ANDOLUTO": "93453",
+      "LALOWATA": "93453",
+      "LATOMA JAYA": "93453",
+      "NESOWI": "93453",
+      "PINOLE": "93453",
+      "WAWORAHA": "93453"
+    },
+    "MELUHU": {
+      "AHUHU": "93468",
+      "LAMELAY": "93468",
+      "LAROWIU": "93468",
+      "MELUHU": "93468",
+      "TUDAMEASO": "93468"
+    },
+    "ONEMBUTE": {
+      "KASUMEIA": "93465",
+      "KUMAPO": "93465",
+      "MATAIWOI": "93465",
+      "SILEA": "93465",
+      "SUKA MAJU (ULU MERAKA)": "93465",
+      "TRIMULYA": "93465"
+    },
+    "PONDIDAHA": {
+      "AHUAWATU": "93463",
+      "AMBU ULANU": "93463",
+      "AMESIU": "93463",
+      "BELATU": "93463",
+      "HONGOA": "93463",
+      "MUMUN DOWU": "93463",
+      "PONDIDAHA": "93463",
+      "PUUMBINISI": "93463",
+      "TIRAWUTA": "93463",
+      "WAWOLEMO": "93463"
+    },
+    "PURIALA": {
+      "AHUAWALI": "93469",
+      "LALONGGATU": "93469",
+      "MOKALELEO": "93469",
+      "PUUSANGI": "93469",
+      "SONAI": "93469",
+      "TETEWATU": "93469",
+      "UNGGULINO": "93469",
+      "WATUSA": "93469",
+      "WONUA MOROME": "93469"
+    },
+    "ROUTA": {
+      "PARUDONGKA": "93459",
+      "TIRAWONUA": "93459",
+      "WALANDAWE": "93459"
+    },
+    "SAMPARA": {
+      "ANDADOWI": "93475",
+      "ANDAROA": "93475",
+      "ANDEPALI": "93475",
+      "BONDOALA": "93475",
+      "KONGGAMEA": "93475",
+      "P U U L O R O": "93475",
+      "POHARA": "93475",
+      "POLUA": "93475",
+      "RAWUA": "93475",
+      "SAMPARA": "93475",
+      "TOTOMBE JAYA": "93475",
+      "WAWOLIMBUE": "93475"
+    },
+    "SOROPIA": {
+      "ATOWATU": "93471",
+      "BAJO INDAH": "93471",
+      "BOKORI": "93471",
+      "MEKAR": "93471",
+      "SAPONDA": "93471",
+      "SAPONDA LAUT": "93471",
+      "SAWAPUDO": "93471",
+      "SOROPIA": "93471",
+      "SORUE JAYA": "93471",
+      "TAPULAGA": "93471",
+      "TORONIPA": "93471",
+      "WAWORAHA": "93471"
+    },
+    "TONGAUNA": {
+      "ASAO": "93454",
+      "LALONGGOWUNA": "93454",
+      "MATAIWOI": "93454",
+      "MEKAR SARI": "93454",
+      "MOMEA": "93454",
+      "PUOSU": "93454",
+      "SENDANG MULYASARI": "93454",
+      "TONGAUNA": "93454"
+    },
+    "UEPAI": {
+      "AMAROA": "93462",
+      "AMERORO": "93462",
+      "ANGGOPIU": "93462",
+      "BARUGA": "93467",
+      "LANGGOMEA": "93462",
+      "MATAHOALU": "93462",
+      "OLO-OLOHO": "93462",
+      "R A W U A": "93462",
+      "TAWAMELEWE": "93462",
+      "TAWAROTEBOTA": "93462",
+      "UEPAI": "93462"
+    },
+    "UNAAHA": {
+      "AMBEKAIRI": "93412",
+      "AROMBU": "93412",
+      "ASINUA": "93415",
+      "LATOMA": "93414",
+      "PUUNAAHA": "93411",
+      "TUMPAS": "93411",
+      "TUOY": "93415",
+      "UNAAHA": "93411",
+      "WAWONGGOLE": "93415"
+    },
+    "WAWOTOBI": {
+      "ANALAHUMBUTI": "93461",
+      "ANGGOTOA": "93461",
+      "BOSE BOSE": "93461",
+      "HOPA-HOPA": "93461",
+      "INALAHI": "93461",
+      "INOLOBU": "93461",
+      "KARANDU": "93461",
+      "KASUPUTE": "93461",
+      "KORUMBA": "93461",
+      "KULAHI": "93461",
+      "LALOSABILA": "93461",
+      "NARIO INDAH": "93461",
+      "NOHU NOHU": "93461",
+      "PALARAHI": "93461",
+      "PUUSINAUWI": "93461",
+      "RANOEYA": "93461",
+      "WAWOTOBI": "93461"
+    },
+    "WONGGEDUKU": {
+      "BENDEWUTA": "93467",
+      "DAWI-DAWI": "93467",
+      "DURIA ASI": "93467",
+      "LALOHAO": "93467",
+      "LALOUSU": "93467",
+      "LANGGONAWE": "93467",
+      "TETEMOTAHA": "93467",
+      "WAWONGGOLE": "93467",
+      "WAWOONE": "93467",
+      "WAWOSOLO": "93467"
+    }
+  },
+  "KONAWE KEPULAUAN": {
+    "WAWONII BARAT": {
+      "LAMOLUO": "93491",
+      "LANGARA INDAH": "93491",
+      "LANGARA IWAWO": "93491",
+      "LANGARA LAUT": "93491",
+      "WAWOLAA": "93491"
+    },
+    "WAWONII SELATAN": {
+      "BAKU-BAKU": "93493",
+      "LAWEY": "93493",
+      "SAWAEA": "93493",
+      "WUNGKOLO": "93493"
+    },
+    "WAWONII TENGAH": {
+      "BATUMEA": "93492",
+      "LAMONGUPA": "93492",
+      "LAMPEAPI": "93492",
+      "LAMPEAPI BARU": "93492",
+      "PUURAU": "93496",
+      "WAWOINDAH": "93492"
+    },
+    "WAWONII TENGGARA": {
+      "DOMPO-DOMPO JAYA": "93495",
+      "NAMBO JAYA": "93495",
+      "ROKO-ROKO": "93495",
+      "SUKARELA": "93495",
+      "TONDONGITU": "93495"
+    },
+    "WAWONII TIMUR": {
+      "KEL. MUNSE": "93494",
+      "LEBO": "93494",
+      "TEKONEA": "93494",
+      "WAKADAWU": "93494"
+    },
+    "WAWONII TIMUR LAUT": {
+      "BANGUN MEKAR": "93496",
+      "DIMBA": "93496",
+      "MATA DIMBA": "93496",
+      "NOKO": "93496",
+      "PATANDE": "93496",
+      "PUURAU": "93496",
+      "TANGKOMBUNO": "93496"
+    },
+    "WAWONII UTARA": {
+      "DONGKALAEA": "93497",
+      "LABEAU": "93497",
+      "LANSILOWO": "93497",
+      "MATABURANGA": "93497",
+      "MAWA": "93497",
+      "PALINGI": "93497",
+      "WAWOROPE": "93497"
+    }
+  },
+  "KONAWE SELATAN": {
+    "ANDOOLO": {
+      "ALANGGA": "93811",
+      "ALENGGE AGUNG": "93811",
+      "ANDOOLO": "93811",
+      "ATAKU": "93818",
+      "BUMI RAYA": "93818",
+      "LALOBAO": "93818",
+      "LALONGGOMBU": "93813",
+      "POTORO": "93811",
+      "WUNDUWATU": "93818"
+    },
+    "ANDOOLO BARAT": {
+      "BEKENGGASU INDAH": "93817",
+      "WATU MOKALA": "93817"
+    },
+    "ANGATA": {
+      "ANGATA": "93862",
+      "AOPA": "93862",
+      "BOLOSO": "93862",
+      "LAMOEN": "93862",
+      "LAMOERI": "93862",
+      "LAMOOSO": "93862",
+      "LANDABARO": "93862",
+      "LANGGEA INDAH": "93862",
+      "MATABONDU": "93862",
+      "MATAIWOI": "93862",
+      "MOKOAU": "93862",
+      "MOTAHA": "93862",
+      "PEWUTAA": "93862",
+      "PUAO": "93862",
+      "PUDAMBU": "93862",
+      "PUULIPU": "93862",
+      "PUUNGGONI": "93862",
+      "PUUROE": "93862",
+      "PUUSANGGULA": "93862",
+      "SANDARSI JAYA": "93862",
+      "SANDEI": "93862",
+      "SIMBANGU": "93862",
+      "TETEASA": "93862"
+    },
+    "BAITO": {
+      "AHUANGGULURI": "93852",
+      "B A I T O": "93852",
+      "MATABUBU": "93852",
+      "MEKAR JAYA": "93852",
+      "SAMBAHULE": "93852",
+      "TOLIHE": "93852",
+      "WONUA RAYA": "93852"
+    },
+    "BASALA": {
+      "BASALA": "93863",
+      "EPEESI": "93863",
+      "IWOI MENDORO": "93863",
+      "LAMBANDIA": "93864",
+      "LERE": "93863",
+      "LIPU MASAGENA": "93863",
+      "POLO-POLOLI": "93863",
+      "TEPOROMBUA": "93863",
+      "TOMBEKUKU": "93863"
+    },
+    "BENUA": {
+      "BENUA": "93861",
+      "BENUA UTAMA": "93861",
+      "HORODOPI": "93861",
+      "KOSAMBI": "93861",
+      "LAMARA": "93861",
+      "PALOWEWU": "93861",
+      "PUOSU": "93861",
+      "PUUWEHUKO": "93861",
+      "TETEHAKA": "93861",
+      "UELAWA": "93861"
+    },
+    "BUKE": {
+      "ADAKA JAYA": "93884",
+      "ANDOOLO UTAMA": "93884",
+      "ANGGOKOTI": "93884",
+      "ASEMBU MULYA": "93884",
+      "AWALO": "93884",
+      "BUKE": "93884",
+      "PELANDIA": "93884",
+      "PUUDARIA JAYA": "93884",
+      "RAHA MENDA JAYA": "93884",
+      "RANOOHA LESTARI": "93884",
+      "SILEA JAYA": "93884",
+      "TETENGGOLASA": "93884",
+      "TIRTA MARTANI": "93884",
+      "UPT ADAYU INDAH": "93884",
+      "WONUA MAROA": "93884"
+    },
+    "KOLONO": {
+      "ALOSI": "93893",
+      "ANDINETE": "93893",
+      "AWUNIO": "93893",
+      "KOLONO": "93893",
+      "LAMAPU": "93893",
+      "LAMOTAU": "93893",
+      "LANGGOWALA": "93893",
+      "MATAIWOI": "93893",
+      "MATANDAHI": "93893",
+      "MELETUMBO": "93893",
+      "MONDOE JAYA": "93893",
+      "PUUDONGI": "93893",
+      "PUUPI": "93893",
+      "RODA": "93893",
+      "SARANDUA": "93893",
+      "SAWAH": "93893",
+      "SILEA": "93893",
+      "TIRAOSU": "93893",
+      "ULUSENA JAYA": "93893",
+      "WAWOOSU": "93893",
+      "WAWORANO": "93893"
+    },
+    "KONDA": {
+      "ALEBO": "93874",
+      "AMBOLOLI": "93874",
+      "AMOHALO": "93874",
+      "CIALAM JAYA": "93874",
+      "KONDA": "93874",
+      "KONDA SATU": "93874",
+      "LALOWIU": "93874",
+      "LAMBUSA": "93874",
+      "LAMOMEA": "93874",
+      "LAWOILA": "93874",
+      "LEBO JAYA": "93874",
+      "MASAGENA": "93874",
+      "MOROME": "93874",
+      "PAMBULAA JAYA": "93874",
+      "PUOSU JAYA": "93874",
+      "T A N E A": "93874",
+      "WONUA": "93874"
+    },
+    "LAEYA": {
+      "AEPODU": "93887",
+      "AMBAKUMINA": "93887",
+      "AMBALODANGGE": "93887",
+      "AMBESEA": "93887",
+      "ANDUNA": "93887",
+      "ANGGOROBOTI": "93887",
+      "LABOKEO": "93887",
+      "LAEYA": "93887",
+      "LAMBAKARA": "93887",
+      "LAMONG JAYA": "93887",
+      "LEREPAKO": "93887",
+      "OMBU-OMBU JAYA": "93887",
+      "PUNGGALUKU": "93887",
+      "PUUWULO": "93887",
+      "RAMBU-RAMBU": "93887",
+      "TOROBULU": "93887",
+      "WONUA KONGGA": "93887"
+    },
+    "LAINEA": {
+      "BANGUN JAYA": "93881",
+      "KAINDI": "93881",
+      "KALO-KALO": "93881",
+      "LAINEA": "93881",
+      "LALONGGOMBU": "93881",
+      "MATABUBU JAYA": "93881",
+      "MOLINESE": "93881",
+      "PAMANDATI": "93881",
+      "PANGAN JAYA": "93881",
+      "POLEWALI": "93881",
+      "WATUMEETO": "93881"
+    },
+    "LALEMBUU": {
+      "ATARI INDAH": "93864",
+      "ATARI JAYA": "93864",
+      "KAPUWILA": "93864",
+      "LALO UWESAMBA": "93864",
+      "LAMBANDIA": "93864",
+      "LAMBODI JAYA": "93864",
+      "MAKUPA JAYA": "93864",
+      "MERONGA RAYA": "93864",
+      "PADALEU": "93864",
+      "POTUHO JAYA": "93864",
+      "PUUNANGGA": "93864",
+      "PUUREMA SUBUR": "93864",
+      "SUKA MUKTI": "93864",
+      "TETEINEA JAYA": "93864",
+      "TOMBELEU": "93864"
+    },
+    "LANDONO": {
+      "ABENGGI": "93873",
+      "AMOTOWO": "93873",
+      "ARONGO": "93873",
+      "ENDANGA": "93873",
+      "LAKOMEA": "93873",
+      "LALONGGAPU": "93873",
+      "LANDONO": "93873",
+      "LANDONO II": "93873",
+      "MORINI MULYA": "93873",
+      "TRIDANA MULYA": "93873",
+      "WONUA SANGIA": "93873"
+    },
+    "LAONTI": {
+      "CEMPEDAK": "93892",
+      "KONDONO": "93892",
+      "LABOTAONE": "93892",
+      "LABUAN BEROPA": "93892",
+      "LAONTI": "93892",
+      "LAWISATA": "93892",
+      "MALARINGGI": "93892",
+      "MATABONDU": "93892",
+      "NAMU": "93892",
+      "PEO INDAH": "93892",
+      "PUUNDIRANGGA": "93892",
+      "SANGI-SANGI": "93892",
+      "TAMBEANGA": "93892",
+      "TAMBOLOSU": "93892",
+      "TUE TUE": "93892",
+      "ULU SAWA": "93892",
+      "WANDAEHA": "93892",
+      "WORU WORU": "93892"
+    },
+    "MORAMO": {
+      "AMOHOLA": "93891",
+      "BAKUTARU": "93891",
+      "BISIKORI": "93891",
+      "LAKOMEA": "93891",
+      "LAMBOO": "93891",
+      "LANDIPO": "93891",
+      "LAPUKO": "93891",
+      "MARGA CINTA": "93891",
+      "MORAMO": "93891",
+      "PENAMBEA BARATA": "93891",
+      "PUDARIA JAYA": "93891",
+      "SUMBER SARI": "93891",
+      "TAMBOSUPA": "93891",
+      "ULUSENA": "93891",
+      "WATU PORAMBAA": "93891",
+      "WAWONDENGI": "93891",
+      "WAWOSUNGGU": "93891",
+      "WONUA JAYA": "93891"
+    },
+    "MORAMO UTARA": {
+      "LALOWARU": "93894",
+      "LAMOKULA": "93894",
+      "LOMBUEA": "93894",
+      "MATA LAMOKULA": "93894",
+      "MEKAR JAYA": "93894",
+      "PUASANA": "93894",
+      "SANGGULA": "93894",
+      "TANJUNG TIRAM": "93894",
+      "WAWATU": "93894"
+    },
+    "MOWILA": {
+      "KONDOANO": "93876",
+      "LALOSINGI": "93876",
+      "LAMEBARA": "93876",
+      "LAMOLORI": "93876",
+      "MATAIWOI": "93876",
+      "MONAPA": "93876",
+      "MOWILA": "93876",
+      "MULYA SARI": "93876",
+      "PUDAHOA": "93876",
+      "PUNGGULAHI": "93876",
+      "PUWEHUKO": "93876",
+      "RAKAWUTA": "93876",
+      "RANO AOPA": "93876",
+      "RANO MBAYASA": "93876",
+      "TETESINGI": "93876",
+      "TOLUWONUA": "93876",
+      "WONUA KONGGA": "93876",
+      "WONUA MONAPA": "93876",
+      "WONUA SARI": "93876",
+      "WUURA": "93876"
+    },
+    "PALANGGA": {
+      "ALAKAYA": "93883",
+      "ANGGONDARA": "93883",
+      "AOSOLE": "93883",
+      "EEWA": "93883",
+      "KIAEA": "93883",
+      "MEKAR SARI": "93883",
+      "ONEMBUTE": "93883",
+      "PALANGGA": "93883",
+      "WATUDEMBA": "93883",
+      "WATUMEREMBE": "93883",
+      "WAWONGGURA": "93883",
+      "WAWORAHA": "93883",
+      "WAWOURU": "93883"
+    },
+    "PALANGGA SELATAN": {
+      "KOEONO": "93886",
+      "LAKARA": "93886",
+      "LALOWUA": "93886",
+      "MONDOE": "93886",
+      "PARASI": "93886",
+      "ULU LAKARA": "93886",
+      "WATUMBOHOTI": "93886"
+    },
+    "RANOMEETO": {
+      "AMBAIPUA": "93871",
+      "AMOITO": "93871",
+      "AMOITO SIAMA": "93871",
+      "BORO-BORO R": "93871",
+      "DUDURIA": "93871",
+      "KOTA BANGUN": "93871",
+      "LAIKAAHA": "93871",
+      "LANGGEA": "93871",
+      "ONEWILA": "93871",
+      "RAMBU-RAMBU JAYA": "93871",
+      "RANOMEETO": "93871",
+      "RANOOHA": "93871"
+    },
+    "RANOMEETO BARAT": {
+      "AMOKUNI": "93877",
+      "BORO-BORO LAMEURU": "93877",
+      "JATI BALI": "93877",
+      "LAIKANDONGA": "93877",
+      "LAMEURU": "93877",
+      "OPAASI": "93877",
+      "SINDANG KASIH": "93877",
+      "TUNDUNO": "93877"
+    },
+    "SABULAKOA": {
+      "WATU-WATU": "93817"
+    },
+    "TINANGGEA": {
+      "AKUNI": "93885",
+      "ASINGI": "93885",
+      "BOMBA-BOMBA": "93885",
+      "BUNGIN PERMAI": "93885",
+      "LALONGGASU": "93885",
+      "LALOWATU": "93885",
+      "LANOWULU": "93885",
+      "LAPOA": "93885",
+      "LAPULU": "93885",
+      "LASUAI": "93885",
+      "MATAMBAWI": "93885",
+      "MATANDAHI": "93885",
+      "MOOLO INDAH": "93885",
+      "NGAPAAHA": "93885",
+      "PALO TAWO": "93885",
+      "RORAYA": "93885",
+      "TATANGGE": "93885",
+      "TELUTU JAYA": "93885",
+      "TINANGGEA": "93885",
+      "TOROKEKU": "93885",
+      "WADONGGO": "93885",
+      "WATUMELEWE": "93885",
+      "WUNDUMBOLO": "93885"
+    },
+    "WOLASI": {
+      "AMOITO JAYA": "93875",
+      "AOMA": "93875",
+      "AUNUPE": "93875",
+      "LELEKAA": "93875",
+      "RANOWILA": "93875",
+      "WOLASI": "93875"
+    }
+  },
+  "KONAWE UTARA": {
+    "ANDOWIA": {
+      "AMOLAME": "93353",
+      "ANDOWIA": "93353",
+      "ANGGOLOHIPO": "93353",
+      "BANGGAREMA": "93353",
+      "LABUNGGA": "93353",
+      "LAHIMBUA": "93353",
+      "LAMBUDONI": "93353",
+      "LAMONDOWO": "93353",
+      "LAROBENDE": "93353",
+      "LARONANGA": "93353",
+      "MATA IWOI": "93353",
+      "PUUSULI": "93353",
+      "PUUWONUA": "93353"
+    },
+    "ASERA": {
+      "AMOROME": "93311",
+      "AMOROME UTAMA": "93311",
+      "ASEMI NUNULAI": "93311",
+      "KOTA MULIA": "93311",
+      "PUUNGGOMOSI": "93311",
+      "PUUWANGGUDU": "93311",
+      "TANGGULURI": "93311",
+      "TAPUWATU": "93311",
+      "WALALINDU": "93311",
+      "WALASOLO": "93311",
+      "WANGGUDU": "93311",
+      "WANGGUDU RAYA": "93311",
+      "WAWOLIMBUE": "93311",
+      "WUNDUHAKA": "93311"
+    },
+    "LANGGIKIMA": {
+      "ALENGGO": "93343",
+      "LAMERURU": "93343",
+      "MOLORE": "93343",
+      "PARIAMA": "93343",
+      "POLORA INDAH": "93343"
+    },
+    "LASOLO": {
+      "ABOLA": "93352",
+      "ANDEO": "93352",
+      "ANDUMOWU": "93352",
+      "BASULE": "93352",
+      "BELALO": "93352",
+      "LALOWARU": "93352",
+      "LAMETONO": "93352",
+      "LARODANGGE": "93352",
+      "MATAPILA": "93352",
+      "MUARA TINOBU": "93352",
+      "OTOLE": "93352",
+      "T I N O B U": "93352",
+      "TETELUPAI": "93352",
+      "WATUKILA": "93352",
+      "WAWORAHA": "93352"
+    },
+    "LEMBO": {
+      "ALO-ALO": "93354",
+      "BUNGGUOSU": "93354",
+      "LAPULU": "93354",
+      "LARAMO": "93354",
+      "LEMBO": "93354",
+      "PADALEU": "93354",
+      "PASIR PUTIH": "93354",
+      "PUULEMO": "93354",
+      "PUUSIAMBU": "93354",
+      "TAIPA": "93354",
+      "TONGALINO": "93354"
+    },
+    "MOLAWE": {
+      "AWILA": "93351",
+      "AWILA PUNCAK": "93351",
+      "BANDAEHA": "93351",
+      "MANDIODO": "93351",
+      "MATAIWOI": "93353",
+      "MOLAWE": "93351",
+      "MOWUNDO": "93351",
+      "TAPUEMEA": "93351",
+      "TAPUNGGAYA": "93351"
+    },
+    "MOTUI": {
+      "BANGGINA": "93356",
+      "KAPOLANO": "93355",
+      "LAMBULUO": "93356",
+      "MATANDAHI": "93356",
+      "MOTUI": "93356",
+      "PONI-PONIKI": "93356",
+      "PUUWONGGIA": "93356",
+      "TOBIMEITA": "93355",
+      "TONDOWATU": "93356",
+      "UPT. TONDOWATU": "93356",
+      "WAWOLURI": "93356"
+    },
+    "OHEO": {
+      "BANDAEHA": "93341",
+      "BENDE WUTA": "93341",
+      "KOTA MAJU": "93341",
+      "LAMEORU": "93341",
+      "LANDAWE": "93341",
+      "LAROONAHA": "93341",
+      "MOPUTE": "93341",
+      "PAKA INDAH": "93341",
+      "PUUHIALU": "93341",
+      "SAMBANDETE": "93341",
+      "TINONDO": "93341",
+      "TODOLOIYO": "93341",
+      "TODOLOIYO TRANS": "93341",
+      "WALANDAWE": "93341",
+      "WIWIRANO": "93341"
+    },
+    "SAWA": {
+      "KOKAPI": "93355",
+      "LAIMEO": "93355",
+      "LALEMBO": "93355",
+      "MATANGGONAWE": "93355",
+      "PUDONGGALA": "93355",
+      "PUUDONGGALA UTAMA": "93355",
+      "PUUPI": "93355",
+      "SAWA": "93355",
+      "TONGAUNA": "93355",
+      "ULUSAWA": "93355"
+    },
+    "WIWIRANO": {
+      "LAMONAE": "93342",
+      "LAMONAE UTAMA": "93342",
+      "LAROMPANA": "93342",
+      "MATA OSOLE": "93342",
+      "PADALERE": "93342",
+      "PADALERE UTAMA": "93342",
+      "PONDOA": "93342",
+      "TETEWATU": "93342",
+      "UPT PADALERE UTAMA": "93342",
+      "WACU PINODO": "93342",
+      "WAWOHEO": "93342",
+      "WAWONTOAHO": "93342"
+    }
+  },
+  "MUNA": {
+    "BATALAIWORU": {
+      "LAIWORU": "93643",
+      "SIDODADI": "93643",
+      "WAKORAMBU": "93643",
+      "WAWESA": "93643"
+    },
+    "BATUKARA": {
+      "BALUARA": "93675",
+      "BONE-BONE": "93675",
+      "LANOBAKE": "93675",
+      "MOOLO": "93675"
+    },
+    "BONE": {
+      "BONE LOLIBU": "93667",
+      "BONE TONDO": "93667",
+      "MATOMBURA": "93667",
+      "MATOMBURA KANINI": "93667",
+      "OELONGKO": "93667"
+    },
+    "DURUKA": {
+      "BANGGAI": "93659",
+      "GHONSUME": "93659",
+      "LAGASA": "93659",
+      "LASUNAPA": "93659",
+      "PALANGGA": "93659",
+      "WAPUNTO": "93659"
+    },
+    "KABANGKA": {
+      "KABANGKA": "93664",
+      "KOMBA-KOMBA": "93664",
+      "LAKANDITO": "93664",
+      "LUPIA": "93664",
+      "OENSULI": "93664",
+      "SARIMULYO": "93664",
+      "WAKOBALU AGUNG": "93664",
+      "WANSUGI": "93664",
+      "WATALIKU": "93664"
+    },
+    "KABAWO": {
+      "BEA": "93661",
+      "BENTE": "93661",
+      "KAMBAWUNA": "93661",
+      "KASAKA": "93661",
+      "KAWITE WITE": "93661",
+      "KONTUMERE": "93661",
+      "LAIMPI": "93661",
+      "LAMAEO": "93661",
+      "R A N G K A": "93661",
+      "WANTIWORO": "93661"
+    },
+    "KATOBU": {
+      "BUTUNG-BUTUNG": "93619",
+      "LAENDE": "93619",
+      "RAHA  II": "93612",
+      "RAHA I": "93611",
+      "RAHA III": "93613",
+      "WAMPONIKI": "93619",
+      "WATONEA": "93615"
+    },
+    "KONTUKOWUNA": {
+      "BAHUTARA": "93649",
+      "KAFOO-FOO": "93649",
+      "KILAMBIBITO": "93649",
+      "KONTUKOWUNA": "93649",
+      "LAGHORIO": "93649"
+    },
+    "KONTUNAGA": {
+      "BUNGI": "93641",
+      "KONTUNAGA": "93641",
+      "LAPODIDI": "93641",
+      "LIABALANO": "93641",
+      "MASALILI": "93641"
+    },
+    "LASALEPA": {
+      "BANGUN SARI": "93645",
+      "BONEA": "93645",
+      "KOMBUNGO": "93645",
+      "LABONE": "93645",
+      "LABUNTI": "93645",
+      "LASALEPA": "93645",
+      "PARIDA": "93645"
+    },
+    "LOHIA": {
+      "KONDONGIA": "93658",
+      "KORIHI": "93658",
+      "LAKARINTA": "93658",
+      "LIANGKOBORI": "93658",
+      "LOHIA": "93658",
+      "MANTOBUA": "93658",
+      "WAARA": "93658"
+    },
+    "MALIGANO": {
+      "LANGKORONI": "93671",
+      "LAPOLE": "93671",
+      "LATOMPA": "93671",
+      "MALIGANO": "93671",
+      "RAIMUNA": "93671",
+      "UPT LANGKORONI": "93671"
+    },
+    "MAROBO": {
+      "MAROBO": "93668",
+      "PASIKUTA": "93668",
+      "POAROHA": "93668",
+      "TAPI-TAPI": "93668",
+      "WADOLAO": "93668"
+    },
+    "NAPABALANO": {
+      "LAMBIKU": "93654",
+      "LANGKUMAPO": "93654",
+      "NAPABALANO": "93654",
+      "NAPALAKURA": "93654",
+      "PENTIRO": "93654",
+      "TAMPO": "93654"
+    },
+    "PARIGI": {
+      "KOLASA": "93663",
+      "LABULU-BULU": "93663",
+      "LAIBA": "93663",
+      "PARIGI": "93663",
+      "WAKUMORO": "93663",
+      "WALAMBENO WITE": "93663",
+      "WAPUALE": "93663",
+      "WARAMBE": "93663",
+      "WASOLANGKA": "93663"
+    },
+    "PASI KOLAGA": {
+      "KOLESE": "93678",
+      "LAMBELU": "93678",
+      "MATA INDAHA": "93678",
+      "TAMPUNABALE": "93678"
+    },
+    "PASIR PUTIH": {
+      "BUMBU": "93677",
+      "KAMOSOPE": "93677",
+      "KOGHOLIFANO": "93677",
+      "LABULAWA": "93677",
+      "LIWUMETINGKI": "93677"
+    },
+    "TONGKUNO": {
+      "DANAGOA": "93662",
+      "FONGKANIWA": "93662",
+      "KONTUMOLEPE": "93662",
+      "LAGHONTOGHE": "93662",
+      "LAKOLOGOU": "93662",
+      "LAMORENDE": "93662",
+      "MATANO OE": "93662",
+      "TOMBULA": "93662"
+    },
+    "TONGKUNO SELATAN": {
+      "LABASA": "93669",
+      "LIANOSA": "93669"
+    },
+    "TOWEA": {
+      "LAKARAMA": "93682",
+      "M O A S I": "93682",
+      "RENDA": "93682",
+      "WANGKOLABU": "93682"
+    },
+    "WAKORUMBA SELATAN": {
+      "BHAKEALU": "93674",
+      "LABUNIA(PURE)": "93674",
+      "PURE": "93674",
+      "WAKORUMBA": "93674",
+      "WAMBONA": "93674"
+    },
+    "WATOPUTE": {
+      "BANGKALI": "93644",
+      "DANA": "93644",
+      "LABAHA": "93644",
+      "MATARAWA": "93644",
+      "WAKADIA": "93644",
+      "WALI": "93644"
+    }
+  },
+  "WAKATOBI": {
+    "BINONGKO": {
+      "JAYA MAKMUR": "93794",
+      "KAMPO-KAMPO": "93794",
+      "LAGONGGA": "93794",
+      "MAKORO": "93794",
+      "PALAHIDU": "93794",
+      "PALAHIDU BARAT": "93797",
+      "RUKUWA": "93797",
+      "TAIPABU": "93794",
+      "WALI": "93794"
+    },
+    "KALEDUPA": {
+      "AMBEUA": "93792",
+      "AMBEUA RAYA": "93792",
+      "BALASUNA": "93792",
+      "BALASUNA SELATAN": "93792",
+      "BURANGA": "93792",
+      "KALIMAS": "93792",
+      "LAGIWAE": "93792",
+      "MANTIGOLA MAKMUR": "93792",
+      "OLLO": "93792",
+      "OLLO SELATAN": "93792",
+      "SAMABAHARI": "93792",
+      "SOMBANO": "93792",
+      "WADURI": "93792"
+    },
+    "KALEDUPA SELATAN": {
+      "DARAWA": "93796",
+      "KASWARI": "93796",
+      "LANGGE": "93796",
+      "LENTEA": "93796",
+      "PAJAM": "93796",
+      "PEROPA": "93796",
+      "SANDI": "93796",
+      "TAMPARA": "93796",
+      "TANJUNG": "93796",
+      "TANOMEHA": "93796"
+    },
+    "TOGO BINONGKO": {
+      "HAKA": "93798",
+      "OIHU": "93798",
+      "POPALIA": "93798",
+      "SOWA": "93798",
+      "WALOINDI": "93798"
+    },
+    "TOMIA": {
+      "KOLLO SOHA": "93793",
+      "LAMANGGAU": "93793",
+      "ONEMAY": "93793",
+      "PATUA": "93793",
+      "PATUA II": "93793",
+      "RUNDUMA": "93793",
+      "TEEMOANE": "93793",
+      "WAHA": "93793",
+      "WAITII": "93793",
+      "WAITII BARAT": "93793"
+    },
+    "TOMIA TIMUR": {
+      "BAHARI": "93797",
+      "DETE": "93797",
+      "KAHIANGA": "93797",
+      "KULATI": "93797",
+      "PATIPELONG": "93797",
+      "TIMU": "93797",
+      "TONGANO BARAT": "93797",
+      "TONGANO TIMUR": "93797",
+      "WAWOTIMU": "93797"
+    },
+    "WANGI-WANGI": {
+      "KOROE ONAWA": "93791",
+      "LONGA": "93791",
+      "MALEKO": "93791",
+      "PADA RAYA MAKMUR": "93791",
+      "PATUNO": "93791",
+      "PONGO": "93791",
+      "POOKAMBUA": "93791",
+      "POSALU": "93791",
+      "SOMBU": "93791",
+      "TINDOI": "93791",
+      "TINDOI TIMUR": "93791",
+      "WAELUMU": "93791",
+      "WAETUNO": "93791",
+      "WAGINOPO": "93791",
+      "WAHA": "93793",
+      "WANCI": "93791",
+      "WANDOKA": "93791",
+      "WANDOKA SELATAN": "93791",
+      "WANDOKA UTARA": "93791",
+      "WAPIA PIA": "93791"
+    },
+    "WANGI-WANGI SELATAN": {
+      "KABITA": "93795",
+      "KABITA TOGO": "93795",
+      "KAPOTA": "93795",
+      "KAPOTA UTARA": "93795",
+      "KOMALA": "93795",
+      "LIYA MAWI": "93795",
+      "LIYA ONE MELANGKA": "93795",
+      "LIYA TOGO": "93795",
+      "MANDATI I": "93795",
+      "MANDATI II": "93795",
+      "MANDATI III": "93795",
+      "MATAHORA": "93795",
+      "MOLA BAHARI": "93795",
+      "MOLA NELAYAN BAKTI": "93795",
+      "MOLA SAMATURU": "93795",
+      "MOLA SELATAN": "93795",
+      "MOLA UTARA": "93795",
+      "NUMANA": "93795",
+      "WISATA KOLO": "93795",
+      "WUNGKA": "93795"
+    }
+  }
+}

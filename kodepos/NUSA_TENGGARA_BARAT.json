@@ -1,0 +1,1115 @@
+{
+  "BIMA": {
+    "AMBALAWI": {
+      "KOLE": "84153",
+      "MAWU": "84153",
+      "NIPA": "84153",
+      "RITE": "84153",
+      "TALAPITI": "84153",
+      "TOLOWATA": "84153"
+    },
+    "ASAKOTA": {
+      "JATIBARU": "84142",
+      "JATIWANGI": "84141",
+      "KOLO": "84144",
+      "MELAYU": "84143"
+    },
+    "BELO": {
+      "CENGGU": "84173",
+      "LIDO": "84173",
+      "NCERA": "84173",
+      "NGALI": "84173",
+      "RENDA": "84173",
+      "ROKA": "84173",
+      "RUNGGU": "84173",
+      "SOKI": "84173"
+    },
+    "BOLO": {
+      "BONTOKAPE": "84161",
+      "KANANGA": "84161",
+      "LEU": "84161",
+      "NGGEMBE": "84161",
+      "RADA": "84161",
+      "RATO": "84161",
+      "SANOLO": "84161",
+      "SONDOSIA": "84161",
+      "TAMBE": "84161",
+      "TIMU": "84161",
+      "TUMPU": "84161"
+    },
+    "DONGGO": {
+      "BUMI PAJO": "84162",
+      "DORIDUNGGA": "84162",
+      "KALA": "84162",
+      "MBAWA": "84162",
+      "MPILI": "84162",
+      "PALAMA": "84162",
+      "RORA": "84162"
+    },
+    "LAMBITU": {
+      "KUTA": "84184",
+      "SAMBORI": "84184",
+      "TETA": "84184"
+    },
+    "LAMBU": {
+      "HIDIRASA": "84183",
+      "KALEO": "84183",
+      "LAMBU": "84183",
+      "LANTA": "84183",
+      "LANTA BARAT": "84183",
+      "MANGGE": "84183",
+      "MELAYU": "84183",
+      "NGGELU": "84183",
+      "RATO": "84183",
+      "SIMPASAI": "84183",
+      "SORO": "84183",
+      "SUMI": "84183"
+    },
+    "LANGGUDU": {
+      "DUMU": "84175",
+      "KALODU": "84175",
+      "KANGGA": "84175",
+      "KARAMPI": "84175",
+      "KARUMBU": "84175",
+      "KAWUWU": "84175",
+      "LAJU": "84175",
+      "ROMPO": "84175",
+      "RUPE": "84175",
+      "WADU RUKA": "84175",
+      "WAWORADA": "84175"
+    },
+    "MADA PANGGA": {
+      "BOLO": "84164",
+      "CAMPA": "84164",
+      "DENA": "84164",
+      "MADA WAU": "84164",
+      "MONGGO": "84164",
+      "MPURI": "84164",
+      "NDANO": "84164",
+      "RADE": "84164",
+      "TONDA": "84164",
+      "WORO": "84164"
+    },
+    "MONTA": {
+      "BARALAU": "84172",
+      "MONTA": "84172",
+      "PELA": "84172",
+      "SIE": "84172",
+      "SIMPASAI": "84172",
+      "SONDO": "84172",
+      "TANGGA": "84172",
+      "TANGGA BARU": "84172",
+      "TOLOTANGGA": "84172",
+      "TOLOUWI": "84172",
+      "WILLAMACI": "84172"
+    },
+    "MPUNDA": {
+      "LEWIRATO": "84111",
+      "MANDE": "84115",
+      "MANGGEMACI": "84111",
+      "MATAKANDO": "84111",
+      "MONGGONAO": "84111",
+      "PANGGI": "84115",
+      "PENATOI": "84115",
+      "SADIA": "84112",
+      "SAMBINAE": "84112",
+      "SANTI": "84111"
+    },
+    "PALIBELO": {
+      "BELO": "84174",
+      "DORE": "84174",
+      "NATA": "84174",
+      "NTONGGU": "84174",
+      "PANDA": "84174",
+      "ROI": "84174",
+      "TEKE": "84174",
+      "TONGGORISA": "84174"
+    },
+    "PARADO": {
+      "KANCA": "84176",
+      "KUTA": "84176",
+      "LERE": "84176",
+      "PARADORATO": "84176",
+      "PARADOWANE": "84176"
+    },
+    "RABA": {
+      "KENDO": "84138",
+      "NITU": "84139",
+      "NTOBO": "84138",
+      "PENANAE": "84136",
+      "PENARAGA": "84135",
+      "RABADOMPU BARAT": "84133",
+      "RABADOMPU TIMUR": "84134",
+      "RABANGODU SELATAN": "84132",
+      "RABANGODU UTARA": "84131",
+      "RITE": "84137",
+      "RONTU": "84139"
+    },
+    "RASANAE BARAT": {
+      "DARA": "84118",
+      "NAE": "84116",
+      "PANE": "84118",
+      "PARUGA": "84118",
+      "SARAE": "84117",
+      "TANJUNG": "84118"
+    },
+    "RASANAE TIMUR": {
+      "DODU": "84123",
+      "KODO": "84125",
+      "KUMBE": "84124",
+      "LAMPE": "84122",
+      "LELAMASE": "84127",
+      "NUNGGA": "84121"
+    },
+    "SANGGAR": {
+      "BORO": "84191",
+      "KORE": "84191",
+      "OI SARO": "84191",
+      "PIONG": "84191",
+      "SANDUE": "84191",
+      "TALOKO": "84191"
+    },
+    "SAPE": {
+      "BAJOPULAU": "84182",
+      "BOKE": "84182",
+      "BUGIS": "84182",
+      "BUNCU": "84182",
+      "JIA": "84182",
+      "KOWO": "84182",
+      "LAMERE": "84182",
+      "NARU BARAT": "84182",
+      "PARANGINA": "84182",
+      "POJA": "84182",
+      "RASABOU": "84182",
+      "SANGIA": "84182",
+      "SARI": "84182",
+      "TANAH PUTIH": "84182"
+    },
+    "SOROMANDI": {
+      "BAJO": "84163",
+      "PUNTI": "84163",
+      "SAI": "84163",
+      "SAMPUNGU": "84163",
+      "WADUKOPA": "84163"
+    },
+    "TAMBORA": {
+      "KAWINDA NAE": "84192",
+      "KAWINDA TOI": "84192",
+      "LABUHAN KANANGA": "84192",
+      "OI BURA": "84192",
+      "OI PANIHI": "84192"
+    },
+    "WAWO": {
+      "KAMBILO": "84181",
+      "KOMBO": "84181",
+      "MARIA": "84181",
+      "MARIA UTARA": "84181",
+      "NTORI": "84181",
+      "PESA": "84181",
+      "RABA": "84181",
+      "TARLAWI": "84181"
+    },
+    "WERA": {
+      "BALA": "84152",
+      "NANGA WERA": "84152",
+      "NTOKE": "84152",
+      "NUNGGI": "84152",
+      "OITUI": "84152",
+      "PAI": "84152",
+      "SANGIANG": "84152",
+      "TADEWA": "84152",
+      "TAWALI": "84152",
+      "WORA": "84152"
+    },
+    "WOHA": {
+      "DADIBOU": "84171",
+      "DONGGOBOLO": "84171",
+      "KALAMPA": "84171",
+      "KELI": "84171",
+      "NARU": "84171",
+      "NISA": "84171",
+      "PANDAI": "84171",
+      "PENAPALI": "84171",
+      "RABAKODO": "84171",
+      "RISA": "84171",
+      "SAMILI": "84171",
+      "TALABIU": "84171",
+      "TENGA": "84171",
+      "TENTE": "84171",
+      "WADU WANI": "84171"
+    }
+  },
+  "DOMPU": {
+    "DOMPU": {
+      "BADA": "84211",
+      "BALI": "84213",
+      "DOREBARA": "84217",
+      "DOROTANGGA": "84212",
+      "KANDAI SATU": "84215",
+      "KARAMABURA": "84217",
+      "KAREKE": "84217",
+      "KARIJAWA": "84217",
+      "KATUA": "84217",
+      "MANGGE ASI": "84217",
+      "MANGGE NAE": "84217",
+      "MBAWI": "84217",
+      "POTU": "84214"
+    },
+    "KEMPO": {
+      "DORO KOBO": "84261",
+      "KEMPO": "84261",
+      "KONTE": "84261",
+      "SO NGGAJAH": "84261",
+      "SORO": "84261",
+      "TOLO KALO": "84261"
+    },
+    "KILO": {
+      "K I W U": "84252",
+      "LASI": "84252",
+      "MALAJU": "84252",
+      "MBUJU": "84252",
+      "TAROPO": "84252"
+    },
+    "MANGGALEWA": {
+      "BANGGO": "84262",
+      "DOROMELO": "84262",
+      "KWANGKO": "84262",
+      "LANCI JAYA": "84262",
+      "NANGATUMPU": "84262",
+      "NUSA JAYA": "84262",
+      "SORIUTU": "84262",
+      "SUKA DAMAI": "84262"
+    },
+    "PAJO": {
+      "JAMBU": "84253",
+      "LEPADI": "84253",
+      "LUNE": "84253",
+      "RANGGO": "84253"
+    },
+    "PEKAT": {
+      "BERINGIN JAYA": "84263",
+      "KADINDI": "84263",
+      "NANGAMIRO": "84263",
+      "PEKAT": "84263",
+      "SORINOMO": "84263",
+      "TAMBORA": "84263"
+    },
+    "WOJA": {
+      "BARA": "84251",
+      "KANDAI DUA": "84215",
+      "MADAPRAMA": "84251",
+      "MUMBU": "84251",
+      "NOWA": "84251",
+      "RIWO": "84251"
+    }
+  },
+  "LOMBOK BARAT": {
+    "BATU LAYAR": {
+      "BATU LAYAR": "83355",
+      "BATU LAYAR BARAT": "83355",
+      "LEMBAH SARI": "83355",
+      "SANDIK": "83355",
+      "SENGGIGI": "83355",
+      "SENTELUK": "83355"
+    },
+    "GERUNG": {
+      "BABUSSALAM": "83311",
+      "BANYU URIP": "83311",
+      "BELEKE": "83311",
+      "DASAN TAPEN": "83311",
+      "GAPUK": "83311",
+      "SUKA MAKMUR": "83311",
+      "TEMPOS": "83311"
+    },
+    "GUNUNG SARI": {
+      "DOPANG": "83351",
+      "GUNUNG SARI": "83351",
+      "JATI SELA": "83351",
+      "KEKAIT": "83351",
+      "KEKERI": "83351",
+      "MAMBALAN": "83351",
+      "MIDANG": "83351",
+      "PENIMBUNG": "83351",
+      "SESELA": "83351",
+      "TAMAN SARI": "83351"
+    },
+    "KEDIRI": {
+      "BANYUMULEK": "83362",
+      "DASAN BARU": "83362",
+      "GELOGOR": "83362",
+      "JAGARAGA INDAH": "83362",
+      "KEDIRI": "83362",
+      "OMBE BARU": "83362",
+      "RUMAK": "83362"
+    },
+    "KURIPAN": {
+      "JAGARAGA": "83373",
+      "KURIPAN": "83373",
+      "KURIPAN SELATAN": "83373",
+      "KURIPAN UTARA": "83373"
+    },
+    "LABU API": {
+      "BAGIK POLAK": "83361",
+      "BAGIK POLAK BARAT": "83361",
+      "BAJUR": "83361",
+      "BENGKEL": "83361",
+      "KARANG BONGKOT": "83361",
+      "KURANJI": "83361",
+      "LABU API": "83361",
+      "PERAMPUAN": "83361",
+      "TELAGA WARU": "83361",
+      "TERONG TAWAH": "83361"
+    },
+    "LEMBAR": {
+      "JEMBATAN KEMBAR": "83364",
+      "JEMBATAN KEMBAR TIMUR": "83364",
+      "LABUAN TERENG": "83364",
+      "LEMBAR": "83364",
+      "MAREJE": "83364",
+      "SEKOTONG TIMUR": "83364"
+    },
+    "LINGSAR": {
+      "BATU KUMBUNG": "83372",
+      "BATU MEKAR": "83372",
+      "DASAN GERIA": "83372",
+      "DUMAN": "83372",
+      "GEGERUNG": "83372",
+      "KARANG BAYAN": "83372",
+      "LINGSAR": "83372",
+      "SIGERONGAN": "83372"
+    },
+    "NARMADA": {
+      "BADRAIN": "83371",
+      "BATU KUTA": "83371",
+      "DASAN TERENG": "83371",
+      "GERIMAX INDAH": "83371",
+      "KERU": "83371",
+      "KRAMA JAYA": "83371",
+      "LEBAH SEMPAGE": "83371",
+      "LEMBUAK": "83371",
+      "PERESAK": "83371",
+      "SEDAU": "83371",
+      "SELAT": "83371",
+      "SEMBUNG": "83371",
+      "SESAOT": "83371",
+      "SURANADI": "83371",
+      "TANAK BEAK": "83371"
+    },
+    "SEKOTONG": {
+      "BATU PUTIH": "83365",
+      "BUWUN MAS": "83365",
+      "KEDARO": "83365",
+      "PELANGAN": "83365",
+      "SEKOTONG BARAT": "83365",
+      "SEKOTONG TENGAH": "83365"
+    }
+  },
+  "LOMBOK TENGAH": {
+    "BATUKLIANG": {
+      "AIK DAREQ": "83552",
+      "BARABALI": "83552",
+      "BEBER": "83552",
+      "BUJAK": "83552",
+      "MANTANG": "83552",
+      "PAGUTAN": "83552",
+      "PERESAK": "83552",
+      "TAMPAK SIRING": "83552"
+    },
+    "BATUKLIANG UTARA": {
+      "AIK BUKAQ": "83555",
+      "KARANG SIDEMEN": "83555",
+      "LANTAN": "83555",
+      "MAS-MAS": "83555",
+      "SETILING": "83555",
+      "TANAK BEAQ": "83555",
+      "TERATAK": "83555"
+    },
+    "JANAPRIA": {
+      "BAKAN": "83554",
+      "DURIAN": "83554",
+      "JANAPRIA": "83554",
+      "KEREMBONG": "83554",
+      "LANGKO": "83554",
+      "LEKOR": "83554",
+      "LOANG MAKA": "83554",
+      "PENDEM": "83554",
+      "SABA": "83554",
+      "SELEBUNG REMBIGA": "83554"
+    },
+    "JONGGAT": {
+      "BAREJULAT": "83561",
+      "BATUTULIS": "83561",
+      "BONJERUK": "83561",
+      "BUNKATE": "83561",
+      "GEMEL": "83561",
+      "JELANTIK": "83561",
+      "LABULIA": "83561",
+      "NYEROT": "83561",
+      "PENGENJEK": "83561",
+      "PERINA": "83561",
+      "PUYUNG": "83561",
+      "SUKARARA": "83561",
+      "UBUNG": "83561"
+    },
+    "KOPANG": {
+      "BEBUAQ": "83553",
+      "DARMAJI": "83553",
+      "DASAN BARU": "83553",
+      "KOPANG REMBIGA": "83553",
+      "LENDANG ARA": "83553",
+      "MONGGAS": "83553",
+      "MONTONG GAMANG": "83553",
+      "MUNCAN": "83553",
+      "WAJA GESENG": "83553"
+    },
+    "PRAYA": {
+      "AIK MUAL": "83519",
+      "BUNUT BAOK": "83519",
+      "GERUNUNG": "83514",
+      "GONJAK": "83519",
+      "JAGO": "83519",
+      "LENENG": "83515",
+      "MONTONG TEREP": "83519",
+      "PANJISARI": "83516",
+      "PRAYA": "83511",
+      "RENTENG": "83519",
+      "SEMAYAN": "83512",
+      "TIWUGALIH": "83518"
+    },
+    "PRAYA BARAT": {
+      "BANYU URIP": "83572",
+      "BATUJAI": "83572",
+      "KATENG": "83572",
+      "MANGKUNG": "83572",
+      "MEKAR SARI": "83572",
+      "SELONG BELANAK": "83572"
+    },
+    "PRAYA BARAT DAYA": {
+      "BATU JANGKIH": "83571",
+      "DAREK": "83571",
+      "KABUL": "83571",
+      "MONTONG AJAN": "83571",
+      "MONTONG SAPAH": "83571",
+      "PANDAN INDAH": "83571",
+      "PELAMBIK": "83571",
+      "RANGGAGATA": "83571",
+      "SERAGE": "83571",
+      "UNGGA": "83571"
+    },
+    "PRAYA TENGAH": {
+      "BATUNYALA": "83582",
+      "BERAIM": "83582",
+      "GERANTUNG": "83582",
+      "JONTLAK": "83582",
+      "KELEBUH": "83582",
+      "LAJUT": "83582",
+      "PENGADANG": "83582",
+      "SASAKE": "83582"
+    },
+    "PRAYA TIMUR": {
+      "BILELANDO": "83581",
+      "GANTI": "83581",
+      "KIDANG": "83581",
+      "LANDAH": "83581",
+      "MARONG": "83581",
+      "MUJUR": "83581",
+      "SEMOYANG": "83581",
+      "SUKARAJA": "83581"
+    },
+    "PRINGGARATA": {
+      "MURBAYA": "83562",
+      "PEMEPEK": "83562",
+      "PRINGGARATA": "83562",
+      "SEPAKEK": "83562",
+      "SINTUNG": "83562"
+    },
+    "PUJUT": {
+      "GAPURA": "83573",
+      "KAWO": "83573",
+      "KETARA": "83573",
+      "KUTA": "83573",
+      "MERTAK": "83573",
+      "PENGEMBUR": "83573",
+      "PENGENGAT": "83573",
+      "PRABU": "83573",
+      "REMBITAN": "83573",
+      "SEGALE ANYAR": "83573",
+      "SENGKOL": "83573",
+      "SUKADANA": "83573",
+      "TANAK AWU": "83573",
+      "TERUWAI": "83573",
+      "TUMPAK": "83573"
+    }
+  },
+  "LOMBOK TIMUR": {
+    "AIKMEL": {
+      "AIKMEL": "83653",
+      "AIKMEL BARAT": "83653",
+      "AIKMEL UTARA": "83653",
+      "KALIJAGA": "83653",
+      "KALIJAGA BARU": "83653",
+      "KALIJAGA SELATAN": "83653",
+      "KALIJAGA TIMUR": "83653",
+      "KEMBANG KERANG": "83653",
+      "KEMBANG KERANG DAYA": "83653",
+      "LENEK": "83653",
+      "LENEK DAYA": "83653",
+      "LENEK LAUQ": "83653",
+      "TOYA": "83653"
+    },
+    "JEROWARU": {
+      "BATU NAMPAR SELATAN": "83676",
+      "BATUNAMPAR": "83676",
+      "JEROWARU": "83676",
+      "PANDAN WANGI": "83676",
+      "PEMONGKONG": "83676",
+      "SEKAROH": "83676",
+      "SUKARAJA": "83676",
+      "WAKAN": "83676"
+    },
+    "KERUAK": {
+      "BATU PUTIK": "83672",
+      "KERUAK": "83672",
+      "KETANGGA JERAING": "83657",
+      "KETAPANG RAYA": "83672",
+      "PIJOT": "83672",
+      "SELEBUNG KETANGGA": "83672",
+      "SENYIUR": "83672",
+      "SEPIT": "83672",
+      "TANJUNG LUAR": "83672"
+    },
+    "LABUHAN HAJI": {
+      "BANJAR SARI": "83675",
+      "IJOBALIT": "83675",
+      "KERTA SARI": "83675",
+      "KORLEKO": "83675",
+      "LABUHAN HAJI": "83675",
+      "SURYA WANGI": "83675",
+      "TANJUNG": "83675",
+      "TEROS": "83675",
+      "TIRTANADI": "83675"
+    },
+    "MASBAGIK": {
+      "DANGER": "83661",
+      "KESIK": "83661",
+      "KUMBANG": "83661",
+      "LENDANG NANGKA": "83661",
+      "LENDANG NANGKA UTARA": "83661",
+      "MASBAGIK SELATAN": "83661",
+      "MASBAGIK TIMUR": "83661",
+      "MASBAGIK UTARA": "83661",
+      "MASBAGIK UTARA BARU": "83661",
+      "PAOK MOTONG": "83661"
+    },
+    "MONTONG GADING": {
+      "JENGGIK UTARA": "83664",
+      "KILANG": "83664",
+      "MONTONG BETOK": "83664",
+      "PERIAN": "83664",
+      "PESANGGRAHAN": "83664",
+      "PRINGGAJURANG": "83664",
+      "PRINGGAJURANG UTARA": "83664"
+    },
+    "PRINGGABAYA": {
+      "ANGGARAKSA": "83654",
+      "APITAIK": "83654",
+      "BAGIK PAPAN": "83654",
+      "BATUYANG": "83654",
+      "GUNUNG MALANG": "83654",
+      "KERUMUT": "83654",
+      "LABUHAN LOMBOK": "83654",
+      "POHGADING": "83654",
+      "POHGADING TIMUR": "83654",
+      "PRINGGABAYA": "83654",
+      "PRINGGABAYA UTARA": "83654",
+      "TANAK GADANG": "83654",
+      "TEKO": "83654"
+    },
+    "PRINGGASELA": {
+      "AIKDEWA": "83665",
+      "JURIT": "83665",
+      "JURIT BARU": "83665",
+      "PENGADANGAN": "83665",
+      "PENGADANGAN BARAT": "83665",
+      "PRINGGASELA": "83665",
+      "PRINGGASELA SELATAN": "83665",
+      "PRINGGASELA TIMUR": "83665",
+      "REMPUNG": "83665"
+    },
+    "SAKRA": {
+      "KABAR": "83671",
+      "KESELET": "83671",
+      "RUMBUK": "83671",
+      "RUMBUK TIMUR": "83671",
+      "SAKRA": "83671",
+      "SAKRA SELATAN": "83671",
+      "SUANGI TIMUR": "83671"
+    },
+    "SAKRA BARAT": {
+      "BOROK TOYANG": "83673",
+      "BUNGTIANG": "83673",
+      "GUNUNG RAJAK": "83673",
+      "PENGKELAKMAS": "83673",
+      "RENSING": "83673",
+      "RENSING BAT": "83673",
+      "RENSING RAYA": "83673",
+      "SUKARARA": "83673"
+    },
+    "SAKRA TIMUR": {
+      "GELANGGANG": "83674",
+      "GERENENG": "83674",
+      "GERENENG TIMUR": "83674",
+      "LEPAK": "83674",
+      "LEPAK TIMUR": "83674",
+      "MENCEH": "83674",
+      "MONTONGTANGI": "83674",
+      "SURABAYA": "83674",
+      "SURABAYA UTARA": "83674"
+    },
+    "SAMBELIA": {
+      "BELANTING": "83656",
+      "LABUHAN PANDAN": "83656",
+      "OBEL OBEL": "83656",
+      "SUGIAN": "83656"
+    },
+    "SELONG": {
+      "DENGGEN TIMUR": "83619",
+      "KELAYU JORONG": "83619",
+      "KELAYU UTARA": "83619",
+      "KEMBANG SARI": "83618",
+      "MAJIDI": "83619",
+      "PANCOR": "83611",
+      "RAKAM": "83619",
+      "SANDUBAYA": "83612",
+      "SEKARTEJA": "83611"
+    },
+    "SEMBALUN": {
+      "SAJANG": "83666",
+      "SEMBALUN BUMBUNG": "83666",
+      "SEMBALUN LAWANG": "83666"
+    },
+    "SIKUR": {
+      "GELORA": "83662",
+      "KEMBANG KUNING": "83662",
+      "KOTARAJA": "83662",
+      "LOYOK": "83662",
+      "MONTONGBAAN": "83662",
+      "MONTONGBAAN SELATAN": "83662",
+      "SEMAYA": "83662",
+      "SIKUR": "83662",
+      "TETEBATU": "83662"
+    },
+    "SUELA": {
+      "KETANGGA": "83657",
+      "MEKAR SARI": "83657",
+      "PERIGI": "83657",
+      "SAPIT": "83657",
+      "SELAPARANG": "83657",
+      "SUNTALANGU": "83657"
+    },
+    "SUKAMULIA": {
+      "DASAN LEKONG": "83652",
+      "JANTUK": "83652",
+      "PADAMARA": "83652",
+      "PAOK PAMPANG": "83652",
+      "SETANGGOR": "83652",
+      "SETANGGOR SELATAN": "83652",
+      "SUKAMULIA": "83652",
+      "SUKAMULIA TIMUR": "83652"
+    },
+    "SURALAGA": {
+      "ANJANI": "83659",
+      "BAGIK PAYUNG": "83659",
+      "BAGIK PAYUNG SELATAN": "83659",
+      "BAGIKPAYUNG TIMUR": "83659",
+      "DASAN BOROK": "83659",
+      "GERUNG PERMAI": "83659",
+      "KERONGKONG": "83659",
+      "SURALAGA": "83659",
+      "TUMBUH MULIA": "83659"
+    },
+    "TERARA": {
+      "EMBUNG RAJA": "83663",
+      "JENGGIK": "83663",
+      "LANDO": "83663",
+      "LEMING": "83663",
+      "RARANG": "83663",
+      "RARANG SELATAN": "83663",
+      "RARANG TENGAH": "83663",
+      "SANTONG": "83663",
+      "SELAGIK": "83663",
+      "SUKADANA": "83663",
+      "SURADADI": "83663",
+      "TERARA": "83663"
+    },
+    "WANASABA": {
+      "BEBIDAS": "83658",
+      "KARANG BARU": "83658",
+      "KARANG BARU TIMUR": "83658",
+      "MAMBEN DAYA": "83658",
+      "MAMBEN LAUQ": "83658",
+      "TEMBENG PUTIK": "83658",
+      "WANASABA": "83658",
+      "WANASABA DAYA": "83658",
+      "WANASABA LAUK": "83658"
+    }
+  },
+  "LOMBOK UTARA": {
+    "BAYAN": {
+      "ANYAR": "83754",
+      "BAYAN": "83754",
+      "KARANG BAJO": "83754",
+      "LOLOAN": "83754",
+      "MUMBUL SARI": "83754",
+      "SAMBIK ELEN": "83754",
+      "SENARU": "83754",
+      "SUKADANA": "83754"
+    },
+    "GANGGA": {
+      "BENTEK": "83753",
+      "GENGGELANG": "83753",
+      "GONDANG": "83753",
+      "REMPEK": "83753",
+      "SAMBIK BANGKOL": "83753"
+    },
+    "KAYANGAN": {
+      "DANGIANG": "83755",
+      "GUMANTAR": "83755",
+      "KAYANGAN": "83755",
+      "PENDUA": "83755",
+      "SALUT": "83755",
+      "SANTONG": "83755",
+      "SELENGEN": "83755",
+      "SESAIT": "83755"
+    },
+    "PEMENANG": {
+      "GILI INDAH": "83756",
+      "MALAKA": "83756",
+      "PEMENANG BARAT": "83756",
+      "PEMENANG TIMUR": "83756"
+    },
+    "TANJUNG": {
+      "JENGGALA": "83717",
+      "MEDANA": "83713",
+      "SIGAR PENJALIN": "83714",
+      "SOKONG": "83712",
+      "TANJUNG": "83711",
+      "TEGAL MAJA": "83716",
+      "TENIGA": "83715"
+    }
+  },
+  "MATARAM": {
+    "AMPENAN": {
+      "AMPENAN SELATAN": "83114",
+      "AMPENAN TENGAH": "83112",
+      "AMPENAN UTARA": "83111",
+      "BANJAR": "83112",
+      "BINTARO": "83111",
+      "DAYAN PEKEN": "83112",
+      "KEBON SARI": "83113",
+      "PEJARAKAN KARYA": "83113",
+      "PEJERUK": "83113",
+      "TAMAN SARI": "83114"
+    },
+    "CAKRANEGARA": {
+      "CAKRANEGARA BARAT": "83231",
+      "CAKRANEGARA SELATAN": "83234",
+      "CAKRANEGARA SELATAN BARU": "83234",
+      "CAKRANEGARA TIMUR": "83235",
+      "CAKRANEGARA UTARA": "83238",
+      "CILINAYA": "83231",
+      "KARANG TALIWANG": "83239",
+      "MAYURA": "83235",
+      "SAPTA MARGA": "83235",
+      "SAYANG SAYANG": "83239"
+    },
+    "MATARAM": {
+      "MATARAM TIMUR": "83131",
+      "PAGESANGAN": "83133",
+      "PAGESANGAN BARAT": "83132",
+      "PAGESANGAN TIMUR": "83134",
+      "PAGUTAN": "83136",
+      "PAGUTAN BARAT": "83135",
+      "PAGUTAN TIMUR": "83137",
+      "PEJANGGIK": "83131",
+      "PUNIA": "83131"
+    },
+    "SANDUBAYA": {
+      "ABIAN TUBUH BARU": "83244",
+      "BABAKAN": "83243",
+      "BERTAIS": "83246",
+      "DASAN CERMEN": "83242",
+      "MANDALIKA": "83246",
+      "SELAGALAS": "83247",
+      "TURIDA": "83243"
+    },
+    "SEKARBELA": {
+      "JEMPONG BARU": "83116",
+      "KARANG PULE": "83116",
+      "KEKALIK JAYA": "83115",
+      "TANJUNG KARANG": "83115",
+      "TANJUNG KARANG PERMAI": "83115"
+    }
+  },
+  "SUMBAWA": {
+    "ALAS": {
+      "BARU": "84353",
+      "DALAM": "84353",
+      "JURANALAS": "84353",
+      "KALIMANGO": "84353",
+      "LABUHAN ALAS": "84351",
+      "LUAR": "84353",
+      "MARENTEH": "84353",
+      "PULAU BUNGIN": "84353"
+    },
+    "ALAS BARAT": {
+      "GONTAR": "84363",
+      "GONTAR BARU": "84363",
+      "LABUAN MAPIN": "84363",
+      "LEKONG": "84363",
+      "MAPIN KEBAK": "84363",
+      "MAPIN REA": "84363",
+      "USAR MAPIN": "84363"
+    },
+    "BATULANTEH": {
+      "BAO DESA": "84361",
+      "BATUDULANG": "84361",
+      "BATUROTOK": "84361",
+      "KELUNGKUNG": "84361",
+      "TANGKAN PULIT": "84361",
+      "TEPAL": "84361"
+    },
+    "BUER": {
+      "BUIN BARU": "84364",
+      "KALABESO": "84364",
+      "LABUHAN BURUNG": "84364",
+      "PULAU KAUNG": "84364",
+      "TARUSA": "84364"
+    },
+    "EMPANG": {
+      "BOAL": "84384",
+      "EMPANG ATAS": "84384",
+      "EMPANG BAWAH": "84384",
+      "GAPIT": "84384",
+      "JOTANG": "84384",
+      "LAMENTA": "84384",
+      "ONGKO": "84384"
+    },
+    "LABANGKA": {
+      "JAYA MAKMUR": "84387",
+      "LABANGKA": "84387",
+      "SEKOKAT": "84387",
+      "SUKA DAMAI": "84387",
+      "SUKA MULYA": "84387"
+    },
+    "LABUHAN BADAS": {
+      "BAJO MEDANG": "84351",
+      "BUGIS MEDANG": "84351",
+      "KARANG DIMA": "84351",
+      "LABUAN AJI": "84351",
+      "LABUAN SUMBAWA": "84351",
+      "LABUHAN BADAS": "84351",
+      "SEBOTOK": "84351"
+    },
+    "LANTUNG": {
+      "AI MUAL": "84375",
+      "LANTUNG": "84375",
+      "PADESA": "84375",
+      "SEPUKUR": "84375"
+    },
+    "LAPE": {
+      "DETE": "84382",
+      "HIJRAH": "84382",
+      "LABUAN KURIS": "84382",
+      "LAPE": "84382"
+    },
+    "LENANGGUAR": {
+      "LEDANG": "84372",
+      "LENANGGUAR": "84372",
+      "TATEBAL": "84372",
+      "TELAGA": "84372"
+    },
+    "LOPOK": {
+      "BERORA": "84388",
+      "LANGAM": "84388",
+      "LOPOK": "84388",
+      "LOPOK BERU": "84388",
+      "MAMA": "84388",
+      "PUNGKIT": "84389"
+    },
+    "LUNYUK": {
+      "EMANG LESTARI": "84373",
+      "JAMU": "84373",
+      "LUNYUK ODE": "84373",
+      "LUNYUK REA": "84373",
+      "PADA SUKA": "84373",
+      "PERUNG": "84373"
+    },
+    "MARONGE": {
+      "LABUHAN SANGORO": "84386",
+      "MARONGE": "84386",
+      "SIMU": "84386"
+    },
+    "MOYO UTARA": {
+      "BARU TAHAN": "84389",
+      "KUKIN": "84389",
+      "PENYARING": "84389",
+      "PUNGKIT": "84389",
+      "SEBEWE": "84389",
+      "SONGKAR": "84389"
+    },
+    "MOYOHILIR": {
+      "BATU BANGKA": "84381",
+      "BERARE": "84381",
+      "KAKIANG": "84381",
+      "MOYO": "84381",
+      "MOYO MEKAR": "84381",
+      "NGERU": "84381",
+      "OLAT RAWA": "84381",
+      "POTO": "84381",
+      "SERADING": "84381"
+    },
+    "MOYOHULU": {
+      "BATUBULAN": "84371",
+      "BATUTERING": "84371",
+      "BERANG REA": "84371",
+      "LESENG": "84371",
+      "LITO": "84371",
+      "MAMAN": "84371",
+      "MARGA KARYA": "84371",
+      "MOKONG": "84371",
+      "PERNEK": "84371",
+      "SEBASANG": "84371",
+      "SEMAMUNG": "84371",
+      "SEMPE": "84371"
+    },
+    "ORONG TELU": {
+      "KELAWIS": "84374",
+      "MUNGKIN": "84374",
+      "SEBEOK": "84374",
+      "SENAWANG": "84374"
+    },
+    "PLAMPANG": {
+      "BRANG KOLONG": "84383",
+      "MUER": "84383",
+      "PLAMPANG": "84383",
+      "SELANTE": "84383",
+      "SEPAKAT": "84383",
+      "SEPAYUNG": "84383",
+      "TELUK SANTONG": "84383",
+      "USAR": "84383"
+    },
+    "RHEE": {
+      "LUK": "84362",
+      "RHEE": "84362",
+      "RHEE LOKA": "84362",
+      "SAMPE": "84362"
+    },
+    "ROPANG": {
+      "LAWIN": "84376",
+      "LEBANGKAR": "84376",
+      "LEBIN": "84376",
+      "RANAN": "84376",
+      "ROPANG": "84376"
+    },
+    "SUMBAWA": {
+      "BRANG BARA": "84314",
+      "BRANG BIJI": "84318",
+      "BUGIS": "84313",
+      "LEMPEH": "84312",
+      "PEKAT": "84315",
+      "SAMAPUIN": "84316",
+      "SEKETENG": "84311",
+      "UMA SIMA": "84317"
+    },
+    "TARANO": {
+      "BANTULANTEH": "84385",
+      "LABUAN AJI": "84385",
+      "LABUAN BONTONG": "84385",
+      "LABUAN JAMBU": "84385",
+      "MATA": "84385"
+    },
+    "UNTER IWES": {
+      "BOAK": "84359",
+      "JOROK": "84359",
+      "KERATO": "84359",
+      "KEREKEH": "84359",
+      "PELAT": "84359",
+      "PUNGKA": "84359",
+      "UMA BERINGIN": "84359"
+    },
+    "UTAN": {
+      "BALE BRANG": "84352",
+      "JOROK": "84359",
+      "LABUAN BAJO": "84352",
+      "MOTONG": "84352",
+      "ORONG BAWA": "84352",
+      "PUKAT": "84352",
+      "STOWE BRANG": "84352",
+      "TENGAH": "84352"
+    }
+  },
+  "SUMBAWA BARAT": {
+    "BRANG ENE": {
+      "KALIMANTONG": "84455",
+      "LAMPOK": "84455",
+      "MANEMENG": "84455",
+      "MUJAHIDDIN": "84455",
+      "MURA": "84455"
+    },
+    "BRANG REA": {
+      "BANGKAT MONTEH": "84458",
+      "DESA BERU": "84458",
+      "SAPUGARA BREE": "84458",
+      "TEPAS": "84458"
+    },
+    "JEREWEH": {
+      "BELO": "84456",
+      "BERU": "84456",
+      "DASAN ANYAR": "84456",
+      "GOA": "84456"
+    },
+    "MALUK": {
+      "BENETE": "84459",
+      "BUKIT DAMAI": "84459",
+      "MALUK": "84459",
+      "MANTUN": "84459",
+      "PASIR PUTIH": "84459"
+    },
+    "POTO TANO": {
+      "KIANTAR": "84453",
+      "MANTAR": "84453",
+      "POTO TANO": "84453",
+      "SENAYAN": "84453",
+      "UPT TAMBAK SARI": "84453"
+    },
+    "SEKONGKANG": {
+      "AI KANGKUNG": "84457",
+      "TALONANG BARU": "84457",
+      "TATAR": "84457",
+      "TONGO": "84457"
+    },
+    "SETELUK": {
+      "AIR SUNING": "84454",
+      "KELANIR": "84454",
+      "MERARAN": "84454",
+      "REMPE": "84454",
+      "SETELUK ATAS": "84454",
+      "SETELUK TENGAH": "84454",
+      "TAPIR": "84454"
+    },
+    "TALIWANG": {
+      "BANJAR": "84419",
+      "BATU PUTIH": "84419",
+      "BUGIS": "84412",
+      "DALAM": "84413",
+      "KUANG": "84411",
+      "LALAR LIANG": "84419",
+      "MENALA": "84414",
+      "SAMPIR": "84415",
+      "SELOTO": "84419",
+      "TAMEKAN": "84419",
+      "TELAGA BERTONG": "84416"
+    }
+  }
+}

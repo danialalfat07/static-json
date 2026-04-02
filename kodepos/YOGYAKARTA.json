@@ -1,0 +1,603 @@
+{
+  "BANTUL": {
+    "BAMBANG LIPURO": {
+      "MULYODADI": "55764",
+      "SIDOMULYO": "55764",
+      "SUMBERMULYO": "55764"
+    },
+    "BANGUNTAPAN": {
+      "BANGUNTAPAN": "55798",
+      "BATURETNO": "55798",
+      "JAGALAN": "55798",
+      "POTORONO": "55798",
+      "SINGOSAREN": "55798",
+      "TAMANAN": "55798",
+      "WIROKERTEN": "55798"
+    },
+    "BANTUL": {
+      "BANTUL": "55711",
+      "PALBAPANG": "55713",
+      "RINGIN HARJO": "55712",
+      "SABDODADI": "55715",
+      "TRIRENGGO": "55714"
+    },
+    "DLINGO": {
+      "DLINGO": "55783",
+      "JATIMULYO": "55783",
+      "MANGUNAN": "55783",
+      "MUNTUK": "55783",
+      "TEMUWUH": "55783",
+      "TERONG": "55783"
+    },
+    "IMOGIRI": {
+      "GIRIREJO": "55782",
+      "IMOGIRI": "55782",
+      "KARANG TENGAH": "55782",
+      "KARANGTALUN": "55782",
+      "KEBON AGUNG": "55782",
+      "SELOPAMIORO": "55782",
+      "SRIHARJO": "55782",
+      "WUKIRSARI": "55782"
+    },
+    "JETIS": {
+      "CANDEN": "55781",
+      "PATALAN": "55781",
+      "SUMBER AGUNG": "55781",
+      "TRIMULYO": "55781"
+    },
+    "KASIHAN": {
+      "BANGUNJIWO": "55799",
+      "NGESTIHARJO": "55799",
+      "TAMANTIRTO": "55799",
+      "TIRTONIRMOLO": "55799"
+    },
+    "KRETEK": {
+      "DONOTIRTO": "55772",
+      "PARANGTRITIS": "55772",
+      "TIRTOHARGO": "55772",
+      "TIRTOMULYO": "55772",
+      "TIRTOSARI": "55772"
+    },
+    "PAJANGAN": {
+      "GUWOSARI": "55751",
+      "SENDANGSARI": "55751",
+      "TRIWIDADI": "55751"
+    },
+    "PANDAK": {
+      "CATURHARJO": "55761",
+      "GILANGHARJO": "55761",
+      "TRIHARJO": "55761",
+      "WIJIREJO": "55761"
+    },
+    "PIYUNGAN": {
+      "SITIMULYO": "55792",
+      "SRIMARTANI": "55792",
+      "SRIMULYO": "55792"
+    },
+    "PLERET": {
+      "BAWURAN": "55791",
+      "PLERET": "55791",
+      "SEGOROYOSO": "55791",
+      "WONOKROMO": "55791",
+      "WONOLELO": "55791"
+    },
+    "PUNDONG": {
+      "PANJANGREJO": "55771",
+      "SELOHARJO": "55771",
+      "SRIHARDONO": "55771"
+    },
+    "SANDEN": {
+      "GADINGHARJO": "55763",
+      "GADINGSARI": "55763",
+      "MURTIGADING": "55763",
+      "SRIGADING": "55763"
+    },
+    "SEDAYU": {
+      "ARGODADI": "55752",
+      "ARGOMULYO": "55753",
+      "ARGOREJO": "55752",
+      "ARGOSARI": "55753"
+    },
+    "SEWON": {
+      "BANGUNHARJO": "55797",
+      "PANGGUNGHARJO": "55797",
+      "PENDOWOHARJO": "55797",
+      "TIMBULHARJO": "55797"
+    },
+    "SRANDAKAN": {
+      "PONCOSARI": "55762",
+      "TRIMURTI": "55762"
+    }
+  },
+  "GUNUNG KIDUL": {
+    "GEDANG SARI": {
+      "HARGO MULYO": "55855",
+      "MERTELU": "55855",
+      "NGALANG": "55855",
+      "SAMPANG": "55855",
+      "SERUT": "55855",
+      "TEGALREJO": "55855",
+      "WATU GAJAH": "55855"
+    },
+    "GIRISUBO": {
+      "BALONG": "55884",
+      "JERUKWUDEL": "55884",
+      "KARANGAWEN": "55884",
+      "NGLINDUR": "55884",
+      "PUCUNG": "55884",
+      "SONGBANYU": "55884",
+      "TILENG": "55884"
+    },
+    "KARANGMOJO": {
+      "BEJIHARJO": "55891",
+      "BENDUNGAN": "55891",
+      "GEDANG REJO": "55891",
+      "JATI AYU": "55891",
+      "KARANGMOJO": "55891",
+      "KELOR": "55891",
+      "NGAWIS": "55891",
+      "NGIPAK": "55891",
+      "WILADEG": "55891"
+    },
+    "NGAWEN": {
+      "BEJI": "55853",
+      "JURANG JERO": "55853",
+      "KAMPUNG": "55853",
+      "TANCEP": "55853",
+      "WATU SIGAR": "55853"
+    },
+    "NGLIPAR": {
+      "KATONGAN": "55852",
+      "KEDUNG KERIS": "55852",
+      "KEDUNGPOH": "55852",
+      "NATAH": "55852",
+      "NGLIPAR": "55852",
+      "PENGKOL": "55852",
+      "PILANG REJO": "55852"
+    },
+    "PALIYAN": {
+      "GIRING": "55871",
+      "GROGOL": "55871",
+      "KARANG ASEM": "55871",
+      "KARANG DUWET": "55871",
+      "MULUSAN": "55871",
+      "PAMPANG": "55871",
+      "SODO": "55871"
+    },
+    "PANGGANG": {
+      "GIRIHARJO": "55872",
+      "GIRIKARTO": "55872",
+      "GIRIMULYO": "55872",
+      "GIRISEKAR": "55872",
+      "GIRISUKO": "55872",
+      "GIRIWUNGU": "55872"
+    },
+    "PATUK": {
+      "BEJI": "55862",
+      "BUNDER": "55862",
+      "NGLANGGERAN": "55862",
+      "NGLEGI": "55862",
+      "NGORO ORO": "55862",
+      "PATUK": "55862",
+      "PENGKOK": "55862",
+      "PUTAT": "55862",
+      "SALAM": "55862",
+      "SEMOYO": "55862",
+      "TERBAH": "55862"
+    },
+    "PLAYEN": {
+      "BANARAN": "55861",
+      "BANDUNG": "55861",
+      "BANYUSOCO": "55861",
+      "BLEBERAN": "55861",
+      "DENGOK": "55861",
+      "GADING": "55861",
+      "GETAS": "55861",
+      "LOGANDENG": "55861",
+      "NGAWU": "55861",
+      "NGLERI": "55861",
+      "NGUNUT": "55861",
+      "PLAYEN": "55861",
+      "PLEMBUTAN": "55861"
+    },
+    "PONJONG": {
+      "BEDOYO": "55892",
+      "GENJAHAN": "55892",
+      "GOMBANG": "55892",
+      "KARANG ASEM": "55892",
+      "KENTENG": "55892",
+      "PONJONG": "55892",
+      "SAWAHAN": "55892",
+      "SIDOREJO": "55892",
+      "SUMBER GIRI": "55892",
+      "TAMBAKROMO": "55892",
+      "UMBUL REJO": "55892"
+    },
+    "PURWOSARI": {
+      "GIRIASIH": "55873",
+      "GIRICAHYO": "55873",
+      "GIRIJATI": "55873",
+      "GIRIPURWO": "55873",
+      "GIRITIRTO": "55873"
+    },
+    "RONGKOP": {
+      "BOHOL": "55883",
+      "BOTODAYAKAN": "55883",
+      "KARANGWUNI": "55883",
+      "MELIKAN": "55883",
+      "PETIR": "55883",
+      "PRINGOMBO": "55883",
+      "PUCANGANOM": "55883",
+      "SEMUGIH": "55883"
+    },
+    "SAPTO SARI": {
+      "JETIS": "55874",
+      "KANIGORO": "55874",
+      "KEPEK": "55874",
+      "KRAMBIL SAWIT": "55874",
+      "MONGGOL": "55874",
+      "NGLORA": "55874",
+      "PLANJAN": "55874"
+    },
+    "SEMANU": {
+      "CANDIREJO": "55893",
+      "DADAPAYU": "55893",
+      "NGEPOSARI": "55893",
+      "PACAREJO": "55893",
+      "SEMANU": "55893"
+    },
+    "SEMIN": {
+      "BENDUNG": "55854",
+      "BULUREJO": "55854",
+      "CANDI REJO": "55854",
+      "KALITEKUK": "55854",
+      "KARANG SARI": "55854",
+      "KEMEJING": "55854",
+      "PUNDUNG SARI": "55854",
+      "REJOSARI": "55854",
+      "SEMIN": "55854",
+      "SUMBERREJO": "55854"
+    },
+    "TANJUNGSARI": {
+      "BANJAREJO": "55882",
+      "HARGOSARI": "55882",
+      "KEMADANG": "55882",
+      "KEMIRI": "55882",
+      "NGESTIREJO": "55882"
+    },
+    "TEPUS": {
+      "GIRIPANGGUNG": "55881",
+      "PURWODADI": "55881",
+      "SIDOHARJO": "55881",
+      "SUMBER WUNGU": "55881",
+      "TEPUS": "55881"
+    },
+    "WONOSARI": {
+      "BALEHARJO": "55811",
+      "DUWET": "55817",
+      "GARI": "55814",
+      "KARANG REJEK": "55817",
+      "KARANG TENGAH": "55814",
+      "KEPEK": "55813",
+      "MULO": "55818",
+      "PIYAMAN": "55813",
+      "PULUTAN": "55816",
+      "SELANG": "55815",
+      "SIRAMAN": "55815",
+      "WARENG": "55816",
+      "WONOSARI": "55812",
+      "WUNUNG": "55819"
+    }
+  },
+  "KULON PROGO": {
+    "GALUR": {
+      "BANARAN": "55662",
+      "BROSOT": "55662",
+      "KARANG SEWU": "55662",
+      "KRANGGAN": "55662",
+      "NOMPOREJO": "55662",
+      "PANDOWAN": "55662",
+      "TIRTA RAHAYU": "55662"
+    },
+    "GIRIMULYO": {
+      "GIRIPURWO": "55674",
+      "JATIMULYO": "55674",
+      "PENDOWOREJO": "55674",
+      "PURWOSARI": "55674"
+    },
+    "KALIBAWANG": {
+      "BANJARARUM": "55672",
+      "BANJARASRI": "55672",
+      "BANJARHARJO": "55672",
+      "BANJAROYO": "55672"
+    },
+    "KOKAP": {
+      "HARGOMULYO": "55653",
+      "HARGOREJO": "55653",
+      "HARGOTIRTO": "55653",
+      "HARGOWILIS": "55653",
+      "KALIREJO": "55653"
+    },
+    "LENDAH": {
+      "BUMIREJO": "55663",
+      "GULUREJO": "55663",
+      "JATIREJO": "55663",
+      "NGENTAKREJO": "55663",
+      "SIDOREJO": "55663",
+      "WAHYUHARJO": "55663"
+    },
+    "NANGGULAN": {
+      "BANYUROTO": "55671",
+      "DONOMULYO": "55671",
+      "JATI SARONO": "55671",
+      "KEMBANG": "55671",
+      "TANJUNGHARJO": "55671",
+      "WIJIMULYO": "55671"
+    },
+    "PANJATAN": {
+      "BOJONG": "55655",
+      "BUGEL": "55655",
+      "CERME": "55655",
+      "DEPOK": "55655",
+      "GARONGAN": "55655",
+      "GOTAKAN": "55655",
+      "KANOMAN": "55655",
+      "KREMBANGAN": "55655",
+      "PANJATAN": "55655",
+      "PLERET": "55655",
+      "TAYUBAN": "55655"
+    },
+    "PENGASIH": {
+      "KARANGSARI": "55652",
+      "KEDUNGSARI": "55652",
+      "MARGOSARI": "55652",
+      "PENGASIH": "55652",
+      "SENDANGSARI": "55652",
+      "SIDOMULYO": "55652",
+      "TAWANGSARI": "55652"
+    },
+    "SAMIGALUH": {
+      "BANJARSARI": "55673",
+      "GERBOSARI": "55673",
+      "KEBON HARJO": "55673",
+      "NGARGOSARI": "55673",
+      "PAGERHARJO": "55673",
+      "PURWOHARJO": "55673",
+      "SIDOHARJO": "55673"
+    },
+    "SENTOLO": {
+      "BANGUNCIPTO": "55664",
+      "DEMANGREJO": "55664",
+      "KALIAGUNG": "55664",
+      "SALAMREJO": "55664",
+      "SENTOLO": "55664",
+      "SRIKAYANGAN": "55664",
+      "SUKORENO": "55664",
+      "TUKSONO": "55664"
+    },
+    "TEMON": {
+      "DEMEN": "55654",
+      "GLAGAH": "55654",
+      "JANGKARAN": "55654",
+      "JANTEN": "55654",
+      "KALI DENGEN": "55654",
+      "KALIGINTUNG": "55654",
+      "KARANG WULUH": "55654",
+      "KEBONREJO": "55654",
+      "KEDUNDANG": "55654",
+      "KULUR": "55654",
+      "PALIHAN": "55654",
+      "PLUMBON": "55654",
+      "SINDUTAN": "55654",
+      "TEMON KULON": "55654",
+      "TEMON WETAN": "55654"
+    },
+    "WATES": {
+      "BENDUNGAN": "55615",
+      "GIRI PENI": "55612",
+      "KARANG WUNI": "55613",
+      "KULWARU": "55618",
+      "NGESTIHARJO": "55617",
+      "SOGAN": "55616",
+      "TRIHARJO": "55614",
+      "WATES": "55611"
+    }
+  },
+  "SLEMAN": {
+    "BERBAH": {
+      "JOGO TIRTO": "55573",
+      "KALI TIRTO": "55573",
+      "SENDANG TIRTO": "55573",
+      "TEGAL TIRTO": "55573"
+    },
+    "CANGKRINGAN": {
+      "ARGO MULYO": "55583",
+      "GLAGAH HARJO": "55583",
+      "KEPUH HARJO": "55583",
+      "UMBUL HARJO": "55583",
+      "WUKIR SARI": "55583"
+    },
+    "DEPOK": {
+      "CATUR TUNGGAL": "55598",
+      "CONDONG CATUR": "55598",
+      "MAGUWOHARJO": "55598"
+    },
+    "GAMPING": {
+      "AMBARKETAWANG": "55599",
+      "BALECATUR": "55599",
+      "BANYURADEN": "55599",
+      "NOGOTIRTO": "55599",
+      "TRIHANGGO": "55599"
+    },
+    "GODEAN": {
+      "SIDOAGUNG": "55564",
+      "SIDOARUM": "55564",
+      "SIDOKARTO": "55564",
+      "SIDOLUHUR": "55564",
+      "SIDOMOYO": "55564",
+      "SIDOMULYO": "55564",
+      "SIDOREJO": "55564"
+    },
+    "KALASAN": {
+      "PURWO MARTANI": "55571",
+      "SELO MARTANI": "55571",
+      "TAMAN MARTANI": "55571",
+      "TIRTO MARTANI": "55571"
+    },
+    "MINGGIR": {
+      "SENDANG ARUM": "55562",
+      "SENDANG MULYO": "55562",
+      "SENDANG REJO": "55562",
+      "SENDANGAGUNG": "55562",
+      "SENDANGSARI": "55562"
+    },
+    "MLATI": {
+      "SENDANGADI": "55597",
+      "SINDUADI": "55597",
+      "SUMBERADI": "55597",
+      "TIRTOADI": "55597",
+      "TLOGOADI": "55597"
+    },
+    "MOYUDAN": {
+      "SUMBER AGUNG": "55563",
+      "SUMBERARUM": "55563",
+      "SUMBERRAHAYU": "55563",
+      "SUMBERSARI": "55563"
+    },
+    "NGAGLIK": {
+      "DONOHARJO": "55581",
+      "MINOMARTANI": "55581",
+      "SARDONOHARJO": "55581",
+      "SARI HARJO": "55581",
+      "SINDUHARJO": "55581",
+      "SUKO HARJO": "55581"
+    },
+    "NGEMPLAK": {
+      "BIMO MARTANI": "55584",
+      "SINDUMARTANI": "55584",
+      "UMBULMARTANI": "55584",
+      "WEDOMARTANI": "55584",
+      "WIDODO MARTANI": "55584"
+    },
+    "PAKEM": {
+      "CANDI BINANGUN": "55582",
+      "HARGO BINANGUN": "55582",
+      "HARJO BINANGUN": "55582",
+      "PAKEM BINANGUN": "55582",
+      "PURWO BINANGUN": "55582"
+    },
+    "PRAMBANAN": {
+      "BOKO HARJO": "55572",
+      "GAYAM HARJO": "55572",
+      "MADU REJO": "55572",
+      "SAMBI REJO": "55572",
+      "SUMBER HARJO": "55572",
+      "WUKIR HARJO": "55572"
+    },
+    "SEYEGAN": {
+      "MARGOAGUNG": "55561",
+      "MARGODADI": "55561",
+      "MARGOKATON": "55561",
+      "MARGOLUWIH": "55561",
+      "MARGOMULYO": "55561"
+    },
+    "SLEMAN": {
+      "CATUR HARJO": "55515",
+      "PANDOWO HARJO": "55512",
+      "TRI MULYO": "55513",
+      "TRIDADI": "55511",
+      "TRIHARJO": "55514"
+    },
+    "TEMPEL": {
+      "BANYU REJO": "55552",
+      "LUMBUNG REJO": "55552",
+      "MARGO REJO": "55552",
+      "MERDIKO REJO": "55552",
+      "MORO REJO": "55552",
+      "PONDOK REJO": "55552",
+      "SUMBER REJO": "55552",
+      "TAMBAK REJO": "55552"
+    },
+    "TURI": {
+      "BANGUN KERTO": "55551",
+      "DONOKERTO": "55551",
+      "GIRI KERTO": "55551",
+      "WONO KERTO": "55551"
+    }
+  },
+  "YOGYAKARTA": {
+    "DANUREJAN": {
+      "BAUSASRAN": "55211",
+      "SURYATMAJAN": "55213",
+      "TEGAL PANGGUNG": "55212"
+    },
+    "GEDONG TENGEN": {
+      "PRINGGOKUSUMAN": "55272",
+      "SOSROMENDURAN": "55271"
+    },
+    "GONDOKUSUMAN": {
+      "BACIRO": "55225",
+      "DEMANGAN": "55221",
+      "KLITREN": "55222",
+      "KOTABARU": "55224",
+      "TERBAN": "55223"
+    },
+    "GONDOMANAN": {
+      "NGUPASAN": "55122",
+      "PRAWIRODIRJAN": "55121"
+    },
+    "JETIS": {
+      "BUMIJO": "55231",
+      "COKRODININGRATAN": "55233",
+      "GOWONGAN": "55232"
+    },
+    "KOTAGEDE": {
+      "PRENGGAN": "55172",
+      "PURBAYAN": "55173",
+      "REJOWINANGUN": "55171"
+    },
+    "KRATON": {
+      "KADIPATEN": "55132",
+      "PANEMBAHAN": "55131",
+      "PATEHAN": "55133"
+    },
+    "MANTRIJERON": {
+      "GEDONGKIWO": "55142",
+      "MANTRIJERON": "55143",
+      "SURYODININGRATAN": "55141"
+    },
+    "MERGANGSAN": {
+      "BRONTOKUSUMAN": "55153",
+      "KEPARAKAN": "55152",
+      "WIROGUNAN": "55151"
+    },
+    "NGAMPILAN": {
+      "NGAMPILAN": "55261",
+      "NOTOPRAJAN": "55262"
+    },
+    "PAKUALAMAN": {
+      "GUNUNG KETUR": "55111",
+      "PURWO KINANTI": "55112"
+    },
+    "TEGALREJO": {
+      "BENER": "55243",
+      "KARANGWARU": "55241",
+      "KRICAK": "55242",
+      "TEGALREJO": "55244"
+    },
+    "UMBULHARJO": {
+      "GIWANGAN": "55163",
+      "MUJA MUJU": "55165",
+      "PANDEYAN": "55161",
+      "SEMAKI": "55166",
+      "SOROSUTAN": "55162",
+      "TAHUNAN": "55167",
+      "WARUNGBOTO": "55164"
+    },
+    "WIROBRAJAN": {
+      "PAKUNCEN": "55253",
+      "PATANGPULUHAN": "55251",
+      "WIROBRAJAN": "55252"
+    }
+  }
+}

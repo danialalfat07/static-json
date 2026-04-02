@@ -1,0 +1,369 @@
+{
+  "JAKARTA BARAT": {
+    "CENGKARENG": {
+      "CENGKARENG BARAT": "11730",
+      "CENGKARENG TIMUR": "11730",
+      "DURI KOSAMBI": "11750",
+      "KAPUK": "11720",
+      "KEDAUNG KALI ANGKE": "11710",
+      "RAWA BUAYA": "11740"
+    },
+    "GROGOL PETAMBURAN": {
+      "GROGOL": "11450",
+      "JELAMBAR": "11460",
+      "JELAMBAR BARU": "11460",
+      "TANJUNG DUREN SELATAN": "11470",
+      "TANJUNG DUREN UTARA": "11470",
+      "TOMANG": "11440",
+      "WIJAYA KESUMA": "11460"
+    },
+    "KALI DERES": {
+      "KALIDERES": "11840",
+      "KAMAL": "11810",
+      "PEGADUNGAN": "11830",
+      "SEMANAN": "11850",
+      "TEGAL ALUR": "11820"
+    },
+    "KEBON JERUK": {
+      "DURI KEPA": "11510",
+      "KEBON JERUK": "11530",
+      "KEDOYA SELATAN": "11520",
+      "KEDOYA UTARA": "11520",
+      "KELAPA DUA": "11550",
+      "SUKABUMI SELATAN": "11560",
+      "SUKABUMI UTARA": "11540"
+    },
+    "KEMBANGAN": {
+      "JOGLO": "11640",
+      "KEMBANGAN SELATAN": "11610",
+      "KEMBANGAN UTARA": "11610",
+      "MERUYA SELATAN": "11650",
+      "MERUYA UTARA": "11620",
+      "SRENGSENG": "11630"
+    },
+    "PALMERAH": {
+      "JATI PULO": "11430",
+      "KEMANGGISAN": "11480",
+      "KOTA BAMBU SELATAN": "11420",
+      "KOTA BAMBU UTARA": "11420",
+      "PALMERAH": "11480",
+      "SLIPI": "11410"
+    },
+    "TAMAN SARI": {
+      "GLODOK": "11120",
+      "KEAGUNGAN": "11130",
+      "KRUKUT": "11140",
+      "MANGGA BESAR": "11180",
+      "MAPHAR": "11160",
+      "PINANGSIA": "11110",
+      "TAMAN SARI": "11150",
+      "TANGKI": "11170"
+    },
+    "TAMBORA": {
+      "ANGKE": "11330",
+      "DURI SELATAN": "11270",
+      "DURI UTARA": "11270",
+      "JEMBATAN BESI": "11320",
+      "JEMBATAN LIMA": "11250",
+      "KALIANYAR": "11310",
+      "KRENDANG": "11260",
+      "PEKOJAN": "11240",
+      "ROA MALAKA": "11230",
+      "TAMBORA": "11220",
+      "TANAH SEREAL": "11210"
+    }
+  },
+  "JAKARTA PUSAT": {
+    "CEMPAKA PUTIH": {
+      "CEMPAKA PUTIH BARAT": "10520",
+      "CEMPAKA PUTIH TIMUR": "10510",
+      "RAWA SARI": "10570"
+    },
+    "GAMBIR": {
+      "CIDENG": "10150",
+      "DURI PULO": "10140",
+      "GAMBIR": "10110",
+      "KEBON KELAPA": "10120",
+      "PETOJO SELATAN": "10160",
+      "PETOJO UTARA": "10130"
+    },
+    "JOHAR BARU": {
+      "GALUR": "10530",
+      "JOHAR BARU": "10560",
+      "KAMPUNG RAWA": "10550",
+      "TANAH TINGGI": "10540"
+    },
+    "KEMAYORAN": {
+      "CEMPAKA BARU": "10640",
+      "GUNUNG SAHARI SELATAN": "10610",
+      "HARAPAN MULYA": "10640",
+      "KEBON KOSONG": "10630",
+      "KEMAYORAN": "10620",
+      "SERDANG": "10650",
+      "SUMUR BATU": "10640",
+      "UTAN PANJANG": "10650"
+    },
+    "MENTENG": {
+      "CIKINI": "10330",
+      "GONDANGDIA": "10350",
+      "KEBON SIRIH": "10340",
+      "MENTENG": "10310",
+      "PEGANGSAAN": "10320"
+    },
+    "SAWAH BESAR": {
+      "GUNUNG SAHARI UTARA": "10720",
+      "KARANG ANYAR": "10740",
+      "KARTINI": "10750",
+      "MANGGA DUA SELATAN": "10730",
+      "PASAR BARU": "10710"
+    },
+    "SENEN": {
+      "BUNGUR": "10460",
+      "KENARI": "10430",
+      "KRAMAT": "10450",
+      "KWITANG": "10420",
+      "PASEBAN": "10440",
+      "SENEN": "10410"
+    },
+    "TANAH ABANG": {
+      "BENDUNGAN HILIR": "10210",
+      "GELORA": "10270",
+      "KAMPUNG BALI": "10250",
+      "KARET TENGSIN": "10220",
+      "KEBON KACANG": "10240",
+      "KEBON MELATI": "10230",
+      "PETAMBURAN": "10260"
+    }
+  },
+  "JAKARTA SELATAN": {
+    "CILANDAK": {
+      "CILANDAK BARAT": "12430",
+      "CIPETE SELATAN": "12410",
+      "GANDARIA SELATAN": "12420",
+      "LEBAK BULUS": "12440",
+      "PONDOK LABU": "12450"
+    },
+    "JAGAKARSA": {
+      "CIGANJUR": "12630",
+      "CIPEDAK": "12630",
+      "JAGAKARSA": "12620",
+      "LENTENG AGUNG": "12610",
+      "SRENGSENG SAWAH": "12640",
+      "TANJUNG BARAT": "12530"
+    },
+    "KEBAYORAN BARU": {
+      "CIPETE UTARA": "12150",
+      "GANDARIA UTARA": "12140",
+      "GUNUNG": "12120",
+      "KRAMAT PELA": "12130",
+      "MELAWAI": "12160",
+      "PETOGOGAN": "12170",
+      "PULO": "12160",
+      "RAWA BARAT": "12180",
+      "SELONG": "12110",
+      "SENAYAN": "12190"
+    },
+    "KEBAYORAN LAMA": {
+      "CIPULIR": "12230",
+      "GROGOL SELATAN": "12220",
+      "GROGOL UTARA": "12210",
+      "KEBAYORAN LAMA SELATAN": "12240",
+      "KEBAYORAN LAMA UTARA": "12240",
+      "PONDOK PINANG": "12310"
+    },
+    "MAMPANG PRAPATAN": {
+      "BANGKA": "12730",
+      "KUNINGAN BARAT": "12710",
+      "MAMPANG PRAPATAN": "12790",
+      "PELA MAMPANG": "12720",
+      "TEGAL PARANG": "12790"
+    },
+    "PANCORAN": {
+      "CIKOKO": "12770",
+      "DUREN TIGA": "12760",
+      "KALIBATA": "12740",
+      "PANCORAN": "12780",
+      "PENGADEGAN": "12770",
+      "RAWAJATI": "12750"
+    },
+    "PASAR MINGGU": {
+      "CILANDAK TIMUR": "12560",
+      "JATI PADANG": "12540",
+      "KEBAGUSAN": "12520",
+      "PASAR MINGGU": "12520",
+      "PEJATEN BARAT": "12510",
+      "PEJATEN TIMUR": "12510",
+      "RAGUNAN": "12550"
+    },
+    "PESANGGRAHAN": {
+      "BINTARO": "12330",
+      "PESANGGRAHAN": "12320",
+      "PETUKANGAN SELATAN": "12270",
+      "PETUKANGAN UTARA": "12260",
+      "ULUJAMI": "12250"
+    },
+    "SETIA BUDI": {
+      "GUNTUR": "12980",
+      "KARET": "12920",
+      "KARET KUNINGAN": "12940",
+      "KARET SEMANGGI": "12930",
+      "KUNINGAN TIMUR": "12950",
+      "MENTENG ATAS": "12960",
+      "PASAR MANGGIS": "12970",
+      "SETIA BUDI": "12910"
+    },
+    "TEBET": {
+      "BUKIT DURI": "12840",
+      "KEBON BARU": "12830",
+      "MANGGARAI": "12850",
+      "MANGGARAI SELATAN": "12860",
+      "MENTENG DALAM": "12870",
+      "TEBET BARAT": "12810",
+      "TEBET TIMUR": "12820"
+    }
+  },
+  "JAKARTA TIMUR": {
+    "CAKUNG": {
+      "CAKUNG BARAT": "13910",
+      "CAKUNG TIMUR": "13910",
+      "JATINEGARA": "13930",
+      "PENGGILINGAN": "13940",
+      "PULO GEBANG": "13950",
+      "RAWA TERATE": "13920",
+      "UJUNG MENTENG": "13960"
+    },
+    "CIPAYUNG": {
+      "BAMBU APUS": "13890",
+      "CEGER": "13820",
+      "CILANGKAP": "13870",
+      "CIPAYUNG": "13840",
+      "LUBANG BUAYA": "13810",
+      "MUNJUL": "13850",
+      "PONDOK RANGGON": "13860",
+      "SETU": "13880"
+    },
+    "CIRACAS": {
+      "CIBUBUR": "13720",
+      "CIRACAS": "13740",
+      "KELAPA DUA WETAN": "13730",
+      "RAMBUTAN": "13830",
+      "SUSUKAN": "13750"
+    },
+    "DUREN SAWIT": {
+      "DUREN SAWIT": "13440",
+      "KLENDER": "13470",
+      "MALAKA JAYA": "13460",
+      "MALAKA SARI": "13460",
+      "PONDOK BAMBU": "13430",
+      "PONDOK KELAPA": "13450",
+      "PONDOK KOPI": "13460"
+    },
+    "JATINEGARA": {
+      "BALI MESTER": "13310",
+      "BIDARA CINA": "13330",
+      "CIPINANG BESAR SELATAN": "13410",
+      "CIPINANG BESAR UTARA": "13410",
+      "CIPINANG CEMPEDAK": "13340",
+      "CIPINANG MUARA": "13420",
+      "KAMPUNG MELAYU": "13320",
+      "RAWA BUNGA": "13350"
+    },
+    "KRAMAT JATI": {
+      "BALE KAMBANG": "13530",
+      "BATU AMPAR": "13520",
+      "CAWANG": "13630",
+      "CILILITAN": "13640",
+      "DUKUH": "13550",
+      "KAMPUNG TENGAH": "13540",
+      "KRAMAT JATI": "13510"
+    },
+    "MAKASAR": {
+      "CIPINANG MELAYU": "13620",
+      "HALIM PERDANA KUSUMAH": "13610",
+      "KEBON PALA": "13650",
+      "MAKASAR": "13570",
+      "PINANG RANTI": "13560"
+    },
+    "MATRAMAN": {
+      "KAYU MANIS": "13120",
+      "KEBON MANGGIS": "13150",
+      "PAL MERIEM": "13140",
+      "PISANGAN BARU": "13110",
+      "UTAN KAYU SELATAN": "13120",
+      "UTAN KAYU UTARA": "13130"
+    },
+    "PASAR REBO": {
+      "BARU": "13780",
+      "CIJANTUNG": "13770",
+      "GEDONG": "13760",
+      "KALISARI": "13790",
+      "PEKAYON": "13710"
+    },
+    "PULO GADUNG": {
+      "CIPINANG": "13240",
+      "JATI": "13220",
+      "JATINEGARA KAUM": "13250",
+      "KAYU PUTIH": "13210",
+      "PISANGAN TIMUR": "13230",
+      "PULO GADUNG": "13260",
+      "RAWAMANGUN": "13220"
+    }
+  },
+  "JAKARTA UTARA": {
+    "CILINCING": {
+      "CILINCING": "14120",
+      "KALI BARU": "14110",
+      "MARUNDA": "14150",
+      "ROROTAN": "14140",
+      "SEMPER BARAT": "14130",
+      "SEMPER TIMUR": "14130",
+      "SUKA PURA": "14140"
+    },
+    "KELAPA GADING": {
+      "KELAPA GADING BARAT": "14240",
+      "KELAPA GADING TIMUR": "14240",
+      "PEGANGSAAN DUA": "14250"
+    },
+    "KOJA": {
+      "KOJA": "14210",
+      "LAGOA": "14270",
+      "RAWABADAK SELATAN": "14230",
+      "RAWABADAK UTARA": "14230",
+      "TUGU SELATAN": "14260",
+      "TUGU UTARA": "14260"
+    },
+    "PADEMANGAN": {
+      "ANCOL": "14430",
+      "PADEMANGAN BARAT": "14420",
+      "PADEMANGAN TIMUR": "14410"
+    },
+    "PENJARINGAN": {
+      "KAMAL MUARA": "14470",
+      "KAPUK MUARA": "14460",
+      "PEJAGALAN": "14450",
+      "PENJARINGAN": "14440",
+      "PLUIT": "14450"
+    },
+    "TANJUNG PRIOK": {
+      "KEBON BAWANG": "14320",
+      "PAPANGO": "14340",
+      "SUNGAI BAMBU": "14330",
+      "SUNTER AGUNG": "14350",
+      "SUNTER JAYA": "14350",
+      "TANJUNG PRIUK": "14310",
+      "WARAKAS": "14340"
+    }
+  },
+  "KEPULAUAN SERIBU": {
+    "KEPULAUAN SERIBU SELATAN": {
+      "PULAU PARI": "14580",
+      "PULAU TIDUNG": "14520",
+      "PULAU UNTUNG JAWA": "14510"
+    },
+    "KEPULAUAN SERIBU UTARA": {
+      "PULAU HARAPAN": "14550",
+      "PULAU KELAPA": "14540",
+      "PULAU PANGGANG": "14530"
+    }
+  }
+}

@@ -1,0 +1,1340 @@
+{
+  "FAKFAK": {
+    "BOMBERAY": {
+      "MEKAR SARI": "98644",
+      "ONIM SARI": "98644",
+      "TESHA": "98644"
+    },
+    "FAKFAK": {
+      "FAK FAK SELATAN": "98651",
+      "FAK FAK UTARA": "98651",
+      "GEWERPE": "98651",
+      "LUSI PERI": "98651",
+      "WRIKAPAL": "98651"
+    },
+    "FAKFAK BARAT": {
+      "KIAT": "98659",
+      "KWUHKENDIK": "98659",
+      "PURWASAK": "98659",
+      "WERBA": "98659",
+      "WURKENDIK": "98659"
+    },
+    "FAKFAK TENGAH": {
+      "AIR BESAR": "98641",
+      "BRONGKENDIK": "98641",
+      "DANA WERIA": "98641",
+      "HAMBRANGKENDIK": "98641",
+      "KANANTARE": "98641",
+      "KATEMBA": "98641",
+      "KAYU MERAH": "98641",
+      "MANDOPMA": "98641",
+      "NEMEWIKARYA": "98641",
+      "PASIR PUTIH": "98641",
+      "RADURIA": "98641",
+      "SAKARTEMIN": "98641"
+    },
+    "FAKFAK TIMUR": {
+      "KIRIA BISA": "98642",
+      "SAHAREI": "98642",
+      "SANGGRAM": "98642",
+      "TUNAS GAIN": "98642",
+      "URAT": "98642",
+      "WERI": "98642"
+    },
+    "FURWAGI": {
+      "WERFA": "98642"
+    },
+    "KARAS": {
+      "ANTALISA": "98643",
+      "FAUR": "98643",
+      "KIABA": "98643",
+      "MAS": "98643",
+      "TARAK": "98643",
+      "TUBIRWASAK": "98643"
+    },
+    "KAYAUNI": {
+      "KAYUNI": "98641",
+      "WARPA": "98673"
+    },
+    "KOKAS": {
+      "BATUFIAFAS": "98652",
+      "KAMPUNG BARU": "98652",
+      "KINAM": "98652",
+      "KOKAS KOTA": "98652",
+      "KRIAWASWAS": "98652",
+      "MAMBUNIIBUNI": "98652",
+      "MANDONI": "98652",
+      "PATIMBURAK": "98652",
+      "SEKAR": "98652",
+      "SISIR": "98652",
+      "UGAR": "98652"
+    },
+    "KRAMONGMONGGA": {
+      "BAHBADAN": "98657",
+      "GEWAB": "98657",
+      "KRAMONGMONGGA": "98657",
+      "KWAMKWAMUR": "98657",
+      "MAMUR": "98657",
+      "NEMBUKTEP": "98657",
+      "PIKPIK": "98657",
+      "WARGEP": "98657"
+    },
+    "MBAHAMDANDARA": {
+      "GORAS SELATAN": "98651",
+      "WAREMU": "98673"
+    },
+    "TELUK PATIPI": {
+      "ADORA": "98658",
+      "BISA": "98658",
+      "DEGEN": "98658",
+      "MAWAR": "98658",
+      "MUHRIRI": "98658",
+      "OFFIE": "98658",
+      "PATIPI PASIR": "98658",
+      "PUAR": "98658",
+      "TETAR": "98658",
+      "TIBATIBANANAM": "98658"
+    },
+    "TOMAGE": {
+      "OTOWERI": "98642"
+    }
+  },
+  "KAIMANA": {
+    "BURUWAY": {
+      "ADIJAYA": "98676",
+      "E D O R": "98676",
+      "ESANIA": "98676",
+      "G A K A": "98676",
+      "GURIASA": "98676",
+      "H I A": "98676",
+      "KAMBALA": "98676",
+      "NUSA ULAN": "98676",
+      "T A I R I": "98676",
+      "Y A R O N A": "98676"
+    },
+    "KAIMANA": {
+      "C O A": "98671",
+      "FOROMA JAYA": "98671",
+      "JARATI": "98671",
+      "K R O Y": "98671",
+      "KAIMANA KOTA": "98671",
+      "KAMAKA": "98671",
+      "LOBO": "98671",
+      "LUMIRA": "98671",
+      "MAI MAI": "98671",
+      "MARSI": "98671",
+      "MURANO": "98671",
+      "NAMATOTA": "98671",
+      "ORAY": "98671",
+      "SARA": "98671",
+      "SARIA": "98671",
+      "SISIR": "98671",
+      "TANGGAROMI": "98671",
+      "TRIKORA": "98671",
+      "WERUA": "98671"
+    },
+    "KAMBRAU": {
+      "BAHUMIA": "98672",
+      "K O O Y": "98672",
+      "RAUNA": "98672",
+      "W A M E S A": "98672",
+      "WAHO": "98672",
+      "WERAFUTA": "98672"
+    },
+    "TELUK ARGUNI": {
+      "AFUAFU": "98673",
+      "BAYEDA": "98673",
+      "BOFUWER": "98673",
+      "BOROGERBA": "98673",
+      "ERIGARA": "98673",
+      "FETERNU": "98673",
+      "FUDIMA": "98673",
+      "FURNUSU": "98673",
+      "GUSI": "98673",
+      "KASIRA/KENSI": "98673",
+      "KOKOROBA": "98673",
+      "MASKUR": "98673",
+      "MOYANA": "98673",
+      "PIGO": "98673",
+      "SAWATAWERA": "98673",
+      "SAWIA": "98673",
+      "TIWARA": "98673",
+      "TUGUWARA": "98673",
+      "WAINAGA": "98673",
+      "WANGGITA": "98673",
+      "WARUA": "98673",
+      "WARWASI": "98673",
+      "WESWASA": "98673"
+    },
+    "TELUK ARGUNI BAWAH": {
+      "I N A R I": "98674",
+      "JAWERA": "98674",
+      "KUFURIAI": "98674",
+      "MANGGERA": "98674",
+      "NAGURA": "98674",
+      "TANUSAN": "98674",
+      "U R I S A": "98674",
+      "UKIARA": "98674",
+      "WANOMA": "98674",
+      "WAROMI": "98674"
+    },
+    "TELUK ETNA": {
+      "BAMANA": "98675",
+      "BOIYA": "98675",
+      "NARIKI": "98675",
+      "RURUMO": "98675",
+      "SIAWATAN": "98675"
+    },
+    "YAMOR": {
+      "COREMURI/OMBAPAMUKU": "98677",
+      "HAIRAPARA": "98677",
+      "URUBIKA": "98677",
+      "WOSOKUNO": "98677"
+    }
+  },
+  "MANOKWARI": {
+    "MANOKWARI BARAT": {
+      "AMBAN": "98311",
+      "INGGRAMUI": "98311",
+      "MANOKWARI BARAT": "98311",
+      "MANOKWARI TIMUR": "98311",
+      "PADARNI": "98311",
+      "SANGGENG": "98311",
+      "SORIBO": "98311",
+      "UDOPI": "98311",
+      "WOSI": "98311"
+    },
+    "MANOKWARI SELATAN": {
+      "ACEMO": "98315",
+      "ANDAY": "98315",
+      "DIHARA": "98315",
+      "KATEBU": "98315",
+      "MARUNI": "98315",
+      "MISAPMEYSI": "98315",
+      "MUPI": "98315",
+      "NGINYBOU / NGUNIBOUW": "98315",
+      "SOWI": "98315",
+      "WAMESA": "98387",
+      "WARKOMI": "98315",
+      "WARMUMI": "98375",
+      "WARSUAMI": "98351",
+      "WARURI / WELURI": "98315"
+    },
+    "MANOKWARI TIMUR": {
+      "AIPIRI": "98313",
+      "AROWI": "98313",
+      "AYAMBORI": "98313",
+      "BAKARO": "98313",
+      "MANSINAM": "98313",
+      "PASIR PUTIH": "98313",
+      "SUNSWENI": "98313"
+    },
+    "MANOKWARI UTARA": {
+      "BREMI": "98316",
+      "CABANG DUA": "98316",
+      "INDOSUFA . INDO OUFA": "98316",
+      "INYA": "98316",
+      "LEBAU": "98316",
+      "MANDOPI": "98316",
+      "MEINYUMFOKA": "98351",
+      "MENAITO / MUBRAIDIBA": "98316",
+      "MEYES": "98316",
+      "MUBRI": "98316",
+      "PAMI": "98316",
+      "SAUBEBA": "98316",
+      "SAYRO": "98316",
+      "SINGGIMEBA": "98316",
+      "TANAH RUBU": "98316",
+      "TELUK MUBRI": "98316",
+      "YONGGAM": "98316",
+      "YOOM I": "98316",
+      "YOOM II": "98316"
+    },
+    "MASNI": {
+      "ASKA": "98357",
+      "AURMIOS": "98357",
+      "BOWI SUBUR/SP VI": "98357",
+      "IGOR": "98357",
+      "JOWEN": "98357",
+      "KALI MERAH": "98357",
+      "MACUAN/SP V": "98357",
+      "MAKWAN": "98357",
+      "MANSABURI/SMARYAM": "98357",
+      "MANTEDI": "98357",
+      "MASNI": "98357",
+      "MEIFORGA": "98357",
+      "MEMBOWI": "98357",
+      "MEYOF II": "98357",
+      "MUARA PRAFI/PRAFI TIMUR": "98357",
+      "MUARA WARIORI": "98357",
+      "PRAFI BARAT": "98357",
+      "RIRINFOS": "98357",
+      "SEMBAB": "98357",
+      "SIBUNI": "98357",
+      "SUMBER BOGA/SP VII": "98357",
+      "UNDI": "98357",
+      "UREY": "98357",
+      "WAM BOLA": "98357",
+      "WARIORI": "98357",
+      "WARIORI INDAH": "98357",
+      "YEN SORIBO": "98357",
+      "YENSUM": "98357"
+    },
+    "PRAFI": {
+      "BOGOR": "98356",
+      "DESAY": "98356",
+      "KALI AMIN": "98356",
+      "PRAFI MULIA": "98356",
+      "UDAPI HILIR": "98356",
+      "WASEKI INDAH": "98356"
+    },
+    "SIDEY": {
+      "KAIRONI": "98376",
+      "KASI": "98376",
+      "MANGGUPI": "98376",
+      "MEYOF I": "98376",
+      "SARAY": "98376",
+      "SIDEY": "98376",
+      "SIDEY BARU": "98376",
+      "SIDEY JAYA": "98376",
+      "SIDEY MAKMUR": "98376",
+      "WAMNOWI": "98387",
+      "WARAMUI": "98375",
+      "WARIKI": "98376"
+    },
+    "TANAH RUBU": {
+      "AYAWI": "98351",
+      "CUJEHEP": "98351",
+      "HANGHOW": "98351",
+      "IMBAISIKA I": "98351",
+      "IMBAISIKA II/IMBOYSIKA": "98351",
+      "IMBOITI": "98351",
+      "IMHASUMA": "98351",
+      "INDIBO": "98351",
+      "MBATA": "98351",
+      "MEINYUMFOKU": "98351",
+      "MIRONI": "98351",
+      "MISABUGOID": "98351",
+      "NINGDIP": "98351",
+      "REMBUY": "98351",
+      "RUAMBEI / URWAMBEI": "98351",
+      "UKEMBOUSI": "98351",
+      "UMNUM": "98351",
+      "UNGKOPTI": "98351",
+      "WAMIGTI": "98387",
+      "WARAMI": "98351",
+      "WARIARI": "98351",
+      "WARKAPI": "98375",
+      "WARMARWAY": "98351",
+      "WEDONI": "98351"
+    },
+    "WARMARE": {
+      "DINDEY": "98352",
+      "GUEINTUY": "98352",
+      "HINGK": "98352",
+      "IBUWAU": "98352",
+      "IMBOISRATI": "98352",
+      "MADRAT": "98352",
+      "NGUNGGUEN": "98352",
+      "NIMBAY": "98352",
+      "SNAIMBOY": "98352",
+      "SRAINDABEY": "98352",
+      "SUBSAY": "98352",
+      "TANAH MERAH": "98352",
+      "WARMARE": "98352"
+    }
+  },
+  "MANOKWARI SELATAN": {
+    "DATARAN ISIM": {
+      "DESRA": "98386",
+      "DIBERA": "98386",
+      "DIHISU": "98386",
+      "DUHUGESA": "98386",
+      "INYUARA": "98386",
+      "ISIM": "98386",
+      "MINDERMES": "98386",
+      "SIBJO": "98386",
+      "TUBES": "98386"
+    },
+    "MOMI WAREN": {
+      "DEMBEK": "98388",
+      "DEMINI": "98388",
+      "GAYA BARU": "98388",
+      "SIWI": "98388",
+      "WAREN": "98388",
+      "YEKWANDI": "98388"
+    },
+    "NENEI": {
+      "ARYAWEN MOHO": "98387",
+      "BENYAS": "98387",
+      "DISI": "98387",
+      "HOYOU": "98387",
+      "NENEI": "98387",
+      "SESUM": "98387",
+      "WAMA": "98387"
+    },
+    "ORANSBARI": {
+      "AKEJU": "98353",
+      "MARGOMULYO": "98353",
+      "MARGORUKUN": "98353",
+      "MASABUI": "98353",
+      "MASABUI 2": "98353",
+      "MUARI": "98353",
+      "ORANSBARI": "98353",
+      "WANDOKI": "98353",
+      "WARBIADI": "98353",
+      "WARKWANDI": "98353",
+      "WAROSER": "98353",
+      "WATARIRI": "98353"
+    },
+    "RANSIKI": {
+      "ABRESSO": "98355",
+      "BAMAHA": "98355",
+      "HAMAWI": "98355",
+      "HAMOR": "98355",
+      "KOBREY": "98355",
+      "MAMBREMA": "98355",
+      "RANSIKI KOTA": "98355",
+      "SABRI": "98355",
+      "SUSMOROF": "98355",
+      "TOBOUW": "98355",
+      "YAMBOY": "98355"
+    }
+  },
+  "MAYBRAT": {
+    "AIFAT": {
+      "BORI": "98051",
+      "FAIT MAYAF": "98051",
+      "FUTON": "98051",
+      "KOCUWER": "98051",
+      "KOKAS": "98051",
+      "KUMURKEK": "98051",
+      "SUSUMUK": "98051"
+    },
+    "AIFAT SELATAN": {
+      "FUOG": "98054",
+      "IMSUN": "98054",
+      "KISOR": "98054",
+      "SABAH": "98054",
+      "SORY": "98054",
+      "TASIMARA": "98054"
+    },
+    "AIFAT TIMUR": {
+      "AIKRER": "98053",
+      "AISA": "98053",
+      "AITREM": "98053",
+      "SAWIN": "98053"
+    },
+    "AIFAT UTARA": {
+      "AYAWASI": "98052",
+      "AYAWASI SELATAN": "98052",
+      "AYAWASI TIMUR": "98052",
+      "FONATU": "98052",
+      "KONJA": "98052",
+      "MOSUN": "98052",
+      "SUSAI": "98052",
+      "WAYANE": "98052"
+    },
+    "AITINYO": {
+      "AITINYO": "98055",
+      "KAMRO": "98055",
+      "KARSU": "98055",
+      "KOROM": "98055",
+      "SIRA AYA": "98055",
+      "SRIS": "98055",
+      "SUMANIS": "98055",
+      "TEHAK KECIL": "98055"
+    },
+    "AITINYO BARAT/ATHABU": {
+      "FATASE": "98056",
+      "KAMBUFATEM": "98056",
+      "KAMBUFATEM UTARA": "98056"
+    },
+    "AITINYO RAYA": {
+      "KAMBUSABO": "98056"
+    },
+    "AITINYO UTARA": {
+      "FATEGOMI": "98057",
+      "GOHSAMES": "98057",
+      "MIRAFAN": "98057",
+      "TEHAK BESAR": "98057"
+    },
+    "AYAMARU": {
+      "AYAMARU": "98058",
+      "FRAHAROH": "98058",
+      "FRAMU": "98058",
+      "MEFKAJIM II": "98058"
+    },
+    "AYAMARU BARAT": {
+      "FANSE": "98056"
+    },
+    "AYAMARU TIMUR": {
+      "FAITMAJIN": "98058",
+      "HUBERITA": "98058",
+      "KAMBUAYA": "98058"
+    },
+    "AYAMARU TIMUR SELATAN": {
+      "KAMBUSKATO UTARA": "98056",
+      "KAMBUWIFA": "98056"
+    },
+    "AYAMARU UTARA": {
+      "KARETUBUN": "98059",
+      "SETTA": "98059",
+      "YUBIAH": "98059"
+    },
+    "MARE": {
+      "KOMBIF": "98059",
+      "SEYA": "98059",
+      "SUSWA": "98059"
+    },
+    "MARE SELATAN": {
+      "FASE": "98056"
+    }
+  },
+  "PEGUNUNGAN ARFAK": {
+    "ANGGI": {
+      "HUNGKU": "98354",
+      "IMBAI": "98354",
+      "INGEBAI / IMBEISBA": "98351",
+      "IRAIWERI": "98354",
+      "MENTUBEY": "98354",
+      "PAMAHA": "98354",
+      "SRUBEY": "98354",
+      "SUSI": "98354",
+      "SUTEIBEY": "98354",
+      "TESTEGA PAMAHA": "98354",
+      "ULONG": "98354",
+      "UPER": "98354"
+    },
+    "ANGGI GIDA": {
+      "INGISROW": "98384",
+      "ITKAU": "98384",
+      "KROBUT / KIWOT": "98384",
+      "SIBIOGUD": "98384",
+      "TOMBROK": "98384"
+    },
+    "CATUBOUW": {
+      "AIGA": "98378",
+      "CATUBOU": "98378",
+      "COIJUD": "98378",
+      "IDEMAI": "98378",
+      "IJIGREK": "98378",
+      "JIM": "98378",
+      "KAUNGWAM": "98378",
+      "MANGGESUK": "98378",
+      "MIEY COMTY": "98378",
+      "MIHIJI": "98378",
+      "MINMO": "98378",
+      "NDABOU": "98378",
+      "SLOMIOU": "98378",
+      "SOUDIN": "98378",
+      "TIMTOU": "98378",
+      "UNTI": "98378"
+    },
+    "DIDOHU": {
+      "CIGERA": "98381",
+      "CIRNOHU": "98381",
+      "DANMOU": "98381",
+      "DIBETIK": "98381",
+      "DISRA": "98381",
+      "DUGRIMOG": "98381",
+      "GEDEIRA": "98381",
+      "IRANMEBA": "98381",
+      "KUSMENAU": "98381",
+      "MISEDA": "98381"
+    },
+    "MEMBEY": {
+      "IMBEISABA": "98351",
+      "INYEBOW": "98383",
+      "KONEY": "98383",
+      "MEMBEY": "98383",
+      "MEMTI": "98383",
+      "USTI": "98383"
+    },
+    "MENYAMBOUW": {
+      "AYAU": "98351",
+      "DEMAISI": "98387",
+      "IMBENTI": "98351",
+      "IMBREKTI": "98351",
+      "WAMINDA": "98387"
+    },
+    "SURUREY": {
+      "ANUK": "98385",
+      "INYAUB": "98385",
+      "KOBREY": "98385",
+      "KOPO": "98385",
+      "KOSTERA": "98385",
+      "MENESRIJ": "98385",
+      "SAUGEMEBA": "98385",
+      "SURUREY": "98385",
+      "TOMSTERA": "98385",
+      "TUHUBEA": "98385"
+    },
+    "TAIGE": {
+      "DISURA": "98382",
+      "GENYU": "98382",
+      "HORETA": "98382",
+      "IRBOS": "98382",
+      "SISKEDOUW": "98382",
+      "TRIDAGA": "98382",
+      "UBEISA": "98382"
+    },
+    "TESTEGA": {
+      "DUMBRE": "98377",
+      "IBA": "98377",
+      "MEIDOGDA": "98377",
+      "MEIFEKENI": "98377",
+      "MEIGEHENAWU": "98377",
+      "MEKSI": "98377",
+      "MORUMFEYI": "98377",
+      "TESTEGA": "98377"
+    }
+  },
+  "RAJA AMPAT": {
+    "AYAU": {
+      "BOISERAN": "98488",
+      "RUNI": "98488",
+      "YENKANFAN": "98488",
+      "YENKAWIR": "98488"
+    },
+    "BATANTA SELATAN": {
+      "WAILEBET": "98498",
+      "WAIMAN": "98498",
+      "YENANAS": "98498"
+    },
+    "BATANTA UTARA": {
+      "AREFI SELATAN": "98498",
+      "AREFI TIMUR": "98498",
+      "YENSAWAI BARAT": "98498",
+      "YENSAWAI TIMUR": "98498"
+    },
+    "KEPULAUAN AYAU": {
+      "ABIDON": "98488",
+      "MEOSBEKWAN": "98488",
+      "RENI": "98488",
+      "RUTUM": "98488"
+    },
+    "KEPULAUAN SEMBILAN": {
+      "PULAU TIKUS": "98493",
+      "SATUKURANO": "98493",
+      "WEJIM BARAT": "98493",
+      "WEJIM TIMUR": "98493"
+    },
+    "KOFIAU": {
+      "AWAT": "98494",
+      "DEER": "98494",
+      "MIKIRAN": "98494",
+      "TOLOBI": "98494"
+    },
+    "KOTA WAISAI": {
+      "SAPORDANCO": "98489",
+      "WAISAI": "98489",
+      "WARMASEN": "98489"
+    },
+    "MEOS MANSAR": {
+      "ARBOREK": "98485",
+      "KABUY": "98485",
+      "KAPISAWAR": "98485",
+      "KURKAPA": "98485",
+      "SAUANDAREK": "98485",
+      "SAWINGGRAI": "98485",
+      "YENBEKWAN": "98485",
+      "YENBUBA": "98485",
+      "YENWAOUPNOR": "98485"
+    },
+    "MISOOL BARAT": {
+      "BIGA": "98491",
+      "GAMTA": "98491",
+      "KAPATCOL": "98491",
+      "LILINTA": "98491"
+    },
+    "MISOOL SELATAN": {
+      "DABATAN": "98492",
+      "FAFANLAP": "98492",
+      "HARAPAN JAYA": "98492",
+      "YELLU": "98492"
+    },
+    "MISOOL TIMUR": {
+      "AUDAM": "98492",
+      "FOLLEY": "98492",
+      "LENMALAS BARAT": "98492",
+      "LENMALAS TIMUR": "98492",
+      "TOMOLOL": "98492",
+      "USAHA JAYA": "98492"
+    },
+    "SALAWATI BARAT": {
+      "KALIAM": "98497",
+      "KALWAL": "98497",
+      "SOLOL": "98497",
+      "WAIBON": "98497"
+    },
+    "SALAWATI TENGAH": {
+      "KALOBO": "98496",
+      "SAKABU": "98496",
+      "WAIBO": "98497",
+      "WAIJAN": "98496",
+      "WAILABU": "98496",
+      "WAILEN": "98496"
+    },
+    "SALAWATI UTARA": {
+      "JEFMAN BARAT": "98497",
+      "JEFMAN TIMUR": "98497",
+      "KAPATLAP": "98497",
+      "SAMATE": "98497",
+      "WAIDIM": "98497",
+      "WAMEGA": "98497"
+    },
+    "SUPNIN": {
+      "DUBER": "98487",
+      "KAPADIRI": "98487",
+      "RAUKI": "98487",
+      "URAI": "98487"
+    },
+    "TELUK MAYALIBIT": {
+      "KALITOKO": "98486",
+      "LOPINTOL": "98486",
+      "MUMES": "98486",
+      "WARSAMDIM": "98486"
+    },
+    "TIPLOL MAYALIBIT": {
+      "BEO": "98486",
+      "GO": "98486",
+      "KABILOL": "98486",
+      "WAIFOI": "98486",
+      "WARIMAK": "98486"
+    },
+    "WAIGEO BARAT": {
+      "BIANCI": "98482",
+      "MUTUS": "98482",
+      "SELPELE": "98482",
+      "WAISILIP": "98482"
+    },
+    "WAIGEO BARAT KEPULAUAN": {
+      "GAG": "98485",
+      "MANYAIFUN": "98485",
+      "MEOSMANGGARA": "98485",
+      "PAM": "98485",
+      "SAUKABU": "98485",
+      "SAUPAPIR": "98485"
+    },
+    "WAIGEO SELATAN": {
+      "FRIWEN": "98482",
+      "SAONEK": "98482",
+      "WAWIYAI": "98482",
+      "YENBESER": "98482"
+    },
+    "WAIGEO TIMUR": {
+      "PUPER": "98481",
+      "URBINASOPEN": "98481",
+      "YENBEKAKI": "98481",
+      "YENSNER": "98481"
+    },
+    "WAIGEO UTARA": {
+      "ANDEY": "98481",
+      "ASUKWERI": "98481",
+      "BONSAYOR": "98481",
+      "DARUMBAB": "98481",
+      "KABARE": "98481",
+      "KALISADE": "98481"
+    }
+  },
+  "SORONG": {
+    "AIMAS": {
+      "AIMAS": "98431",
+      "KLABINAIN": "98431",
+      "KLAIGIT": "98431",
+      "MALAWELE": "98431",
+      "MALAWILI": "98431",
+      "MARIAT GUNUNG": "98431",
+      "MARIAT PANTAI": "98431",
+      "WARMON": "98431"
+    },
+    "BERAUR": {
+      "BAGUNG": "98441",
+      "DISFRA": "98441",
+      "KAAS": "98441",
+      "KLABRA": "98441",
+      "KLARION": "98441",
+      "KLAWOM": "98435",
+      "MUMPI": "98441",
+      "WANURIAN": "98441",
+      "WENSI": "98441",
+      "WISBIAK": "98441"
+    },
+    "KLABOT": {
+      "BUK": "98442",
+      "INDIWI": "98442",
+      "KLABOT": "98442",
+      "KLAIS": "98442",
+      "MALAT": "98447",
+      "MIMPE": "98442",
+      "MLAKHAN": "98442",
+      "MLAWES": "98442"
+    },
+    "KLAMONO": {
+      "GISIM DARAT": "98439",
+      "KLAGULU (SP.III)": "98439",
+      "KLALOMON": "98439",
+      "KLAMUGUN(SP V)": "98439",
+      "KLASMAN": "98439",
+      "KLAWANA": "98439",
+      "MALAJAPA": "98439",
+      "MALASIGIT (SP II)": "98439",
+      "MLAIS": "98439",
+      "WONOSARI": "98439"
+    },
+    "KLASO": {
+      "KLAMUGUN": "98449",
+      "MISKUM": "98449",
+      "SELEKOBO": "98449",
+      "SENGKEDUK": "98449",
+      "SIWIS": "98449"
+    },
+    "KLAURUNG": {
+      "KLABLIM": "98435",
+      "KLASAMAN": "98435"
+    },
+    "KLAWAK": {
+      "BRIANLO": "98443",
+      "HOBARD": "98443",
+      "KLAMNE": "98443",
+      "MLAWEN": "98443",
+      "SAS": "98443",
+      "TARSA": "98443",
+      "WILTY": "98443"
+    },
+    "MAKBON": {
+      "ASBAKEN": "98445",
+      "BAINGKETE": "98445",
+      "BATU LOBANG": "98445",
+      "BATU LOBANG PANTAI": "98445",
+      "MAKBON": "98445",
+      "MALAUMKARTA": "98445",
+      "SAWATUK": "98445",
+      "TELUK DORE": "98445"
+    },
+    "MARIAT": {
+      "KLABEN": "98432",
+      "KLAMALU": "98432",
+      "KLAMASEN": "98432",
+      "KLASULUK": "98435",
+      "MARIYAI": "98432"
+    },
+    "MAUDUS": {
+      "DASRI": "98448",
+      "KETAWAS": "98448",
+      "KLAOS": "98448",
+      "KLATIM": "98448",
+      "LUWELALA": "98448",
+      "MASOS": "98448",
+      "SULUH": "98448",
+      "WARBO": "98448"
+    },
+    "MAYAMUK": {
+      "ARAR": "98434",
+      "KLAIN": "98435",
+      "KLASMELEK": "98434",
+      "MAKBALIM": "98434",
+      "MAKBUSUN": "98434",
+      "MAKOTYAMSA": "98434",
+      "WEN": "98434"
+    },
+    "MORAID": {
+      "KWADE": "98447",
+      "MALAWORSAI": "98447",
+      "MEGA": "98447",
+      "MEGAME": "98447",
+      "SALEWOK": "98447"
+    },
+    "SALAWATI": {
+      "KATINIM": "98433",
+      "MAJARAN": "98433",
+      "MAJENER": "98433",
+      "MALAUS": "98433",
+      "MATAWOLOT": "98433",
+      "RAWA SUGI": "98433",
+      "WALAL": "98433"
+    },
+    "SALAWATI SELATAN": {
+      "DULBATAN": "98436",
+      "DURIANKARI": "98436",
+      "MARALOL": "98436",
+      "SAILOLOF": "98436",
+      "SAKAPUL": "98436",
+      "WALIAM": "98436"
+    },
+    "SALAWATI TIMUR": {
+      "KLAFDALIM": "98435",
+      "KLAFORO": "98435",
+      "KLASARI": "98435",
+      "KLASOF": "98435",
+      "KLAWOTON": "98435",
+      "WONOSOBO": "98435"
+    },
+    "SAYOSA": {
+      "KLAWANA": "98444",
+      "KLAWAREN": "98444",
+      "MALADOFOK": "98444",
+      "SAILALA": "98444",
+      "SALUK": "98444",
+      "SAYOSA": "98444",
+      "YORBES": "98444"
+    },
+    "SEGET": {
+      "KASIM": "98437",
+      "KASIMLE": "98437",
+      "KLAYAS": "98437",
+      "MALABAM": "98437",
+      "SEGET": "98437",
+      "WASINGSAN": "98437"
+    },
+    "SEGUN": {
+      "GISIM": "98438",
+      "KLASEGUN": "98438",
+      "MAJEMAU": "98438",
+      "SEGUN": "98438",
+      "WAIMON": "98438",
+      "WAINLABAT": "98438"
+    },
+    "SORONG": {
+      "KLABLIM": "98435",
+      "KLADEMAK": "98414",
+      "KLASUGLEY": "98435",
+      "REMU UTARA": "98414"
+    },
+    "SORONG BARAT": {
+      "KLAWASI": "98412",
+      "RUFEI": "98412"
+    },
+    "SORONG KEPULAUAN": {
+      "RAAM": "98426",
+      "SOOP": "98426"
+    },
+    "SORONG KOTA": {
+      "KLASUUR": "98435"
+    },
+    "SORONG MANOI": {
+      "KLALIGI": "98419",
+      "KLASABI": "98419",
+      "MALABUTOR": "98419",
+      "MALAWEI": "98419",
+      "REMU SELATAN": "98419"
+    },
+    "SORONG TIMUR": {
+      "KLAMANA": "98418",
+      "KLAWALU": "98418",
+      "KLAWUYUK": "98418"
+    },
+    "SORONG UTARA": {
+      "MALANU": "98416"
+    }
+  },
+  "SORONG SELATAN": {
+    "FOKOUR": {
+      "BEMUS": "98457",
+      "PASIR PUTIH": "98457",
+      "WELEK": "98457"
+    },
+    "INANWATAN": {
+      "ISOGO": "98464",
+      "MATE": "98464",
+      "SERKOS": "98464",
+      "SIBAE": "98464",
+      "SOLTA BARU": "98464",
+      "WADOI": "98464"
+    },
+    "KAIS": {
+      "BENAWA I": "98462",
+      "KAIS": "98462",
+      "MAKARORO": "98462",
+      "SUMANO": "98462",
+      "TAPURI": "98462",
+      "YAHADIAN": "98462"
+    },
+    "KOKODA": {
+      "ARBASINA": "98465",
+      "BIRAWAKU": "98465",
+      "DAUBAK": "98465",
+      "KASUWERI": "98465",
+      "KOREWATARA": "98465",
+      "MIGIRITO": "98465",
+      "MIGORI": "98465",
+      "NAYAKORE": "98465",
+      "NEGERI BESAR": "98465",
+      "SIWATORI": "98465",
+      "TAMBANI": "98465",
+      "TAPAS": "98465",
+      "TAROF": "98465",
+      "TOPDAN": "98465",
+      "TOTONA": "98465"
+    },
+    "KOKODA UTARA": {
+      "ADONA": "98466",
+      "BENAWA II": "98466",
+      "KAYUBIRO": "98466",
+      "UDAGAGA": "98466"
+    },
+    "KONDA": {
+      "BARIAT": "98458",
+      "KONDA": "98458",
+      "MANELEK": "98458",
+      "WAMARGEGE": "98458"
+    },
+    "METEMANI": {
+      "BEDARE": "98463",
+      "MUGIM": "98463",
+      "NUSA": "98463",
+      "PURAGI": "98463",
+      "SAGA": "98463",
+      "TAWANGGIRE": "98463"
+    },
+    "MOSWAREN": {
+      "BUMI AJO (SP I)": "98461",
+      "HARARO": "98461",
+      "HASIK JAYA (SP II)": "98461",
+      "KAMISABE": "98461",
+      "MOSWAREN": "98461"
+    },
+    "SAIFI": {
+      "KAYABO": "98453",
+      "KOMANGGARET": "98453",
+      "KWOWOK": "98453",
+      "MANGGROHOLO": "98453",
+      "MLASWAT": "98453",
+      "SIRA": "98453",
+      "SISIR": "98453"
+    },
+    "SAWIAT": {
+      "SASNEK": "98456",
+      "SAWIAT": "98456",
+      "SUDROFOYO": "98456",
+      "WENDI": "98456",
+      "WENSOUG": "98456"
+    },
+    "SEREMUK": {
+      "HAHA": "98451",
+      "KAMARO": "98451",
+      "KLAUGIN": "98435",
+      "SBIR": "98451",
+      "TOFOT": "98451",
+      "WOLOIN": "98451"
+    },
+    "TEMINABUAN": {
+      "AIBOBOR": "98454",
+      "GOROLO": "98454",
+      "KAIBUS": "98454",
+      "KEYEN": "98454",
+      "KOHOIN": "98454",
+      "MAGIS": "98454",
+      "TAPIRI": "98454",
+      "TEGIROLO": "98454",
+      "WEHALI": "98454",
+      "WERMIT": "98454",
+      "WERNAS": "98454",
+      "WERSAR": "98454"
+    },
+    "WAYER": {
+      "BAGRAGA": "98452",
+      "BOLDON": "98452",
+      "SESOR": "98452",
+      "SUNGGUER": "98452",
+      "UNGGI": "98452",
+      "WAIGO": "98452",
+      "WARDIK": "98452",
+      "WAYER": "98452"
+    }
+  },
+  "TAMBRAUW": {
+    "ABUN": {
+      "SAUBEBA": "98477",
+      "WAIBEM": "98477",
+      "WARMANDI": "98477",
+      "WAU": "98477"
+    },
+    "AMBERBAKEN": {
+      "SAUKOREM": "98371",
+      "SERAYO": "98371",
+      "WASARAK": "98371"
+    },
+    "FEF": {
+      "FEF": "98475",
+      "MAWOR": "98447",
+      "WAYO": "98475"
+    },
+    "KWOOR": {
+      "HOPMARE": "98474",
+      "KWOOR": "98474"
+    },
+    "MIYAH": {
+      "AYAE": "98351",
+      "RUVEWES": "98476",
+      "SIAKWA": "98476"
+    },
+    "MUBARNI / ARFU": {
+      "ARFU": "98375",
+      "ATORI": "98375",
+      "BAWEY": "98375",
+      "BEREAMBEKER / MERIAMBEKER": "98375",
+      "BIJAMFOU": "98375",
+      "WARSNEMBRI": "98375",
+      "WARU": "98375"
+    },
+    "SAUSAPOR": {
+      "SAUSAPOR": "98473"
+    },
+    "SENOPI": {
+      "AFRAWI": "98351",
+      "KEBAR BARAT / SENOPI": "98374"
+    },
+    "YEMBUN": {
+      "BAUN": "98478",
+      "METNAYAM": "98478",
+      "SUMBEKAS": "98478"
+    }
+  },
+  "TELUK BINTUNI": {
+    "ARANDAY": {
+      "ARANDAY": "98558",
+      "KAMPUNG BARU": "98558",
+      "KECAP": "98558"
+    },
+    "AROBA": {
+      "AROBA": "98573",
+      "SANGGUAR": "98573",
+      "SIDO MAKMUR": "98573",
+      "WIMBRO": "98573",
+      "YARU": "98573"
+    },
+    "BABO": {
+      "AMUTU": "98571",
+      "IRARUTU III / BABO": "98571",
+      "KASIRA": "98571",
+      "NUSEI": "98571"
+    },
+    "BINTUNI": {
+      "BEIMES": "98551",
+      "BINTUNI BARAT": "98551",
+      "BINTUNI TIMUR": "98551",
+      "IGURIJI": "98551",
+      "IGURIJI II": "98551",
+      "MASINA": "98551",
+      "TUASAI": "98551",
+      "WESIRI": "98551"
+    },
+    "BISCOOP": {
+      "ENIBA": "98562",
+      "IBORI": "98562",
+      "JAHABRA": "98562",
+      "LAUDOHO": "98562",
+      "MENYEMBRU": "98562",
+      "MEYORGA": "98562"
+    },
+    "DATARAN BEIMES": {
+      "CUMNAJI": "98553",
+      "HORNA": "98553",
+      "HUSS": "98553",
+      "MENCI": "98553",
+      "SIR": "98553",
+      "UGDOHOP": "98553"
+    },
+    "FAFURWAR": {
+      "RIENDO": "98574"
+    },
+    "KAITARO": {
+      "SARA": "98575",
+      "WARGA NUSA II": "98575",
+      "WARGANUSA": "98575"
+    },
+    "KAMUNDAN": {
+      "BIBIRAM": "98559",
+      "KALITAMI": "98559",
+      "KALITAMI II": "98559",
+      "KENARA": "98559"
+    },
+    "KURI": {
+      "KURI II / NARAMASA": "98576",
+      "O B O": "98576",
+      "WAGURA": "98576"
+    },
+    "MANIMERI": {
+      "ATIBO / MANIMERY": "98552",
+      "BANJAR AUSOY (SP IV)": "98552",
+      "BUMI SANIARI (SP III)": "98552",
+      "KORANO JAYA (SP II)": "98552",
+      "PASAMAI": "98552",
+      "WARAITAMA (SPI)": "98552"
+    },
+    "MASYETA": {
+      "KALIBIRU": "98563",
+      "MASYETA": "98563",
+      "MESOMDA": "98563",
+      "MESTOFU": "98563"
+    },
+    "MERDEY": {
+      "MEKIESEFEP": "98561",
+      "MENGGERBA": "98561",
+      "MERDEY": "98561",
+      "MERYEB": "98561",
+      "MEYOM": "98561",
+      "MOGROMUS/MOGMEN": "98561",
+      "MOROMBUY": "98561"
+    },
+    "MEYADO": {
+      "BARMA": "98564",
+      "MEYADO": "98564",
+      "MEYADO II": "98564"
+    },
+    "MOSKONA BARAT": {
+      "ISTIKEM": "98566",
+      "MACOK": "98566",
+      "MAJNIK": "98566",
+      "MEYERGA": "98566"
+    },
+    "MOSKONA SELATAN": {
+      "BARMA BARAT": "98565",
+      "INGGOF": "98565",
+      "JAGIRO": "98565",
+      "MEYENDA": "98565",
+      "RAWARA": "98565"
+    },
+    "MOSKONA TIMUR": {
+      "IGOMU": "98568",
+      "MESNA": "98568"
+    },
+    "MOSKONA UTARA": {
+      "INOFINA": "98567",
+      "MERESTIM": "98567",
+      "MOSUM": "98567",
+      "MOYEBA": "98567"
+    },
+    "SUMURI": {
+      "MATERABU JAYA": "98572",
+      "SAENGGA": "98572",
+      "TANAH MERAH": "98572",
+      "TOFOI": "98572"
+    },
+    "TEMBUNI": {
+      "ARAISUM": "98555",
+      "MOGOY BARU": "98555",
+      "TEMBUNI": "98555"
+    },
+    "TOMU": {
+      "EKAM": "98557",
+      "SEBYAR REJOSARI": "98557",
+      "TOMU": "98557"
+    },
+    "TUHIBA": {
+      "KUCIR": "98554",
+      "SIBENA PERMAI": "98554",
+      "SIBENA RAYA": "98554",
+      "TISAIDA": "98554",
+      "TUHIBA": "98554"
+    },
+    "WAMESA": {
+      "MAMURANU": "98577",
+      "WAMESA I / YAKATI": "98577",
+      "WAMESA II / IDOR": "98577"
+    },
+    "WERIAGAR": {
+      "MOGOTIRA": "98556",
+      "TUANAKIN": "98556",
+      "WERIAGAR": "98556",
+      "WERIAGAR BARU": "98556",
+      "WERIAGAR UTARA": "98556"
+    }
+  },
+  "TELUK WONDAMA": {
+    "DUAIRI": {
+      "AISANDAMI": "98592",
+      "SOBEI": "98592",
+      "SOBEY INDAH": "98592",
+      "YOPENGGAR": "98592"
+    },
+    "KURI WAMESA": {
+      "AMBUMI": "98596",
+      "DUSNER": "98596",
+      "NANIMORI": "98596",
+      "SOBIAR": "98596",
+      "YERENUSI": "98596"
+    },
+    "NAIKERE": {
+      "INYORA": "98595",
+      "SARARTI": "98595",
+      "UNDURARA": "98595",
+      "WOSIMO": "98595",
+      "YABORE": "98595"
+    },
+    "NIKIWAR": {
+      "KUREI": "98582",
+      "MAMISI": "98582",
+      "TAMOGE": "98582",
+      "WERABUR": "98582",
+      "WERIANGGI": "98582"
+    },
+    "RASIEY": {
+      "ISEI": "98591",
+      "NGGATU": "98591",
+      "RASIEI": "98591",
+      "SASIREI": "98591",
+      "SENDERAWOI": "98591",
+      "TANDIA": "98591",
+      "TOREY": "98591",
+      "URIEMI": "98591",
+      "WEBI": "98591"
+    },
+    "ROON": {
+      "INDAY": "98599",
+      "MENA": "98599",
+      "MENARBU": "98599",
+      "NIAB": "98599",
+      "SARIAY": "98599",
+      "SYABES": "98599",
+      "YENDE": "98599"
+    },
+    "ROSWAR": {
+      "NORDIWAR": "98583",
+      "SYEIWAR": "98584",
+      "WAPRAK": "98584",
+      "YOMBER": "98584"
+    },
+    "RUMBERPON": {
+      "ISEREN": "98585",
+      "SENEBUAY": "98585",
+      "WETITINDAU": "98585",
+      "YARIARI": "98585",
+      "YEMBEKIRI I": "98585",
+      "YEMBEKIRI II": "98585",
+      "YOMAKAN": "98585"
+    },
+    "SOUG JAYA": {
+      "KAPRUS": "98586",
+      "NUSPAIRO": "98586",
+      "REYOB": "98586",
+      "SIRESI": "98586"
+    },
+    "WAMESA": {
+      "AMBUAR": "98583",
+      "KARUAN": "98583",
+      "SABUBAR": "98583",
+      "YARPATE": "98583"
+    },
+    "WASIOR": {
+      "DOTIR": "98593",
+      "IRIATI": "98593",
+      "MAIMARE": "98593",
+      "MANIWAK": "98593",
+      "MORU": "98593",
+      "RADO": "98593",
+      "WASIOR I": "98593",
+      "WASIOR II": "98593",
+      "WONDAMAWI   II": "98593"
+    },
+    "WINDESI": {
+      "SANDEY": "98581",
+      "SOMBOKORO": "98581",
+      "WAMESA TENGAH": "98581",
+      "WINDESI": "98581",
+      "YOPMEOS": "98581"
+    }
+  }
+}

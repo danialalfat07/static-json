@@ -1,0 +1,327 @@
+{
+  "BULUNGAN": {
+    "BUNYU": {
+      "BUNYU BARAT": "77281",
+      "BUNYU SELATAN": "77281",
+      "BUNYU TIMUR": "77281"
+    },
+    "PESO": {
+      "LEPAK ARU": "77261",
+      "LONG BIA": "77261",
+      "LONG BUANG": "77261",
+      "LONG LIAN": "77261",
+      "LONG PESO": "77261"
+    },
+    "SEKATAK": {
+      "AMBALAT": "77263",
+      "ANJAR ARIP": "77263",
+      "BAMBANG": "77263",
+      "BEKILIU": "77263",
+      "BUNAU": "77263",
+      "KELEMBUNAN": "77263",
+      "KELINCAWAN": "77263",
+      "KELISING": "77263",
+      "KENDARI": "77263",
+      "KERITING": "77263",
+      "LIAGU": "77263",
+      "MARITAM": "77263",
+      "PARU ABANG": "77263",
+      "PENTIAN": "77263",
+      "PUNAN DULAU": "77263",
+      "PUNGIT": "77263",
+      "SEKATAK BENGARA": "77263",
+      "SEKATAK BUJI": "77263",
+      "TENGGILING": "77263",
+      "TERINDAK": "77263",
+      "TURUNG": "77263",
+      "UJANG": "77263"
+    },
+    "TANJUNG PALAS": {
+      "ANTUTAN": "77252",
+      "GUNUNG PUTIH/KR. JENAWI": "77252",
+      "KARANG ANYAR": "77252",
+      "TANJUNG PALAS TENGAH": "77252",
+      "TERAS BARU": "77252",
+      "TERAS NAWANG": "77252"
+    },
+    "TANJUNG PALAS BARAT": {
+      "LONG BELUAH": "77255",
+      "LONG PARI": "77255",
+      "LONG SAM": "77255",
+      "MARA HILIR": "77255"
+    },
+    "TANJUNG PALAS TENGAH": {
+      "SILVA RAHAYU": "77253",
+      "TANJUNG BUKA": "77253"
+    },
+    "TANJUNG PALAS TIMUR": {
+      "BINAI": "77256",
+      "PURA SAJAU": "77256",
+      "SAJAU": "77256",
+      "TANAH KUNING": "77256",
+      "TANJUNG AGUNG": "77256"
+    },
+    "TANJUNG PALAS UTARA": {
+      "ARDI MULYA": "77254",
+      "KARANG AGUNG": "77254",
+      "KELUBIR": "77254",
+      "PANCA AGUNG": "77254",
+      "PIMPING": "77254",
+      "RUHUI RAHAYU": "77254"
+    },
+    "TANJUNG SELOR": {
+      "APUNG": "77219",
+      "BUMI RAHAYU": "77219",
+      "GUNUNG SARI": "77219",
+      "GUNUNG SERIANG": "77219",
+      "JELARAI SELOR": "77219",
+      "TANJUNG SELOR HULU": "77213",
+      "TANJUNG SELOR TIMUR": "77213",
+      "TENGKAPAK": "77219"
+    }
+  },
+  "MALINAU": {
+    "BAHAU HULU": {
+      "APAU PING": "77563",
+      "LONG ALANGO": "77563",
+      "LONG ATUA/LONG KEMUAT": "77563",
+      "LONG BERINI": "77563",
+      "LONG TEBULO": "77563",
+      "LONG ULI": "77563"
+    },
+    "KAYAN HILIR": {
+      "DATA DIAN": "77571",
+      "LONG PIPA": "77571",
+      "SUNGAI ANAI": "77571"
+    },
+    "KAYAN HULU": {
+      "LONG NAWANG": "77572",
+      "LONG TEMUYAT": "77572",
+      "NAWANG BARU": "77572"
+    },
+    "KAYAN SELATAN": {
+      "LIDUNG PAYAU": "77573",
+      "LONG AMPUNG": "77573",
+      "LONG SUNGAI BARANG": "77573",
+      "LONG URO": "77573",
+      "METULANG": "77573"
+    },
+    "MALINAU BARAT": {
+      "KUALA LAPANG": "77552",
+      "LONG BILA": "77552",
+      "PUNAN BENGALUN": "77552",
+      "SEMPAYANG": "77552",
+      "SENTABAN": "77552",
+      "SESUA": "77552",
+      "TANJUNG LAPANG": "77552",
+      "TARAS": "77552"
+    },
+    "MALINAU KOTA": {
+      "BATU LIDUNG": "77514",
+      "MALINAU HILIR": "77513",
+      "MALINAU HULU": "77512",
+      "MALINAU KOTA": "77511",
+      "PELITA KANAAN": "77515",
+      "TANJUNG KERANJANG": "77516"
+    },
+    "MALINAU SELATAN": {
+      "BILA BEKAYUK": "77553",
+      "LABAN NYARIT": "77553",
+      "LANGAP": "77553",
+      "LONG LOREH": "77553",
+      "NUNUK TANAH KIBANG": "77553",
+      "PAYA SETURAN": "77553",
+      "PELENCAU": "77553",
+      "PUNAN RIAN": "77553",
+      "SENGAYAN": "77553"
+    },
+    "MALINAU UTARA": {
+      "BELAYAN": "77551",
+      "KALIAMOK": "77551",
+      "LUSO": "77551",
+      "MALINAU SEBERANG": "77551",
+      "PUTAT": "77551",
+      "RESPEN TUBU": "77551",
+      "SALAP": "77551",
+      "SEMBUAK WAROD": "77551",
+      "SERUYUNG": "77551"
+    },
+    "MENTARANG": {
+      "HARAPAN MAJU": "77555",
+      "LONG BISAI": "77555",
+      "LONG GAFID": "77555",
+      "LONG LIKU": "77555",
+      "MENTARANG BARU": "77555",
+      "PAKING": "77555",
+      "PULAU SAPI": "77555",
+      "TEMALANG": "77555"
+    },
+    "PUJUNGAN": {
+      "LONG ARAN": "77562",
+      "LONG BELAKA PITAU": "77562",
+      "LONG BENA": "77562",
+      "LONG KETAMAN": "77562",
+      "LONG PUA": "77562",
+      "LONG PUJUNGAN": "77562"
+    },
+    "SUNGAI BOH": {
+      "AGUNG BARU": "77574",
+      "DATA BARU": "77574",
+      "LONG LEBUSAN": "77574",
+      "LONG TOP": "77574",
+      "MAHAK BARU": "77574"
+    }
+  },
+  "NUNUKAN": {
+    "KRAYAN": {
+      "BA SIKOR": "77456",
+      "BUDUK KINANGAN": "77456",
+      "BUDUK TUMU": "77456",
+      "CINGLAT": "77456",
+      "LIANG BIADUNG": "77456",
+      "LIANG BUTAN": "77456",
+      "LIANG TUER": "77456",
+      "LONG BAWAN": "77456",
+      "LONG BERAYANG": "77456",
+      "LONG KATUNG": "77456",
+      "LONG MATUNG": "77456",
+      "LONG RUPAN": "77456"
+    },
+    "KRAYAN SELATAN": {
+      "LIANG LUNUK": "77458",
+      "LONG BIRAR": "77458",
+      "LONG BUDUNG": "77458",
+      "LONG PUPUNG": "77458"
+    },
+    "LUMBIS": {
+      "DERALON": "77457",
+      "KALAMPISING": "77457",
+      "LIANG": "77457",
+      "LIBANG": "77457",
+      "LIKOS": "77457",
+      "LINTONG": "77457",
+      "NAINSID": "77457",
+      "PATAL I": "77457",
+      "PATAL II": "77457",
+      "PODONG": "77457",
+      "PULU BULAWAN": "77457",
+      "SALUDAN": "77457",
+      "SAPUYAN": "77457",
+      "SASIBU": "77457",
+      "SEMALAT": "77457",
+      "SIAWANG": "77457",
+      "TUBUS": "77457"
+    },
+    "NUNUKAN SELATAN": {
+      "MANSAPA": "77413",
+      "NUNUKAN SELATAN": "77411",
+      "SELISUN": "77412",
+      "TANJUNG HARAPAN": "77414"
+    },
+    "SEBATIK BARAT": {
+      "BAMBANGAN": "77443",
+      "BINALAWAN": "77441",
+      "SETABU": "77444"
+    },
+    "SEBATIK TENGAH": {
+      "BUKIT HARAPAN": "77445",
+      "MASPUL": "77446",
+      "SUNGAI LIMAU": "77447"
+    },
+    "SEBATIK TIMUR": {
+      "BUKIT ARU INDAH": "77436",
+      "TANJUNG ARU": "77433",
+      "TANJUNG HARAPAN": "77438"
+    },
+    "SEBATIK UTARA": {
+      "LAPRI": "77437"
+    },
+    "SEBUKU": {
+      "APAS": "77491",
+      "BEBANAS": "77491",
+      "KEKAYAP": "77491",
+      "KUNYIT": "77491",
+      "MELASU BARU": "77491",
+      "PEMBELIANGAN": "77491",
+      "SUJAU": "77491",
+      "TETABAN": "77491"
+    },
+    "SEMBAKUNG": {
+      "ATAP": "77453",
+      "BUTAS BAGU": "77453",
+      "LABUK": "77453",
+      "LUBAKAN": "77453",
+      "MANUK BUNGKUL": "77453",
+      "PAGAR": "77453",
+      "TAGUL": "77453",
+      "TEPIAN": "77453",
+      "TUJUNG": "77453"
+    }
+  },
+  "TANA TIDUNG": {
+    "BETAYAU": {
+      "BEBAKUNG": "77653",
+      "BUANG BARU": "77653",
+      "KUJAU": "77653",
+      "MANING": "77653"
+    },
+    "MURUK RIAN": {
+      "KAPUAK": "77651",
+      "RIAN": "77651",
+      "RIAN RAYO": "77651",
+      "SAPARI": "77651",
+      "SEPUTUK": "77651"
+    },
+    "SESAYAP": {
+      "GUNAWAN": "77611",
+      "SEBAWANG": "77611",
+      "SEBIDAI": "77611",
+      "SEDULUN": "77611",
+      "TIDENG PALE": "77611",
+      "TIDENG PALE TIMUR": "77611"
+    },
+    "SESAYAP HILIR": {
+      "BANDAN BIKIS": "77652",
+      "BEBATU": "77652",
+      "MENJELUTUNG": "77652",
+      "SELUDAU": "77652",
+      "SENGKONG": "77652"
+    },
+    "TANA LIA": {
+      "SAMBUNGAN": "77661",
+      "SAMBUNGAN SELATAN": "77661",
+      "TANAH MERAH": "77661",
+      "TANAH MERAH BARAT": "77661",
+      "TENGKU DACING": "77661"
+    }
+  },
+  "TARAKAN": {
+    "TARAKAN BARAT": {
+      "KARANG ANYAR": "77111",
+      "KARANG ANYAR PANTAI": "77111",
+      "KARANG BALIK": "77112",
+      "KARANG HARAPAN": "77111",
+      "KARANG REJO": "77112"
+    },
+    "TARAKAN TENGAH": {
+      "PAMUSIAN": "77114",
+      "SEBENGKOK": "77114",
+      "SELUMIT": "77113",
+      "SELUMIT PANTAI": "77113"
+    },
+    "TARAKAN TIMUR": {
+      "GUNUNG LINGKAS": "77126",
+      "KAMPUNG EMPAT": "77124",
+      "KAMPUNG ENAM": "77123",
+      "LINGKAS UJUNG": "77126",
+      "MAMBURUNGAN": "77125",
+      "MAMBURUNGAN TIMUR": "77125",
+      "PANTAI AMAL": "77123"
+    },
+    "TARAKAN UTARA": {
+      "JUATA KERIKIL": "77116",
+      "JUATA LAUT": "77116",
+      "JUATA PERMAI": "77116"
+    }
+  }
+}

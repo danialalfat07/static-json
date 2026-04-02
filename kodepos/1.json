@@ -1,0 +1,12518 @@
+{
+ "10110": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA PUSAT",
+   "c": "GAMBIR",
+   "d": [
+    "GAMBIR"
+   ]
+  }
+ ],
+ "10120": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA PUSAT",
+   "c": "GAMBIR",
+   "d": [
+    "KEBON KELAPA"
+   ]
+  }
+ ],
+ "10130": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA PUSAT",
+   "c": "GAMBIR",
+   "d": [
+    "PETOJO UTARA"
+   ]
+  }
+ ],
+ "10140": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA PUSAT",
+   "c": "GAMBIR",
+   "d": [
+    "DURI PULO"
+   ]
+  }
+ ],
+ "10150": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA PUSAT",
+   "c": "GAMBIR",
+   "d": [
+    "CIDENG"
+   ]
+  }
+ ],
+ "10160": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA PUSAT",
+   "c": "GAMBIR",
+   "d": [
+    "PETOJO SELATAN"
+   ]
+  }
+ ],
+ "10210": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA PUSAT",
+   "c": "TANAH ABANG",
+   "d": [
+    "BENDUNGAN HILIR"
+   ]
+  }
+ ],
+ "10220": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA PUSAT",
+   "c": "TANAH ABANG",
+   "d": [
+    "KARET TENGSIN"
+   ]
+  }
+ ],
+ "10230": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA PUSAT",
+   "c": "TANAH ABANG",
+   "d": [
+    "KEBON MELATI"
+   ]
+  }
+ ],
+ "10240": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA PUSAT",
+   "c": "TANAH ABANG",
+   "d": [
+    "KEBON KACANG"
+   ]
+  }
+ ],
+ "10250": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA PUSAT",
+   "c": "TANAH ABANG",
+   "d": [
+    "KAMPUNG BALI"
+   ]
+  }
+ ],
+ "10260": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA PUSAT",
+   "c": "TANAH ABANG",
+   "d": [
+    "PETAMBURAN"
+   ]
+  }
+ ],
+ "10270": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA PUSAT",
+   "c": "TANAH ABANG",
+   "d": [
+    "GELORA"
+   ]
+  }
+ ],
+ "10310": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA PUSAT",
+   "c": "MENTENG",
+   "d": [
+    "MENTENG"
+   ]
+  }
+ ],
+ "10320": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA PUSAT",
+   "c": "MENTENG",
+   "d": [
+    "PEGANGSAAN"
+   ]
+  }
+ ],
+ "10330": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA PUSAT",
+   "c": "MENTENG",
+   "d": [
+    "CIKINI"
+   ]
+  }
+ ],
+ "10340": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA PUSAT",
+   "c": "MENTENG",
+   "d": [
+    "KEBON SIRIH"
+   ]
+  }
+ ],
+ "10350": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA PUSAT",
+   "c": "MENTENG",
+   "d": [
+    "GONDANGDIA"
+   ]
+  }
+ ],
+ "10410": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA PUSAT",
+   "c": "SENEN",
+   "d": [
+    "SENEN"
+   ]
+  }
+ ],
+ "10420": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA PUSAT",
+   "c": "SENEN",
+   "d": [
+    "KWITANG"
+   ]
+  }
+ ],
+ "10430": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA PUSAT",
+   "c": "SENEN",
+   "d": [
+    "KENARI"
+   ]
+  }
+ ],
+ "10440": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA PUSAT",
+   "c": "SENEN",
+   "d": [
+    "PASEBAN"
+   ]
+  }
+ ],
+ "10450": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA PUSAT",
+   "c": "SENEN",
+   "d": [
+    "KRAMAT"
+   ]
+  }
+ ],
+ "10460": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA PUSAT",
+   "c": "SENEN",
+   "d": [
+    "BUNGUR"
+   ]
+  }
+ ],
+ "10510": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA PUSAT",
+   "c": "CEMPAKA PUTIH",
+   "d": [
+    "CEMPAKA PUTIH TIMUR"
+   ]
+  }
+ ],
+ "10520": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA PUSAT",
+   "c": "CEMPAKA PUTIH",
+   "d": [
+    "CEMPAKA PUTIH BARAT"
+   ]
+  }
+ ],
+ "10530": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA PUSAT",
+   "c": "JOHAR BARU",
+   "d": [
+    "GALUR"
+   ]
+  }
+ ],
+ "10540": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA PUSAT",
+   "c": "JOHAR BARU",
+   "d": [
+    "TANAH TINGGI"
+   ]
+  }
+ ],
+ "10550": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA PUSAT",
+   "c": "JOHAR BARU",
+   "d": [
+    "KAMPUNG RAWA"
+   ]
+  }
+ ],
+ "10560": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA PUSAT",
+   "c": "JOHAR BARU",
+   "d": [
+    "JOHAR BARU"
+   ]
+  }
+ ],
+ "10570": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA PUSAT",
+   "c": "CEMPAKA PUTIH",
+   "d": [
+    "RAWA SARI"
+   ]
+  }
+ ],
+ "10610": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA PUSAT",
+   "c": "KEMAYORAN",
+   "d": [
+    "GUNUNG SAHARI SELATAN"
+   ]
+  }
+ ],
+ "10620": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA PUSAT",
+   "c": "KEMAYORAN",
+   "d": [
+    "KEMAYORAN"
+   ]
+  }
+ ],
+ "10630": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA PUSAT",
+   "c": "KEMAYORAN",
+   "d": [
+    "KEBON KOSONG"
+   ]
+  }
+ ],
+ "10640": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA PUSAT",
+   "c": "KEMAYORAN",
+   "d": [
+    "CEMPAKA BARU",
+    "HARAPAN MULYA",
+    "SUMUR BATU"
+   ]
+  }
+ ],
+ "10650": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA PUSAT",
+   "c": "KEMAYORAN",
+   "d": [
+    "SERDANG",
+    "UTAN PANJANG"
+   ]
+  }
+ ],
+ "10710": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA PUSAT",
+   "c": "SAWAH BESAR",
+   "d": [
+    "PASAR BARU"
+   ]
+  }
+ ],
+ "10720": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA PUSAT",
+   "c": "SAWAH BESAR",
+   "d": [
+    "GUNUNG SAHARI UTARA"
+   ]
+  }
+ ],
+ "10730": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA PUSAT",
+   "c": "SAWAH BESAR",
+   "d": [
+    "MANGGA DUA SELATAN"
+   ]
+  }
+ ],
+ "10740": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA PUSAT",
+   "c": "SAWAH BESAR",
+   "d": [
+    "KARANG ANYAR"
+   ]
+  }
+ ],
+ "10750": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA PUSAT",
+   "c": "SAWAH BESAR",
+   "d": [
+    "KARTINI"
+   ]
+  }
+ ],
+ "11110": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA BARAT",
+   "c": "TAMAN SARI",
+   "d": [
+    "PINANGSIA"
+   ]
+  }
+ ],
+ "11120": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA BARAT",
+   "c": "TAMAN SARI",
+   "d": [
+    "GLODOK"
+   ]
+  }
+ ],
+ "11130": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA BARAT",
+   "c": "TAMAN SARI",
+   "d": [
+    "KEAGUNGAN"
+   ]
+  }
+ ],
+ "11140": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA BARAT",
+   "c": "TAMAN SARI",
+   "d": [
+    "KRUKUT"
+   ]
+  }
+ ],
+ "11150": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA BARAT",
+   "c": "TAMAN SARI",
+   "d": [
+    "TAMAN SARI"
+   ]
+  }
+ ],
+ "11160": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA BARAT",
+   "c": "TAMAN SARI",
+   "d": [
+    "MAPHAR"
+   ]
+  }
+ ],
+ "11170": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA BARAT",
+   "c": "TAMAN SARI",
+   "d": [
+    "TANGKI"
+   ]
+  }
+ ],
+ "11180": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA BARAT",
+   "c": "TAMAN SARI",
+   "d": [
+    "MANGGA BESAR"
+   ]
+  }
+ ],
+ "11210": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA BARAT",
+   "c": "TAMBORA",
+   "d": [
+    "TANAH SEREAL"
+   ]
+  }
+ ],
+ "11220": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA BARAT",
+   "c": "TAMBORA",
+   "d": [
+    "TAMBORA"
+   ]
+  }
+ ],
+ "11230": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA BARAT",
+   "c": "TAMBORA",
+   "d": [
+    "ROA MALAKA"
+   ]
+  }
+ ],
+ "11240": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA BARAT",
+   "c": "TAMBORA",
+   "d": [
+    "PEKOJAN"
+   ]
+  }
+ ],
+ "11250": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA BARAT",
+   "c": "TAMBORA",
+   "d": [
+    "JEMBATAN LIMA"
+   ]
+  }
+ ],
+ "11260": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA BARAT",
+   "c": "TAMBORA",
+   "d": [
+    "KRENDANG"
+   ]
+  }
+ ],
+ "11270": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA BARAT",
+   "c": "TAMBORA",
+   "d": [
+    "DURI SELATAN",
+    "DURI UTARA"
+   ]
+  }
+ ],
+ "11310": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA BARAT",
+   "c": "TAMBORA",
+   "d": [
+    "KALIANYAR"
+   ]
+  }
+ ],
+ "11320": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA BARAT",
+   "c": "TAMBORA",
+   "d": [
+    "JEMBATAN BESI"
+   ]
+  }
+ ],
+ "11330": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA BARAT",
+   "c": "TAMBORA",
+   "d": [
+    "ANGKE"
+   ]
+  }
+ ],
+ "11410": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA BARAT",
+   "c": "PALMERAH",
+   "d": [
+    "SLIPI"
+   ]
+  }
+ ],
+ "11420": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA BARAT",
+   "c": "PALMERAH",
+   "d": [
+    "KOTA BAMBU SELATAN",
+    "KOTA BAMBU UTARA"
+   ]
+  }
+ ],
+ "11430": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA BARAT",
+   "c": "PALMERAH",
+   "d": [
+    "JATI PULO"
+   ]
+  }
+ ],
+ "11440": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA BARAT",
+   "c": "GROGOL PETAMBURAN",
+   "d": [
+    "TOMANG"
+   ]
+  }
+ ],
+ "11450": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA BARAT",
+   "c": "GROGOL PETAMBURAN",
+   "d": [
+    "GROGOL"
+   ]
+  }
+ ],
+ "11460": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA BARAT",
+   "c": "GROGOL PETAMBURAN",
+   "d": [
+    "JELAMBAR",
+    "JELAMBAR BARU",
+    "WIJAYA KESUMA"
+   ]
+  }
+ ],
+ "11470": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA BARAT",
+   "c": "GROGOL PETAMBURAN",
+   "d": [
+    "TANJUNG DUREN SELATAN",
+    "TANJUNG DUREN UTARA"
+   ]
+  }
+ ],
+ "11480": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA BARAT",
+   "c": "PALMERAH",
+   "d": [
+    "KEMANGGISAN",
+    "PALMERAH"
+   ]
+  }
+ ],
+ "11510": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA BARAT",
+   "c": "KEBON JERUK",
+   "d": [
+    "DURI KEPA"
+   ]
+  }
+ ],
+ "11520": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA BARAT",
+   "c": "KEBON JERUK",
+   "d": [
+    "KEDOYA SELATAN",
+    "KEDOYA UTARA"
+   ]
+  }
+ ],
+ "11530": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA BARAT",
+   "c": "KEBON JERUK",
+   "d": [
+    "KEBON JERUK"
+   ]
+  }
+ ],
+ "11540": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA BARAT",
+   "c": "KEBON JERUK",
+   "d": [
+    "SUKABUMI UTARA"
+   ]
+  }
+ ],
+ "11550": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA BARAT",
+   "c": "KEBON JERUK",
+   "d": [
+    "KELAPA DUA"
+   ]
+  }
+ ],
+ "11560": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA BARAT",
+   "c": "KEBON JERUK",
+   "d": [
+    "SUKABUMI SELATAN"
+   ]
+  }
+ ],
+ "11610": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA BARAT",
+   "c": "KEMBANGAN",
+   "d": [
+    "KEMBANGAN SELATAN",
+    "KEMBANGAN UTARA"
+   ]
+  }
+ ],
+ "11620": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA BARAT",
+   "c": "KEMBANGAN",
+   "d": [
+    "MERUYA UTARA"
+   ]
+  }
+ ],
+ "11630": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA BARAT",
+   "c": "KEMBANGAN",
+   "d": [
+    "SRENGSENG"
+   ]
+  }
+ ],
+ "11640": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA BARAT",
+   "c": "KEMBANGAN",
+   "d": [
+    "JOGLO"
+   ]
+  }
+ ],
+ "11650": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA BARAT",
+   "c": "KEMBANGAN",
+   "d": [
+    "MERUYA SELATAN"
+   ]
+  }
+ ],
+ "11710": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA BARAT",
+   "c": "CENGKARENG",
+   "d": [
+    "KEDAUNG KALI ANGKE"
+   ]
+  }
+ ],
+ "11720": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA BARAT",
+   "c": "CENGKARENG",
+   "d": [
+    "KAPUK"
+   ]
+  }
+ ],
+ "11730": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA BARAT",
+   "c": "CENGKARENG",
+   "d": [
+    "CENGKARENG BARAT",
+    "CENGKARENG TIMUR"
+   ]
+  }
+ ],
+ "11740": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA BARAT",
+   "c": "CENGKARENG",
+   "d": [
+    "RAWA BUAYA"
+   ]
+  }
+ ],
+ "11750": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA BARAT",
+   "c": "CENGKARENG",
+   "d": [
+    "DURI KOSAMBI"
+   ]
+  }
+ ],
+ "11810": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA BARAT",
+   "c": "KALI DERES",
+   "d": [
+    "KAMAL"
+   ]
+  }
+ ],
+ "11820": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA BARAT",
+   "c": "KALI DERES",
+   "d": [
+    "TEGAL ALUR"
+   ]
+  }
+ ],
+ "11830": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA BARAT",
+   "c": "KALI DERES",
+   "d": [
+    "PEGADUNGAN"
+   ]
+  }
+ ],
+ "11840": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA BARAT",
+   "c": "KALI DERES",
+   "d": [
+    "KALIDERES"
+   ]
+  }
+ ],
+ "11850": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA BARAT",
+   "c": "KALI DERES",
+   "d": [
+    "SEMANAN"
+   ]
+  }
+ ],
+ "12110": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA SELATAN",
+   "c": "KEBAYORAN BARU",
+   "d": [
+    "SELONG"
+   ]
+  }
+ ],
+ "12120": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA SELATAN",
+   "c": "KEBAYORAN BARU",
+   "d": [
+    "GUNUNG"
+   ]
+  }
+ ],
+ "12130": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA SELATAN",
+   "c": "KEBAYORAN BARU",
+   "d": [
+    "KRAMAT PELA"
+   ]
+  }
+ ],
+ "12140": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA SELATAN",
+   "c": "KEBAYORAN BARU",
+   "d": [
+    "GANDARIA UTARA"
+   ]
+  }
+ ],
+ "12150": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA SELATAN",
+   "c": "KEBAYORAN BARU",
+   "d": [
+    "CIPETE UTARA"
+   ]
+  }
+ ],
+ "12160": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA SELATAN",
+   "c": "KEBAYORAN BARU",
+   "d": [
+    "MELAWAI",
+    "PULO"
+   ]
+  }
+ ],
+ "12170": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA SELATAN",
+   "c": "KEBAYORAN BARU",
+   "d": [
+    "PETOGOGAN"
+   ]
+  }
+ ],
+ "12180": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA SELATAN",
+   "c": "KEBAYORAN BARU",
+   "d": [
+    "RAWA BARAT"
+   ]
+  }
+ ],
+ "12190": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA SELATAN",
+   "c": "KEBAYORAN BARU",
+   "d": [
+    "SENAYAN"
+   ]
+  }
+ ],
+ "12210": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA SELATAN",
+   "c": "KEBAYORAN LAMA",
+   "d": [
+    "GROGOL UTARA"
+   ]
+  }
+ ],
+ "12220": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA SELATAN",
+   "c": "KEBAYORAN LAMA",
+   "d": [
+    "GROGOL SELATAN"
+   ]
+  }
+ ],
+ "12230": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA SELATAN",
+   "c": "KEBAYORAN LAMA",
+   "d": [
+    "CIPULIR"
+   ]
+  }
+ ],
+ "12240": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA SELATAN",
+   "c": "KEBAYORAN LAMA",
+   "d": [
+    "KEBAYORAN LAMA SELATAN",
+    "KEBAYORAN LAMA UTARA"
+   ]
+  }
+ ],
+ "12250": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA SELATAN",
+   "c": "PESANGGRAHAN",
+   "d": [
+    "ULUJAMI"
+   ]
+  }
+ ],
+ "12260": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA SELATAN",
+   "c": "PESANGGRAHAN",
+   "d": [
+    "PETUKANGAN UTARA"
+   ]
+  }
+ ],
+ "12270": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA SELATAN",
+   "c": "PESANGGRAHAN",
+   "d": [
+    "PETUKANGAN SELATAN"
+   ]
+  }
+ ],
+ "12310": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA SELATAN",
+   "c": "KEBAYORAN LAMA",
+   "d": [
+    "PONDOK PINANG"
+   ]
+  }
+ ],
+ "12320": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA SELATAN",
+   "c": "PESANGGRAHAN",
+   "d": [
+    "PESANGGRAHAN"
+   ]
+  }
+ ],
+ "12330": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA SELATAN",
+   "c": "PESANGGRAHAN",
+   "d": [
+    "BINTARO"
+   ]
+  }
+ ],
+ "12410": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA SELATAN",
+   "c": "CILANDAK",
+   "d": [
+    "CIPETE SELATAN"
+   ]
+  }
+ ],
+ "12420": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA SELATAN",
+   "c": "CILANDAK",
+   "d": [
+    "GANDARIA SELATAN"
+   ]
+  }
+ ],
+ "12430": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA SELATAN",
+   "c": "CILANDAK",
+   "d": [
+    "CILANDAK BARAT"
+   ]
+  }
+ ],
+ "12440": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA SELATAN",
+   "c": "CILANDAK",
+   "d": [
+    "LEBAK BULUS"
+   ]
+  }
+ ],
+ "12450": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA SELATAN",
+   "c": "CILANDAK",
+   "d": [
+    "PONDOK LABU"
+   ]
+  }
+ ],
+ "12510": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA SELATAN",
+   "c": "PASAR MINGGU",
+   "d": [
+    "PEJATEN BARAT",
+    "PEJATEN TIMUR"
+   ]
+  }
+ ],
+ "12520": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA SELATAN",
+   "c": "PASAR MINGGU",
+   "d": [
+    "KEBAGUSAN",
+    "PASAR MINGGU"
+   ]
+  }
+ ],
+ "12530": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA SELATAN",
+   "c": "JAGAKARSA",
+   "d": [
+    "TANJUNG BARAT"
+   ]
+  }
+ ],
+ "12540": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA SELATAN",
+   "c": "PASAR MINGGU",
+   "d": [
+    "JATI PADANG"
+   ]
+  }
+ ],
+ "12550": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA SELATAN",
+   "c": "PASAR MINGGU",
+   "d": [
+    "RAGUNAN"
+   ]
+  }
+ ],
+ "12560": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA SELATAN",
+   "c": "PASAR MINGGU",
+   "d": [
+    "CILANDAK TIMUR"
+   ]
+  }
+ ],
+ "12610": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA SELATAN",
+   "c": "JAGAKARSA",
+   "d": [
+    "LENTENG AGUNG"
+   ]
+  }
+ ],
+ "12620": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA SELATAN",
+   "c": "JAGAKARSA",
+   "d": [
+    "JAGAKARSA"
+   ]
+  }
+ ],
+ "12630": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA SELATAN",
+   "c": "JAGAKARSA",
+   "d": [
+    "CIGANJUR",
+    "CIPEDAK"
+   ]
+  }
+ ],
+ "12640": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA SELATAN",
+   "c": "JAGAKARSA",
+   "d": [
+    "SRENGSENG SAWAH"
+   ]
+  }
+ ],
+ "12710": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA SELATAN",
+   "c": "MAMPANG PRAPATAN",
+   "d": [
+    "KUNINGAN BARAT"
+   ]
+  }
+ ],
+ "12720": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA SELATAN",
+   "c": "MAMPANG PRAPATAN",
+   "d": [
+    "PELA MAMPANG"
+   ]
+  }
+ ],
+ "12730": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA SELATAN",
+   "c": "MAMPANG PRAPATAN",
+   "d": [
+    "BANGKA"
+   ]
+  }
+ ],
+ "12740": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA SELATAN",
+   "c": "PANCORAN",
+   "d": [
+    "KALIBATA"
+   ]
+  }
+ ],
+ "12750": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA SELATAN",
+   "c": "PANCORAN",
+   "d": [
+    "RAWAJATI"
+   ]
+  }
+ ],
+ "12760": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA SELATAN",
+   "c": "PANCORAN",
+   "d": [
+    "DUREN TIGA"
+   ]
+  }
+ ],
+ "12770": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA SELATAN",
+   "c": "PANCORAN",
+   "d": [
+    "CIKOKO",
+    "PENGADEGAN"
+   ]
+  }
+ ],
+ "12780": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA SELATAN",
+   "c": "PANCORAN",
+   "d": [
+    "PANCORAN"
+   ]
+  }
+ ],
+ "12790": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA SELATAN",
+   "c": "MAMPANG PRAPATAN",
+   "d": [
+    "MAMPANG PRAPATAN",
+    "TEGAL PARANG"
+   ]
+  }
+ ],
+ "12810": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA SELATAN",
+   "c": "TEBET",
+   "d": [
+    "TEBET BARAT"
+   ]
+  }
+ ],
+ "12820": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA SELATAN",
+   "c": "TEBET",
+   "d": [
+    "TEBET TIMUR"
+   ]
+  }
+ ],
+ "12830": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA SELATAN",
+   "c": "TEBET",
+   "d": [
+    "KEBON BARU"
+   ]
+  }
+ ],
+ "12840": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA SELATAN",
+   "c": "TEBET",
+   "d": [
+    "BUKIT DURI"
+   ]
+  }
+ ],
+ "12850": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA SELATAN",
+   "c": "TEBET",
+   "d": [
+    "MANGGARAI"
+   ]
+  }
+ ],
+ "12860": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA SELATAN",
+   "c": "TEBET",
+   "d": [
+    "MANGGARAI SELATAN"
+   ]
+  }
+ ],
+ "12870": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA SELATAN",
+   "c": "TEBET",
+   "d": [
+    "MENTENG DALAM"
+   ]
+  }
+ ],
+ "12910": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA SELATAN",
+   "c": "SETIA BUDI",
+   "d": [
+    "SETIA BUDI"
+   ]
+  }
+ ],
+ "12920": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA SELATAN",
+   "c": "SETIA BUDI",
+   "d": [
+    "KARET"
+   ]
+  }
+ ],
+ "12930": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA SELATAN",
+   "c": "SETIA BUDI",
+   "d": [
+    "KARET SEMANGGI"
+   ]
+  }
+ ],
+ "12940": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA SELATAN",
+   "c": "SETIA BUDI",
+   "d": [
+    "KARET KUNINGAN"
+   ]
+  }
+ ],
+ "12950": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA SELATAN",
+   "c": "SETIA BUDI",
+   "d": [
+    "KUNINGAN TIMUR"
+   ]
+  }
+ ],
+ "12960": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA SELATAN",
+   "c": "SETIA BUDI",
+   "d": [
+    "MENTENG ATAS"
+   ]
+  }
+ ],
+ "12970": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA SELATAN",
+   "c": "SETIA BUDI",
+   "d": [
+    "PASAR MANGGIS"
+   ]
+  }
+ ],
+ "12980": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA SELATAN",
+   "c": "SETIA BUDI",
+   "d": [
+    "GUNTUR"
+   ]
+  }
+ ],
+ "13110": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA TIMUR",
+   "c": "MATRAMAN",
+   "d": [
+    "PISANGAN BARU"
+   ]
+  }
+ ],
+ "13120": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA TIMUR",
+   "c": "MATRAMAN",
+   "d": [
+    "KAYU MANIS",
+    "UTAN KAYU SELATAN"
+   ]
+  }
+ ],
+ "13130": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA TIMUR",
+   "c": "MATRAMAN",
+   "d": [
+    "UTAN KAYU UTARA"
+   ]
+  }
+ ],
+ "13140": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA TIMUR",
+   "c": "MATRAMAN",
+   "d": [
+    "PAL MERIEM"
+   ]
+  }
+ ],
+ "13150": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA TIMUR",
+   "c": "MATRAMAN",
+   "d": [
+    "KEBON MANGGIS"
+   ]
+  }
+ ],
+ "13210": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA TIMUR",
+   "c": "PULO GADUNG",
+   "d": [
+    "KAYU PUTIH"
+   ]
+  }
+ ],
+ "13220": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA TIMUR",
+   "c": "PULO GADUNG",
+   "d": [
+    "JATI",
+    "RAWAMANGUN"
+   ]
+  }
+ ],
+ "13230": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA TIMUR",
+   "c": "PULO GADUNG",
+   "d": [
+    "PISANGAN TIMUR"
+   ]
+  }
+ ],
+ "13240": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA TIMUR",
+   "c": "PULO GADUNG",
+   "d": [
+    "CIPINANG"
+   ]
+  }
+ ],
+ "13250": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA TIMUR",
+   "c": "PULO GADUNG",
+   "d": [
+    "JATINEGARA KAUM"
+   ]
+  }
+ ],
+ "13260": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA TIMUR",
+   "c": "PULO GADUNG",
+   "d": [
+    "PULO GADUNG"
+   ]
+  }
+ ],
+ "13310": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA TIMUR",
+   "c": "JATINEGARA",
+   "d": [
+    "BALI MESTER"
+   ]
+  }
+ ],
+ "13320": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA TIMUR",
+   "c": "JATINEGARA",
+   "d": [
+    "KAMPUNG MELAYU"
+   ]
+  }
+ ],
+ "13330": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA TIMUR",
+   "c": "JATINEGARA",
+   "d": [
+    "BIDARA CINA"
+   ]
+  }
+ ],
+ "13340": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA TIMUR",
+   "c": "JATINEGARA",
+   "d": [
+    "CIPINANG CEMPEDAK"
+   ]
+  }
+ ],
+ "13350": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA TIMUR",
+   "c": "JATINEGARA",
+   "d": [
+    "RAWA BUNGA"
+   ]
+  }
+ ],
+ "13410": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA TIMUR",
+   "c": "JATINEGARA",
+   "d": [
+    "CIPINANG BESAR SELATAN",
+    "CIPINANG BESAR UTARA"
+   ]
+  }
+ ],
+ "13420": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA TIMUR",
+   "c": "JATINEGARA",
+   "d": [
+    "CIPINANG MUARA"
+   ]
+  }
+ ],
+ "13430": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA TIMUR",
+   "c": "DUREN SAWIT",
+   "d": [
+    "PONDOK BAMBU"
+   ]
+  }
+ ],
+ "13440": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA TIMUR",
+   "c": "DUREN SAWIT",
+   "d": [
+    "DUREN SAWIT"
+   ]
+  }
+ ],
+ "13450": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA TIMUR",
+   "c": "DUREN SAWIT",
+   "d": [
+    "PONDOK KELAPA"
+   ]
+  }
+ ],
+ "13460": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA TIMUR",
+   "c": "DUREN SAWIT",
+   "d": [
+    "MALAKA JAYA",
+    "MALAKA SARI",
+    "PONDOK KOPI"
+   ]
+  }
+ ],
+ "13470": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA TIMUR",
+   "c": "DUREN SAWIT",
+   "d": [
+    "KLENDER"
+   ]
+  }
+ ],
+ "13510": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA TIMUR",
+   "c": "KRAMAT JATI",
+   "d": [
+    "KRAMAT JATI"
+   ]
+  }
+ ],
+ "13520": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA TIMUR",
+   "c": "KRAMAT JATI",
+   "d": [
+    "BATU AMPAR"
+   ]
+  }
+ ],
+ "13530": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA TIMUR",
+   "c": "KRAMAT JATI",
+   "d": [
+    "BALE KAMBANG"
+   ]
+  }
+ ],
+ "13540": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA TIMUR",
+   "c": "KRAMAT JATI",
+   "d": [
+    "KAMPUNG TENGAH"
+   ]
+  }
+ ],
+ "13550": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA TIMUR",
+   "c": "KRAMAT JATI",
+   "d": [
+    "DUKUH"
+   ]
+  }
+ ],
+ "13560": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA TIMUR",
+   "c": "MAKASAR",
+   "d": [
+    "PINANG RANTI"
+   ]
+  }
+ ],
+ "13570": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA TIMUR",
+   "c": "MAKASAR",
+   "d": [
+    "MAKASAR"
+   ]
+  }
+ ],
+ "13610": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA TIMUR",
+   "c": "MAKASAR",
+   "d": [
+    "HALIM PERDANA KUSUMAH"
+   ]
+  }
+ ],
+ "13620": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA TIMUR",
+   "c": "MAKASAR",
+   "d": [
+    "CIPINANG MELAYU"
+   ]
+  }
+ ],
+ "13630": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA TIMUR",
+   "c": "KRAMAT JATI",
+   "d": [
+    "CAWANG"
+   ]
+  }
+ ],
+ "13640": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA TIMUR",
+   "c": "KRAMAT JATI",
+   "d": [
+    "CILILITAN"
+   ]
+  }
+ ],
+ "13650": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA TIMUR",
+   "c": "MAKASAR",
+   "d": [
+    "KEBON PALA"
+   ]
+  }
+ ],
+ "13710": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA TIMUR",
+   "c": "PASAR REBO",
+   "d": [
+    "PEKAYON"
+   ]
+  }
+ ],
+ "13720": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA TIMUR",
+   "c": "CIRACAS",
+   "d": [
+    "CIBUBUR"
+   ]
+  }
+ ],
+ "13730": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA TIMUR",
+   "c": "CIRACAS",
+   "d": [
+    "KELAPA DUA WETAN"
+   ]
+  }
+ ],
+ "13740": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA TIMUR",
+   "c": "CIRACAS",
+   "d": [
+    "CIRACAS"
+   ]
+  }
+ ],
+ "13750": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA TIMUR",
+   "c": "CIRACAS",
+   "d": [
+    "SUSUKAN"
+   ]
+  }
+ ],
+ "13760": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA TIMUR",
+   "c": "PASAR REBO",
+   "d": [
+    "GEDONG"
+   ]
+  }
+ ],
+ "13770": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA TIMUR",
+   "c": "PASAR REBO",
+   "d": [
+    "CIJANTUNG"
+   ]
+  }
+ ],
+ "13780": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA TIMUR",
+   "c": "PASAR REBO",
+   "d": [
+    "BARU"
+   ]
+  }
+ ],
+ "13790": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA TIMUR",
+   "c": "PASAR REBO",
+   "d": [
+    "KALISARI"
+   ]
+  }
+ ],
+ "13810": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA TIMUR",
+   "c": "CIPAYUNG",
+   "d": [
+    "LUBANG BUAYA"
+   ]
+  }
+ ],
+ "13820": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA TIMUR",
+   "c": "CIPAYUNG",
+   "d": [
+    "CEGER"
+   ]
+  }
+ ],
+ "13830": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA TIMUR",
+   "c": "CIRACAS",
+   "d": [
+    "RAMBUTAN"
+   ]
+  }
+ ],
+ "13840": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA TIMUR",
+   "c": "CIPAYUNG",
+   "d": [
+    "CIPAYUNG"
+   ]
+  }
+ ],
+ "13850": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA TIMUR",
+   "c": "CIPAYUNG",
+   "d": [
+    "MUNJUL"
+   ]
+  }
+ ],
+ "13860": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA TIMUR",
+   "c": "CIPAYUNG",
+   "d": [
+    "PONDOK RANGGON"
+   ]
+  }
+ ],
+ "13870": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA TIMUR",
+   "c": "CIPAYUNG",
+   "d": [
+    "CILANGKAP"
+   ]
+  }
+ ],
+ "13880": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA TIMUR",
+   "c": "CIPAYUNG",
+   "d": [
+    "SETU"
+   ]
+  }
+ ],
+ "13890": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA TIMUR",
+   "c": "CIPAYUNG",
+   "d": [
+    "BAMBU APUS"
+   ]
+  }
+ ],
+ "13910": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA TIMUR",
+   "c": "CAKUNG",
+   "d": [
+    "CAKUNG BARAT",
+    "CAKUNG TIMUR"
+   ]
+  }
+ ],
+ "13920": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA TIMUR",
+   "c": "CAKUNG",
+   "d": [
+    "RAWA TERATE"
+   ]
+  }
+ ],
+ "13930": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA TIMUR",
+   "c": "CAKUNG",
+   "d": [
+    "JATINEGARA"
+   ]
+  }
+ ],
+ "13940": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA TIMUR",
+   "c": "CAKUNG",
+   "d": [
+    "PENGGILINGAN"
+   ]
+  }
+ ],
+ "13950": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA TIMUR",
+   "c": "CAKUNG",
+   "d": [
+    "PULO GEBANG"
+   ]
+  }
+ ],
+ "13960": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA TIMUR",
+   "c": "CAKUNG",
+   "d": [
+    "UJUNG MENTENG"
+   ]
+  }
+ ],
+ "14110": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA UTARA",
+   "c": "CILINCING",
+   "d": [
+    "KALI BARU"
+   ]
+  }
+ ],
+ "14120": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA UTARA",
+   "c": "CILINCING",
+   "d": [
+    "CILINCING"
+   ]
+  }
+ ],
+ "14130": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA UTARA",
+   "c": "CILINCING",
+   "d": [
+    "SEMPER BARAT",
+    "SEMPER TIMUR"
+   ]
+  }
+ ],
+ "14140": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA UTARA",
+   "c": "CILINCING",
+   "d": [
+    "ROROTAN",
+    "SUKA PURA"
+   ]
+  }
+ ],
+ "14150": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA UTARA",
+   "c": "CILINCING",
+   "d": [
+    "MARUNDA"
+   ]
+  }
+ ],
+ "14210": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA UTARA",
+   "c": "KOJA",
+   "d": [
+    "KOJA"
+   ]
+  }
+ ],
+ "14230": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA UTARA",
+   "c": "KOJA",
+   "d": [
+    "RAWABADAK SELATAN",
+    "RAWABADAK UTARA"
+   ]
+  }
+ ],
+ "14240": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA UTARA",
+   "c": "KELAPA GADING",
+   "d": [
+    "KELAPA GADING BARAT",
+    "KELAPA GADING TIMUR"
+   ]
+  }
+ ],
+ "14250": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA UTARA",
+   "c": "KELAPA GADING",
+   "d": [
+    "PEGANGSAAN DUA"
+   ]
+  }
+ ],
+ "14260": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA UTARA",
+   "c": "KOJA",
+   "d": [
+    "TUGU SELATAN",
+    "TUGU UTARA"
+   ]
+  }
+ ],
+ "14270": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA UTARA",
+   "c": "KOJA",
+   "d": [
+    "LAGOA"
+   ]
+  }
+ ],
+ "14310": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA UTARA",
+   "c": "TANJUNG PRIOK",
+   "d": [
+    "TANJUNG PRIUK"
+   ]
+  }
+ ],
+ "14320": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA UTARA",
+   "c": "TANJUNG PRIOK",
+   "d": [
+    "KEBON BAWANG"
+   ]
+  }
+ ],
+ "14330": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA UTARA",
+   "c": "TANJUNG PRIOK",
+   "d": [
+    "SUNGAI BAMBU"
+   ]
+  }
+ ],
+ "14340": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA UTARA",
+   "c": "TANJUNG PRIOK",
+   "d": [
+    "PAPANGO",
+    "WARAKAS"
+   ]
+  }
+ ],
+ "14350": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA UTARA",
+   "c": "TANJUNG PRIOK",
+   "d": [
+    "SUNTER AGUNG",
+    "SUNTER JAYA"
+   ]
+  }
+ ],
+ "14410": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA UTARA",
+   "c": "PADEMANGAN",
+   "d": [
+    "PADEMANGAN TIMUR"
+   ]
+  }
+ ],
+ "14420": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA UTARA",
+   "c": "PADEMANGAN",
+   "d": [
+    "PADEMANGAN BARAT"
+   ]
+  }
+ ],
+ "14430": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA UTARA",
+   "c": "PADEMANGAN",
+   "d": [
+    "ANCOL"
+   ]
+  }
+ ],
+ "14440": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA UTARA",
+   "c": "PENJARINGAN",
+   "d": [
+    "PENJARINGAN"
+   ]
+  }
+ ],
+ "14450": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA UTARA",
+   "c": "PENJARINGAN",
+   "d": [
+    "PEJAGALAN",
+    "PLUIT"
+   ]
+  }
+ ],
+ "14460": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA UTARA",
+   "c": "PENJARINGAN",
+   "d": [
+    "KAPUK MUARA"
+   ]
+  }
+ ],
+ "14470": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "JAKARTA UTARA",
+   "c": "PENJARINGAN",
+   "d": [
+    "KAMAL MUARA"
+   ]
+  }
+ ],
+ "14510": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "KEPULAUAN SERIBU",
+   "c": "KEPULAUAN SERIBU SELATAN",
+   "d": [
+    "PULAU UNTUNG JAWA"
+   ]
+  }
+ ],
+ "14520": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "KEPULAUAN SERIBU",
+   "c": "KEPULAUAN SERIBU SELATAN",
+   "d": [
+    "PULAU TIDUNG"
+   ]
+  }
+ ],
+ "14530": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "KEPULAUAN SERIBU",
+   "c": "KEPULAUAN SERIBU UTARA",
+   "d": [
+    "PULAU PANGGANG"
+   ]
+  }
+ ],
+ "14540": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "KEPULAUAN SERIBU",
+   "c": "KEPULAUAN SERIBU UTARA",
+   "d": [
+    "PULAU KELAPA"
+   ]
+  }
+ ],
+ "14550": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "KEPULAUAN SERIBU",
+   "c": "KEPULAUAN SERIBU UTARA",
+   "d": [
+    "PULAU HARAPAN"
+   ]
+  }
+ ],
+ "14580": [
+  {
+   "p": "DKI JAKARTA",
+   "k": "KEPULAUAN SERIBU",
+   "c": "KEPULAUAN SERIBU SELATAN",
+   "d": [
+    "PULAU PARI"
+   ]
+  }
+ ],
+ "15111": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "TANGERANG",
+   "d": [
+    "SUKAASIH",
+    "SUKARASA"
+   ]
+  }
+ ],
+ "15112": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "KARAWACI",
+   "d": [
+    "KOANGJAYA",
+    "NAMBOJAYA",
+    "PABUARAN TUMPENG",
+    "PASARBARU"
+   ]
+  }
+ ],
+ "15113": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "KARAWACI",
+   "d": [
+    "BUGEL",
+    "GERENDENG",
+    "MARGASARI",
+    "SUKAJADI"
+   ]
+  }
+ ],
+ "15114": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "KARAWACI",
+   "d": [
+    "CIMONE",
+    "CIMONE JAYA",
+    "PABUARAN",
+    "SUMUR PACING"
+   ]
+  }
+ ],
+ "15115": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "KARAWACI",
+   "d": [
+    "BOJONGJAYA",
+    "KARAWACI"
+   ]
+  }
+ ],
+ "15116": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "KARAWACI",
+   "d": [
+    "KARAWACI BARU",
+    "NUSAJAYA"
+   ]
+  }
+ ],
+ "15117": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "TANGERANG",
+   "d": [
+    "CIKOKOL",
+    "KELAPA INDAH"
+   ]
+  }
+ ],
+ "15118": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "TANGERANG",
+   "d": [
+    "BABAKAN",
+    "SUKASARI"
+   ]
+  }
+ ],
+ "15119": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "TANGERANG",
+   "d": [
+    "BUARAN INDAH",
+    "TANAH TINGGI"
+   ]
+  }
+ ],
+ "15121": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "BATUCEPER",
+   "d": [
+    "BATUJAYA",
+    "BATUSARI"
+   ]
+  }
+ ],
+ "15122": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "BATUCEPER",
+   "d": [
+    "BATUCEPER",
+    "KEBON BESAR",
+    "PORIS JAYA",
+    "PORISGAGA",
+    "PORISGAGA BARU"
+   ]
+  }
+ ],
+ "15123": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "BENDA",
+   "d": [
+    "BELENDUNG"
+   ]
+  }
+ ],
+ "15124": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "BENDA",
+   "d": [
+    "JURUMUDI",
+    "JURUMUDI BARU"
+   ]
+  }
+ ],
+ "15125": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "BENDA",
+   "d": [
+    "BENDA"
+   ]
+  }
+ ],
+ "15126": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "BENDA",
+   "d": [
+    "PAJANG"
+   ]
+  }
+ ],
+ "15127": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "NEGLASARI",
+   "d": [
+    "KARANG ANYAR",
+    "KARANG SARI",
+    "SELAPAJANG JAYA"
+   ]
+  }
+ ],
+ "15128": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "NEGLASARI",
+   "d": [
+    "KEDAUNG BARU",
+    "KEDAUNG WETAN"
+   ]
+  }
+ ],
+ "15129": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "NEGLASARI",
+   "d": [
+    "MEKARSARI",
+    "NEGLASARI"
+   ]
+  }
+ ],
+ "15131": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "PERIUK",
+   "d": [
+    "PERIUK",
+    "PERIUK JAYA"
+   ]
+  }
+ ],
+ "15132": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "PERIUK",
+   "d": [
+    "GEBANG RAYA",
+    "SANGIANG JAYA"
+   ]
+  }
+ ],
+ "15133": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "JATI UWUNG",
+   "d": [
+    "ALAM JAYA"
+   ]
+  },
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "PERIUK",
+   "d": [
+    "GEMBOR"
+   ]
+  }
+ ],
+ "15134": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "JATI UWUNG",
+   "d": [
+    "KRONCONG"
+   ]
+  }
+ ],
+ "15135": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "JATI UWUNG",
+   "d": [
+    "PASIR JAYA"
+   ]
+  }
+ ],
+ "15136": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "JATI UWUNG",
+   "d": [
+    "JATAKE",
+    "MANIS JAYA"
+   ]
+  }
+ ],
+ "15137": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "JATI UWUNG",
+   "d": [
+    "GANDASARI"
+   ]
+  }
+ ],
+ "15138": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "CIBODAS",
+   "d": [
+    "CIBODAS",
+    "CIBODAS BARU",
+    "CIBODASARI",
+    "UWUNG JAYA"
+   ]
+  }
+ ],
+ "15139": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "CIBODAS",
+   "d": [
+    "JATIUWUNG",
+    "PANUNGGANGAN BARAT"
+   ]
+  }
+ ],
+ "15141": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "CIPONDOH",
+   "d": [
+    "PORIS PLAWAD",
+    "PORIS PLAWAD INDAH",
+    "PORIS PLAWAD UTARA"
+   ]
+  }
+ ],
+ "15142": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "PINANG",
+   "d": [
+    "CIPETE",
+    "PAKOJAN"
+   ]
+  }
+ ],
+ "15143": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "PINANG",
+   "d": [
+    "PANUNGGANGAN",
+    "PANUNGGANGAN TIMUR",
+    "PANUNGGANGAN UTARA"
+   ]
+  }
+ ],
+ "15144": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "PINANG",
+   "d": [
+    "KUNCIRAN",
+    "KUNCIRAN INDAH",
+    "KUNCIRAN JAYA"
+   ]
+  }
+ ],
+ "15145": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "PINANG",
+   "d": [
+    "PINANG",
+    "SUDIMARA PINANG"
+   ]
+  }
+ ],
+ "15146": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "CIPONDOH",
+   "d": [
+    "GONDRONG",
+    "KENANGA"
+   ]
+  }
+ ],
+ "15147": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "CIPONDOH",
+   "d": [
+    "KETAPANG",
+    "PETIR"
+   ]
+  }
+ ],
+ "15148": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "CIPONDOH",
+   "d": [
+    "CIPONDOH",
+    "CIPONDOH INDAH",
+    "CIPONDOH MAKMUR"
+   ]
+  }
+ ],
+ "15151": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "CILEDUG",
+   "d": [
+    "SUDIMARA BARAT",
+    "SUDIMARA JAYA",
+    "SUDIMARA SELATAN",
+    "SUDIMARA TIMUR"
+   ]
+  }
+ ],
+ "15152": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "CILEDUG",
+   "d": [
+    "TAJUR"
+   ]
+  }
+ ],
+ "15153": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "CILEDUG",
+   "d": [
+    "PANINGGILAN",
+    "PANINGGILAN UTARA",
+    "PARUNG SERAB"
+   ]
+  }
+ ],
+ "15154": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "LARANGAN",
+   "d": [
+    "GAGA",
+    "LARANGAN INDAH",
+    "LARANGAN SELATAN",
+    "LARANGAN UTARA"
+   ]
+  }
+ ],
+ "15155": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "LARANGAN",
+   "d": [
+    "CIPADU",
+    "CIPADU JAYA"
+   ]
+  }
+ ],
+ "15156": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "LARANGAN",
+   "d": [
+    "KEREO SELATAN"
+   ]
+  }
+ ],
+ "15157": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "KARANG TENGAH",
+   "d": [
+    "KARANG MULYA",
+    "KARANG TENGAH",
+    "KARANG TIMUR"
+   ]
+  }
+ ],
+ "15158": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "KARANG TENGAH",
+   "d": [
+    "PEDURENAN",
+    "PONDOK PUCUNG"
+   ]
+  }
+ ],
+ "15159": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "KARANG TENGAH",
+   "d": [
+    "PARUNG JAYA",
+    "PONDOK BAHAR"
+   ]
+  }
+ ],
+ "15211": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "KOSAMBI",
+   "d": [
+    "D A D A P",
+    "JATIMULYA"
+   ]
+  }
+ ],
+ "15212": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "KOSAMBI",
+   "d": [
+    "BELIMBING",
+    "CENGKLONG"
+   ]
+  }
+ ],
+ "15213": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "KOSAMBI",
+   "d": [
+    "KOSAMBI BARAT",
+    "KOSAMBI TIMUR"
+   ]
+  }
+ ],
+ "15214": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "KOSAMBI",
+   "d": [
+    "SALEMBARAN",
+    "SALEMBARAN JATI"
+   ]
+  }
+ ],
+ "15215": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "KOSAMBI",
+   "d": [
+    "RAWA BURUNG",
+    "RAWA RENGAS"
+   ]
+  }
+ ],
+ "15311": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG SELATAN",
+   "c": "SERPONG",
+   "d": [
+    "CILENGGANG",
+    "LENGKONG GUDANG",
+    "SERPONG"
+   ]
+  }
+ ],
+ "15316": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG SELATAN",
+   "c": "SERPONG",
+   "d": [
+    "BUARAN"
+   ]
+  }
+ ],
+ "15317": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG SELATAN",
+   "c": "SERPONG",
+   "d": [
+    "CIATER"
+   ]
+  }
+ ],
+ "15318": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG SELATAN",
+   "c": "SERPONG",
+   "d": [
+    "LENGKONG GUDANG TIMUR",
+    "LENGKONG WETAN",
+    "RAWA BUNTU",
+    "RAWA MEKAR JAYA"
+   ]
+  }
+ ],
+ "15331": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG SELATAN",
+   "c": "SERPONG UTARA",
+   "d": [
+    "LENGKONG KARYA"
+   ]
+  }
+ ],
+ "15332": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG SELATAN",
+   "c": "SERPONG UTARA",
+   "d": [
+    "JELUPANG"
+   ]
+  }
+ ],
+ "15333": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG SELATAN",
+   "c": "SERPONG UTARA",
+   "d": [
+    "PAKU JAYA"
+   ]
+  }
+ ],
+ "15334": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG SELATAN",
+   "c": "SERPONG UTARA",
+   "d": [
+    "PAKULONAN"
+   ]
+  }
+ ],
+ "15335": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG SELATAN",
+   "c": "SERPONG UTARA",
+   "d": [
+    "PAKU ALAM"
+   ]
+  }
+ ],
+ "15336": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG SELATAN",
+   "c": "SERPONG UTARA",
+   "d": [
+    "PONDOK JAGUNG TIMUR"
+   ]
+  }
+ ],
+ "15337": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG SELATAN",
+   "c": "SERPONG UTARA",
+   "d": [
+    "PONDOK JAGUNG"
+   ]
+  }
+ ],
+ "15341": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG SELATAN",
+   "c": "SETU",
+   "d": [
+    "KRANGGAN"
+   ]
+  }
+ ],
+ "15342": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG SELATAN",
+   "c": "SETU",
+   "d": [
+    "KADEMANGAN"
+   ]
+  }
+ ],
+ "15343": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG SELATAN",
+   "c": "SETU",
+   "d": [
+    "SETU"
+   ]
+  }
+ ],
+ "15344": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG SELATAN",
+   "c": "SETU",
+   "d": [
+    "BAKTI JAYA"
+   ]
+  }
+ ],
+ "15345": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG SELATAN",
+   "c": "SETU",
+   "d": [
+    "BABAKAN"
+   ]
+  }
+ ],
+ "15346": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG SELATAN",
+   "c": "SETU",
+   "d": [
+    "MUNCUL"
+   ]
+  }
+ ],
+ "15411": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG SELATAN",
+   "c": "CIPUTAT",
+   "d": [
+    "CIPAYUNG",
+    "CIPUTAT"
+   ]
+  }
+ ],
+ "15413": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG SELATAN",
+   "c": "CIPUTAT",
+   "d": [
+    "SAWAH BARU"
+   ]
+  }
+ ],
+ "15414": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG SELATAN",
+   "c": "CIPUTAT",
+   "d": [
+    "JOMBANG",
+    "SARUA INDAH"
+   ]
+  }
+ ],
+ "15421": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG SELATAN",
+   "c": "PONDOK AREN",
+   "d": [
+    "PONDOK BETUNG"
+   ]
+  }
+ ],
+ "15424": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG SELATAN",
+   "c": "PONDOK AREN",
+   "d": [
+    "PONDOK AREN",
+    "PONDOK JAYA"
+   ]
+  }
+ ],
+ "15425": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG SELATAN",
+   "c": "PONDOK AREN",
+   "d": [
+    "PONDOK KARYA"
+   ]
+  }
+ ],
+ "15426": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG SELATAN",
+   "c": "PONDOK AREN",
+   "d": [
+    "PONDOK KACANG BARAT",
+    "PONDOK KACANG TIMUR"
+   ]
+  }
+ ],
+ "15427": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG SELATAN",
+   "c": "PONDOK AREN",
+   "d": [
+    "PERIGI"
+   ]
+  }
+ ],
+ "15428": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG SELATAN",
+   "c": "PONDOK AREN",
+   "d": [
+    "PERIGI BARU"
+   ]
+  }
+ ],
+ "15429": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG SELATAN",
+   "c": "PONDOK AREN",
+   "d": [
+    "PONDOK PUCUNG"
+   ]
+  }
+ ],
+ "15431": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG SELATAN",
+   "c": "PAMULANG",
+   "d": [
+    "KEDAUNG"
+   ]
+  }
+ ],
+ "15432": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG SELATAN",
+   "c": "PAMULANG",
+   "d": [
+    "BAMBU APUS"
+   ]
+  }
+ ],
+ "15433": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG SELATAN",
+   "c": "PAMULANG",
+   "d": [
+    "BENDA BARU"
+   ]
+  }
+ ],
+ "15434": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG SELATAN",
+   "c": "PAMULANG",
+   "d": [
+    "PONDOK BENDA"
+   ]
+  }
+ ],
+ "15435": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG SELATAN",
+   "c": "PAMULANG",
+   "d": [
+    "PAMULANG BARAT"
+   ]
+  }
+ ],
+ "15436": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG SELATAN",
+   "c": "PAMULANG",
+   "d": [
+    "PAMULANG TIMUR"
+   ]
+  }
+ ],
+ "15437": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG SELATAN",
+   "c": "PAMULANG",
+   "d": [
+    "PONDOK CABE UDIK"
+   ]
+  }
+ ],
+ "15438": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG SELATAN",
+   "c": "PAMULANG",
+   "d": [
+    "PONDOK CABE ILIR"
+   ]
+  }
+ ],
+ "15441": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG SELATAN",
+   "c": "CIPUTAT TIMUR",
+   "d": [
+    "CEMPAKA PUTIH"
+   ]
+  }
+ ],
+ "15442": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG SELATAN",
+   "c": "CIPUTAT TIMUR",
+   "d": [
+    "PONDOK RANJI"
+   ]
+  }
+ ],
+ "15443": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG SELATAN",
+   "c": "CIPUTAT TIMUR",
+   "d": [
+    "REMPOA"
+   ]
+  }
+ ],
+ "15444": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG SELATAN",
+   "c": "CIPUTAT TIMUR",
+   "d": [
+    "RENGAS"
+   ]
+  }
+ ],
+ "15445": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG SELATAN",
+   "c": "CIPUTAT TIMUR",
+   "d": [
+    "CIREUNDEU"
+   ]
+  }
+ ],
+ "15446": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG SELATAN",
+   "c": "CIPUTAT TIMUR",
+   "d": [
+    "PISANGAN"
+   ]
+  }
+ ],
+ "15511": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "TELUKNAGA",
+   "d": [
+    "TELUK NAGA"
+   ]
+  }
+ ],
+ "15512": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "TELUKNAGA",
+   "d": [
+    "BOJONG RENGED"
+   ]
+  }
+ ],
+ "15513": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "TELUKNAGA",
+   "d": [
+    "BABAKAN ASEM"
+   ]
+  }
+ ],
+ "15514": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "TELUKNAGA",
+   "d": [
+    "KEBON CAU"
+   ]
+  }
+ ],
+ "15515": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "TELUKNAGA",
+   "d": [
+    "PANGKALAN"
+   ]
+  }
+ ],
+ "15516": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "TELUKNAGA",
+   "d": [
+    "KAMPUNG MELAYU TIMUR"
+   ]
+  }
+ ],
+ "15517": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "TELUKNAGA",
+   "d": [
+    "L E M O",
+    "MUARA"
+   ]
+  }
+ ],
+ "15518": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "TELUKNAGA",
+   "d": [
+    "TANJUNG BURUNG",
+    "TANJUNG PASIR"
+   ]
+  }
+ ],
+ "15519": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "TELUKNAGA",
+   "d": [
+    "KAMPUNG BESAR",
+    "TEGAL ANGUS"
+   ]
+  }
+ ],
+ "15521": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "SEPATAN",
+   "d": [
+    "SEPATAN"
+   ]
+  }
+ ],
+ "15522": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "SEPATAN",
+   "d": [
+    "SARAKAN"
+   ]
+  }
+ ],
+ "15523": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "SEPATAN",
+   "d": [
+    "KAYU AGUNG"
+   ]
+  }
+ ],
+ "15524": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "SEPATAN",
+   "d": [
+    "KAYU BONGKOK"
+   ]
+  }
+ ],
+ "15525": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "SEPATAN",
+   "d": [
+    "PISANGAN JAYA"
+   ]
+  }
+ ],
+ "15526": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "SEPATAN",
+   "d": [
+    "MEKAR JAYA"
+   ]
+  }
+ ],
+ "15527": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "SEPATAN",
+   "d": [
+    "KARET"
+   ]
+  }
+ ],
+ "15528": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "SEPATAN",
+   "d": [
+    "PONDOK JAYA"
+   ]
+  }
+ ],
+ "15531": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "MAUK",
+   "d": [
+    "BANYU ASIH"
+   ]
+  }
+ ],
+ "15532": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "MAUK",
+   "d": [
+    "KETAPANG",
+    "MARGA MULYA"
+   ]
+  }
+ ],
+ "15533": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "MAUK",
+   "d": [
+    "MAUK BARAT",
+    "MAUK TIMUR"
+   ]
+  }
+ ],
+ "15534": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "MAUK",
+   "d": [
+    "GUNUNG SARI"
+   ]
+  }
+ ],
+ "15535": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "MAUK",
+   "d": [
+    "SASAK"
+   ]
+  }
+ ],
+ "15536": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "MAUK",
+   "d": [
+    "JATI WARINGIN"
+   ]
+  }
+ ],
+ "15537": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "MAUK",
+   "d": [
+    "TEGAL KUNIR KIDUL",
+    "TEGAL KUNIR LOR"
+   ]
+  }
+ ],
+ "15538": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "MAUK",
+   "d": [
+    "TANJUNG ANOM"
+   ]
+  }
+ ],
+ "15539": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "MAUK",
+   "d": [
+    "KEDUNG DALEM"
+   ]
+  }
+ ],
+ "15541": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "RAJEG",
+   "d": [
+    "RAJEG"
+   ]
+  }
+ ],
+ "15542": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "RAJEG",
+   "d": [
+    "SUKA MANAH"
+   ]
+  }
+ ],
+ "15543": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "RAJEG",
+   "d": [
+    "DAON",
+    "JAMBU KARYA"
+   ]
+  }
+ ],
+ "15544": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "RAJEG",
+   "d": [
+    "SUKA TANI"
+   ]
+  }
+ ],
+ "15545": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "RAJEG",
+   "d": [
+    "MEKARSARI",
+    "SUKA SARI"
+   ]
+  }
+ ],
+ "15546": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "RAJEG",
+   "d": [
+    "RAJEGMULYA"
+   ]
+  }
+ ],
+ "15547": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "RAJEG",
+   "d": [
+    "TANJAKAN",
+    "TANJAKAN MEKAR"
+   ]
+  }
+ ],
+ "15548": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "RAJEG",
+   "d": [
+    "LEMBANG SARI"
+   ]
+  }
+ ],
+ "15549": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "RAJEG",
+   "d": [
+    "PANGARENGAN",
+    "RANCA BANGO"
+   ]
+  }
+ ],
+ "15551": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "KRONJO",
+   "d": [
+    "KRONJO"
+   ]
+  }
+ ],
+ "15552": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "KRONJO",
+   "d": [
+    "MUNCUNG"
+   ]
+  }
+ ],
+ "15553": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "KRONJO",
+   "d": [
+    "PASILIAN"
+   ]
+  }
+ ],
+ "15554": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "KRONJO",
+   "d": [
+    "PAGENJAHAN"
+   ]
+  }
+ ],
+ "15555": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "KRONJO",
+   "d": [
+    "BLUKBUK"
+   ]
+  }
+ ],
+ "15556": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "KRONJO",
+   "d": [
+    "BAKUNG"
+   ]
+  }
+ ],
+ "15557": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "KRONJO",
+   "d": [
+    "PASIR"
+   ]
+  }
+ ],
+ "15558": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "KRONJO",
+   "d": [
+    "CIRUMPAK"
+   ]
+  }
+ ],
+ "15559": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "KRONJO",
+   "d": [
+    "PAGEDANGAN ILIR",
+    "PAGEDANGAN UDIK"
+   ]
+  }
+ ],
+ "15561": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "PASARKEMIS",
+   "d": [
+    "PASAR KEMIS"
+   ]
+  }
+ ],
+ "15562": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "PASARKEMIS",
+   "d": [
+    "SINDANG SARI"
+   ]
+  }
+ ],
+ "15563": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "PASARKEMIS",
+   "d": [
+    "SUKAMANTRI"
+   ]
+  }
+ ],
+ "15564": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "PASARKEMIS",
+   "d": [
+    "KUTA BUMI"
+   ]
+  }
+ ],
+ "15565": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "PASARKEMIS",
+   "d": [
+    "PANGADEGAN"
+   ]
+  }
+ ],
+ "15566": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "PASARKEMIS",
+   "d": [
+    "KUTA JAYA"
+   ]
+  }
+ ],
+ "15567": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "PASARKEMIS",
+   "d": [
+    "GELAM JAYA"
+   ]
+  }
+ ],
+ "15568": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "PASARKEMIS",
+   "d": [
+    "KUTA BARU"
+   ]
+  }
+ ],
+ "15569": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "PASARKEMIS",
+   "d": [
+    "SUKAASIH"
+   ]
+  }
+ ],
+ "15571": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "PAKUHAJI",
+   "d": [
+    "PAKU HAJI"
+   ]
+  }
+ ],
+ "15572": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "PAKUHAJI",
+   "d": [
+    "RAWA BONI"
+   ]
+  }
+ ],
+ "15573": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "PAKUHAJI",
+   "d": [
+    "GAGA",
+    "KIARA PAYUNG"
+   ]
+  }
+ ],
+ "15574": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "PAKUHAJI",
+   "d": [
+    "LAKSANA"
+   ]
+  }
+ ],
+ "15575": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "PAKUHAJI",
+   "d": [
+    "KALIBARU",
+    "KOHOD"
+   ]
+  }
+ ],
+ "15576": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "PAKUHAJI",
+   "d": [
+    "KRAMAT"
+   ]
+  }
+ ],
+ "15577": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "PAKUHAJI",
+   "d": [
+    "SUKAWALI",
+    "SURYA BAHARI"
+   ]
+  }
+ ],
+ "15578": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "PAKUHAJI",
+   "d": [
+    "BUARAN BAMBU",
+    "BUARAN MANGGA"
+   ]
+  }
+ ],
+ "15579": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "PAKUHAJI",
+   "d": [
+    "PAKU ALAM"
+   ]
+  }
+ ],
+ "15581": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "SEPATAN TIMUR",
+   "d": [
+    "JATI MULYA"
+   ]
+  }
+ ],
+ "15582": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "SEPATAN TIMUR",
+   "d": [
+    "TANAH MERAH"
+   ]
+  }
+ ],
+ "15583": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "SEPATAN TIMUR",
+   "d": [
+    "KEDAUNG BARAT"
+   ]
+  }
+ ],
+ "15584": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "SEPATAN TIMUR",
+   "d": [
+    "LEBAK WANGI"
+   ]
+  }
+ ],
+ "15585": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "SEPATAN TIMUR",
+   "d": [
+    "PONDOK KELOR"
+   ]
+  }
+ ],
+ "15586": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "SEPATAN TIMUR",
+   "d": [
+    "KAMPUNG KELOR"
+   ]
+  }
+ ],
+ "15587": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "SEPATAN TIMUR",
+   "d": [
+    "GEMPOL SARI"
+   ]
+  }
+ ],
+ "15588": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "SEPATAN TIMUR",
+   "d": [
+    "SANGIANG"
+   ]
+  }
+ ],
+ "15591": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "SINDANG JAYA",
+   "d": [
+    "SINDANG JAYA"
+   ]
+  }
+ ],
+ "15592": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "SINDANG JAYA",
+   "d": [
+    "BADAK ANOM"
+   ]
+  }
+ ],
+ "15593": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "SINDANG JAYA",
+   "d": [
+    "SINDANG ASIH"
+   ]
+  }
+ ],
+ "15594": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "SINDANG JAYA",
+   "d": [
+    "SINDANG SONO"
+   ]
+  }
+ ],
+ "15595": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "SINDANG JAYA",
+   "d": [
+    "WANA KERTA"
+   ]
+  }
+ ],
+ "15596": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "SINDANG JAYA",
+   "d": [
+    "SUKA HARJA"
+   ]
+  }
+ ],
+ "15597": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "SINDANG JAYA",
+   "d": [
+    "SINDANG PANON"
+   ]
+  }
+ ],
+ "15611": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "BALARAJA",
+   "d": [
+    "BALA RAJA"
+   ]
+  }
+ ],
+ "15612": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "BALARAJA",
+   "d": [
+    "TOBAT"
+   ]
+  }
+ ],
+ "15613": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "BALARAJA",
+   "d": [
+    "SENTUL"
+   ]
+  }
+ ],
+ "15614": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "BALARAJA",
+   "d": [
+    "SUKA MURNI"
+   ]
+  }
+ ],
+ "15615": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "BALARAJA",
+   "d": [
+    "GEMBONG"
+   ]
+  }
+ ],
+ "15616": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "BALARAJA",
+   "d": [
+    "CANGKUDU"
+   ]
+  }
+ ],
+ "15617": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "BALARAJA",
+   "d": [
+    "SENTUL JAYA"
+   ]
+  }
+ ],
+ "15618": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "BALARAJA",
+   "d": [
+    "TALAGASARI"
+   ]
+  }
+ ],
+ "15619": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "BALARAJA",
+   "d": [
+    "SAGA"
+   ]
+  }
+ ],
+ "15621": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "KRESEK",
+   "d": [
+    "KRESEK"
+   ]
+  }
+ ],
+ "15622": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "KRESEK",
+   "d": [
+    "RENGED"
+   ]
+  }
+ ],
+ "15623": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "KRESEK",
+   "d": [
+    "PASIR AMPO"
+   ]
+  }
+ ],
+ "15624": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "KRESEK",
+   "d": [
+    "KOPER"
+   ]
+  }
+ ],
+ "15625": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "KRESEK",
+   "d": [
+    "PATRA SANA"
+   ]
+  }
+ ],
+ "15626": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "KRESEK",
+   "d": [
+    "JENGKOL"
+   ]
+  }
+ ],
+ "15627": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "KRESEK",
+   "d": [
+    "RANCA ILAT"
+   ]
+  }
+ ],
+ "15628": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "KRESEK",
+   "d": [
+    "KEMUNING"
+   ]
+  }
+ ],
+ "15629": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "KRESEK",
+   "d": [
+    "TALOK"
+   ]
+  }
+ ],
+ "15631": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "SUKAMULYA",
+   "d": [
+    "SUKA MULYA"
+   ]
+  }
+ ],
+ "15632": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "SUKAMULYA",
+   "d": [
+    "BENDA"
+   ]
+  }
+ ],
+ "15633": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "SUKAMULYA",
+   "d": [
+    "KALI ASIN"
+   ]
+  }
+ ],
+ "15634": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "SUKAMULYA",
+   "d": [
+    "KUBANG"
+   ]
+  }
+ ],
+ "15635": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "SUKAMULYA",
+   "d": [
+    "PARAHU"
+   ]
+  }
+ ],
+ "15636": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "SUKAMULYA",
+   "d": [
+    "MERAK"
+   ]
+  }
+ ],
+ "15637": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "SUKAMULYA",
+   "d": [
+    "BUNI AYU"
+   ]
+  }
+ ],
+ "15638": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "SUKAMULYA",
+   "d": [
+    "BUNAR"
+   ]
+  }
+ ],
+ "15641": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "JAYANTI",
+   "d": [
+    "JAYANTI"
+   ]
+  }
+ ],
+ "15642": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "JAYANTI",
+   "d": [
+    "PASIR MUNCANG"
+   ]
+  }
+ ],
+ "15643": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "JAYANTI",
+   "d": [
+    "SUMUR BANDUNG"
+   ]
+  }
+ ],
+ "15644": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "JAYANTI",
+   "d": [
+    "DANG DEUR"
+   ]
+  }
+ ],
+ "15645": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "JAYANTI",
+   "d": [
+    "PANGKAT"
+   ]
+  }
+ ],
+ "15646": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "JAYANTI",
+   "d": [
+    "PASIR GINTUNG"
+   ]
+  }
+ ],
+ "15647": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "JAYANTI",
+   "d": [
+    "CIKANDE"
+   ]
+  }
+ ],
+ "15648": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "JAYANTI",
+   "d": [
+    "PABUARAN"
+   ]
+  }
+ ],
+ "15651": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "GUNUNG KALER",
+   "d": [
+    "GUNUNG KALER"
+   ]
+  }
+ ],
+ "15652": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "GUNUNG KALER",
+   "d": [
+    "ONYAM"
+   ]
+  }
+ ],
+ "15653": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "GUNUNG KALER",
+   "d": [
+    "KANDA WATI"
+   ]
+  }
+ ],
+ "15654": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "GUNUNG KALER",
+   "d": [
+    "CIBETOK"
+   ]
+  }
+ ],
+ "15655": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "GUNUNG KALER",
+   "d": [
+    "TAMIANG"
+   ]
+  }
+ ],
+ "15656": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "GUNUNG KALER",
+   "d": [
+    "RANCA GEDE"
+   ]
+  }
+ ],
+ "15657": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "GUNUNG KALER",
+   "d": [
+    "CIPAEH"
+   ]
+  }
+ ],
+ "15658": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "GUNUNG KALER",
+   "d": [
+    "SIDOKO"
+   ]
+  }
+ ],
+ "15659": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "GUNUNG KALER",
+   "d": [
+    "KEDUNG"
+   ]
+  }
+ ],
+ "15661": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "MEKAR BARU",
+   "d": [
+    "MEKAR BARU"
+   ]
+  }
+ ],
+ "15662": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "MEKAR BARU",
+   "d": [
+    "KOSAMBI DALAM"
+   ]
+  }
+ ],
+ "15663": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "MEKAR BARU",
+   "d": [
+    "GANDA RIA"
+   ]
+  }
+ ],
+ "15664": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "MEKAR BARU",
+   "d": [
+    "KLUTUK"
+   ]
+  }
+ ],
+ "15665": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "MEKAR BARU",
+   "d": [
+    "WALIWIS"
+   ]
+  }
+ ],
+ "15666": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "MEKAR BARU",
+   "d": [
+    "JENGGOT"
+   ]
+  }
+ ],
+ "15667": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "MEKAR BARU",
+   "d": [
+    "CIJERUK"
+   ]
+  }
+ ],
+ "15668": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "MEKAR BARU",
+   "d": [
+    "KEDAUNG"
+   ]
+  }
+ ],
+ "15671": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "KEMIRI",
+   "d": [
+    "KEMIRI"
+   ]
+  }
+ ],
+ "15672": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "KEMIRI",
+   "d": [
+    "RANCA LABUH"
+   ]
+  }
+ ],
+ "15673": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "KEMIRI",
+   "d": [
+    "KELEBET"
+   ]
+  }
+ ],
+ "15674": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "KEMIRI",
+   "d": [
+    "LONTAR"
+   ]
+  }
+ ],
+ "15675": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "KEMIRI",
+   "d": [
+    "KARANG ANYAR"
+   ]
+  }
+ ],
+ "15676": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "KEMIRI",
+   "d": [
+    "PATRA MANGGALA"
+   ]
+  }
+ ],
+ "15677": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "KEMIRI",
+   "d": [
+    "LEGOK SUKAMAJU"
+   ]
+  }
+ ],
+ "15681": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "SUKADIRI",
+   "d": [
+    "SUKADIRI"
+   ]
+  }
+ ],
+ "15682": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "SUKADIRI",
+   "d": [
+    "BUARAN JATI"
+   ]
+  }
+ ],
+ "15683": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "SUKADIRI",
+   "d": [
+    "GINTUNG"
+   ]
+  }
+ ],
+ "15684": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "SUKADIRI",
+   "d": [
+    "MEKAR KONDANG"
+   ]
+  }
+ ],
+ "15685": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "SUKADIRI",
+   "d": [
+    "RAWA KIDANG"
+   ]
+  }
+ ],
+ "15686": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "SUKADIRI",
+   "d": [
+    "KARANG SERANG"
+   ]
+  }
+ ],
+ "15687": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "SUKADIRI",
+   "d": [
+    "PEKAYON"
+   ]
+  }
+ ],
+ "15688": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "SUKADIRI",
+   "d": [
+    "KOSAMBI"
+   ]
+  }
+ ],
+ "15710": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "CIKUPA",
+   "d": [
+    "BITUNG JAYA",
+    "BOJONG",
+    "BUDI MULYA",
+    "BUNDER",
+    "CIBADAK",
+    "CIKUPA",
+    "DUKUH",
+    "PASIR GADUNG",
+    "PASIR JAYA",
+    "SUKA DAMAI",
+    "SUKA MULYA",
+    "SUKA NAGARA",
+    "TALAGA",
+    "TALAGA SARI"
+   ]
+  },
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "PANONGAN",
+   "d": [
+    "CIAKAR",
+    "MEKAR BAKTI",
+    "MEKAR JAYA",
+    "PANONGAN",
+    "PEUSAR",
+    "RANCA IYUH",
+    "RANCA KALAPA",
+    "SERDANG KULON"
+   ]
+  }
+ ],
+ "15731": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "CISOKA",
+   "d": [
+    "CISOKA"
+   ]
+  }
+ ],
+ "15732": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "CISOKA",
+   "d": [
+    "JEUNG JING"
+   ]
+  }
+ ],
+ "15733": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "CISOKA",
+   "d": [
+    "CARINGIN"
+   ]
+  }
+ ],
+ "15734": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "CISOKA",
+   "d": [
+    "SELAPAJANG"
+   ]
+  }
+ ],
+ "15735": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "CISOKA",
+   "d": [
+    "CIBUGEL"
+   ]
+  }
+ ],
+ "15736": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "CISOKA",
+   "d": [
+    "BOJONGLOA"
+   ]
+  }
+ ],
+ "15737": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "CISOKA",
+   "d": [
+    "CARENANG"
+   ]
+  }
+ ],
+ "15738": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "CISOKA",
+   "d": [
+    "KARANGHARJA"
+   ]
+  }
+ ],
+ "15739": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "CISOKA",
+   "d": [
+    "CEMPAKA",
+    "SUKATANI"
+   ]
+  }
+ ],
+ "15741": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "SOLEAR",
+   "d": [
+    "SOLEAR"
+   ]
+  }
+ ],
+ "15742": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "SOLEAR",
+   "d": [
+    "CIREUNDEU"
+   ]
+  }
+ ],
+ "15743": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "SOLEAR",
+   "d": [
+    "CIKUYA"
+   ]
+  }
+ ],
+ "15744": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "SOLEAR",
+   "d": [
+    "CIKASUNGKA"
+   ]
+  }
+ ],
+ "15745": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "SOLEAR",
+   "d": [
+    "CIKAREO"
+   ]
+  }
+ ],
+ "15746": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "SOLEAR",
+   "d": [
+    "PASANGGRAHAN"
+   ]
+  }
+ ],
+ "15747": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "SOLEAR",
+   "d": [
+    "MUNJUL"
+   ]
+  }
+ ],
+ "15810": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "CURUG",
+   "d": [
+    "BINONG",
+    "CUKANG GALIH",
+    "CURUG KULON",
+    "CURUG WETAN",
+    "KADU",
+    "KADU JAYA",
+    "SUKA BAKTI"
+   ]
+  }
+ ],
+ "15821": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "LEGOK",
+   "d": [
+    "LEGOK"
+   ]
+  }
+ ],
+ "15822": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "LEGOK",
+   "d": [
+    "RANCAGONG",
+    "SERDANG WETAN"
+   ]
+  }
+ ],
+ "15823": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "LEGOK",
+   "d": [
+    "PALA SARI"
+   ]
+  }
+ ],
+ "15824": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "LEGOK",
+   "d": [
+    "BABAT",
+    "CIANGIR"
+   ]
+  }
+ ],
+ "15825": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "LEGOK",
+   "d": [
+    "BOJONG KAMAL",
+    "CIRARAB"
+   ]
+  }
+ ],
+ "15826": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "LEGOK",
+   "d": [
+    "CARINGIN"
+   ]
+  }
+ ],
+ "15827": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "LEGOK",
+   "d": [
+    "KAMUNING"
+   ]
+  }
+ ],
+ "15828": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "LEGOK",
+   "d": [
+    "BABAKAN"
+   ]
+  }
+ ],
+ "15831": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "KELAPA DUA",
+   "d": [
+    "KELAPA DUA"
+   ]
+  }
+ ],
+ "15832": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "KELAPA DUA",
+   "d": [
+    "BENCONGAN"
+   ]
+  }
+ ],
+ "15833": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "KELAPA DUA",
+   "d": [
+    "BOJONG NANGKA"
+   ]
+  }
+ ],
+ "15834": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "KELAPA DUA",
+   "d": [
+    "CURUG SANGERENG"
+   ]
+  }
+ ],
+ "15835": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "KELAPA DUA",
+   "d": [
+    "PAKULONAN BARAT"
+   ]
+  }
+ ],
+ "15836": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "KELAPA DUA",
+   "d": [
+    "BENCONGAN INDAH"
+   ]
+  }
+ ],
+ "15841": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "CISAUK",
+   "d": [
+    "CISAUK"
+   ]
+  }
+ ],
+ "15842": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "CISAUK",
+   "d": [
+    "DANGDANG"
+   ]
+  }
+ ],
+ "15843": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "CISAUK",
+   "d": [
+    "SURADITA"
+   ]
+  }
+ ],
+ "15844": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "CISAUK",
+   "d": [
+    "CIBOGO"
+   ]
+  }
+ ],
+ "15845": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "CISAUK",
+   "d": [
+    "SAMPORA"
+   ]
+  }
+ ],
+ "15846": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "CISAUK",
+   "d": [
+    "MEKARWANGI"
+   ]
+  }
+ ],
+ "15851": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "PAGEDANGAN",
+   "d": [
+    "LENGKONG KULON"
+   ]
+  }
+ ],
+ "15852": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "PAGEDANGAN",
+   "d": [
+    "CIHUNI"
+   ]
+  }
+ ],
+ "15853": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "PAGEDANGAN",
+   "d": [
+    "MEDANG"
+   ]
+  }
+ ],
+ "15854": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "PAGEDANGAN",
+   "d": [
+    "CIJANTRA"
+   ]
+  }
+ ],
+ "15855": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "PAGEDANGAN",
+   "d": [
+    "CICALENGKA"
+   ]
+  }
+ ],
+ "15856": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "PAGEDANGAN",
+   "d": [
+    "JATAKE",
+    "KADU SIRUNG"
+   ]
+  }
+ ],
+ "15857": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "PAGEDANGAN",
+   "d": [
+    "KARANG TENGAH",
+    "MALANG NENGAH"
+   ]
+  }
+ ],
+ "15858": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "PAGEDANGAN",
+   "d": [
+    "SITU GADUNG"
+   ]
+  }
+ ],
+ "15859": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "PAGEDANGAN",
+   "d": [
+    "PAGEDANGAN"
+   ]
+  }
+ ],
+ "15911": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "TIGARAKSA",
+   "d": [
+    "TIGARAKSA"
+   ]
+  }
+ ],
+ "15912": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "TIGARAKSA",
+   "d": [
+    "CILELES"
+   ]
+  }
+ ],
+ "15913": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "TIGARAKSA",
+   "d": [
+    "BANTAR PANJANG"
+   ]
+  }
+ ],
+ "15914": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "TIGARAKSA",
+   "d": [
+    "TAPOS"
+   ]
+  }
+ ],
+ "15915": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "TIGARAKSA",
+   "d": [
+    "SODONG"
+   ]
+  }
+ ],
+ "15916": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "TIGARAKSA",
+   "d": [
+    "MARGA SARI"
+   ]
+  }
+ ],
+ "15917": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "TIGARAKSA",
+   "d": [
+    "KADU AGUNG"
+   ]
+  }
+ ],
+ "15921": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "JAMBE",
+   "d": [
+    "JAMBE"
+   ]
+  }
+ ],
+ "15922": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "JAMBE",
+   "d": [
+    "TIPARRAYA"
+   ]
+  }
+ ],
+ "15923": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "JAMBE",
+   "d": [
+    "DARU"
+   ]
+  }
+ ],
+ "15924": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "JAMBE",
+   "d": [
+    "MEKARSARI"
+   ]
+  }
+ ],
+ "15925": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "JAMBE",
+   "d": [
+    "SUKA MANAH"
+   ]
+  }
+ ],
+ "15926": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "JAMBE",
+   "d": [
+    "TABAN"
+   ]
+  }
+ ],
+ "15927": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "JAMBE",
+   "d": [
+    "RANCABUAYA"
+   ]
+  }
+ ],
+ "15928": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "JAMBE",
+   "d": [
+    "KUTRUK"
+   ]
+  }
+ ],
+ "15929": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "JAMBE",
+   "d": [
+    "ANCOL PASIR",
+    "PASIR BARAT"
+   ]
+  }
+ ],
+ "15931": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "TIGARAKSA",
+   "d": [
+    "MATA GARA"
+   ]
+  }
+ ],
+ "15932": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "TIGARAKSA",
+   "d": [
+    "PASIR BOLANG"
+   ]
+  }
+ ],
+ "15933": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "TIGARAKSA",
+   "d": [
+    "CISEREH"
+   ]
+  }
+ ],
+ "15934": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "TIGARAKSA",
+   "d": [
+    "PEMATANG"
+   ]
+  }
+ ],
+ "15935": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "TIGARAKSA",
+   "d": [
+    "TEGALSARI"
+   ]
+  }
+ ],
+ "15936": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "TIGARAKSA",
+   "d": [
+    "PETE"
+   ]
+  }
+ ],
+ "15937": [
+  {
+   "p": "BANTEN",
+   "k": "TANGERANG",
+   "c": "TIGARAKSA",
+   "d": [
+    "PASIR NANGKA"
+   ]
+  }
+ ],
+ "16111": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "BOGOR BARAT",
+   "d": [
+    "MENTENG"
+   ]
+  }
+ ],
+ "16112": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "BOGOR BARAT",
+   "d": [
+    "CILENDEK BARAT",
+    "CILENDEK TIMUR"
+   ]
+  }
+ ],
+ "16113": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "BOGOR BARAT",
+   "d": [
+    "CURUG",
+    "CURUGMEKAR"
+   ]
+  }
+ ],
+ "16114": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "BOGOR BARAT",
+   "d": [
+    "SEMPLAK"
+   ]
+  }
+ ],
+ "16115": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "BOGOR BARAT",
+   "d": [
+    "BUBULAK",
+    "SITUGEDE"
+   ]
+  }
+ ],
+ "16116": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "BOGOR BARAT",
+   "d": [
+    "BALUNGBANGJAYA",
+    "MARGAJAYA"
+   ]
+  }
+ ],
+ "16117": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "BOGOR BARAT",
+   "d": [
+    "LOJI",
+    "SINDANGBARANG"
+   ]
+  }
+ ],
+ "16118": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "BOGOR BARAT",
+   "d": [
+    "GUNUNGBATU",
+    "PASIRMULYA"
+   ]
+  }
+ ],
+ "16119": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "BOGOR BARAT",
+   "d": [
+    "PASIRJAYA",
+    "PASIRKUDA"
+   ]
+  }
+ ],
+ "16121": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "BOGOR TENGAH",
+   "d": [
+    "PABATON"
+   ]
+  }
+ ],
+ "16122": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "BOGOR TENGAH",
+   "d": [
+    "PALEDANG"
+   ]
+  }
+ ],
+ "16123": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "BOGOR TENGAH",
+   "d": [
+    "GUDANG"
+   ]
+  }
+ ],
+ "16124": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "BOGOR TENGAH",
+   "d": [
+    "CIBOGOR",
+    "CIWARINGIN"
+   ]
+  }
+ ],
+ "16125": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "BOGOR TENGAH",
+   "d": [
+    "KEBONKELAPA",
+    "PANARAGAN"
+   ]
+  }
+ ],
+ "16126": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "BOGOR TENGAH",
+   "d": [
+    "BABAKANPASAR"
+   ]
+  }
+ ],
+ "16127": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "BOGOR TENGAH",
+   "d": [
+    "TEGALLEGA"
+   ]
+  }
+ ],
+ "16128": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "BOGOR TENGAH",
+   "d": [
+    "BABAKAN"
+   ]
+  }
+ ],
+ "16129": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "BOGOR TENGAH",
+   "d": [
+    "SEMPUR"
+   ]
+  }
+ ],
+ "16131": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "BOGOR SELATAN",
+   "d": [
+    "BATUTULIS",
+    "BONDONGAN"
+   ]
+  }
+ ],
+ "16132": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "BOGOR SELATAN",
+   "d": [
+    "CIKARET",
+    "EMPANG"
+   ]
+  }
+ ],
+ "16133": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "BOGOR SELATAN",
+   "d": [
+    "CIPAKU"
+   ]
+  }
+ ],
+ "16134": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "BOGOR SELATAN",
+   "d": [
+    "LAWANGGINTUNG",
+    "PAKUAN"
+   ]
+  }
+ ],
+ "16135": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "BOGOR SELATAN",
+   "d": [
+    "MULYAHARJA"
+   ]
+  }
+ ],
+ "16136": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "BOGOR SELATAN",
+   "d": [
+    "PAMOYANAN",
+    "RANGGAMEKAR"
+   ]
+  }
+ ],
+ "16137": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "BOGOR SELATAN",
+   "d": [
+    "GENTENG",
+    "MUARASARI"
+   ]
+  }
+ ],
+ "16138": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "BOGOR SELATAN",
+   "d": [
+    "HARJASARI",
+    "KERTAMAYA"
+   ]
+  }
+ ],
+ "16139": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "BOGOR SELATAN",
+   "d": [
+    "BOJONGKERTA",
+    "RANCAMAYA"
+   ]
+  }
+ ],
+ "16141": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "BOGOR TIMUR",
+   "d": [
+    "TAJUR"
+   ]
+  }
+ ],
+ "16142": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "BOGOR TIMUR",
+   "d": [
+    "SUKASARI"
+   ]
+  }
+ ],
+ "16143": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "BOGOR TIMUR",
+   "d": [
+    "BARANANGSIANG"
+   ]
+  }
+ ],
+ "16144": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "BOGOR TIMUR",
+   "d": [
+    "KATULAMPA"
+   ]
+  }
+ ],
+ "16145": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "BOGOR TIMUR",
+   "d": [
+    "SINDANGRASA"
+   ]
+  }
+ ],
+ "16146": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "BOGOR TIMUR",
+   "d": [
+    "SINDANGSARI"
+   ]
+  }
+ ],
+ "16151": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "BOGOR UTARA",
+   "d": [
+    "CIBULUH"
+   ]
+  }
+ ],
+ "16152": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "BOGOR UTARA",
+   "d": [
+    "TEGALGUNDIL"
+   ]
+  }
+ ],
+ "16153": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "BOGOR UTARA",
+   "d": [
+    "BANTARJATI"
+   ]
+  }
+ ],
+ "16154": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "BOGOR UTARA",
+   "d": [
+    "TANAHBARU"
+   ]
+  }
+ ],
+ "16155": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "BOGOR UTARA",
+   "d": [
+    "CIMAHPAR"
+   ]
+  }
+ ],
+ "16156": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "BOGOR UTARA",
+   "d": [
+    "CILUAR"
+   ]
+  }
+ ],
+ "16157": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "BOGOR UTARA",
+   "d": [
+    "CIPARIGI"
+   ]
+  }
+ ],
+ "16158": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "BOGOR UTARA",
+   "d": [
+    "KEDUNGHALANG"
+   ]
+  }
+ ],
+ "16161": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "TANAH SEREAL",
+   "d": [
+    "TANAHSAREAL"
+   ]
+  }
+ ],
+ "16162": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "TANAH SEREAL",
+   "d": [
+    "KEBONPEDES"
+   ]
+  }
+ ],
+ "16163": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "TANAH SEREAL",
+   "d": [
+    "KEDUNGWARINGIN"
+   ]
+  }
+ ],
+ "16164": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "TANAH SEREAL",
+   "d": [
+    "KEDUNGBADAK",
+    "KEDUNGJAYA"
+   ]
+  }
+ ],
+ "16165": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "TANAH SEREAL",
+   "d": [
+    "SUKADAMAI",
+    "SUKARESMI"
+   ]
+  }
+ ],
+ "16166": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "TANAH SEREAL",
+   "d": [
+    "CIBADAK"
+   ]
+  }
+ ],
+ "16167": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "TANAH SEREAL",
+   "d": [
+    "KENCANA"
+   ]
+  }
+ ],
+ "16168": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "TANAH SEREAL",
+   "d": [
+    "MEKARWANGI"
+   ]
+  }
+ ],
+ "16169": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "TANAH SEREAL",
+   "d": [
+    "KAYUMANIS"
+   ]
+  }
+ ],
+ "16251": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "RANCA BUNGUR",
+   "d": [
+    "RANCA BUNGUR"
+   ]
+  }
+ ],
+ "16252": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "RANCA BUNGUR",
+   "d": [
+    "CIMULANG",
+    "PASIR GAOK"
+   ]
+  }
+ ],
+ "16253": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "RANCA BUNGUR",
+   "d": [
+    "BANTARJAYA"
+   ]
+  }
+ ],
+ "16254": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "RANCA BUNGUR",
+   "d": [
+    "BANTAR SARI"
+   ]
+  }
+ ],
+ "16255": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "RANCA BUNGUR",
+   "d": [
+    "CANDALI"
+   ]
+  }
+ ],
+ "16256": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "RANCA BUNGUR",
+   "d": [
+    "MEKARSARI"
+   ]
+  }
+ ],
+ "16261": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "TAMANSARI",
+   "d": [
+    "TAMAN SARI"
+   ]
+  }
+ ],
+ "16262": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "TAMANSARI",
+   "d": [
+    "SUKALUYU"
+   ]
+  }
+ ],
+ "16263": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "TAMANSARI",
+   "d": [
+    "SUKAJADI"
+   ]
+  }
+ ],
+ "16264": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "TAMANSARI",
+   "d": [
+    "SUKAJAYA"
+   ]
+  }
+ ],
+ "16265": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "TAMANSARI",
+   "d": [
+    "SUKAMANTRI"
+   ]
+  }
+ ],
+ "16266": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "TAMANSARI",
+   "d": [
+    "SIRNAGALIH"
+   ]
+  },
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "TANJUNGSARI",
+   "d": [
+    "SINARRASA",
+    "SINARSARI"
+   ]
+  }
+ ],
+ "16267": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "TAMANSARI",
+   "d": [
+    "PASIR EURIH"
+   ]
+  }
+ ],
+ "16268": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "TAMANSARI",
+   "d": [
+    "SUKARESMI"
+   ]
+  }
+ ],
+ "16271": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "TENJOLAYA",
+   "d": [
+    "TAPOS 1",
+    "TAPOS 2"
+   ]
+  }
+ ],
+ "16273": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "TENJOLAYA",
+   "d": [
+    "GUNUNG MALANG",
+    "GUNUNG MULYA"
+   ]
+  }
+ ],
+ "16274": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "TENJOLAYA",
+   "d": [
+    "SITU DAUN"
+   ]
+  }
+ ],
+ "16275": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "TENJOLAYA",
+   "d": [
+    "CINANGNENG"
+   ]
+  }
+ ],
+ "16276": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "TENJOLAYA",
+   "d": [
+    "CIBITUNG TENGAH"
+   ]
+  }
+ ],
+ "16281": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "LEUWISADENG",
+   "d": [
+    "LEUWISADENG"
+   ]
+  }
+ ],
+ "16282": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "LEUWISADENG",
+   "d": [
+    "SADENGKOLOT"
+   ]
+  }
+ ],
+ "16283": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "LEUWISADENG",
+   "d": [
+    "BABAKAN SADENG"
+   ]
+  }
+ ],
+ "16284": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "LEUWISADENG",
+   "d": [
+    "SIBANTENG"
+   ]
+  }
+ ],
+ "16285": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "LEUWISADENG",
+   "d": [
+    "SADENG"
+   ]
+  }
+ ],
+ "16286": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "LEUWISADENG",
+   "d": [
+    "KALONG I"
+   ]
+  }
+ ],
+ "16287": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "LEUWISADENG",
+   "d": [
+    "KALONG II"
+   ]
+  }
+ ],
+ "16288": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "LEUWISADENG",
+   "d": [
+    "WANGUN JAYA"
+   ]
+  }
+ ],
+ "16291": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "SUKAJAYA",
+   "d": [
+    "SUKAJAYA",
+    "URUG"
+   ]
+  }
+ ],
+ "16292": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "SUKAJAYA",
+   "d": [
+    "CILEUKSA"
+   ]
+  }
+ ],
+ "16293": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "SUKAJAYA",
+   "d": [
+    "CISARUA"
+   ]
+  }
+ ],
+ "16294": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "SUKAJAYA",
+   "d": [
+    "KIARASARI"
+   ]
+  }
+ ],
+ "16295": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "SUKAJAYA",
+   "d": [
+    "JAYARAHARJA",
+    "KIARAPANDAK"
+   ]
+  }
+ ],
+ "16296": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "SUKAJAYA",
+   "d": [
+    "HARKATJAYA"
+   ]
+  }
+ ],
+ "16297": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "SUKAJAYA",
+   "d": [
+    "SIPAYUNG"
+   ]
+  }
+ ],
+ "16298": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "SUKAJAYA",
+   "d": [
+    "PASIR MADANG"
+   ]
+  }
+ ],
+ "16299": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "SUKAJAYA",
+   "d": [
+    "SUKAMULIH"
+   ]
+  }
+ ],
+ "16311": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "KEMANG",
+   "d": [
+    "KEMANG"
+   ]
+  }
+ ],
+ "16312": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "KEMANG",
+   "d": [
+    "PABUARAN"
+   ]
+  }
+ ],
+ "16313": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "KEMANG",
+   "d": [
+    "PONDOK UDIK"
+   ]
+  }
+ ],
+ "16314": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "KEMANG",
+   "d": [
+    "JAMPANG"
+   ]
+  }
+ ],
+ "16315": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "KEMANG",
+   "d": [
+    "TEGAL"
+   ]
+  }
+ ],
+ "16316": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "KEMANG",
+   "d": [
+    "BOJONG"
+   ]
+  }
+ ],
+ "16317": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "KEMANG",
+   "d": [
+    "SEMPLAK BARAT"
+   ]
+  }
+ ],
+ "16318": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "KEMANG",
+   "d": [
+    "ATANG SENJAYA"
+   ]
+  }
+ ],
+ "16319": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "KEMANG",
+   "d": [
+    "PARAKAN JAYA"
+   ]
+  }
+ ],
+ "16331": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "PARUNG",
+   "d": [
+    "PARUNG"
+   ]
+  }
+ ],
+ "16333": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "PARUNG",
+   "d": [
+    "WARUJAYA"
+   ]
+  }
+ ],
+ "16334": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "PARUNG",
+   "d": [
+    "COGREG"
+   ]
+  }
+ ],
+ "16335": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "PARUNG",
+   "d": [
+    "BOJONG INDAH"
+   ]
+  }
+ ],
+ "16336": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "PARUNG",
+   "d": [
+    "BOJONG SEMPU",
+    "WARU"
+   ]
+  }
+ ],
+ "16337": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "PARUNG",
+   "d": [
+    "IWUL"
+   ]
+  }
+ ],
+ "16338": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "PARUNG",
+   "d": [
+    "JABON MEKAR"
+   ]
+  }
+ ],
+ "16339": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "PARUNG",
+   "d": [
+    "PAMAGER SARI"
+   ]
+  }
+ ],
+ "16341": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "GUNUNG SINDUR",
+   "d": [
+    "GUNUNG SINDUR"
+   ]
+  }
+ ],
+ "16342": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "GUNUNG SINDUR",
+   "d": [
+    "JAMPANG"
+   ]
+  }
+ ],
+ "16343": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "GUNUNG SINDUR",
+   "d": [
+    "CIBADUNG",
+    "CIDOKOM"
+   ]
+  }
+ ],
+ "16344": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "GUNUNG SINDUR",
+   "d": [
+    "CURUG"
+   ]
+  }
+ ],
+ "16345": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "GUNUNG SINDUR",
+   "d": [
+    "PADURENAN"
+   ]
+  }
+ ],
+ "16346": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "GUNUNG SINDUR",
+   "d": [
+    "CIBINONG"
+   ]
+  }
+ ],
+ "16347": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "GUNUNG SINDUR",
+   "d": [
+    "RAWAKALONG"
+   ]
+  }
+ ],
+ "16348": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "GUNUNG SINDUR",
+   "d": [
+    "PENGASINAN"
+   ]
+  }
+ ],
+ "16349": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "GUNUNG SINDUR",
+   "d": [
+    "PABUARAN"
+   ]
+  }
+ ],
+ "16351": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "RUMPIN",
+   "d": [
+    "RUMPIN"
+   ]
+  }
+ ],
+ "16352": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "RUMPIN",
+   "d": [
+    "SUKASARI",
+    "TAMAN SARI"
+   ]
+  }
+ ],
+ "16353": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "RUMPIN",
+   "d": [
+    "KERTAJAYA",
+    "SUKAMULYA"
+   ]
+  }
+ ],
+ "16354": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "RUMPIN",
+   "d": [
+    "MEKAR SARI"
+   ]
+  }
+ ],
+ "16355": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "RUMPIN",
+   "d": [
+    "CIPINANG",
+    "KAMPUNG SAWAH"
+   ]
+  }
+ ],
+ "16356": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "RUMPIN",
+   "d": [
+    "RABAK"
+   ]
+  }
+ ],
+ "16357": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "RUMPIN",
+   "d": [
+    "LEUWIBATU"
+   ]
+  }
+ ],
+ "16358": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "RUMPIN",
+   "d": [
+    "CIDOKOM",
+    "GOBANG",
+    "MEKARJAYA"
+   ]
+  }
+ ],
+ "16359": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "RUMPIN",
+   "d": [
+    "CIBODAS"
+   ]
+  }
+ ],
+ "16361": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "PARUNG PANJANG",
+   "d": [
+    "PARUNG PANJANG"
+   ]
+  }
+ ],
+ "16362": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "PARUNG PANJANG",
+   "d": [
+    "CIBUNAR",
+    "JAGABITA"
+   ]
+  }
+ ],
+ "16363": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "PARUNG PANJANG",
+   "d": [
+    "LUMPANG"
+   ]
+  }
+ ],
+ "16364": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "PARUNG PANJANG",
+   "d": [
+    "GINTUNG CILEJET"
+   ]
+  }
+ ],
+ "16365": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "PARUNG PANJANG",
+   "d": [
+    "JAGABAYA"
+   ]
+  }
+ ],
+ "16366": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "PARUNG PANJANG",
+   "d": [
+    "GOROWONG"
+   ]
+  }
+ ],
+ "16367": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "PARUNG PANJANG",
+   "d": [
+    "DAGO"
+   ]
+  }
+ ],
+ "16368": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "PARUNG PANJANG",
+   "d": [
+    "PINGKU"
+   ]
+  }
+ ],
+ "16369": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "PARUNG PANJANG",
+   "d": [
+    "CIKUDA",
+    "KABASIRAN"
+   ]
+  }
+ ],
+ "16371": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "TENJO",
+   "d": [
+    "TENJO"
+   ]
+  }
+ ],
+ "16372": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "TENJO",
+   "d": [
+    "SINGABRAJA"
+   ]
+  }
+ ],
+ "16373": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "TENJO",
+   "d": [
+    "BOJONG"
+   ]
+  }
+ ],
+ "16374": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "TENJO",
+   "d": [
+    "BABAKAN"
+   ]
+  }
+ ],
+ "16375": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "TENJO",
+   "d": [
+    "TAPOS"
+   ]
+  }
+ ],
+ "16376": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "TENJO",
+   "d": [
+    "CIOMAS"
+   ]
+  }
+ ],
+ "16377": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "TENJO",
+   "d": [
+    "BATOK"
+   ]
+  }
+ ],
+ "16378": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "TENJO",
+   "d": [
+    "CILAKU"
+   ]
+  }
+ ],
+ "16379": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "TENJO",
+   "d": [
+    "SINGABANGSA"
+   ]
+  }
+ ],
+ "16381": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "CISEENG",
+   "d": [
+    "CIBENTANG"
+   ]
+  }
+ ],
+ "16382": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "CISEENG",
+   "d": [
+    "KURIPAN"
+   ]
+  }
+ ],
+ "16383": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "CISEENG",
+   "d": [
+    "CIBEUTEUNG MUARA",
+    "CIBEUTEUNG UDIK"
+   ]
+  }
+ ],
+ "16384": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "CISEENG",
+   "d": [
+    "PUTAT NUTUG"
+   ]
+  }
+ ],
+ "16385": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "CISEENG",
+   "d": [
+    "KARIHKIL"
+   ]
+  }
+ ],
+ "16386": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "CISEENG",
+   "d": [
+    "BABAKAN"
+   ]
+  }
+ ],
+ "16387": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "CISEENG",
+   "d": [
+    "CISEENG"
+   ]
+  }
+ ],
+ "16388": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "CISEENG",
+   "d": [
+    "PARIGI MEKAR"
+   ]
+  }
+ ],
+ "16389": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "CISEENG",
+   "d": [
+    "CIHOWE"
+   ]
+  }
+ ],
+ "16411": [
+  {
+   "p": "JAWA BARAT",
+   "k": "DEPOK",
+   "c": "SUKMA JAYA",
+   "d": [
+    "MEKAR JAYA"
+   ]
+  }
+ ],
+ "16412": [
+  {
+   "p": "JAWA BARAT",
+   "k": "DEPOK",
+   "c": "SUKMA JAYA",
+   "d": [
+    "SUKMAJAYA",
+    "TIRTAJAYA"
+   ]
+  }
+ ],
+ "16416": [
+  {
+   "p": "JAWA BARAT",
+   "k": "DEPOK",
+   "c": "SUKMA JAYA",
+   "d": [
+    "CISALAK"
+   ]
+  }
+ ],
+ "16417": [
+  {
+   "p": "JAWA BARAT",
+   "k": "DEPOK",
+   "c": "SUKMA JAYA",
+   "d": [
+    "ABADIJAYA"
+   ]
+  }
+ ],
+ "16418": [
+  {
+   "p": "JAWA BARAT",
+   "k": "DEPOK",
+   "c": "SUKMA JAYA",
+   "d": [
+    "BAKTI JAYA"
+   ]
+  }
+ ],
+ "16421": [
+  {
+   "p": "JAWA BARAT",
+   "k": "DEPOK",
+   "c": "BEJI",
+   "d": [
+    "BEJI"
+   ]
+  }
+ ],
+ "16422": [
+  {
+   "p": "JAWA BARAT",
+   "k": "DEPOK",
+   "c": "BEJI",
+   "d": [
+    "BEJI TIMUR"
+   ]
+  }
+ ],
+ "16423": [
+  {
+   "p": "JAWA BARAT",
+   "k": "DEPOK",
+   "c": "BEJI",
+   "d": [
+    "KEMIRIMUKA"
+   ]
+  }
+ ],
+ "16424": [
+  {
+   "p": "JAWA BARAT",
+   "k": "DEPOK",
+   "c": "BEJI",
+   "d": [
+    "PONDOK CINA"
+   ]
+  }
+ ],
+ "16425": [
+  {
+   "p": "JAWA BARAT",
+   "k": "DEPOK",
+   "c": "BEJI",
+   "d": [
+    "KUKUSAN"
+   ]
+  }
+ ],
+ "16426": [
+  {
+   "p": "JAWA BARAT",
+   "k": "DEPOK",
+   "c": "BEJI",
+   "d": [
+    "TANAH BARU"
+   ]
+  }
+ ],
+ "16431": [
+  {
+   "p": "JAWA BARAT",
+   "k": "DEPOK",
+   "c": "PANCORAN MAS",
+   "d": [
+    "DEPOK"
+   ]
+  }
+ ],
+ "16432": [
+  {
+   "p": "JAWA BARAT",
+   "k": "DEPOK",
+   "c": "PANCORAN MAS",
+   "d": [
+    "DEPOK JAYA"
+   ]
+  }
+ ],
+ "16433": [
+  {
+   "p": "JAWA BARAT",
+   "k": "DEPOK",
+   "c": "PANCORAN MAS",
+   "d": [
+    "MAMPANG"
+   ]
+  }
+ ],
+ "16434": [
+  {
+   "p": "JAWA BARAT",
+   "k": "DEPOK",
+   "c": "PANCORAN MAS",
+   "d": [
+    "RANGKAPAN JAYA BARU"
+   ]
+  }
+ ],
+ "16435": [
+  {
+   "p": "JAWA BARAT",
+   "k": "DEPOK",
+   "c": "PANCORAN MAS",
+   "d": [
+    "RANGKAPAN JAYA"
+   ]
+  }
+ ],
+ "16436": [
+  {
+   "p": "JAWA BARAT",
+   "k": "DEPOK",
+   "c": "PANCORAN MAS",
+   "d": [
+    "PANCORAN MAS"
+   ]
+  }
+ ],
+ "16441": [
+  {
+   "p": "JAWA BARAT",
+   "k": "DEPOK",
+   "c": "CIPAYUNG",
+   "d": [
+    "CIPAYUNG JAYA"
+   ]
+  }
+ ],
+ "16442": [
+  {
+   "p": "JAWA BARAT",
+   "k": "DEPOK",
+   "c": "CIPAYUNG",
+   "d": [
+    "CIPAYUNG"
+   ]
+  }
+ ],
+ "16443": [
+  {
+   "p": "JAWA BARAT",
+   "k": "DEPOK",
+   "c": "CIPAYUNG",
+   "d": [
+    "PONDOK JAYA"
+   ]
+  }
+ ],
+ "16444": [
+  {
+   "p": "JAWA BARAT",
+   "k": "DEPOK",
+   "c": "CIPAYUNG",
+   "d": [
+    "BOJONG PONDOK TERONG"
+   ]
+  }
+ ],
+ "16445": [
+  {
+   "p": "JAWA BARAT",
+   "k": "DEPOK",
+   "c": "CIPAYUNG",
+   "d": [
+    "RATUJAYA"
+   ]
+  }
+ ],
+ "16451": [
+  {
+   "p": "JAWA BARAT",
+   "k": "DEPOK",
+   "c": "CIMANGGIS",
+   "d": [
+    "PASIR GUNUNG SELATAN",
+    "TUGU"
+   ]
+  }
+ ],
+ "16452": [
+  {
+   "p": "JAWA BARAT",
+   "k": "DEPOK",
+   "c": "CIMANGGIS",
+   "d": [
+    "CISALAK PASAR",
+    "MEKARSARI"
+   ]
+  }
+ ],
+ "16453": [
+  {
+   "p": "JAWA BARAT",
+   "k": "DEPOK",
+   "c": "CIMANGGIS",
+   "d": [
+    "CURUG"
+   ]
+  }
+ ],
+ "16454": [
+  {
+   "p": "JAWA BARAT",
+   "k": "DEPOK",
+   "c": "CIMANGGIS",
+   "d": [
+    "HARJAMUKTI"
+   ]
+  }
+ ],
+ "16461": [
+  {
+   "p": "JAWA BARAT",
+   "k": "DEPOK",
+   "c": "TAPOS",
+   "d": [
+    "SUKATANI"
+   ]
+  }
+ ],
+ "16462": [
+  {
+   "p": "JAWA BARAT",
+   "k": "DEPOK",
+   "c": "TAPOS",
+   "d": [
+    "SUKAMAJU BARU"
+   ]
+  }
+ ],
+ "16463": [
+  {
+   "p": "JAWA BARAT",
+   "k": "DEPOK",
+   "c": "TAPOS",
+   "d": [
+    "LEUWINAGGUNG"
+   ]
+  }
+ ],
+ "16464": [
+  {
+   "p": "JAWA BARAT",
+   "k": "DEPOK",
+   "c": "TAPOS",
+   "d": [
+    "TAPOS"
+   ]
+  }
+ ],
+ "16465": [
+  {
+   "p": "JAWA BARAT",
+   "k": "DEPOK",
+   "c": "TAPOS",
+   "d": [
+    "CILANGKAP"
+   ]
+  }
+ ],
+ "16466": [
+  {
+   "p": "JAWA BARAT",
+   "k": "DEPOK",
+   "c": "TAPOS",
+   "d": [
+    "JATIJAJAR"
+   ]
+  }
+ ],
+ "16467": [
+  {
+   "p": "JAWA BARAT",
+   "k": "DEPOK",
+   "c": "TAPOS",
+   "d": [
+    "CIMPAEUN"
+   ]
+  }
+ ],
+ "16471": [
+  {
+   "p": "JAWA BARAT",
+   "k": "DEPOK",
+   "c": "CILODONG",
+   "d": [
+    "KALIMULYA"
+   ]
+  }
+ ],
+ "16472": [
+  {
+   "p": "JAWA BARAT",
+   "k": "DEPOK",
+   "c": "CILODONG",
+   "d": [
+    "JATIMULYA"
+   ]
+  }
+ ],
+ "16473": [
+  {
+   "p": "JAWA BARAT",
+   "k": "DEPOK",
+   "c": "CILODONG",
+   "d": [
+    "KALIBARU"
+   ]
+  }
+ ],
+ "16474": [
+  {
+   "p": "JAWA BARAT",
+   "k": "DEPOK",
+   "c": "CILODONG",
+   "d": [
+    "CILODONG"
+   ]
+  }
+ ],
+ "16475": [
+  {
+   "p": "JAWA BARAT",
+   "k": "DEPOK",
+   "c": "CILODONG",
+   "d": [
+    "SUKAMAJU"
+   ]
+  }
+ ],
+ "16511": [
+  {
+   "p": "JAWA BARAT",
+   "k": "DEPOK",
+   "c": "SAWANGAN",
+   "d": [
+    "SAWANGAN BARU",
+    "SAWANGAN LAMA"
+   ]
+  }
+ ],
+ "16516": [
+  {
+   "p": "JAWA BARAT",
+   "k": "DEPOK",
+   "c": "SAWANGAN",
+   "d": [
+    "CINANGKA",
+    "KEDAUNG"
+   ]
+  }
+ ],
+ "16518": [
+  {
+   "p": "JAWA BARAT",
+   "k": "DEPOK",
+   "c": "SAWANGAN",
+   "d": [
+    "PENGASINAN"
+   ]
+  }
+ ],
+ "16519": [
+  {
+   "p": "JAWA BARAT",
+   "k": "DEPOK",
+   "c": "SAWANGAN",
+   "d": [
+    "BEDAHAN",
+    "PASIR PUTIH"
+   ]
+  }
+ ],
+ "16521": [
+  {
+   "p": "JAWA BARAT",
+   "k": "DEPOK",
+   "c": "BOJONGSARI",
+   "d": [
+    "BOJONGSARI LAMA"
+   ]
+  }
+ ],
+ "16522": [
+  {
+   "p": "JAWA BARAT",
+   "k": "DEPOK",
+   "c": "BOJONGSARI",
+   "d": [
+    "BOJONGSARI BARU"
+   ]
+  }
+ ],
+ "16523": [
+  {
+   "p": "JAWA BARAT",
+   "k": "DEPOK",
+   "c": "BOJONGSARI",
+   "d": [
+    "SERUA"
+   ]
+  }
+ ],
+ "16524": [
+  {
+   "p": "JAWA BARAT",
+   "k": "DEPOK",
+   "c": "BOJONGSARI",
+   "d": [
+    "PONDOK PETIR"
+   ]
+  }
+ ],
+ "16525": [
+  {
+   "p": "JAWA BARAT",
+   "k": "DEPOK",
+   "c": "BOJONGSARI",
+   "d": [
+    "CURUG"
+   ]
+  }
+ ],
+ "16526": [
+  {
+   "p": "JAWA BARAT",
+   "k": "DEPOK",
+   "c": "BOJONGSARI",
+   "d": [
+    "DUREN MEKAR"
+   ]
+  }
+ ],
+ "16527": [
+  {
+   "p": "JAWA BARAT",
+   "k": "DEPOK",
+   "c": "BOJONGSARI",
+   "d": [
+    "DUREN SERIBU"
+   ]
+  }
+ ],
+ "16531": [
+  {
+   "p": "JAWA BARAT",
+   "k": "DEPOK",
+   "c": "LIMO",
+   "d": [
+    "LIMO"
+   ]
+  }
+ ],
+ "16532": [
+  {
+   "p": "JAWA BARAT",
+   "k": "DEPOK",
+   "c": "LIMO",
+   "d": [
+    "MERUYUNG"
+   ]
+  }
+ ],
+ "16533": [
+  {
+   "p": "JAWA BARAT",
+   "k": "DEPOK",
+   "c": "LIMO",
+   "d": [
+    "GROGOL"
+   ]
+  }
+ ],
+ "16534": [
+  {
+   "p": "JAWA BARAT",
+   "k": "DEPOK",
+   "c": "LIMO",
+   "d": [
+    "KRUKUT"
+   ]
+  }
+ ],
+ "16541": [
+  {
+   "p": "JAWA BARAT",
+   "k": "DEPOK",
+   "c": "CINERE",
+   "d": [
+    "CINERE"
+   ]
+  }
+ ],
+ "16542": [
+  {
+   "p": "JAWA BARAT",
+   "k": "DEPOK",
+   "c": "CINERE",
+   "d": [
+    "PANGKALANJATI BARU"
+   ]
+  }
+ ],
+ "16543": [
+  {
+   "p": "JAWA BARAT",
+   "k": "DEPOK",
+   "c": "CINERE",
+   "d": [
+    "PANGKALANJATI"
+   ]
+  }
+ ],
+ "16544": [
+  {
+   "p": "JAWA BARAT",
+   "k": "DEPOK",
+   "c": "CINERE",
+   "d": [
+    "GANDUL"
+   ]
+  }
+ ],
+ "16611": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "CIOMAS",
+   "d": [
+    "PADASUKA"
+   ]
+  }
+ ],
+ "16612": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "CIOMAS",
+   "d": [
+    "CIOMAS",
+    "CIOMAS RAHAYU"
+   ]
+  }
+ ],
+ "16613": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "CIOMAS",
+   "d": [
+    "LALADON"
+   ]
+  }
+ ],
+ "16614": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "CIOMAS",
+   "d": [
+    "CIAPUS"
+   ]
+  }
+ ],
+ "16615": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "CIOMAS",
+   "d": [
+    "SUKAHARJA",
+    "SUKAMAKMUR"
+   ]
+  }
+ ],
+ "16616": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "CIOMAS",
+   "d": [
+    "PARAKAN"
+   ]
+  }
+ ],
+ "16617": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "CIOMAS",
+   "d": [
+    "PAGELARAN"
+   ]
+  }
+ ],
+ "16618": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "CIOMAS",
+   "d": [
+    "KOTA BATU"
+   ]
+  }
+ ],
+ "16619": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "CIOMAS",
+   "d": [
+    "MEKARJAYA"
+   ]
+  }
+ ],
+ "16621": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "CIAMPEA",
+   "d": [
+    "BOJONG RANGKAS"
+   ]
+  }
+ ],
+ "16622": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "CIAMPEA",
+   "d": [
+    "CICADAS"
+   ]
+  }
+ ],
+ "16623": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "CIAMPEA",
+   "d": [
+    "BOJONG JENGKOL",
+    "TEGAL WARU"
+   ]
+  }
+ ],
+ "16624": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "CIAMPEA",
+   "d": [
+    "CIBUNTU"
+   ]
+  }
+ ],
+ "16625": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "CIAMPEA",
+   "d": [
+    "CIAMPEA",
+    "CIAMPEA UDIK"
+   ]
+  }
+ ],
+ "16626": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "CIAMPEA",
+   "d": [
+    "CINANGKA"
+   ]
+  }
+ ],
+ "16627": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "CIAMPEA",
+   "d": [
+    "CIHIDEUNG ILIR",
+    "CIHIDEUNG UDIK"
+   ]
+  }
+ ],
+ "16628": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "CIAMPEA",
+   "d": [
+    "CIBADAK",
+    "CIBANTENG"
+   ]
+  }
+ ],
+ "16629": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "CIAMPEA",
+   "d": [
+    "BENTENG"
+   ]
+  }
+ ],
+ "16631": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "CIBUNGBULANG",
+   "d": [
+    "CIMANGGU 1",
+    "CIMANGGU 2"
+   ]
+  }
+ ],
+ "16632": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "CIBUNGBULANG",
+   "d": [
+    "DUKUH",
+    "GALUGA"
+   ]
+  }
+ ],
+ "16633": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "CIBUNGBULANG",
+   "d": [
+    "CEMPLANG"
+   ]
+  }
+ ],
+ "16634": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "CIBUNGBULANG",
+   "d": [
+    "SUKAMAJU"
+   ]
+  }
+ ],
+ "16635": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "CIBUNGBULANG",
+   "d": [
+    "CIBATOK 1",
+    "CIBATOK 2"
+   ]
+  }
+ ],
+ "16636": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "CIBUNGBULANG",
+   "d": [
+    "SITU ILIR",
+    "SITU UDIK"
+   ]
+  }
+ ],
+ "16637": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "CIBUNGBULANG",
+   "d": [
+    "CIARUTEN ILIR",
+    "CIARUTEN UDIK"
+   ]
+  }
+ ],
+ "16638": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "CIBUNGBULANG",
+   "d": [
+    "GIRIMULYA"
+   ]
+  }
+ ],
+ "16639": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "CIBUNGBULANG",
+   "d": [
+    "CIJUJUNG"
+   ]
+  }
+ ],
+ "16641": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "LEUWILIANG",
+   "d": [
+    "LEUWILIANG"
+   ]
+  }
+ ],
+ "16642": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "LEUWILIANG",
+   "d": [
+    "CIBEBER I",
+    "CIBEBER II"
+   ]
+  }
+ ],
+ "16643": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "LEUWILIANG",
+   "d": [
+    "PABANGBON"
+   ]
+  }
+ ],
+ "16644": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "LEUWILIANG",
+   "d": [
+    "PURASARI"
+   ]
+  }
+ ],
+ "16645": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "LEUWILIANG",
+   "d": [
+    "PURASEDA"
+   ]
+  }
+ ],
+ "16646": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "LEUWILIANG",
+   "d": [
+    "KARACAK",
+    "KARYASARI"
+   ]
+  }
+ ],
+ "16647": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "LEUWILIANG",
+   "d": [
+    "BARENGKOK"
+   ]
+  }
+ ],
+ "16648": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "LEUWILIANG",
+   "d": [
+    "LEUWIMEKAR"
+   ]
+  }
+ ],
+ "16649": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "LEUWILIANG",
+   "d": [
+    "KAREHKEL"
+   ]
+  }
+ ],
+ "16651": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "NANGGUNG",
+   "d": [
+    "NANGGUNG"
+   ]
+  }
+ ],
+ "16652": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "NANGGUNG",
+   "d": [
+    "CISARUA"
+   ]
+  }
+ ],
+ "16653": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "NANGGUNG",
+   "d": [
+    "MALASARI"
+   ]
+  }
+ ],
+ "16654": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "NANGGUNG",
+   "d": [
+    "BANTAR KARET"
+   ]
+  }
+ ],
+ "16655": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "NANGGUNG",
+   "d": [
+    "CURUG BITUNG"
+   ]
+  }
+ ],
+ "16656": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "NANGGUNG",
+   "d": [
+    "HAMBARO",
+    "KALONG LIUD"
+   ]
+  }
+ ],
+ "16657": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "NANGGUNG",
+   "d": [
+    "BATU TULIS",
+    "PARAKAN MUNCANG"
+   ]
+  }
+ ],
+ "16658": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "NANGGUNG",
+   "d": [
+    "SUKALUYU"
+   ]
+  }
+ ],
+ "16659": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "NANGGUNG",
+   "d": [
+    "PANGKAL JAYA"
+   ]
+  }
+ ],
+ "16661": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "CIGUDEG",
+   "d": [
+    "CIGUDEG"
+   ]
+  }
+ ],
+ "16662": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "CIGUDEG",
+   "d": [
+    "SUKAMAJU"
+   ]
+  }
+ ],
+ "16663": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "CIGUDEG",
+   "d": [
+    "SUKARAKSA"
+   ]
+  }
+ ],
+ "16664": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "CIGUDEG",
+   "d": [
+    "BANYU ASIH",
+    "BANYU RESMI",
+    "BANYU WANGI"
+   ]
+  }
+ ],
+ "16665": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "CIGUDEG",
+   "d": [
+    "CINTAMANIK",
+    "WARGAJAYA"
+   ]
+  }
+ ],
+ "16666": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "CIGUDEG",
+   "d": [
+    "TEGALEGA"
+   ]
+  }
+ ],
+ "16667": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "CIGUDEG",
+   "d": [
+    "BATU JAJAR",
+    "RENGASJAJAR"
+   ]
+  }
+ ],
+ "16668": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "CIGUDEG",
+   "d": [
+    "ARGAPURA",
+    "BANGUNJAYA",
+    "MEKARJAYA"
+   ]
+  }
+ ],
+ "16669": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "CIGUDEG",
+   "d": [
+    "BUNAR"
+   ]
+  }
+ ],
+ "16671": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "JASINGA",
+   "d": [
+    "JASINGA"
+   ]
+  }
+ ],
+ "16672": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "JASINGA",
+   "d": [
+    "KOLEANG",
+    "TEGAL WANGI"
+   ]
+  }
+ ],
+ "16673": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "JASINGA",
+   "d": [
+    "CURUG",
+    "WIRAJAYA"
+   ]
+  }
+ ],
+ "16674": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "JASINGA",
+   "d": [
+    "JUGALA JAYA"
+   ]
+  }
+ ],
+ "16675": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "JASINGA",
+   "d": [
+    "PANGRADIN"
+   ]
+  }
+ ],
+ "16676": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "JASINGA",
+   "d": [
+    "KALONGSAWAH",
+    "PAMAGERSARI"
+   ]
+  }
+ ],
+ "16677": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "JASINGA",
+   "d": [
+    "BARENGKOK",
+    "NEGLASARI",
+    "SETU",
+    "SIPAK"
+   ]
+  }
+ ],
+ "16678": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "JASINGA",
+   "d": [
+    "BAGOANG",
+    "PANGAUR"
+   ]
+  }
+ ],
+ "16679": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "JASINGA",
+   "d": [
+    "CIKOPOMAYAK"
+   ]
+  }
+ ],
+ "16681": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "DRAMAGA",
+   "d": [
+    "DRAMAGA"
+   ]
+  }
+ ],
+ "16682": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "DRAMAGA",
+   "d": [
+    "NEGLASARI",
+    "SINAR SARI"
+   ]
+  }
+ ],
+ "16683": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "DRAMAGA",
+   "d": [
+    "PETIR"
+   ]
+  }
+ ],
+ "16684": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "DRAMAGA",
+   "d": [
+    "PURWASARI"
+   ]
+  }
+ ],
+ "16685": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "DRAMAGA",
+   "d": [
+    "SUKADAMAI"
+   ]
+  }
+ ],
+ "16686": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "DRAMAGA",
+   "d": [
+    "SUKAWENING"
+   ]
+  }
+ ],
+ "16687": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "DRAMAGA",
+   "d": [
+    "CIHERANG"
+   ]
+  }
+ ],
+ "16688": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "DRAMAGA",
+   "d": [
+    "CIKARAWANG"
+   ]
+  }
+ ],
+ "16689": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "DRAMAGA",
+   "d": [
+    "BABAKAN"
+   ]
+  }
+ ],
+ "16691": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "PAMIJAHAN",
+   "d": [
+    "PAMIJAHAN"
+   ]
+  }
+ ],
+ "16692": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "PAMIJAHAN",
+   "d": [
+    "CIBITUNG KULON",
+    "CIBITUNG WETAN"
+   ]
+  }
+ ],
+ "16693": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "PAMIJAHAN",
+   "d": [
+    "CIBUNIAN"
+   ]
+  }
+ ],
+ "16694": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "PAMIJAHAN",
+   "d": [
+    "PURWABAKTI"
+   ]
+  }
+ ],
+ "16695": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "PAMIJAHAN",
+   "d": [
+    "CIASIHAN",
+    "CIASMARA"
+   ]
+  }
+ ],
+ "16696": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "PAMIJAHAN",
+   "d": [
+    "GUNUNG PICUNG",
+    "GUNUNG SARI"
+   ]
+  }
+ ],
+ "16697": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "PAMIJAHAN",
+   "d": [
+    "GUNUNG BUNDER 1",
+    "GUNUNG BUNDER 2"
+   ]
+  }
+ ],
+ "16698": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "PAMIJAHAN",
+   "d": [
+    "CIBENING",
+    "CIMAYANG"
+   ]
+  }
+ ],
+ "16699": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "PAMIJAHAN",
+   "d": [
+    "GUNUNG MENYAN",
+    "PASAREAN"
+   ]
+  }
+ ],
+ "16711": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "SUKARAJA",
+   "d": [
+    "SUKARAJA"
+   ]
+  }
+ ],
+ "16712": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "SUKARAJA",
+   "d": [
+    "CIBANON"
+   ]
+  }
+ ],
+ "16713": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "SUKARAJA",
+   "d": [
+    "GUNUNG GEULIS"
+   ]
+  }
+ ],
+ "16714": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "SUKARAJA",
+   "d": [
+    "CADAS NGAMPAR",
+    "CIKEAS",
+    "NAGRAK"
+   ]
+  }
+ ],
+ "16715": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "SUKARAJA",
+   "d": [
+    "PASIRLAJA"
+   ]
+  }
+ ],
+ "16716": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "SUKARAJA",
+   "d": [
+    "CIJUJUNG",
+    "CIMANDALA"
+   ]
+  }
+ ],
+ "16717": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "SUKARAJA",
+   "d": [
+    "PASIR JAMBU"
+   ]
+  }
+ ],
+ "16718": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "SUKARAJA",
+   "d": [
+    "CILEBUT BARAT",
+    "CILEBUT TIMUR"
+   ]
+  }
+ ],
+ "16719": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "SUKARAJA",
+   "d": [
+    "SUKATANI"
+   ]
+  }
+ ],
+ "16721": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "CIAWI",
+   "d": [
+    "CIAWI"
+   ]
+  }
+ ],
+ "16722": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "CIAWI",
+   "d": [
+    "TELUK PINANG"
+   ]
+  }
+ ],
+ "16723": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "CIAWI",
+   "d": [
+    "BANJAR WANGI",
+    "BANJAR WARU"
+   ]
+  }
+ ],
+ "16724": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "CIAWI",
+   "d": [
+    "BANJAR SARI",
+    "BITUNG SARI"
+   ]
+  }
+ ],
+ "16725": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "CIAWI",
+   "d": [
+    "CILEUNGSI",
+    "CITAPEN"
+   ]
+  }
+ ],
+ "16726": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "CIAWI",
+   "d": [
+    "CIBEDUG",
+    "JAMBU LUWUK"
+   ]
+  }
+ ],
+ "16727": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "CIAWI",
+   "d": [
+    "BENDUNGAN"
+   ]
+  }
+ ],
+ "16728": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "CIAWI",
+   "d": [
+    "PANDANSARI"
+   ]
+  }
+ ],
+ "16729": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "CIAWI",
+   "d": [
+    "BOJONG MURNI"
+   ]
+  }
+ ],
+ "16731": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "CARINGIN",
+   "d": [
+    "CIMANDE HILIR"
+   ]
+  }
+ ],
+ "16732": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "CARINGIN",
+   "d": [
+    "CARINGIN"
+   ]
+  }
+ ],
+ "16733": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "CARINGIN",
+   "d": [
+    "PASIR MUNCANG"
+   ]
+  }
+ ],
+ "16734": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "CARINGIN",
+   "d": [
+    "CINAGARA"
+   ]
+  }
+ ],
+ "16735": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "CARINGIN",
+   "d": [
+    "PASIR BUNCIR"
+   ]
+  }
+ ],
+ "16736": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "CARINGIN",
+   "d": [
+    "CIMANDE",
+    "PANCAWATI"
+   ]
+  }
+ ],
+ "16737": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "CARINGIN",
+   "d": [
+    "CIDERUM",
+    "LEMAH DUHUR",
+    "TANGKIL"
+   ]
+  }
+ ],
+ "16738": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "CARINGIN",
+   "d": [
+    "CIHERANG PONDOK"
+   ]
+  }
+ ],
+ "16739": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "CARINGIN",
+   "d": [
+    "MUARA JAYA"
+   ]
+  }
+ ],
+ "16741": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "CIGOMBONG",
+   "d": [
+    "CIGOMBONG"
+   ]
+  }
+ ],
+ "16742": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "CIGOMBONG",
+   "d": [
+    "WATES JAYA"
+   ]
+  }
+ ],
+ "16743": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "CIGOMBONG",
+   "d": [
+    "SROGOL"
+   ]
+  }
+ ],
+ "16744": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "CIGOMBONG",
+   "d": [
+    "CIADEG"
+   ]
+  }
+ ],
+ "16745": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "CIGOMBONG",
+   "d": [
+    "CIBURUY"
+   ]
+  }
+ ],
+ "16746": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "CIGOMBONG",
+   "d": [
+    "CIBURAYUT"
+   ]
+  }
+ ],
+ "16747": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "CIGOMBONG",
+   "d": [
+    "PASIR JAYA"
+   ]
+  }
+ ],
+ "16748": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "CIGOMBONG",
+   "d": [
+    "CISALADA"
+   ]
+  }
+ ],
+ "16749": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "CIGOMBONG",
+   "d": [
+    "TUGU JAYA"
+   ]
+  }
+ ],
+ "16751": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "CISARUA",
+   "d": [
+    "LEUWIMALANG"
+   ]
+  }
+ ],
+ "16752": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "CISARUA",
+   "d": [
+    "CITEKO"
+   ]
+  }
+ ],
+ "16753": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "CISARUA",
+   "d": [
+    "CIBEUREUM"
+   ]
+  }
+ ],
+ "16754": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "CISARUA",
+   "d": [
+    "TUGU SELATAN",
+    "TUGU UTARA"
+   ]
+  }
+ ],
+ "16755": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "CISARUA",
+   "d": [
+    "BATU LAYANG"
+   ]
+  }
+ ],
+ "16756": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "CISARUA",
+   "d": [
+    "JOGJOGAN"
+   ]
+  }
+ ],
+ "16757": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "CISARUA",
+   "d": [
+    "CILEMBER"
+   ]
+  }
+ ],
+ "16758": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "CISARUA",
+   "d": [
+    "KOPO"
+   ]
+  }
+ ],
+ "16759": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "CISARUA",
+   "d": [
+    "CISARUA"
+   ]
+  }
+ ],
+ "16771": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "MEGAMENDUNG",
+   "d": [
+    "MEGAMENDUNG"
+   ]
+  }
+ ],
+ "16772": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "MEGAMENDUNG",
+   "d": [
+    "CIPAYUNG",
+    "CIPAYUNG GIRANG",
+    "PASIR ANGIN"
+   ]
+  }
+ ],
+ "16773": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "MEGAMENDUNG",
+   "d": [
+    "GADOG"
+   ]
+  }
+ ],
+ "16774": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "MEGAMENDUNG",
+   "d": [
+    "SUKAKARYA",
+    "SUKAMAHI"
+   ]
+  }
+ ],
+ "16775": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "MEGAMENDUNG",
+   "d": [
+    "SUKAMAJU"
+   ]
+  }
+ ],
+ "16776": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "MEGAMENDUNG",
+   "d": [
+    "SUKAGALIH"
+   ]
+  }
+ ],
+ "16777": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "MEGAMENDUNG",
+   "d": [
+    "SUKAMANAH"
+   ]
+  }
+ ],
+ "16778": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "MEGAMENDUNG",
+   "d": [
+    "SUKARESMI"
+   ]
+  }
+ ],
+ "16779": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "MEGAMENDUNG",
+   "d": [
+    "KUTA"
+   ]
+  }
+ ],
+ "16781": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "CIJERUK",
+   "d": [
+    "CIPELANG"
+   ]
+  }
+ ],
+ "16782": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "CIJERUK",
+   "d": [
+    "CIJERUK"
+   ]
+  }
+ ],
+ "16783": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "CIJERUK",
+   "d": [
+    "WARUNG MENTENG"
+   ]
+  }
+ ],
+ "16784": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "CIJERUK",
+   "d": [
+    "CIBALUNG"
+   ]
+  }
+ ],
+ "16785": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "CIJERUK",
+   "d": [
+    "CIPICUNG"
+   ]
+  }
+ ],
+ "16786": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "CIJERUK",
+   "d": [
+    "PALASARI"
+   ]
+  }
+ ],
+ "16787": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "CIJERUK",
+   "d": [
+    "SUKAHARJA"
+   ]
+  }
+ ],
+ "16788": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "CIJERUK",
+   "d": [
+    "TAJUR HALANG"
+   ]
+  }
+ ],
+ "16789": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "CIJERUK",
+   "d": [
+    "TANJUNG SARI"
+   ]
+  }
+ ],
+ "16811": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "CITEUREUP",
+   "d": [
+    "CITEUREUP",
+    "PUSPANEGARA",
+    "PUSPASARI"
+   ]
+  }
+ ],
+ "16812": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "CITEUREUP",
+   "d": [
+    "KARANG ASEM BARAT",
+    "KARANG ASEM TIMUR"
+   ]
+  }
+ ],
+ "16813": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "CITEUREUP",
+   "d": [
+    "LEUWINUTUG"
+   ]
+  }
+ ],
+ "16814": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "CITEUREUP",
+   "d": [
+    "SANJA",
+    "SUKAHATI"
+   ]
+  }
+ ],
+ "16815": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "CITEUREUP",
+   "d": [
+    "TANGKIL"
+   ]
+  }
+ ],
+ "16816": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "CITEUREUP",
+   "d": [
+    "HAMBALANG"
+   ]
+  }
+ ],
+ "16817": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "CITEUREUP",
+   "d": [
+    "TAJUR"
+   ]
+  }
+ ],
+ "16818": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "CITEUREUP",
+   "d": [
+    "PASIR MUKTI"
+   ]
+  }
+ ],
+ "16819": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "CITEUREUP",
+   "d": [
+    "GUNUNG SARI",
+    "TARIKOLOT"
+   ]
+  }
+ ],
+ "16821": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "CILEUNGSI",
+   "d": [
+    "CILEUNGSI",
+    "CILEUNGSI KIDUL"
+   ]
+  }
+ ],
+ "16822": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "CILEUNGSI",
+   "d": [
+    "DAYEUH"
+   ]
+  }
+ ],
+ "16823": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "CILEUNGSI",
+   "d": [
+    "MAMPIR"
+   ]
+  }
+ ],
+ "16824": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "CILEUNGSI",
+   "d": [
+    "GANDOANG"
+   ]
+  }
+ ],
+ "16825": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "CILEUNGSI",
+   "d": [
+    "CIPEUCANG",
+    "JATISARI"
+   ]
+  }
+ ],
+ "16826": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "CILEUNGSI",
+   "d": [
+    "MEKARSARI"
+   ]
+  }
+ ],
+ "16827": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "CILEUNGSI",
+   "d": [
+    "CIPENJO"
+   ]
+  }
+ ],
+ "16828": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "CILEUNGSI",
+   "d": [
+    "PASIR ANGIN"
+   ]
+  }
+ ],
+ "16829": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "CILEUNGSI",
+   "d": [
+    "LIMUS NUNGGAL"
+   ]
+  }
+ ],
+ "16831": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "JONGGOL",
+   "d": [
+    "JONGGOL"
+   ]
+  }
+ ],
+ "16832": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "JONGGOL",
+   "d": [
+    "SUKAMAJU",
+    "SUKAMANAH"
+   ]
+  }
+ ],
+ "16833": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "JONGGOL",
+   "d": [
+    "SINGASARI"
+   ]
+  }
+ ],
+ "16834": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "JONGGOL",
+   "d": [
+    "SINGAJAYA"
+   ]
+  }
+ ],
+ "16835": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "JONGGOL",
+   "d": [
+    "CIBODAS"
+   ]
+  }
+ ],
+ "16836": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "JONGGOL",
+   "d": [
+    "SUKAJAYA",
+    "SUKANEGARA"
+   ]
+  }
+ ],
+ "16837": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "JONGGOL",
+   "d": [
+    "BALEKAMBANG",
+    "SUKASIRNA"
+   ]
+  }
+ ],
+ "16838": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "JONGGOL",
+   "d": [
+    "BENDUNGAN"
+   ]
+  }
+ ],
+ "16839": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "JONGGOL",
+   "d": [
+    "SIRNAGALIH",
+    "SUKAGALIH",
+    "WENINGGALIH"
+   ]
+  }
+ ],
+ "16841": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "CARIU",
+   "d": [
+    "CARIU"
+   ]
+  }
+ ],
+ "16842": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "CARIU",
+   "d": [
+    "MEKARWANGI"
+   ]
+  }
+ ],
+ "16843": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "CARIU",
+   "d": [
+    "KARYA MEKAR"
+   ]
+  }
+ ],
+ "16844": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "CARIU",
+   "d": [
+    "BANTAR KUNING",
+    "CIBATU TIGA"
+   ]
+  }
+ ],
+ "16845": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "CARIU",
+   "d": [
+    "CIKUTAMAHI"
+   ]
+  }
+ ],
+ "16846": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "CARIU",
+   "d": [
+    "KUTA MEKAR"
+   ]
+  }
+ ],
+ "16847": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "CARIU",
+   "d": [
+    "SUKAJADI"
+   ]
+  }
+ ],
+ "16848": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "CARIU",
+   "d": [
+    "BABAKAN RADEN"
+   ]
+  }
+ ],
+ "16849": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "CARIU",
+   "d": [
+    "TEGAL PANJANG"
+   ]
+  }
+ ],
+ "16851": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "TANJUNGSARI",
+   "d": [
+    "TANJUNG SARI"
+   ]
+  }
+ ],
+ "16852": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "TAMANSARI",
+   "d": [
+    "SIRNAGALIH"
+   ]
+  },
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "TANJUNGSARI",
+   "d": [
+    "SINARRASA",
+    "SINARSARI"
+   ]
+  }
+ ],
+ "16853": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "TANJUNGSARI",
+   "d": [
+    "BUANAJAYA"
+   ]
+  }
+ ],
+ "16854": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "TANJUNGSARI",
+   "d": [
+    "ANTAJAYA"
+   ]
+  }
+ ],
+ "16855": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "TANJUNGSARI",
+   "d": [
+    "PASIR TANJUNG"
+   ]
+  }
+ ],
+ "16856": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "TANJUNGSARI",
+   "d": [
+    "TANJUNG RASA"
+   ]
+  }
+ ],
+ "16857": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "TANJUNGSARI",
+   "d": [
+    "CIBADAK"
+   ]
+  }
+ ],
+ "16858": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "TANJUNGSARI",
+   "d": [
+    "SELAWANGI"
+   ]
+  }
+ ],
+ "16859": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "TANJUNGSARI",
+   "d": [
+    "SUKARASA"
+   ]
+  }
+ ],
+ "16861": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "BABAKAN MADANG",
+   "d": [
+    "BABAKAN MADANG"
+   ]
+  }
+ ],
+ "16862": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "BABAKAN MADANG",
+   "d": [
+    "CITARINGGUL"
+   ]
+  }
+ ],
+ "16863": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "BABAKAN MADANG",
+   "d": [
+    "SENTUL"
+   ]
+  }
+ ],
+ "16864": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "BABAKAN MADANG",
+   "d": [
+    "CIJAYANTI"
+   ]
+  }
+ ],
+ "16865": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "BABAKAN MADANG",
+   "d": [
+    "BOJONG KONENG"
+   ]
+  }
+ ],
+ "16866": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "BABAKAN MADANG",
+   "d": [
+    "SUMUR BATU"
+   ]
+  }
+ ],
+ "16867": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "BABAKAN MADANG",
+   "d": [
+    "KARANG TENGAH"
+   ]
+  }
+ ],
+ "16868": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "BABAKAN MADANG",
+   "d": [
+    "KADUMANGU"
+   ]
+  }
+ ],
+ "16869": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "BABAKAN MADANG",
+   "d": [
+    "CIPAMBUAN"
+   ]
+  }
+ ],
+ "16871": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "KELAPA NUNGGAL",
+   "d": [
+    "KELAPA NUNGGAL"
+   ]
+  }
+ ],
+ "16872": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "KELAPA NUNGGAL",
+   "d": [
+    "KEMBANG KUNING"
+   ]
+  }
+ ],
+ "16873": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "KELAPA NUNGGAL",
+   "d": [
+    "NAMBO"
+   ]
+  }
+ ],
+ "16874": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "KELAPA NUNGGAL",
+   "d": [
+    "BANTAR JATI"
+   ]
+  }
+ ],
+ "16875": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "KELAPA NUNGGAL",
+   "d": [
+    "LULUT"
+   ]
+  }
+ ],
+ "16876": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "KELAPA NUNGGAL",
+   "d": [
+    "LEUWIKARET"
+   ]
+  }
+ ],
+ "16877": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "KELAPA NUNGGAL",
+   "d": [
+    "CIKAHURIPAN"
+   ]
+  }
+ ],
+ "16878": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "KELAPA NUNGGAL",
+   "d": [
+    "BOJONG"
+   ]
+  }
+ ],
+ "16879": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "KELAPA NUNGGAL",
+   "d": [
+    "LIGARMUKTI"
+   ]
+  }
+ ],
+ "16881": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "SUKAMAKMUR",
+   "d": [
+    "SUKAMAKMUR"
+   ]
+  }
+ ],
+ "16882": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "SUKAMAKMUR",
+   "d": [
+    "CIBADAK"
+   ]
+  }
+ ],
+ "16883": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "SUKAMAKMUR",
+   "d": [
+    "SIRNAJAYA",
+    "WARGAJAYA"
+   ]
+  }
+ ],
+ "16884": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "SUKAMAKMUR",
+   "d": [
+    "SUKAWANGI"
+   ]
+  }
+ ],
+ "16885": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "SUKAMAKMUR",
+   "d": [
+    "SUKAHARJA"
+   ]
+  }
+ ],
+ "16886": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "SUKAMAKMUR",
+   "d": [
+    "SUKADAMAI"
+   ]
+  }
+ ],
+ "16887": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "SUKAMAKMUR",
+   "d": [
+    "SUKARESMI"
+   ]
+  }
+ ],
+ "16888": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "SUKAMAKMUR",
+   "d": [
+    "PABUARAN"
+   ]
+  }
+ ],
+ "16889": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "SUKAMAKMUR",
+   "d": [
+    "SUKAMULYA"
+   ]
+  }
+ ],
+ "16911": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "CIBINONG",
+   "d": [
+    "CIBINONG"
+   ]
+  }
+ ],
+ "16912": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "CIBINONG",
+   "d": [
+    "NANGGEWER",
+    "NANGGEWER MEKAR"
+   ]
+  }
+ ],
+ "16913": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "CIBINONG",
+   "d": [
+    "KARADENAN",
+    "PONDOK RAJEG",
+    "SUKAHATI"
+   ]
+  }
+ ],
+ "16914": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "CIBINONG",
+   "d": [
+    "HARAPAN JAYA",
+    "TENGAH"
+   ]
+  }
+ ],
+ "16915": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "CIBINONG",
+   "d": [
+    "PAKANSARI"
+   ]
+  }
+ ],
+ "16916": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "CIBINONG",
+   "d": [
+    "PABUARAN"
+   ]
+  }
+ ],
+ "16917": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "CIBINONG",
+   "d": [
+    "CIRIMEKAR"
+   ]
+  }
+ ],
+ "16919": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "CIBINONG",
+   "d": [
+    "CIRIUNG"
+   ]
+  }
+ ],
+ "16921": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "BOJONG GEDE",
+   "d": [
+    "PABUARAN"
+   ]
+  }
+ ],
+ "16922": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "BOJONG GEDE",
+   "d": [
+    "BOJONG GEDE"
+   ]
+  }
+ ],
+ "16923": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "BOJONG GEDE",
+   "d": [
+    "KEDUNG WARINGIN"
+   ]
+  }
+ ],
+ "16924": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "BOJONG GEDE",
+   "d": [
+    "CIMANGGIS"
+   ]
+  }
+ ],
+ "16925": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "BOJONG GEDE",
+   "d": [
+    "WARINGIN JAYA"
+   ]
+  }
+ ],
+ "16926": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "BOJONG GEDE",
+   "d": [
+    "BOJONG BARU"
+   ]
+  }
+ ],
+ "16927": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "BOJONG GEDE",
+   "d": [
+    "RAWA PANJANG"
+   ]
+  }
+ ],
+ "16928": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "BOJONG GEDE",
+   "d": [
+    "RAGAJAYA"
+   ]
+  }
+ ],
+ "16929": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "BOJONG GEDE",
+   "d": [
+    "SUSUKAN"
+   ]
+  }
+ ],
+ "16931": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "TAJUR HALANG",
+   "d": [
+    "TAJUR HALANG"
+   ]
+  }
+ ],
+ "16932": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "TAJUR HALANG",
+   "d": [
+    "TONJONG"
+   ]
+  }
+ ],
+ "16933": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "TAJUR HALANG",
+   "d": [
+    "SUKMAJAYA"
+   ]
+  }
+ ],
+ "16934": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "TAJUR HALANG",
+   "d": [
+    "NANGGERANG"
+   ]
+  }
+ ],
+ "16935": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "TAJUR HALANG",
+   "d": [
+    "CITAYAM"
+   ]
+  }
+ ],
+ "16936": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "TAJUR HALANG",
+   "d": [
+    "SASAK PANJANG"
+   ]
+  }
+ ],
+ "16937": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "TAJUR HALANG",
+   "d": [
+    "KALISUREN"
+   ]
+  }
+ ],
+ "16961": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "GUNUNG PUTRI",
+   "d": [
+    "GUNUNG PUTRI",
+    "KARANGGAN"
+   ]
+  }
+ ],
+ "16962": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "GUNUNG PUTRI",
+   "d": [
+    "TLAJUNG UDIK"
+   ]
+  }
+ ],
+ "16963": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "GUNUNG PUTRI",
+   "d": [
+    "BOJONG NANGKA"
+   ]
+  }
+ ],
+ "16964": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "GUNUNG PUTRI",
+   "d": [
+    "CICADAS"
+   ]
+  }
+ ],
+ "16965": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "GUNUNG PUTRI",
+   "d": [
+    "WANAHERANG"
+   ]
+  }
+ ],
+ "16966": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "GUNUNG PUTRI",
+   "d": [
+    "CIKEAS UDIK"
+   ]
+  }
+ ],
+ "16967": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "GUNUNG PUTRI",
+   "d": [
+    "NAGRAK"
+   ]
+  }
+ ],
+ "16968": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "GUNUNG PUTRI",
+   "d": [
+    "CIANGSANA"
+   ]
+  }
+ ],
+ "16969": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BOGOR",
+   "c": "GUNUNG PUTRI",
+   "d": [
+    "BOJONG KULUR"
+   ]
+  }
+ ],
+ "17111": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "BEKASI TIMUR",
+   "d": [
+    "DUREN JAYA"
+   ]
+  }
+ ],
+ "17112": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "BEKASI TIMUR",
+   "d": [
+    "BEKASI JAYA"
+   ]
+  }
+ ],
+ "17113": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "BEKASI TIMUR",
+   "d": [
+    "MARGAHAYU"
+   ]
+  }
+ ],
+ "17118": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "BEKASI TIMUR",
+   "d": [
+    "AREN JAYA"
+   ]
+  }
+ ],
+ "17121": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "BEKASI UTARA",
+   "d": [
+    "TELUK PUCUNG"
+   ]
+  }
+ ],
+ "17122": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "BEKASI UTARA",
+   "d": [
+    "PERWIRA"
+   ]
+  }
+ ],
+ "17123": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "BEKASI UTARA",
+   "d": [
+    "HARAPAN BARU"
+   ]
+  }
+ ],
+ "17124": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "BEKASI UTARA",
+   "d": [
+    "HARAPAN JAYA"
+   ]
+  }
+ ],
+ "17125": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "BEKASI UTARA",
+   "d": [
+    "KALIABANG TENGAH"
+   ]
+  }
+ ],
+ "17126": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "BEKASI UTARA",
+   "d": [
+    "MARGA MULYA"
+   ]
+  }
+ ],
+ "17134": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "BEKASI BARAT",
+   "d": [
+    "BINTARA"
+   ]
+  }
+ ],
+ "17135": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "BEKASI BARAT",
+   "d": [
+    "KRANJI"
+   ]
+  }
+ ],
+ "17136": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "BEKASI BARAT",
+   "d": [
+    "BINTARA JAYA"
+   ]
+  }
+ ],
+ "17137": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "BEKASI BARAT",
+   "d": [
+    "JAKA SAMPURNA"
+   ]
+  }
+ ],
+ "17139": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "BEKASI BARAT",
+   "d": [
+    "KOTA BARU"
+   ]
+  }
+ ],
+ "17141": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "BEKASI SELATAN",
+   "d": [
+    "MARGA JAYA"
+   ]
+  }
+ ],
+ "17144": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "BEKASI SELATAN",
+   "d": [
+    "KAYURINGIN JAYA"
+   ]
+  }
+ ],
+ "17146": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "BEKASI SELATAN",
+   "d": [
+    "JAKA MULYA"
+   ]
+  }
+ ],
+ "17147": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "BEKASI SELATAN",
+   "d": [
+    "JAKA SETIA"
+   ]
+  }
+ ],
+ "17148": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "BEKASI SELATAN",
+   "d": [
+    "PEKAYON JAYA"
+   ]
+  }
+ ],
+ "17151": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "BANTARGEBANG",
+   "d": [
+    "BANTARGEBANG"
+   ]
+  }
+ ],
+ "17152": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "BANTARGEBANG",
+   "d": [
+    "CIKIWUL"
+   ]
+  }
+ ],
+ "17153": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "BANTARGEBANG",
+   "d": [
+    "CIKETINGUDIK"
+   ]
+  }
+ ],
+ "17154": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "BANTARGEBANG",
+   "d": [
+    "SUMUR BATU"
+   ]
+  }
+ ],
+ "17165": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "MUSTIKAJAYA",
+   "d": [
+    "CIMUNING"
+   ]
+  }
+ ],
+ "17166": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "MUSTIKAJAYA",
+   "d": [
+    "PADURENAN"
+   ]
+  }
+ ],
+ "17167": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "MUSTIKAJAYA",
+   "d": [
+    "MUSTIKA SARI"
+   ]
+  }
+ ],
+ "17168": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "MUSTIKAJAYA",
+   "d": [
+    "MUSTIKA JAYA"
+   ]
+  }
+ ],
+ "17174": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "RAWALUMBU",
+   "d": [
+    "SEPANJANG JAYA"
+   ]
+  }
+ ],
+ "17175": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "RAWALUMBU",
+   "d": [
+    "PENGASINAN"
+   ]
+  }
+ ],
+ "17176": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "RAWALUMBU",
+   "d": [
+    "BOJONG RAWALUMBU"
+   ]
+  }
+ ],
+ "17177": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "RAWALUMBU",
+   "d": [
+    "BOJONG MENTENG"
+   ]
+  }
+ ],
+ "17181": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "MEDAN SATRIA",
+   "d": [
+    "PEJUANG"
+   ]
+  }
+ ],
+ "17182": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "MEDAN SATRIA",
+   "d": [
+    "MEDAN SATRIA"
+   ]
+  }
+ ],
+ "17183": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "MEDAN SATRIA",
+   "d": [
+    "KALI BARU"
+   ]
+  }
+ ],
+ "17184": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "MEDAN SATRIA",
+   "d": [
+    "HARAPAN MULYA"
+   ]
+  }
+ ],
+ "17211": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "TARUMAJAYA",
+   "d": [
+    "SEGARAMAKMUR"
+   ]
+  }
+ ],
+ "17212": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "TARUMAJAYA",
+   "d": [
+    "PANTAIMAKMUR"
+   ]
+  }
+ ],
+ "17213": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "TARUMAJAYA",
+   "d": [
+    "SETIAMULYA"
+   ]
+  }
+ ],
+ "17214": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "TARUMAJAYA",
+   "d": [
+    "PUSAKARAKYAT"
+   ]
+  }
+ ],
+ "17215": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "TARUMAJAYA",
+   "d": [
+    "SETIA ASIH"
+   ]
+  }
+ ],
+ "17216": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "TARUMAJAYA",
+   "d": [
+    "PAHLAWAN SETIA"
+   ]
+  }
+ ],
+ "17217": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "TARUMAJAYA",
+   "d": [
+    "SAMUDRAJAYA"
+   ]
+  }
+ ],
+ "17218": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "TARUMAJAYA",
+   "d": [
+    "SEGARAJAYA"
+   ]
+  }
+ ],
+ "17321": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "SETU",
+   "d": [
+    "LUBANGBUAYA"
+   ]
+  }
+ ],
+ "17322": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "SETU",
+   "d": [
+    "CIJENGKOL"
+   ]
+  }
+ ],
+ "17323": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "SETU",
+   "d": [
+    "BURANGKENG"
+   ]
+  }
+ ],
+ "17324": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "SETU",
+   "d": [
+    "TAMAN SARI"
+   ]
+  }
+ ],
+ "17325": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "SETU",
+   "d": [
+    "TAMAN RAHAYU"
+   ]
+  }
+ ],
+ "17326": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "SETU",
+   "d": [
+    "CIKARAGEMAN"
+   ]
+  }
+ ],
+ "17327": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "SETU",
+   "d": [
+    "MUKTIJAYA",
+    "RAGEMANUNGGAL"
+   ]
+  }
+ ],
+ "17328": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "SETU",
+   "d": [
+    "KERTARAHAYU"
+   ]
+  }
+ ],
+ "17329": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "SETU",
+   "d": [
+    "CIBENING",
+    "CILEDUK"
+   ]
+  }
+ ],
+ "17331": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "SERANG BARU",
+   "d": [
+    "SUKARAGAM"
+   ]
+  }
+ ],
+ "17332": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "SERANG BARU",
+   "d": [
+    "SUKASARI"
+   ]
+  }
+ ],
+ "17333": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "SERANG BARU",
+   "d": [
+    "JAYASAMPURNA"
+   ]
+  }
+ ],
+ "17334": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "SERANG BARU",
+   "d": [
+    "JAYAMULYA"
+   ]
+  }
+ ],
+ "17335": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "SERANG BARU",
+   "d": [
+    "SIRNAJAYA"
+   ]
+  }
+ ],
+ "17336": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "SERANG BARU",
+   "d": [
+    "NAGACIPTA"
+   ]
+  }
+ ],
+ "17337": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "SERANG BARU",
+   "d": [
+    "NAGASARI"
+   ]
+  }
+ ],
+ "17338": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "SERANG BARU",
+   "d": [
+    "CILANGKARA"
+   ]
+  }
+ ],
+ "17341": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "CIBARUSAH",
+   "d": [
+    "CIBARUSAHKOTA"
+   ]
+  }
+ ],
+ "17342": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "CIBARUSAH",
+   "d": [
+    "CIBARUSAHJAYA"
+   ]
+  }
+ ],
+ "17343": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "CIBARUSAH",
+   "d": [
+    "SIRNAJATI"
+   ]
+  }
+ ],
+ "17344": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "CIBARUSAH",
+   "d": [
+    "RIDOGALIH"
+   ]
+  }
+ ],
+ "17345": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "CIBARUSAH",
+   "d": [
+    "RIDOMANAH"
+   ]
+  }
+ ],
+ "17346": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "CIBARUSAH",
+   "d": [
+    "WIBAWAMULYA"
+   ]
+  }
+ ],
+ "17347": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "CIBARUSAH",
+   "d": [
+    "SINDANGMULYA"
+   ]
+  }
+ ],
+ "17411": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "PONDOKGEDE",
+   "d": [
+    "JATIWARINGIN"
+   ]
+  }
+ ],
+ "17412": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "PONDOKGEDE",
+   "d": [
+    "JATIBENING",
+    "JATIBENING BARU"
+   ]
+  }
+ ],
+ "17413": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "PONDOKGEDE",
+   "d": [
+    "JATIMAKMUR"
+   ]
+  }
+ ],
+ "17416": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "PONDOKGEDE",
+   "d": [
+    "JATICEMPAKA"
+   ]
+  }
+ ],
+ "17421": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "JATIASIH",
+   "d": [
+    "JATIKRAMAT"
+   ]
+  }
+ ],
+ "17422": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "JATIASIH",
+   "d": [
+    "JATIMEKAR"
+   ]
+  }
+ ],
+ "17423": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "JATIASIH",
+   "d": [
+    "JATIASIH"
+   ]
+  }
+ ],
+ "17424": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "JATIASIH",
+   "d": [
+    "JATIRASA"
+   ]
+  }
+ ],
+ "17425": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "JATIASIH",
+   "d": [
+    "JATILUHUR"
+   ]
+  }
+ ],
+ "17426": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "JATIASIH",
+   "d": [
+    "JATISARI"
+   ]
+  }
+ ],
+ "17432": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "JATISAMPURNA",
+   "d": [
+    "JATIRANGGON"
+   ]
+  }
+ ],
+ "17433": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "JATISAMPURNA",
+   "d": [
+    "JATISAMPURNA"
+   ]
+  }
+ ],
+ "17434": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "JATISAMPURNA",
+   "d": [
+    "JATIRANGGA"
+   ]
+  }
+ ],
+ "17435": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "JATISAMPURNA",
+   "d": [
+    "JATIKARYA"
+   ]
+  }
+ ],
+ "17436": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "JATISAMPURNA",
+   "d": [
+    "JATIRADEN"
+   ]
+  }
+ ],
+ "17441": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "PONDOKMELATI",
+   "d": [
+    "JATIMURNI"
+   ]
+  }
+ ],
+ "17444": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "PONDOKMELATI",
+   "d": [
+    "JATIRAHAYU"
+   ]
+  }
+ ],
+ "17445": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "PONDOKMELATI",
+   "d": [
+    "JATIWARNA"
+   ]
+  }
+ ],
+ "17446": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "PONDOKMELATI",
+   "d": [
+    "JATIMELATI"
+   ]
+  }
+ ],
+ "17451": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "BOJONGMANGU",
+   "d": [
+    "BOJONGMANGU"
+   ]
+  }
+ ],
+ "17452": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "BOJONGMANGU",
+   "d": [
+    "MEDALKRISNA"
+   ]
+  }
+ ],
+ "17453": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "BOJONGMANGU",
+   "d": [
+    "KARANGINDAH"
+   ]
+  }
+ ],
+ "17455": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "BOJONGMANGU",
+   "d": [
+    "KARANGMULYA"
+   ]
+  }
+ ],
+ "17456": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "BOJONGMANGU",
+   "d": [
+    "SUKABUNGAH"
+   ]
+  }
+ ],
+ "17457": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "BOJONGMANGU",
+   "d": [
+    "SUKAMUKTI"
+   ]
+  }
+ ],
+ "17511": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "TAMBUN SELATAN",
+   "d": [
+    "TAMBUN"
+   ]
+  }
+ ],
+ "17512": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "TAMBUN SELATAN",
+   "d": [
+    "JATIMULYA"
+   ]
+  }
+ ],
+ "17513": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "TAMBUN SELATAN",
+   "d": [
+    "LAMBANGSARI",
+    "SETIADARMA"
+   ]
+  }
+ ],
+ "17514": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "TAMBUN SELATAN",
+   "d": [
+    "LAMBANGJAYA"
+   ]
+  }
+ ],
+ "17515": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "TAMBUN SELATAN",
+   "d": [
+    "MEKARSARI"
+   ]
+  }
+ ],
+ "17516": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "TAMBUN SELATAN",
+   "d": [
+    "TRIDAYASAKTI"
+   ]
+  }
+ ],
+ "17517": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "TAMBUN SELATAN",
+   "d": [
+    "MANGUNJAYA"
+   ]
+  }
+ ],
+ "17518": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "TAMBUN SELATAN",
+   "d": [
+    "SUMBERJAYA"
+   ]
+  }
+ ],
+ "17519": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "TAMBUN SELATAN",
+   "d": [
+    "SETIAMEKAR"
+   ]
+  }
+ ],
+ "17521": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "CIBITUNG",
+   "d": [
+    "WANASARI"
+   ]
+  }
+ ],
+ "17522": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "CIBITUNG",
+   "d": [
+    "CIBUNTU"
+   ]
+  }
+ ],
+ "17523": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "CIBITUNG",
+   "d": [
+    "WANAJAYA"
+   ]
+  }
+ ],
+ "17524": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "CIBITUNG",
+   "d": [
+    "SUKAJAYA"
+   ]
+  }
+ ],
+ "17525": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "CIBITUNG",
+   "d": [
+    "KERTAMUKTI"
+   ]
+  }
+ ],
+ "17526": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "CIBITUNG",
+   "d": [
+    "MUKTIWARI"
+   ]
+  }
+ ],
+ "17527": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "CIBITUNG",
+   "d": [
+    "SARIMUKTI"
+   ]
+  }
+ ],
+ "17531": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "KARANGBAHAGIA",
+   "d": [
+    "KARANGBAHAGIA"
+   ]
+  }
+ ],
+ "17532": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "KARANGBAHAGIA",
+   "d": [
+    "KARANGSENTOSA"
+   ]
+  }
+ ],
+ "17533": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "KARANGBAHAGIA",
+   "d": [
+    "KARANGANYAR"
+   ]
+  }
+ ],
+ "17534": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "KARANGBAHAGIA",
+   "d": [
+    "KARANGSETIA"
+   ]
+  }
+ ],
+ "17535": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "KARANGBAHAGIA",
+   "d": [
+    "KARANGRAHAYU"
+   ]
+  }
+ ],
+ "17536": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "KARANGBAHAGIA",
+   "d": [
+    "SUKARAYA"
+   ]
+  }
+ ],
+ "17537": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "KARANGBAHAGIA",
+   "d": [
+    "KARANGSATU"
+   ]
+  }
+ ],
+ "17538": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "KARANGBAHAGIA",
+   "d": [
+    "KARANGMUKTI"
+   ]
+  }
+ ],
+ "17541": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "KEDUNGWARINGIN",
+   "d": [
+    "KEDUNGWARINGIN"
+   ]
+  }
+ ],
+ "17542": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "KEDUNGWARINGIN",
+   "d": [
+    "KARANGMEKAR"
+   ]
+  }
+ ],
+ "17543": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "KEDUNGWARINGIN",
+   "d": [
+    "MEKARJAYA"
+   ]
+  }
+ ],
+ "17544": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "KEDUNGWARINGIN",
+   "d": [
+    "KARANGHARUM"
+   ]
+  }
+ ],
+ "17545": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "KEDUNGWARINGIN",
+   "d": [
+    "KARANGSAMBUNG"
+   ]
+  }
+ ],
+ "17546": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "KEDUNGWARINGIN",
+   "d": [
+    "WARINGINJAYA"
+   ]
+  }
+ ],
+ "17547": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "KEDUNGWARINGIN",
+   "d": [
+    "BOJONGSARI"
+   ]
+  }
+ ],
+ "17561": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "TAMBUN UTARA",
+   "d": [
+    "SRIAMUR"
+   ]
+  }
+ ],
+ "17562": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "TAMBUN UTARA",
+   "d": [
+    "SATRIAMEKAR"
+   ]
+  }
+ ],
+ "17563": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "TAMBUN UTARA",
+   "d": [
+    "SATRIAJAYA"
+   ]
+  }
+ ],
+ "17564": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "TAMBUN UTARA",
+   "d": [
+    "KARANGSATRIA"
+   ]
+  }
+ ],
+ "17565": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "TAMBUN UTARA",
+   "d": [
+    "SRIMUKTI"
+   ]
+  }
+ ],
+ "17566": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "TAMBUN UTARA",
+   "d": [
+    "JEJALENJAYA"
+   ]
+  }
+ ],
+ "17567": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "TAMBUN UTARA",
+   "d": [
+    "SRIMAHI"
+   ]
+  }
+ ],
+ "17568": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "TAMBUN UTARA",
+   "d": [
+    "SRIJAYA"
+   ]
+  }
+ ],
+ "17611": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "BABELAN",
+   "d": [
+    "BABELAN KOTA"
+   ]
+  }
+ ],
+ "17612": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "BABELAN",
+   "d": [
+    "BAHAGIA"
+   ]
+  }
+ ],
+ "17613": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "BABELAN",
+   "d": [
+    "KEBALEN"
+   ]
+  }
+ ],
+ "17614": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "BABELAN",
+   "d": [
+    "KEDUNGPENGAWAS"
+   ]
+  }
+ ],
+ "17615": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "BABELAN",
+   "d": [
+    "KEDUNGJAYA"
+   ]
+  }
+ ],
+ "17617": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "BABELAN",
+   "d": [
+    "BUNIBAKTI"
+   ]
+  }
+ ],
+ "17618": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "BABELAN",
+   "d": [
+    "HURIPJAYA",
+    "PANTAI HURIP"
+   ]
+  }
+ ],
+ "17619": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "BABELAN",
+   "d": [
+    "MUARABAKTI"
+   ]
+  }
+ ],
+ "17621": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "TAMBELANG",
+   "d": [
+    "SUKARAPIH"
+   ]
+  }
+ ],
+ "17622": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "TAMBELANG",
+   "d": [
+    "SUKARAJA"
+   ]
+  }
+ ],
+ "17623": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "TAMBELANG",
+   "d": [
+    "SUKAMAJU"
+   ]
+  }
+ ],
+ "17624": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "TAMBELANG",
+   "d": [
+    "SUKARAHAYU"
+   ]
+  }
+ ],
+ "17625": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "TAMBELANG",
+   "d": [
+    "SUKABAKTI"
+   ]
+  }
+ ],
+ "17626": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "TAMBELANG",
+   "d": [
+    "SUKAWIJAYA"
+   ]
+  }
+ ],
+ "17627": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "TAMBELANG",
+   "d": [
+    "SUKAMANTRI"
+   ]
+  }
+ ],
+ "17631": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "SUKATANI",
+   "d": [
+    "SUKAMULYA"
+   ]
+  }
+ ],
+ "17632": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "SUKATANI",
+   "d": [
+    "SUKADARMA"
+   ]
+  }
+ ],
+ "17633": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "SUKATANI",
+   "d": [
+    "SUKAMANAH"
+   ]
+  }
+ ],
+ "17634": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "SUKATANI",
+   "d": [
+    "SUKAHURIP"
+   ]
+  }
+ ],
+ "17635": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "SUKATANI",
+   "d": [
+    "BANJARSARI"
+   ]
+  }
+ ],
+ "17636": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "SUKATANI",
+   "d": [
+    "SUKAASIH"
+   ]
+  }
+ ],
+ "17637": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "SUKATANI",
+   "d": [
+    "SUKARUKUN"
+   ]
+  }
+ ],
+ "17641": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "SUKAKARYA",
+   "d": [
+    "SUKAKARYA"
+   ]
+  }
+ ],
+ "17642": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "SUKAKARYA",
+   "d": [
+    "SUKAINDAH"
+   ]
+  }
+ ],
+ "17643": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "SUKAKARYA",
+   "d": [
+    "SUKAMURNI"
+   ]
+  }
+ ],
+ "17644": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "SUKAKARYA",
+   "d": [
+    "SUKAJADI"
+   ]
+  }
+ ],
+ "17645": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "SUKAKARYA",
+   "d": [
+    "SUKALAKSANA"
+   ]
+  }
+ ],
+ "17646": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "SUKAKARYA",
+   "d": [
+    "SUKAKARSA"
+   ]
+  }
+ ],
+ "17647": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "SUKAKARYA",
+   "d": [
+    "SUKAMAKMUR"
+   ]
+  }
+ ],
+ "17651": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "SUKAWANGI",
+   "d": [
+    "SUKAWANGI"
+   ]
+  }
+ ],
+ "17652": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "SUKAWANGI",
+   "d": [
+    "SUKAKERTA"
+   ]
+  }
+ ],
+ "17653": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "SUKAWANGI",
+   "d": [
+    "SUKARINGIN"
+   ]
+  }
+ ],
+ "17654": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "SUKAWANGI",
+   "d": [
+    "SUKATENANG"
+   ]
+  }
+ ],
+ "17655": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "SUKAWANGI",
+   "d": [
+    "SUKAMEKAR"
+   ]
+  }
+ ],
+ "17656": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "SUKAWANGI",
+   "d": [
+    "SUKADAYA"
+   ]
+  }
+ ],
+ "17657": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "SUKAWANGI",
+   "d": [
+    "SUKABUDI"
+   ]
+  }
+ ],
+ "17711": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "PEBAYURAN",
+   "d": [
+    "KERTASARI"
+   ]
+  }
+ ],
+ "17712": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "PEBAYURAN",
+   "d": [
+    "KERTAJAYA"
+   ]
+  }
+ ],
+ "17713": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "PEBAYURAN",
+   "d": [
+    "KARANGHAUR",
+    "KARANGPATRI"
+   ]
+  }
+ ],
+ "17714": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "PEBAYURAN",
+   "d": [
+    "SUMBERREJA",
+    "SUMBERSARI",
+    "SUMBERURIP"
+   ]
+  }
+ ],
+ "17715": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "PEBAYURAN",
+   "d": [
+    "KARANGHARJA"
+   ]
+  }
+ ],
+ "17716": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "PEBAYURAN",
+   "d": [
+    "KARANGSEGAR"
+   ]
+  }
+ ],
+ "17717": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "PEBAYURAN",
+   "d": [
+    "KARANGJAYA",
+    "KARANGREJA"
+   ]
+  }
+ ],
+ "17718": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "PEBAYURAN",
+   "d": [
+    "BANTARSARI"
+   ]
+  }
+ ],
+ "17719": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "PEBAYURAN",
+   "d": [
+    "BANTARJAYA"
+   ]
+  }
+ ],
+ "17721": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "CABANGBUNGIN",
+   "d": [
+    "SETIAJAYA"
+   ]
+  }
+ ],
+ "17722": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "CABANGBUNGIN",
+   "d": [
+    "LENGGAHSARI"
+   ]
+  }
+ ],
+ "17723": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "CABANGBUNGIN",
+   "d": [
+    "JAYABAKTI"
+   ]
+  }
+ ],
+ "17724": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "CABANGBUNGIN",
+   "d": [
+    "SINDANGJAYA"
+   ]
+  }
+ ],
+ "17725": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "CABANGBUNGIN",
+   "d": [
+    "SINDANGSARI"
+   ]
+  }
+ ],
+ "17726": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "CABANGBUNGIN",
+   "d": [
+    "JAYALAKSANA"
+   ]
+  }
+ ],
+ "17727": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "CABANGBUNGIN",
+   "d": [
+    "SETIALAKSANA"
+   ]
+  }
+ ],
+ "17728": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "CABANGBUNGIN",
+   "d": [
+    "LENGGAHJAYA"
+   ]
+  }
+ ],
+ "17731": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "MUARA GEMBONG",
+   "d": [
+    "PANTAIMEKAR"
+   ]
+  }
+ ],
+ "17732": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "MUARA GEMBONG",
+   "d": [
+    "PANTAI HARAPANJAYA"
+   ]
+  }
+ ],
+ "17733": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "MUARA GEMBONG",
+   "d": [
+    "JAYASAKTI"
+   ]
+  }
+ ],
+ "17734": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "MUARA GEMBONG",
+   "d": [
+    "PANTAIBAKTI"
+   ]
+  }
+ ],
+ "17735": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "MUARA GEMBONG",
+   "d": [
+    "PANTAIBAHAGIA"
+   ]
+  }
+ ],
+ "17736": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "MUARA GEMBONG",
+   "d": [
+    "PANTAI SEDERHANA"
+   ]
+  }
+ ],
+ "17811": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "CIKARANG PUSAT",
+   "d": [
+    "SUKAMAHI"
+   ]
+  }
+ ],
+ "17812": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "CIKARANG PUSAT",
+   "d": [
+    "CICAU"
+   ]
+  }
+ ],
+ "17813": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "CIKARANG PUSAT",
+   "d": [
+    "PASIRRANJI"
+   ]
+  }
+ ],
+ "17814": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "CIKARANG PUSAT",
+   "d": [
+    "PASIRTANJUNG"
+   ]
+  }
+ ],
+ "17815": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "CIKARANG PUSAT",
+   "d": [
+    "HEGARMUKTI"
+   ]
+  }
+ ],
+ "17816": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "CIKARANG PUSAT",
+   "d": [
+    "JAYAMUKTI"
+   ]
+  }
+ ],
+ "17821": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "CIKARANG TIMUR",
+   "d": [
+    "JATIBARU"
+   ]
+  }
+ ],
+ "17822": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "CIKARANG TIMUR",
+   "d": [
+    "JATIREJA"
+   ]
+  }
+ ],
+ "17823": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "CIKARANG TIMUR",
+   "d": [
+    "SERTAJAYA"
+   ]
+  }
+ ],
+ "17824": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "CIKARANG TIMUR",
+   "d": [
+    "HEGARMANAH"
+   ]
+  }
+ ],
+ "17825": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "CIKARANG TIMUR",
+   "d": [
+    "CIPAYUNG"
+   ]
+  }
+ ],
+ "17826": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "CIKARANG TIMUR",
+   "d": [
+    "LABANSARI"
+   ]
+  }
+ ],
+ "17827": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "CIKARANG TIMUR",
+   "d": [
+    "TANJUNGBARU"
+   ]
+  }
+ ],
+ "17828": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "CIKARANG TIMUR",
+   "d": [
+    "KARANGSARI"
+   ]
+  }
+ ],
+ "17831": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "CIKARANG UTARA",
+   "d": [
+    "CIKARANG KOTA"
+   ]
+  }
+ ],
+ "17832": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "CIKARANG UTARA",
+   "d": [
+    "KARANGBARU"
+   ]
+  }
+ ],
+ "17833": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "CIKARANG UTARA",
+   "d": [
+    "WANGUNHARJA"
+   ]
+  }
+ ],
+ "17834": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "CIKARANG UTARA",
+   "d": [
+    "MEKARMUKTI"
+   ]
+  }
+ ],
+ "17835": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "CIKARANG UTARA",
+   "d": [
+    "PASIRGOMBONG"
+   ]
+  }
+ ],
+ "17836": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "CIKARANG UTARA",
+   "d": [
+    "SIMPANGAN"
+   ]
+  }
+ ],
+ "17837": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "CIKARANG UTARA",
+   "d": [
+    "WALUYA"
+   ]
+  }
+ ],
+ "17838": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "CIKARANG UTARA",
+   "d": [
+    "TANJUNGSARI"
+   ]
+  }
+ ],
+ "17839": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "CIKARANG UTARA",
+   "d": [
+    "KARANGASIH",
+    "KARANGRAHARJA"
+   ]
+  }
+ ],
+ "17841": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "CIKARANG BARAT",
+   "d": [
+    "TELAGA ASIH"
+   ]
+  }
+ ],
+ "17842": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "CIKARANG BARAT",
+   "d": [
+    "GANDAMEKAR",
+    "GANDASARI"
+   ]
+  }
+ ],
+ "17843": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "CIKARANG BARAT",
+   "d": [
+    "MEKARWANGI"
+   ]
+  }
+ ],
+ "17844": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "CIKARANG BARAT",
+   "d": [
+    "TELAJUNG"
+   ]
+  }
+ ],
+ "17845": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "CIKARANG BARAT",
+   "d": [
+    "CIKEDOKAN"
+   ]
+  }
+ ],
+ "17846": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "CIKARANG BARAT",
+   "d": [
+    "JATIWANGI"
+   ]
+  }
+ ],
+ "17847": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "CIKARANG BARAT",
+   "d": [
+    "DANAUINDAH"
+   ]
+  }
+ ],
+ "17848": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "CIKARANG BARAT",
+   "d": [
+    "SUKADANAU"
+   ]
+  }
+ ],
+ "17849": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "CIKARANG BARAT",
+   "d": [
+    "KALIJAYA",
+    "TELAGAMURNI"
+   ]
+  }
+ ],
+ "17851": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "CIKARANG SELATAN",
+   "d": [
+    "SUKADAMI"
+   ]
+  }
+ ],
+ "17852": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "CIKARANG SELATAN",
+   "d": [
+    "CIANTRA"
+   ]
+  }
+ ],
+ "17853": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "CIKARANG SELATAN",
+   "d": [
+    "SUKASEJATI"
+   ]
+  }
+ ],
+ "17854": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "CIKARANG SELATAN",
+   "d": [
+    "SERANG"
+   ]
+  }
+ ],
+ "17855": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "CIKARANG SELATAN",
+   "d": [
+    "CIBATU"
+   ]
+  }
+ ],
+ "17856": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "CIKARANG SELATAN",
+   "d": [
+    "PASIRSARI"
+   ]
+  }
+ ],
+ "17857": [
+  {
+   "p": "JAWA BARAT",
+   "k": "BEKASI",
+   "c": "CIKARANG SELATAN",
+   "d": [
+    "SUKARESMI"
+   ]
+  }
+ ]
+}

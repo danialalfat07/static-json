@@ -1,0 +1,978 @@
+{
+  "AMBON": {
+    "LEITIMUR SELATAN": {
+      "EMA": "97132",
+      "HATALAE": "97135",
+      "HUKURILA": "97131",
+      "HUTUMURI": "97136",
+      "KILANG": "97133",
+      "LEAHARI": "97138",
+      "NAKU": "97134",
+      "RUTONG": "97137"
+    },
+    "NUSANIWE": {
+      "AMAHUSU": "97117",
+      "KEL KUDAMATI": "97116",
+      "KEL MANGGA DUA": "97114",
+      "KEL SILALE": "97111",
+      "KEL URIMESING": "97113",
+      "KEL WAIHAONG": "97112",
+      "KEL WAINITU": "97115",
+      "LATUHALAT": "97118",
+      "NUSANIWE": "97117",
+      "SEILALE": "97118",
+      "URIMESING": "97119"
+    },
+    "SIRIMAU": {
+      "BATU MERAH": "97128",
+      "GALALA": "97128",
+      "HATIVE KECIL": "97128",
+      "KEL AHUSEN": "97127",
+      "KEL AMANTELU": "97122",
+      "KEL BATU GAJA": "97127",
+      "KEL BATU MEJA": "97125",
+      "KEL HONIPOPU": "97126",
+      "KEL KARANG PANJANG": "97121",
+      "KEL RIJALI": "97123",
+      "PANDAN KASTURI": "97129",
+      "SOYA": "97129",
+      "URITETU": "97124",
+      "WAIHOKA": "97129"
+    },
+    "TELUK AMBON": {
+      "HATIVE BESAR": "97225",
+      "HUNUTH/DURIAN PATAH": "97221",
+      "LAHA": "97227",
+      "POKA": "97222",
+      "RUMAH TIGA": "97223",
+      "TAWIRI": "97226",
+      "WAIYAME": "97224"
+    },
+    "TELUK AMBON BAGUALA": {
+      "HALONG": "97212",
+      "LATERI": "97211",
+      "LATTA": "97213",
+      "NANIA": "97216",
+      "NEGERI LAMA": "97215",
+      "PASSO": "97214",
+      "WAIHERU": "97217"
+    }
+  },
+  "BURU": {
+    "AIR BUAYA": {
+      "AIR BUAYA": "97373",
+      "BARA": "97373",
+      "TANJUNG KARANG": "97373"
+    },
+    "BATA BUAL": {
+      "BATU JUNGKU": "97375",
+      "ILATH": "97375",
+      "PELA": "97375",
+      "WAEMORAT": "97375"
+    },
+    "FENA LEISELA": {
+      "BALBALU": "97373",
+      "LEMANPOLI": "97373",
+      "RAHERIAT": "97373",
+      "WAELANALANA": "97373",
+      "WAEMITE": "97373",
+      "WAEREMAN": "97373",
+      "WAMANA BARU": "97373",
+      "WAMLANA": "97373",
+      "WASI": "97373",
+      "WASPAIT": "97373"
+    },
+    "LILIALY": {
+      "JIKUMERASA": "97371",
+      "SAWA": "97371",
+      "UBUNG": "97371",
+      "WAEPERANG": "97371",
+      "WAIMITING": "97371"
+    },
+    "LOLONG GUBA": {
+      "GRANDENG": "97374",
+      "KUBALAHIN": "97374",
+      "LELE": "97374",
+      "NAFRUA": "97374",
+      "OHILAHIN": "97374",
+      "TIFU": "97374",
+      "WABLOY": "97374",
+      "WAEGEREN": "97374",
+      "WANAKARTA": "97374",
+      "WAPSALIT": "97374"
+    },
+    "NAMLEA": {
+      "JAMILU": "97371",
+      "KARANG JAYA": "97371",
+      "LALA": "97371",
+      "NAMLEA": "97371",
+      "SANLEKO": "97371",
+      "SIAHONI": "97371"
+    },
+    "TELUK KAIELY": {
+      "KAKI AIR": "97374",
+      "MASARETE": "97374",
+      "SEITH": "97374",
+      "WAELAPIA": "97374"
+    },
+    "WAEAPO": {
+      "SAVANAJAYA": "97374",
+      "WAEKERTA": "97374",
+      "WAENETAT": "97374",
+      "WAETELE": "97374"
+    },
+    "WAELATA": {
+      "BASALALE": "97374",
+      "DAVA": "97374",
+      "DEBOWAE": "97374",
+      "PARBULU": "97374",
+      "WAEHATA": "97374",
+      "WAELEMAN": "97374",
+      "WAELO": "97374",
+      "WAETINA": "97374",
+      "WAFLAN": "97374",
+      "WIDIT": "97374"
+    },
+    "WAPLAU": {
+      "HATAWANO": "97372",
+      "LAMAHANG": "97372",
+      "NAMSINA": "97372",
+      "SAMALAGI": "97372",
+      "WAPLAU": "97372",
+      "WAPREA": "97372"
+    }
+  },
+  "BURU SELATAN": {
+    "AMBALAU": {
+      "ELARA": "97361",
+      "KAMPUNG BARU": "97361",
+      "LUMOY": "97361",
+      "MASAWOY": "97361",
+      "SELASI": "97361"
+    },
+    "FENA FAFAN": {
+      "FAKAL": "97351",
+      "MNGESWAEN": "97351",
+      "NUSARUA": "97351",
+      "SIWATLAHIN": "97351",
+      "TRUKAT": "97351",
+      "UNETH": "97351",
+      "WAEEKEN": "97351",
+      "WAEKATIN": "97351",
+      "WAELO": "97351"
+    },
+    "KEPALA MADAN": {
+      "AIR TERNATE": "97354",
+      "BALPETU": "97354",
+      "BILORO": "97354",
+      "FOGI": "97354",
+      "NANALI": "97354",
+      "PASIR PUTIH": "97354",
+      "SEKAT": "97354",
+      "WAEHA": "97353",
+      "WAEKEKA": "97354",
+      "WAEPANDAN": "97354",
+      "WALBELE": "97354"
+    },
+    "LEKSULA": {
+      "KASE": "97353",
+      "LEKSULA": "97353",
+      "LIANG": "97353",
+      "MEPA": "97353",
+      "NALBESSY": "97353",
+      "NEATH": "97353",
+      "SLEALALE": "97353",
+      "TIFU": "97353",
+      "WAEHAKA": "97353",
+      "WAEMALA": "97353",
+      "WAEMULANG": "97353",
+      "WAETUREN": "97353",
+      "WAEWALI": "97351"
+    },
+    "NAMROLE": {
+      "ELFULE": "97351",
+      "FATMITE": "97351",
+      "LABUANG": "97351",
+      "LEKTAMA": "97351",
+      "LEKU": "97351",
+      "OKI  LAMA": "97351",
+      "OKI BARU": "97351",
+      "WAENALUT": "97351",
+      "WALI": "97351",
+      "WAMKANA": "97351"
+    },
+    "WAISAMA": {
+      "LENA": "97352",
+      "POHON BATU": "97352",
+      "SIMI": "97352",
+      "WAELIKUT": "97352",
+      "WAESILI": "97352",
+      "WAETAWA": "97352",
+      "WAETEBA": "97352",
+      "WAMSISI": "97352"
+    }
+  },
+  "KEPULAUAN ARU": {
+    "ARU SELATAN": {
+      "DOKA BARAT": "97692",
+      "DOKA TIMUR": "97692",
+      "FATURAL": "97692",
+      "FERUNI": "97692",
+      "GAIMAR": "97692",
+      "JELIA": "97692",
+      "JEROL": "97692",
+      "KABALUKIN": "97692",
+      "KALAR KALAR": "97692",
+      "LAININIR": "97692",
+      "LOR LOR": "97692",
+      "NGAIBOR": "97692",
+      "NGAIGULI": "97692",
+      "POPJETUR": "97692"
+    },
+    "ARU SELATAN TIMUR": {
+      "BATUGOYANG": "97693",
+      "BELTUBUR": "97693",
+      "DOSIMAR": "97693",
+      "GOMARMETI": "97693",
+      "GOMARSUNGAI": "97693",
+      "JORANG": "97693",
+      "KAREY": "97693",
+      "MEROR": "97693",
+      "SALAREM": "97693",
+      "SIYA": "97693"
+    },
+    "ARU SELATAN UTARA": {
+      "ERERSIN": "97691",
+      "HOKMAR": "97691",
+      "JURING": "97691",
+      "LUTUR": "97691",
+      "REBI": "97691",
+      "TABARFANE": "97691"
+    },
+    "ARU TENGAH": {
+      "ALGADANG": "97687",
+      "BENJINA": "97687",
+      "FATLABATA": "97687",
+      "GARDAKAU": "97687",
+      "IRLOY": "97687",
+      "JIRLAY": "97687",
+      "KOBADANGAR": "97687",
+      "KOBASELFARA": "97687",
+      "KOBASELTIMUR": "97687",
+      "KWARBOLA": "97687",
+      "LORANG": "97687",
+      "MAIJURING": "97687",
+      "MANJAU": "97687",
+      "MARIRIMAR": "97687",
+      "MURAI": "97687",
+      "NAMARA": "97687",
+      "PAPAKULA": "97687",
+      "SELIBATABATA": "97687",
+      "SELILAU": "97687",
+      "TANAH MIRING": "97687",
+      "WAKUA": "97687"
+    },
+    "ARU TENGAH SELATAN": {
+      "APARA": "97689",
+      "GOMO GOMO": "97689",
+      "JAMBU AIR": "97689",
+      "LONGGAR": "97689",
+      "MESIANG": "97689",
+      "WARABAL": "97689"
+    },
+    "ARU TENGAH TIMUR": {
+      "BALATAN": "97688",
+      "BASADA": "97688",
+      "DOSINAMALAU": "97688",
+      "KAIWABAR": "97688",
+      "KARAWAI": "97688",
+      "KOBROR": "97688",
+      "KOIJABI": "97688",
+      "LOLA": "97688",
+      "MARIRI": "97688",
+      "PONOM": "97688",
+      "WAILAY": "97688",
+      "WARJUKUR": "97688",
+      "WARLOY": "97688"
+    },
+    "ARU UTARA": {
+      "FOKET": "97682",
+      "JERWATU": "97682",
+      "KABUFIN": "97682",
+      "KAIBOLAFIN": "97682",
+      "KOLAMAR": "97682",
+      "MARLASI": "97682",
+      "SELMONA": "97682",
+      "TASINWAHA": "97682",
+      "WAHANGULANGULA": "97682",
+      "WAHAYUM": "97682",
+      "WARIALAU": "97682"
+    },
+    "ARU UTARA TIMUR BATULEY": {
+      "BATULEY": "97683",
+      "BENJURING": "97683",
+      "JURSIANG": "97683",
+      "KABALSIANG": "97683",
+      "KOMPANE": "97683",
+      "KUMUL": "97683",
+      "SEWER": "97683",
+      "WARIA": "97683"
+    },
+    "PULAU-PULAU ARU": {
+      "DURJELA": "97681",
+      "GORAR": "97681",
+      "KARANGGULI": "97681",
+      "KOBRAUR": "97681",
+      "LAU LAU": "97681",
+      "SAMANG": "97681",
+      "TUNGU": "97681",
+      "TUNGUWATU": "97681",
+      "WANGEL": "97681",
+      "WOKAM": "97681"
+    },
+    "SIR-SIR": {
+      "GOMSEY": "97684",
+      "LANGHALAU": "97684",
+      "WAFAN": "97684",
+      "WAIFUAL": "97684"
+    }
+  },
+  "MALUKU BARAT DAYA": {
+    "BABAR TIMUR": {
+      "AHANARI": "97451",
+      "ANALUTUR": "97451",
+      "EMPALWAS": "97451",
+      "KOKWARI": "97451",
+      "KROING": "97451",
+      "LETWURUNG": "97451",
+      "MANUARI": "97451",
+      "NAKARHAMTO": "97451",
+      "TUTUWAWANG": "97451",
+      "WAKPAPAPI": "97451",
+      "YATOKE": "97451"
+    },
+    "DAMER": {
+      "BATUMERAH": "97441",
+      "BEBAR TIMUR": "97441",
+      "ILIH": "97441",
+      "KEHLI": "97441",
+      "KUMUR": "97441",
+      "WULUR": "97441"
+    },
+    "LETTI": {
+      "BATUMIAU": "97453",
+      "LAITUTUN": "97453",
+      "LUHULELY": "97453",
+      "NUWEWANG": "97453",
+      "TOMRA": "97453",
+      "TUTUKEY": "97453",
+      "TUTUWARU": "97453"
+    },
+    "MDONA HIERA": {
+      "BATU GAJAH": "97452",
+      "ELO": "97452",
+      "LELANG": "97452",
+      "LUANG BARAT": "97452",
+      "LUANG TIMUR": "97452",
+      "MAHALETA": "97452",
+      "PUPIOLIORA": "97452",
+      "REGOHA": "97452",
+      "ROMDARA": "97452",
+      "ROMKISAR": "97452",
+      "ROTNAMA": "97452"
+    },
+    "MOA": {
+      "KAIWATU": "97453",
+      "KLIS": "97453",
+      "MOAIN": "97453",
+      "PATTI": "97453",
+      "TOUNWAWAN": "97453",
+      "WAKARLELI": "97453",
+      "WERWARU": "97453"
+    },
+    "PP. BABAR": {
+      "HERTUTI": "97452",
+      "IMROING": "97452",
+      "LETSIARA": "97452",
+      "LEWAH": "97452",
+      "MANUWUI": "97452",
+      "SINAIRUSI": "97452",
+      "TELA": "97452",
+      "TEPA": "97452",
+      "YALTUBUNG": "97452"
+    },
+    "PP. TERSELATAN": {
+      "ABUSUR": "97454",
+      "KOTA LAMA": "97454",
+      "LEKLOOR": "97454",
+      "OIRATA BARAT": "97454",
+      "OIRATA TIMUR": "97454",
+      "WONRELI": "97454"
+    },
+    "PULAU MASELA": {
+      "LAWAWANG": "97451"
+    },
+    "WETAR": {
+      "HIAY": "97455",
+      "ILPUTIH": "97455",
+      "ILWAKI": "97455",
+      "MAHUAN": "97455",
+      "MASAPUN": "97455"
+    },
+    "WETAR BARAT": {
+      "KLISHATU": "97453",
+      "TELEMAR": "97452",
+      "USTUTUN": "97453"
+    }
+  },
+  "MALUKU TENGAH": {
+    "AMAHAI": {
+      "AMAHAI": "97552",
+      "BANDA BARU": "97552",
+      "HARURU": "97552",
+      "HOLLO": "97552",
+      "MAKARIKI": "97552",
+      "RUTAH": "97552",
+      "SEHATI": "97552",
+      "SEPA": "97552",
+      "SOAHUKU": "97552",
+      "TAMILOUW": "97552",
+      "YAFILA": "97552"
+    },
+    "BANDA": {
+      "DWI WARNA": "97548",
+      "KAMPUNG BARU": "97548",
+      "LONTHOR": "97548",
+      "MERDEKA": "97548",
+      "NUSANTARA": "97548",
+      "PULAU AI": "97548",
+      "PULAU HATTA": "97548",
+      "PULAU RHUN": "97548",
+      "RAJAWALI": "97548",
+      "SELAMON": "97548",
+      "TANAH RATA": "97548",
+      "WAER": "97548"
+    },
+    "KOTA MASOHI": {
+      "AMPERA": "97513",
+      "LESANE": "97514",
+      "LETWARU": "97515",
+      "NAMAELO": "97511",
+      "NAMASINA": "97512"
+    },
+    "LEIHITU": {
+      "ASILULU": "97543",
+      "HILA": "97543",
+      "HITU LAMA": "97543",
+      "HITU MESING": "97543",
+      "KAITETU": "97543",
+      "MAMALA": "97543",
+      "MORELA": "97543",
+      "NEGERI LIMA": "97543",
+      "SEITH": "97543",
+      "URENG": "97543",
+      "WAKAL": "97543"
+    },
+    "LEIHITU BARAT": {
+      "ALLANG": "97542",
+      "HATU": "97542",
+      "LARIKE": "97542",
+      "LILIBOI": "97542",
+      "WAKASIHU": "97542"
+    },
+    "NUSALAUT": {
+      "ABUBU": "97547",
+      "AKOON": "97547",
+      "AMETH": "97547",
+      "LEINITU": "97547",
+      "NALAHIA": "97547",
+      "SILA": "97547",
+      "TITAWAAI": "97547"
+    },
+    "P. HARUKU": {
+      "ABORU": "97545",
+      "HARUKU": "97545",
+      "HULALIU": "97545",
+      "KABAU": "97545",
+      "KAILOLO": "97545",
+      "KARIUW": "97545",
+      "OMA": "97545",
+      "ROHOMONI": "97545",
+      "SAMETH": "97545",
+      "WASSU": "97545"
+    },
+    "SALAHUTU": {
+      "LIANG": "97544",
+      "SULI": "97544",
+      "TENGAH-TENGAH": "97544",
+      "TIAL": "97544",
+      "TULEHU": "97544",
+      "WAAI": "97544"
+    },
+    "SAPARUA": {
+      "BOOI": "97546",
+      "HARIA": "97546",
+      "KULUR": "97546",
+      "PAPERU": "97546",
+      "SAPARUA": "97546",
+      "TIOUW": "97546"
+    },
+    "SERAM UTARA": {
+      "AIR BESAR": "97557",
+      "HUAULU": "97557",
+      "KALOA": "97557",
+      "KANIKEH": "97557",
+      "MANUSELA": "97557",
+      "PASAHARI": "97557",
+      "ROHO": "97557",
+      "RUMAH SOKAT": "97557",
+      "SAWAI": "97557",
+      "WAHAI": "97557"
+    },
+    "SERAM UTARA BARAT": {
+      "GALE-GALE": "97559",
+      "HORALE": "97559",
+      "KARLUTUKARA": "97559",
+      "LABUAN": "97559",
+      "LATEA": "97559",
+      "LISABATA TIMUR": "97559",
+      "PAA": "97559",
+      "PASANEA": "97559",
+      "RUMAHWEY": "97559",
+      "SALEMAN": "97559",
+      "WAILULU": "97559",
+      "WARASIWA": "97559"
+    },
+    "SERAM UTARA TIMUR KOBI": {
+      "KABAUHARI": "97545",
+      "KOBI": "97555",
+      "KOBI MUKTI": "97555",
+      "LEAWAI": "97555",
+      "MANEO RENDAH": "97555",
+      "MARASAHUA": "97555",
+      "MOROKAY": "97555",
+      "SAMAL": "97555",
+      "SARIPUTIH": "97555",
+      "WAIMUSI": "97555",
+      "WAITONIPA": "97555"
+    },
+    "SERAM UTARA TIMUR SETI": {
+      "AKETERNATE": "97556",
+      "NAMTO": "97556",
+      "SETI": "97556",
+      "TANAH MERAH": "97556",
+      "TIHUANA": "97556",
+      "WAILOPING": "97556",
+      "WAIMUSAL": "97556",
+      "WAIPUTIH": "97556",
+      "WAITILA": "97556"
+    },
+    "TEHORU": {
+      "HATU": "97553",
+      "HATUMETE": "97553",
+      "HAYA": "97553",
+      "MOSSO": "97553",
+      "PILIANA": "97553",
+      "SALAMAHU": "97553",
+      "SAUNULU": "97553",
+      "TEHORU": "97553",
+      "TELUTI BARU": "97553",
+      "YAPUTIH": "97553"
+    },
+    "TELUK ELPAPUTIH": {
+      "LIANG": "97551",
+      "SAHULAU": "97551",
+      "TANANAHU": "97551",
+      "WARAKA": "97551"
+    },
+    "TELUTIH": {
+      "HUNISI": "97554",
+      "LAFA": "97554",
+      "LAHA": "97554",
+      "LAHAKABA": "97554",
+      "LAIMU": "97554",
+      "TEHUA": "97554",
+      "ULAHAHAN": "97554",
+      "WOLU": "97554",
+      "YAMALATU": "97554"
+    },
+    "TEON NILA SERUA": {
+      "AMETH": "97558",
+      "BUMEY": "97558",
+      "JERILI": "97558",
+      "KOKROMAN": "97558",
+      "KURALELE": "97558",
+      "LAYENI": "97558",
+      "LESLURU": "97558",
+      "MESA": "97558",
+      "NAKUPIA": "97558",
+      "SIFLURU": "97558",
+      "TRANA": "97558",
+      "USLIAPAN": "97558",
+      "WARU": "97558",
+      "WATLUDAN": "97558",
+      "WOTAY": "97558"
+    }
+  },
+  "MALUKU TENGGARA": {
+    "HOAT SORBAY": {
+      "WIRIN": "97626"
+    },
+    "KEI BESAR": {
+      "DEPUR": "97641",
+      "ELAT": "97641",
+      "ELRALANG": "97641",
+      "FAKO": "97641",
+      "LER OHOILIM": "97641",
+      "OHOIEL": "97641",
+      "OHOILIM": "97641",
+      "OHOINANGAN": "97641",
+      "OHOINANGAN ATAS": "97641",
+      "OHOIWAIT": "97641",
+      "RAHARENG": "97641",
+      "RAHARENG ATAS": "97641",
+      "REYAMRU": "97641",
+      "WAUR": "97641",
+      "WAURTAHAIT": "97641",
+      "WERKA": "97641",
+      "YAMTEL": "97641"
+    },
+    "KEI BESAR SELATAN": {
+      "KILWAT": "97642",
+      "LARAT": "97642",
+      "NERONG": "97642",
+      "OHOIRENAN": "97642",
+      "TAMANGIL NUHUTEN": "97642",
+      "TAMANGIL NUHUYANAT": "97642",
+      "TUTREAN": "97642",
+      "WEDUAR": "97642"
+    },
+    "KEI BESAR UTARA TIMUR": {
+      "BANDA ELI": "97643",
+      "HAAR OHOIMEL": "97643",
+      "HAAR OHOIMUR RK": "97643",
+      "LANGGIAR HAAR": "97643",
+      "OHOIFAU": "97643",
+      "RENFAAN": "97643"
+    },
+    "KEI KECIL": {
+      "FAAN": "97651",
+      "IBRA": "97651",
+      "KELANIT": "97651",
+      "KOLSER": "97651",
+      "LETMAN": "97651",
+      "OHOIDERTAWUN": "97651",
+      "SATHEAN": "97651"
+    },
+    "KEI KECIL BARAT": {
+      "OHOIDERTOM": "97655",
+      "OHOIDERTUTU": "97655",
+      "OHOIRA": "97655",
+      "TANIMBAR KEI": "97655",
+      "UR PULAU": "97655",
+      "WARBAL": "97655"
+    },
+    "KEI KECIL TIMUR": {
+      "ABEAN": "97656",
+      "MASTUR": "97656",
+      "OHOINOL": "97656",
+      "WAIN": "97656"
+    }
+  },
+  "MALUKU TENGGARA BARAT": {
+    "KORMOMOLIN": {
+      "ALUSI BATJAS": "97467",
+      "ALUSI BUUK JALIN": "97467",
+      "ALUSI KELAAN": "97467",
+      "ALUSI KRAWAIN": "97467",
+      "ALUSI TAMRIAN": "97467",
+      "KILMASA": "97467",
+      "LORWEMBUN": "97467",
+      "LUMASEBU": "97467"
+    },
+    "MOLU MARU": {
+      "NURKAT": "97473",
+      "TUTUNAMETAL": "97473",
+      "WULMASA": "97473"
+    },
+    "NIRUNMAS": {
+      "ARMA": "97468",
+      "MANGLUSI": "97468",
+      "TUTUKEMBONG": "97468",
+      "WATMURI": "97468",
+      "WATURU": "97468"
+    },
+    "SELARU": {
+      "ADAUT": "97464",
+      "FURSUI": "97464",
+      "KANDAR": "97464",
+      "LINGAT": "97464",
+      "NAMTABUNG": "97464",
+      "WERAIN": "97464"
+    },
+    "TANIMBAR SELATAN": {
+      "BOMAKI": "97465",
+      "ILNGEI": "97465",
+      "KABIARAT RAYA": "97465",
+      "LATDALAM": "97465",
+      "LAURAN": "97465",
+      "LERMATANG": "97465",
+      "MATAKUS": "97465",
+      "SAUMLAKI": "97465",
+      "SIFNANA": "97465",
+      "WOWONDA": "97465"
+    },
+    "TANIMBAR UTARA": {
+      "KELAAN": "97463",
+      "LAMDESAR BARAT": "97463",
+      "LAMDESAR TIMUR": "97463",
+      "LELINGLUAN": "97463",
+      "RIDOOL": "97463",
+      "RITABEL": "97463",
+      "WAITIDAL": "97463"
+    },
+    "WER MAKTIAN": {
+      "BATU PUTIH": "97471",
+      "MAKATIAN": "97471",
+      "MARANTUTUL": "97471",
+      "RUMAH SALUT": "97471",
+      "THEMIN": "97471",
+      "WELUTU": "97471",
+      "WERATAN": "97471",
+      "WERMATANG": "97471"
+    },
+    "WER TAMRIAN": {
+      "AMDASA": "97466",
+      "ARUI BAB": "97466",
+      "ARUI DAS": "97466",
+      "LORULUN": "97466",
+      "SANGLIAT DOL": "97466",
+      "SANGLIAT KRAWAIN": "97466",
+      "TUMBUR": "97466"
+    },
+    "WUAR LABOBAR": {
+      "ABAT": "97472",
+      "AWEAR RUMNGEUR": "97472",
+      "KILON": "97472",
+      "LABOBAR": "97472",
+      "LINGADA": "97472",
+      "WATMASA": "97472",
+      "WUNLAH": "97472"
+    },
+    "YARU": {
+      "ADODO FORDATA": "97479",
+      "AWEAR": "97479",
+      "ROMEAN": "97479",
+      "RUMNGEUR": "97479",
+      "SOFYANIN": "97479",
+      "WALERANG": "97479"
+    }
+  },
+  "SERAM BAGIAN BARAT": {
+    "AMALATU": {
+      "HUALOY": "97565",
+      "LATU": "97565",
+      "RUMAHKAY": "97565",
+      "TALA": "97565"
+    },
+    "ELPAPUTIH": {
+      "HUKU KECIL": "97568",
+      "SANAHU": "97568",
+      "SUMEITH PASINARO": "97568",
+      "WASIA": "97545"
+    },
+    "HUAMUAL": {
+      "ARIATE": "97571",
+      "IHA": "97571",
+      "KULUR": "97571",
+      "LUHU": "97571"
+    },
+    "HUAMUAL BELAKANG": {
+      "ALANG ASAUDE": "97572",
+      "BUANO SELATAN": "97572",
+      "BUANO UTARA": "97572",
+      "SOLE": "97572",
+      "TAHALUPU": "97572",
+      "TONU JAYA": "97572"
+    },
+    "INAMOSOL": {
+      "HUKUANAKOTA": "97567",
+      "MANUSA": "97567",
+      "RAMBATU": "97567",
+      "RUMBERU": "97567"
+    },
+    "KAIRATU": {
+      "HATUSUA": "97566",
+      "KAIRATU": "97566",
+      "KAMARIAN": "97566",
+      "SERUAWAN": "97566",
+      "URAUR": "97566",
+      "WAIMITAL": "97566",
+      "WAIPIRIT": "97566"
+    },
+    "KAIRATU BARAT": {
+      "KAMAL": "97564",
+      "LOHIATALA": "97564",
+      "WAIHATU": "97564",
+      "WAISARISA": "97564"
+    },
+    "KEPULAUAN MANIPA": {
+      "BUANO HATUPUTIH": "97579",
+      "KELANG ASAUDE": "97579",
+      "LUHUTUBAN": "97579",
+      "MASAWOI": "97579",
+      "TUMALEHU BARAT": "97579",
+      "TUNIWARA": "97579"
+    },
+    "SERAM BARAT": {
+      "KAIBOBU": "97561",
+      "MOREKAU": "97561",
+      "PIRU": "97561"
+    },
+    "TANIWEL": {
+      "HULUNG": "97562",
+      "KASIE": "97562",
+      "LISABATA": "97562",
+      "MORNATEN": "97562",
+      "NIKULUKAN": "97562",
+      "NINIARI": "97561",
+      "NIWELEHU": "97562",
+      "NUKUHAY": "97562",
+      "NUNIALI": "97562",
+      "PASINALO": "97562",
+      "PATAHUWE": "97562",
+      "TANIWEL": "97562",
+      "WAKOLO": "97562"
+    },
+    "TANIWEL TIMUR": {
+      "HATUNURU": "97563",
+      "MALOANG": "97563",
+      "MATAPA": "97563",
+      "MUSIHUWEY": "97563",
+      "SOLEA": "97563",
+      "SUKARAJA": "97563",
+      "TOUNUSSA": "97563",
+      "UWEN PANTAI": "97563",
+      "WALAKONE": "97563"
+    }
+  },
+  "SERAM BAGIAN TIMUR": {
+    "BULA": {
+      "BULA": "97581",
+      "ENGLAS": "97581",
+      "SALAS": "97581",
+      "SESAR": "97586"
+    },
+    "BULA BARAT": {
+      "AKI JAYA": "97582",
+      "HOTE": "97582",
+      "JAKARTA BARU": "97582",
+      "JEMBATAN BASAH": "97582",
+      "RUKUN JAYA": "97582",
+      "SUMBER AGUNG": "97582"
+    },
+    "GOROM TIMUR": {
+      "ARAN": "97592",
+      "ARMADA": "97592",
+      "BAS": "97592",
+      "BASARIN": "97592",
+      "GOHA": "97592",
+      "KILKODA": "97592",
+      "KOTA SIRI": "97592",
+      "MIRAN": "97592",
+      "RARAT": "97592",
+      "SAGEY": "97592",
+      "TUNAS ILUR": "97592"
+    },
+    "PULAU PANJANG": {
+      "LALASA": "97591",
+      "MAGAT": "97591",
+      "RUKU-RUKU": "97591"
+    },
+    "SERAM TIMUR": {
+      "GESER": "97594",
+      "KEFFING": "97594",
+      "KELLU": "97594",
+      "KILTAI": "97594",
+      "KILWARU": "97594",
+      "URUNG": "97594"
+    },
+    "SIWALALAT": {
+      "ATIAHU": "97584",
+      "DIHIL": "97583",
+      "ELNUSA": "97583",
+      "LAPELA": "97583",
+      "NAYET": "97583",
+      "POLIN": "97583"
+    },
+    "TELUK WARU": {
+      "KARAY": "97545"
+    },
+    "TEOR": {
+      "DURYAR RUMOY": "97596",
+      "KAMPUNG BARU": "97596",
+      "KAMPUNG TENGA WERMAF": "97596",
+      "KARLOKIN": "97596",
+      "KARTUTIN KARTENGA": "97596",
+      "KILWOUW": "97596",
+      "MAMUR": "97596",
+      "TEOR": "97596"
+    },
+    "TUTUK TOLU": {
+      "AIRKASAR": "97586",
+      "DANAMA": "97586",
+      "GAH": "97586",
+      "KILBAT": "97586",
+      "KILMOY": "97586",
+      "SESAR": "97586",
+      "WARAS-WARAS": "97586"
+    },
+    "WAKATE": {
+      "AMAR LAUT": "97595",
+      "EFFA": "97595",
+      "ILILI": "97595",
+      "KELANGAN": "97595",
+      "LAHEMA": "97595",
+      "TAMHER TIMUR": "97595",
+      "TAMHER WARAT": "97595",
+      "UTTA": "97595"
+    },
+    "WERINAMA": {
+      "BATUASA": "97584",
+      "BEMO": "97584",
+      "HATUMETEN": "97584",
+      "WERINAMA": "97584"
+    }
+  },
+  "TUAL": {
+    "PP. KUR": {
+      "FINUALEN": "97627",
+      "KAIMEAR": "97625",
+      "LOKWIRIN": "97626",
+      "TUBYAL": "97625"
+    },
+    "PULAU DULLAH SELATAN": {
+      "KEL. KETSOBLAK": "97611",
+      "KEL. LODAR EL": "97614",
+      "KEL. MASRUM": "97613",
+      "TAAR": "97612",
+      "TUAL": "97612"
+    },
+    "PULAU DULLAH UTARA": {
+      "DULLAH LAUT": "97618",
+      "FIDITAN": "97615",
+      "LABETAWI": "97616",
+      "NGADI": "97616",
+      "OHOITAHIT": "97617",
+      "OHOITEL": "97618",
+      "TAMEDAN": "97617"
+    },
+    "TAYANDO TAM": {
+      "TAM NGURHIR": "97621",
+      "TAYANDO LANGGIAR": "97622",
+      "TAYANDO OHOIEL": "97624",
+      "TAYANDO YAMRU": "97624",
+      "TAYANDO YAMTEL": "97623"
+    }
+  }
+}
