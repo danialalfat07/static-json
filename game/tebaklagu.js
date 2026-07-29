@@ -1,729 +1,506 @@
-[
-    {
-        "index": 1,
-        "lagu": "https://raw.githubusercontent.com/Aiinne/scrape/main/song/sound4418.mp3",
-        "judul": "Faded",
-        "artis": "Alan Walker"
-    },
-    {
-        "index": 2,
-        "lagu": "https://raw.githubusercontent.com/Aiinne/scrape/main/song/pudar.mp3",
-        "judul": "Pudar",
-        "artis": "Rossa"
-    },
-    {
-        "index": 3,
-        "lagu": "https://raw.githubusercontent.com/Aiinne/scrape/main/song/jiwa-bersedih.mp3",
-        "judul": "Jiwa Yang Bersedih",
-        "artis": "Ghea Indrawari"
-    },
-    {
-        "index": 4,
-        "lagu": "https://raw.githubusercontent.com/Aiinne/scrape/main/song/after.mp3",
-        "judul": "After School",
-        "artis": "[MV] Weeekly(위클리)"
-    },
-    {
-        "index": 5,
-        "lagu": "https://raw.githubusercontent.com/Aiinne/scrape/main/song/gatalgatal.mp3",
-        "judul": "De Yang Gatal Gatal Sa",
-        "artis": "Aldo Bz"
-    },
-    {
-        "index": 6,
-        "lagu": "https://raw.githubusercontent.com/Aiinne/scrape/main/song/kamupemain.mp3",
-        "judul": "Kamu Pemain Aku Pelatih",
-        "artis": "Avolia"
-    },
-    {
-        "index": 7,
-        "lagu": "https://raw.githubusercontent.com/Aiinne/scrape/main/song/takemyhand.mp3",
-        "judul": "Take My Hand",
-        "artis": "Klaas, Freischwimmer & Sary"
-    },
-    {
-        "index": 8,
-        "lagu": "https://raw.githubusercontent.com/Aiinne/scrape/main/song/apakabarkamu.mp3",
-        "judul": "Apa Kabar Kamu",
-        "artis": "Armada"
-    },
-    {
-        "index": 9,
-        "lagu": "https://raw.githubusercontent.com/Aiinne/scrape/main/song/rock-my-body.mp3",
-        "judul": "Rock My Body",
-        "artis": "R3hab x Inna x Sash"
-    },
-    {
-        "index": 10,
-        "lagu": "https://raw.githubusercontent.com/Aiinne/scrape/main/song/sound4027.mp3",
-        "judul": "I Need A Doctors",
-        "artis": "Dr. Dre ft. Eminem, Skylar Grey"
-    },
-    {
-        "lagu": "https://raw.githubusercontent.com/Aiinne/scrape/main/song/bitch.mp3",
-        "judul": "Build a Bitch",
-        "artis": "Bella Poarch"
-    },
-    {
-        "index": 11,
-        "lagu": "https://raw.githubusercontent.com/Aiinne/scrape/main/song/reason.mp3",
-        "judul": "Just Give Me A Reason",
-        "artis": "P!nk"
-    },
-    {
-        "index": 12,
-        "lagu": "https://raw.githubusercontent.com/Aiinne/scrape/main/song/sound2628.mp3",
-        "judul": "Denyut Jantungku Berdebar",
-        "artis": "Casablanca"
-    },
-    {
-        "index": 13,
-        "lagu": "https://raw.githubusercontent.com/Aiinne/scrape/main/song/remember.mp3",
-        "judul": "Remember Out Summer",
-        "artis": "Frogmonster"
-    },
-    {
-        "index": 14,
-        "lagu": "https://raw.githubusercontent.com/Aiinne/scrape/main/song/AUD-20220901-WA0015.mp3",
-        "judul": "Feel Only Love",
-        "artis": "Klaas & Mister Ruiz"
-    },
-    {
-        "index": 15,
-        "lagu": "https://raw.githubusercontent.com/Aiinne/scrape/main/song/sound5022.mp3",
-        "judul": "Angel Baby",
-        "artis": "Troye Sivan"
-    },
-    {
-        "index": 16,
-        "lagu": "https://raw.githubusercontent.com/Aiinne/scrape/main/song/atmyworst.mp3",
-        "judul": "At My Worst",
-        "artis": "Pink Sweats"
-    },
-    {
-        "index": 17,
-        "lagu": "https://raw.githubusercontent.com/Aiinne/scrape/main/song/sound9422.mp3",
-        "judul": "Rip Love",
-        "artis": "Faouzia"
-    },
-    {
-        "index": 18,
-        "lagu": "https://raw.githubusercontent.com/Aiinne/scrape/main/song/sound3221.mp3",
-        "judul": "Dear Diary",
-        "artis": "Els Warouw"
-    },
-    {
-        "index": 19,
-        "lagu": "https://raw.githubusercontent.com/Aiinne/scrape/main/song/kepastian.mp3",
-        "judul": "Kepastian Rasa",
-        "artis": "ZBI Crew"
-    },
-    {
-        "index": 20,
-        "lagu": "https://raw.githubusercontent.com/Aiinne/scrape/main/song/lily.mp3",
-        "judul": "Lily",
-        "artis": "Alan Walker"
-    },
-    {
-        "index": 21,
-        "lagu": "https://raw.githubusercontent.com/Aiinne/scrape/main/song/unravel.mp3",
-        "judul": "Unravel",
-        "artis": "Tokyo Ghoul"
-    },
-    {
-        "index": 22,
-        "lagu": "https://raw.githubusercontent.com/Aiinne/scrape/main/song/Grateful.mp3",
-        "judul": "Grateful",
-        "artis": "Neffex"
-    },
-    {
-        "index": 23,
-        "lagu": "https://raw.githubusercontent.com/Aiinne/scrape/main/song/SomethingJustLikeThis.mp3",
-        "judul": "Something Just Like This",
-        "artis": "Alan Walker"
-    },
-    {
-        "index": 24,
-        "lagu": "https://raw.githubusercontent.com/Aiinne/scrape/main/song/TroubleIsAFriend.mp3",
-        "judul": "Trouble Is A Friend",
-        "artis": "Lenka"
-    },
-    {
-        "index": 25,
-        "lagu": "https://raw.githubusercontent.com/Aiinne/scrape/main/song/sound7618.mp3",
-        "judul": "Waka Waka",
-        "artis": "Shakira"
-    },
-    {
-        "index": 26,
-        "lagu": "https://raw.githubusercontent.com/Aiinne/scrape/main/song/sound7890.mp3",
-        "judul": "Numb",
-        "artis": "Linkin Park"
-    },
-    {
-        "index": 27,
-        "lagu": "https://raw.githubusercontent.com/Aiinne/scrape/main/song/.mp3",
-        "judul": "Die Young",
-        "artis": "Kesha"
-    },
-    {
-        "index": 28,
-        "lagu": "https://raw.githubusercontent.com/Aiinne/scrape/main/song/playdate.mp3",
-        "judul": "Play Date",
-        "artis": "Melanie Martinez"
-    },
-    {
-        "index": 29,
-        "lagu": "https://raw.githubusercontent.com/Aiinne/scrape/main/song/sound6251.mp3",
-        "judul": "So Am I",
-        "artis": "Ava Max"
-    },
-    {
-        "index": 30,
-        "lagu": "https://raw.githubusercontent.com/Aiinne/scrape/main/song/legendsneverdie.mp3",
-        "judul": "Legends Never Die",
-        "artis": "League of Legends"
-    },
-    {
-        "index": 31,
-        "lagu": "https://raw.githubusercontent.com/Aiinne/scrape/main/song/tentangaku.mp3",
-        "judul": "Tentang Aku Kau Dan Dia",
-        "artis": "Kangen Band"
-    },
-    {
-        "index": 32,
-        "lagu": "https://raw.githubusercontent.com/Aiinne/scrape/main/song/sound3347.mp3",
-        "judul": "Ruang Rindu",
-        "artis": "Letto"
-    },
-    {
-        "index": 33,
-        "lagu": "https://raw.githubusercontent.com/Aiinne/scrape/main/song/sound2955.mp3",
-        "judul": "Surat Cinta Untuk Starla",
-        "artis": "Virgoun"
-    },
-    {
-        "index": 34,
-        "lagu": "https://raw.githubusercontent.com/Aiinne/scrape/main/song/kusimpan.mp3",
-        "judul": "Kusimpan Rindu Di hati",
-        "artis": "Punk Rock Jalanan"
-    },
-    {
-        "index": 35,
-        "lagu": "https://raw.githubusercontent.com/Aiinne/scrape/main/song/Merindukanmu.mp3",
-        "judul": "Merindukanmu",
-        "artis": "Dash Uciha"
-    },
-    {
-        "index": 36,
-        "lagu": "https://raw.githubusercontent.com/Aiinne/scrape/main/song/sound8820.mp3",
-        "judul": "Takkan Terganti",
-        "artis": "Kangen Band"
-    },
-    {
-        "index": 37,
-        "lagu": "https://raw.githubusercontent.com/Aiinne/scrape/main/song/DisaatAkuTersakiti.mp3",
-        "judul": "Disaat Aku Tersakiti",
-        "artis": "Dadali"
-    },
-    {
-        "index": 38,
-        "lagu": "https://raw.githubusercontent.com/Aiinne/scrape/main/song/Umbrella.mp3",
-        "judul": "Umbrella",
-        "artis": "Rihana"
-    },
-    {
-        "index": 39,
-        "lagu": "https://raw.githubusercontent.com/Aiinne/scrape/main/song/lathi.mp3",
-        "judul": "Lathi",
-        "artis": "Weird Genius"
-    },
-    {
-        "index": 40,
-        "lagu": "https://raw.githubusercontent.com/Aiinne/scrape/main/song/angan.mp3",
-        "judul": "Angan",
-        "artis": "FDM"
-    },
-    {
-        "index": 41,
-        "lagu": "https://raw.githubusercontent.com/Aiinne/scrape/main/song/LoveMeLikeYouDo.mp3",
-        "judul": "Love Me Like You Do",
-        "artis": "Ellie Goulding"
-    },
-    {
-        "index": 42,
-        "lagu": "https://raw.githubusercontent.com/Aiinne/scrape/main/song/sound.mp3",
-        "judul": "Meraih Bintang",
-        "artis": "Via Vallen"
-    },
-    {
-        "index": 43,
-        "lagu": "https://raw.githubusercontent.com/Aiinne/scrape/main/song/sound7782.mp3",
-        "judul": "With You",
-        "artis": "HOAPROX"
-    },
-    {
-        "index": 44,
-        "lagu": "https://raw.githubusercontent.com/Aiinne/scrape/main/song/sound8101.mp3",
-        "judul": "Wonderland",
-        "artis": "Axel Johansson"
-    },
-    {
-        "no": 45,
-        "judul": "Where We Are",
-        "artis": "One Direction",
-        "url": "https://files.catbox.moe/vci35q.mp3"
-    },
-    {
-        "no": 46,
-        "judul": "Dangerous",
-        "artis": "Kardinal Offishal",
-        "url": "https://files.catbox.moe/0rdv3z.mp3"
-    },
-    {
-        "no": 47,
-        "judul": "Angel Numbers",
-        "artis": "Chris Brown",
-        "url": "https://files.catbox.moe/lnec7i.mp3"
-    },
-    {
-        "no": 48,
-        "judul": "One Call Away",
-        "artis": "Charlie Puth",
-        "url": "https://files.catbox.moe/8shxjw.mp3"
-    },
-    {
-        "no": 49,
-        "judul": "Backburner",
-        "artis": "NIKI",
-        "url": "https://files.catbox.moe/g47jzi.mp3"
-    },
-    {
-        "no": 50,
-        "judul": "I Don't Love You",
-        "artis": "My Chemical Romance",
-        "url": "https://files.catbox.moe/l8cxnd.mp3"
-    },
-    {
-        "no": 51,
-        "judul": "Helena",
-        "artis": "My Chemical Romance",
-        "url": "https://files.catbox.moe/7co0lh.mp3"
-    },
-    {
-        "no": 52,
-        "judul": "Welcome To The Black Parade",
-        "artis": "My Chemical Romance",
-        "url": "https://files.catbox.moe/6i2y1t.mp3"
-    },
-    {
-        "no": 53,
-        "judul": "Mama",
-        "artis": "My Chemical Romance",
-        "url": "https://files.catbox.moe/l2mja7.mp3"
-    },
-    {
-        "no": 54,
-        "judul": "Cancer",
-        "artis": "My Chemical Romance",
-        "url": "https://files.catbox.moe/tv6144.mp3"
-    },
-    {
-        "no": 55,
-        "judul": "Seize The Day",
-        "artis": "Avenged Sevenfold",
-        "url": "https://files.catbox.moe/7c45fb.mp3"
-    },
-    {
-        "no": 56,
-        "judul": "Danger Line",
-        "artis": "Avenged Sevenfold",
-        "url": "https://files.catbox.moe/80hi4p.mp3"
-    },
-    {
-        "no": 57,
-        "judul": "Gunslinger",
-        "artis": "Avenged Sevenfold",
-        "url": "https://files.catbox.moe/nqfmos.mp3"
-    },
-    {
-        "no": 58,
-        "judul": "So Far Away",
-        "artis": "Avenged Sevenfold",
-        "url": "https://files.catbox.moe/nih20k.mp3"
-    },
-    {
-        "no": 59,
-        "judul": "Afterlife",
-        "artis": "Avenged Sevenfold",
-        "url": "https://files.catbox.moe/dn9ck7.mp3"
-    },
-    {
-        "no": 60,
-        "judul": "A Little Piece Of Heaven",
-        "artis": "Avenged Sevenfold",
-        "url": "https://files.catbox.moe/zz0d1i.mp3"
-    },
-    {
-        "no": 61,
-        "judul": "Basket Case",
-        "artis": "Green Day",
-        "url": "https://files.catbox.moe/ryvli2.mp3"
-    },
-    {
-        "no": 62,
-        "judul": "Manusia Biasa",
-        "artis": "Yovie & Nuno",
-        "url": "https://files.catbox.moe/tbfoce.mp3"
-    },
-    {
-        "no": 63,
-        "judul": "Memories 17 Years After",
-        "artis": "大槻マキ",
-        "url": "https://files.catbox.moe/rjwmyr.mp3"
-    },
-    {
-        "no": 64,
-        "judul": "Imagination",
-        "artis": "Spyair",
-        "url": "https://files.catbox.moe/oh04ra.mp3"
-    },
-    {
-        "no": 65,
-        "judul": "Imagination",
-        "artis": "Shawn Mendes",
-        "url": "https://files.catbox.moe/gw4gwo.mp3"
-    },
-    {
-        "no": 66,
-        "judul": "Stitches",
-        "artis": "Shawn Mendes",
-        "url": "https://files.catbox.moe/vvf512.mp3"
-    },
-    {
-        "no": 67,
-        "judul": "There's Nothing Holdin' Me Back",
-        "artis": "Shawn Mendes",
-        "url": "https://files.catbox.moe/t0dt5x.mp3"
-    },
-    {
-        "no": 68,
-        "judul": "Treat You Better",
-        "artis": "Shawn Mendes",
-        "url": "https://files.catbox.moe/ia9duv.mp3"
-    },
-    {
-        "no": 69,
-        "judul": "Baby By Me",
-        "artis": "50 Cent",
-        "url": "https://files.catbox.moe/zs29n4.mp3"
-    },
-    {
-        "no": 70,
-        "judul": "Beauty And A Beat",
-        "artis": "Justin Bieber",
-        "url": "https://files.catbox.moe/50ifmn.mp3"
-    },
-    {
-        "no": 71,
-        "judul": "One Time",
-        "artis": "Justin Bieber",
-        "url": "https://files.catbox.moe/vmmb19.mp3"
-    },
-    {
-        "no": 72,
-        "judul": "Confident",
-        "artis": "Justin Bieber",
-        "url": "https://files.catbox.moe/na5qt7.mp3"
-    },
-    {
-        "no": 73,
-        "judul": "Favorite Girl",
-        "artis": "Justin Bieber",
-        "url": "https://files.catbox.moe/0ujr6l.mp3"
-    },
-    {
-        "no": 74,
-        "judul": "Baby",
-        "artis": "Justin Bieber",
-        "url": "https://files.catbox.moe/bue1fg.mp3"
-    },
-    {
-        "no": 75,
-        "judul": "Eenie Meenie",
-        "artis": "Justin Bieber",
-        "url": "https://files.catbox.moe/5fa0pp.mp3"
-    },
-    {
-        "no": 76,
-        "judul": "Steal My Girl",
-        "artis": "Justin Bieber",
-        "url": "https://files.catbox.moe/1vlnto.mp3"
-    },
-    {
-        "no": 77,
-        "judul": "Young Dumb & Broke",
-        "artis": "Khalid",
-        "url": "https://files.catbox.moe/1dfkqq.mp3"
-    },
-    {
-        "no": 78,
-        "judul": "What Makes You Beautiful",
-        "artis": "One Direction",
-        "url": "https://files.catbox.moe/x2hkr0.mp3"
-    },
-    {
-        "no": 79,
-        "judul": "Never Say Never",
-        "artis": "Justin Bieber",
-        "url": "https://files.catbox.moe/fxilvm.mp3"
-    },
-    {
-        "no": 80,
-        "judul": "Let Me Love You",
-        "artis": "DJ Snake X Justin Bieber",
-        "url": "https://files.catbox.moe/upq307.mp3"
-    },
-    {
-        "no": 81,
-        "judul": "That Should Be Me",
-        "artis": "Justin Bieber",
-        "url": "https://files.catbox.moe/klmoop.mp3"
-    },
-    {
-        "no": 82,
-        "judul": "Intentions",
-        "artis": "Justin Bieber",
-        "url": "https://files.catbox.moe/0hui9y.mp3"
-    },
-    {
-        "no": 83,
-        "judul": "Despacito",
-        "artis": "Luis Fonsi",
-        "url": "https://files.catbox.moe/3o5ybh.mp3"
-    },
-    {
-        "no": 84,
-        "judul": "Down",
-        "artis": "Jay Sean",
-        "url": "https://files.catbox.moe/vv4wj5.mp3"
-    },
-    {
-        "no": 85,
-        "judul": "Nobody Gets Me",
-        "artis": "SZA",
-        "url": "https://files.catbox.moe/emqtzk.mp3"
-    },
-    {
-        "no": 86,
-        "judul": "Kill Bill",
-        "artis": "SZA",
-        "url": "https://files.catbox.moe/hc9hk5.mp3"
-    },
-    {
-        "no": 87,
-        "judul": "Luther",
-        "artis": "Kendrick Lamar",
-        "url": "https://files.catbox.moe/r4yz2b.mp3"
-    },
-    {
-        "no": 88,
-        "judul": "Snooze",
-        "artis": "SZA",
-        "url": "https://files.catbox.moe/lyryw9.mp3"
-    },
-    {
-        "no": 89,
-        "judul": "BMF",
-        "artis": "SZA",
-        "url": "https://files.catbox.moe/4fsxpe.mp3"
-    },
-    {
-        "no": 90,
-        "judul": "Sailor Song",
-        "artis": "Gigi Perez",
-        "url": "https://files.catbox.moe/dixuyi.mp3"
-    },
-    {
-        "no": 91,
-        "judul": "Open Arms",
-        "artis": "SZA",
-        "url": "https://files.catbox.moe/6zatho.mp3"
-    },
-    {
-        "no": 92,
-        "judul": "Impossible",
-        "artis": "James Arthur",
-        "url": "https://files.catbox.moe/ip1yxp.mp3"
-    },
-    {
-        "no": 93,
-        "judul": "Car's Outside",
-        "artis": "James Arthur",
-        "url": "https://files.catbox.moe/xfswc0.mp3"
-    },
-    {
-        "no": 94,
-        "judul": "Rewrite The Stars",
-        "artis": "James Arthur",
-        "url": "https://files.catbox.moe/yitfmc.mp3"
-    },
-    {
-        "no": 95,
-        "judul": "Can I Be Him",
-        "artis": "James Arthur",
-        "url": "https://files.catbox.moe/1bwa58.mp3"
-    },
-    {
-        "no": 96,
-        "judul": "Say You Won't Let Go",
-        "artis": "James Arthur",
-        "url": "https://files.catbox.moe/7bxodz.mp3"
-    },
-    {
-        "no": 97,
-        "judul": "A Year Ago",
-        "artis": "James Arthur",
-        "url": "https://files.catbox.moe/fqhjd4.mp3"
-    },
-    {
-        "no": 98,
-        "judul": "This Side Of Paradise",
-        "artis": "Coyote Theory",
-        "url": "https://files.catbox.moe/3bob1t.mp3"
-    },
-    {
-        "no": 99,
-        "judul": "It Will Rain",
-        "artis": "Bruno Mars",
-        "url": "https://files.catbox.moe/7qfugb.mp3"
-    },
-    {
-        "no": 100,
-        "judul": "Daylight",
-        "artis": "Maroon 5",
-        "url": "https://files.catbox.moe/89p7wi.mp3"
-    },
-    {
-        "no": 101,
-        "judul": "Payphone",
-        "artis": "Maroon 5",
-        "url": "https://files.catbox.moe/9vvbta.mp3"
-    },
-    {
-        "no": 102,
-        "judul": "Somewhere Only We Know",
-        "artis": "Keane",
-        "url": "https://files.catbox.moe/6g26w3.mp3"
-    },
-    {
-        "no": 103,
-        "judul": "Love In The Dark",
-        "artis": "Adele",
-        "url": "https://files.catbox.moe/hin2l9.mp3"
-    },
-    {
-        "no": 104,
-        "judul": "Wish You Were Here",
-        "artis": "Neck Deep",
-        "url": "https://files.catbox.moe/rpudfs.mp3"
-    },
-    {
-        "no": 105,
-        "judul": "THE SADE",
-        "artis": "Rex Orange County",
-        "url": "https://files.catbox.moe/2mtxb1.mp3"
-    },
-    {
-        "no": 106,
-        "judul": "Don't Watch Me Cry",
-        "artis": "Alex Porat",
-        "url": "https://files.catbox.moe/5c5bwh.mp3"
-    },
-    {
-        "no": 107,
-        "judul": "Take Me Home",
-        "artis": "Cash Cash",
-        "url": "https://files.catbox.moe/q3sruv.mp3"
-    },
-    {
-        "no": 108,
-        "judul": "Lovely",
-        "artis": "Billie Eilish",
-        "url": "https://files.catbox.moe/pvqfkb.mp3"
-    },
-    {
-        "no": 109,
-        "judul": "Tatto",
-        "artis": "Loreen",
-        "url": "https://files.catbox.moe/ud9b82.mp3"
-    },
-    {
-        "no": 110,
-        "judul": "Say Yes To Heaven",
-        "artis": "Lana Del Rey",
-        "url": "https://files.catbox.moe/tju5ti.mp3"
-    },
-    {
-        "no": 111,
-        "judul": "Untuk Mencintaimu",
-        "artis": "Seventeen",
-        "url": "https://files.catbox.moe/5oikcq.mp3"
-    },
-    {
-        "no": 112,
-        "judul": "Now I Know",
-        "artis": "Kaleb J",
-        "url": "https://files.catbox.moe/77cwb8.mp3"
-    },
-    {
-        "no": 113,
-        "judul": "Set Fire To The Rain",
-        "artis": "Adele",
-        "url": "https://files.catbox.moe/y9l260.mp3"
-    },
-    {
-        "no": 114,
-        "judul": "Disenchanted",
-        "artis": "My Chemical Romance",
-        "url": "https://files.catbox.moe/t3jn5n.mp3"
-    },
-    {
-        "no": 115,
-        "judul": "Unconditionally",
-        "artis": "Katy Perry",
-        "url": "https://files.catbox.moe/himgr4.mp3"
-    },
-    {
-        "no": 116,
-        "judul": "Take Me Home, Country Roads",
-        "artis": "John Denver",
-        "url": "https://files.catbox.moe/wgfint.mp3"
-    },
-    {
-        "no": 117,
-        "judul": "Silhouette",
-        "artis": "KANA-BOON",
-        "url": "https://files.catbox.moe/kc0cgq.mp3"
-    },
-    {
-        "no": 118,
-        "judul": "Animals",
-        "artis": "Maroon 5",
-        "url": "https://files.catbox.moe/6anszp.mp3"
-    },
-    {
-        "no": 119,
-        "judul": "Maps",
-        "artis": "Maroon 5",
-        "url": "https://files.catbox.moe/0a18ej.mp3"
-    },
-    {
-        "no": 120,
-        "judul": "One More Night",
-        "artis": "Maroon 5",
-        "url": "https://files.catbox.moe/yvjwd6.mp3"
-    },
-    {
-        "no": 121,
-        "j
+[{
+    "index": 0,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/000.%20Shape%20Of%20My%20Heart%20-%20Backstreet%20Boys.mp3",
+    "judul": "Shape Of My Heart",
+    "artist": "Backstreet Boys"
+}, {
+    "index": 1,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/001.%20One%20Call%20Away%20-%20Charlie%20Puth.mp3",
+    "judul": "One Call Away",
+    "artist": "Charlie Puth"
+}, {
+    "index": 2,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/002.%20Firework%20-%20Katy%20Perry.mp3",
+    "judul": "Firework",
+    "artist": "Katy Perry"
+}, {
+    "index": 3,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/003.%20The%20Fate%20of%20Ophelia%20-%20Taylor%20Swift.mp3",
+    "judul": "The Fate of Ophelia",
+    "artist": "Taylor Swift"
+}, {
+    "index": 4,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/004.%20Blank%20Space%20-%20Taylor%20Swift.mp3",
+    "judul": "Blank Space",
+    "artist": "Taylor Swift"
+}, {
+    "index": 5,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/005.%20The%20One%20That%20Got%20Away%20-%20Katy%20Perry.mp3",
+    "judul": "The One That Got Away",
+    "artist": "Katy Perry"
+}, {
+    "index": 6,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/006.%20Right%20Here%20Waiting%20-%20Richard%20Marx.mp3",
+    "judul": "Right Here Waiting",
+    "artist": "Richard Marx"
+}, {
+    "index": 7,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/007.%20I%20Swear%20-%20All-4-One.mp3",
+    "judul": "I Swear",
+    "artist": "All-4-One"
+}, {
+    "index": 8,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/008.%20As%20Long%20as%20You%20Love%20Me%20-%20Backstreet%20Boys.mp3",
+    "judul": "As Long as You Love Me",
+    "artist": "Backstreet Boys"
+}, {
+    "index": 9,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/009.%20Steal%20My%20Girl%20-%20One%20Direction.mp3",
+    "judul": "Steal My Girl",
+    "artist": "One Direction"
+}, {
+    "index": 10,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/010.%20Just%20the%20Way%20You%20Are%20-%20Bruno%20Mars.mp3",
+    "judul": "Just the Way You Are",
+    "artist": "Bruno Mars"
+}, {
+    "index": 11,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/011.%20I%20Want%20It%20That%20Way%20-%20Backstreet%20Boys.mp3",
+    "judul": "I Want It That Way",
+    "artist": "Backstreet Boys"
+}, {
+    "index": 12,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/012.%20Glory%20of%20Love%20-%20Peter%20Cetera.mp3",
+    "judul": "Glory of Love",
+    "artist": "Peter Cetera"
+}, {
+    "index": 13,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/013.%20Heaven%20-%20Bryan%20Adams.mp3",
+    "judul": "Heaven",
+    "artist": "Bryan Adams"
+}, {
+    "index": 14,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/014.%20Aku%20Milikmu%20-%20Dewa%2019.mp3",
+    "judul": "Aku Milikmu",
+    "artist": "Dewa 19"
+}, {
+    "index": 15,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/015.%20Satu%20-%20Dewa%2019.mp3",
+    "judul": "Satu",
+    "artist": "Dewa 19"
+}, {
+    "index": 16,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/016.%20Tarot%20-%20.Feast.mp3",
+    "judul": "Tarot",
+    "artist": ".Feast"
+}, {
+    "index": 17,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/017.%20Rahasia%20Hati%20-%20Nidji.mp3",
+    "judul": "Rahasia Hati",
+    "artist": "Nidji"
+}, {
+    "index": 18,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/018.%20Ini%20Abadi%20-%20Perunggu.mp3",
+    "judul": "Ini Abadi",
+    "artist": "Perunggu"
+}, {
+    "index": 19,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/019.%20Payphone%20-%20Maroon%205.mp3",
+    "judul": "Payphone",
+    "artist": "Maroon 5"
+}, {
+    "index": 20,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/020.%20Perfect%20-%20One%20Direction.mp3",
+    "judul": "Perfect",
+    "artist": "One Direction"
+}, {
+    "index": 21,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/021.%20Waka%20Waka%20-%20Shakira.mp3",
+    "judul": "Waka Waka",
+    "artist": "Shakira"
+}, {
+    "index": 22,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/022.%20Rude%20-%20MAGIC!.mp3",
+    "judul": "Rude",
+    "artist": "MAGIC!"
+}, {
+    "index": 23,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/023.%20Treat%20You%20Better%20-%20Shawn%20Mendes.mp3",
+    "judul": "Treat You Better",
+    "artist": "Shawn Mendes"
+}, {
+    "index": 24,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/024.%20Solo%20-%20Clean%20Bandit%2C%20Demi%20Lovato.mp3",
+    "judul": "Solo",
+    "artist": "Clean Bandit, Demi Lovato"
+}, {
+    "index": 25,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/025.%20Shower%20-%20Becky%20G.mp3",
+    "judul": "Shower",
+    "artist": "Becky G"
+}, {
+    "index": 26,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/026.%20About%20You%20-%20The%201975.mp3",
+    "judul": "About You",
+    "artist": "The 1975"
+}, {
+    "index": 27,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/027.%20Marry%20You%20-%20Bruno%20Mars.mp3",
+    "judul": "Marry You",
+    "artist": "Bruno Mars"
+}, {
+    "index": 28,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/028.%20Me%20And%20My%20Broken%20Heart%20-%20Rixton.mp3",
+    "judul": "Me And My Broken Heart",
+    "artist": "Rixton"
+}, {
+    "index": 29,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/029.%20Cheerleader%20-%20OMI%2C%20Felix%20Jaehn.mp3",
+    "judul": "Cheerleader",
+    "artist": "OMI, Felix Jaehn"
+}, {
+    "index": 30,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/030.%20Danza%20Kuduro%20-%20Don%20Omar%2C%20Lucenzo.mp3",
+    "judul": "Danza Kuduro",
+    "artist": "Don Omar, Lucenzo"
+}, {
+    "index": 31,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/031.%20Part%20Of%20Me%20-%20Katy%20Perry.mp3",
+    "judul": "Part Of Me",
+    "artist": "Katy Perry"
+}, {
+    "index": 32,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/032.%20Poker%20Face%20-%20Lady%20Gaga.mp3",
+    "judul": "Poker Face",
+    "artist": "Lady Gaga"
+}, {
+    "index": 33,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/033.%20Fearless%20-%20Taylor%20Swift.mp3",
+    "judul": "Fearless",
+    "artist": "Taylor Swift"
+}, {
+    "index": 34,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/034.%20Something%20Just%20Like%20This%20-%20The%20Chainsmokers%2C%20Coldplay.mp3",
+    "judul": "Something Just Like This",
+    "artist": "The Chainsmokers, Coldplay"
+}, {
+    "index": 35,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/035.%20A%20Sky%20Full%20of%20Stars%20-%20Coldplay.mp3",
+    "judul": "A Sky Full of Stars",
+    "artist": "Coldplay"
+}, {
+    "index": 36,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/036.%20Viva%20La%20Vida%20-%20Coldplay.mp3",
+    "judul": "Viva La Vida",
+    "artist": "Coldplay"
+}, {
+    "index": 37,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/037.%20Side%20To%20Side%20-%20Ariana%20Grande%2C%20Nicki%20Minaj.mp3",
+    "judul": "Side To Side",
+    "artist": "Ariana Grande, Nicki Minaj"
+}, {
+    "index": 38,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/038.%20Timber%20-%20Pitbull%2C%20Kesha.mp3",
+    "judul": "Timber",
+    "artist": "Pitbull, Kesha"
+}, {
+    "index": 39,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/039.%20Domino%20-%20Jessie%20J.mp3",
+    "judul": "Domino",
+    "artist": "Jessie J"
+}, {
+    "index": 40,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/040.%20Despacito%20-%20Luis%20Fonsi%2C%20Daddy%20Yanke.mp3",
+    "judul": "Despacito",
+    "artist": "Luis Fonsi, Daddy Yanke"
+}, {
+    "index": 41,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/041.%20Symphony%20-%20Clean%20Bandit%2C%20Zara%20Larsson.mp3",
+    "judul": "Symphony",
+    "artist": "Clean Bandit, Zara Larsson"
+}, {
+    "index": 42,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/042.%20Seberapa%20Pantas%20-%20Sheila%20On%207.mp3",
+    "judul": "Seberapa Pantas",
+    "artist": "Sheila On 7"
+}, {
+    "index": 43,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/043.%20Kita%20-%20Sheila%20On%207.mp3",
+    "judul": "Kita",
+    "artist": "Sheila On 7"
+}, {
+    "index": 44,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/044.%20Sebuah%20Kisah%20Klasik%20-%20Sheila%20On%207.mp3",
+    "judul": "Sebuah Kisah Klasik",
+    "artist": "Sheila On 7"
+}, {
+    "index": 45,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/045.%20Bila%20Kau%20Tak%20Disampingku%20-%20Sheila%20On%207.mp3",
+    "judul": "Bila Kau Tak Disampingku",
+    "artist": "Sheila On 7"
+}, {
+    "index": 46,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/046.%20Dan...%20-%20Sheila%20On%207.mp3",
+    "judul": "Dan...",
+    "artist": "Sheila On 7"
+}, {
+    "index": 47,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/047.%20Pemuja%20Rahasia%20-%20Sheila%20On%207.mp3",
+    "judul": "Pemuja Rahasia",
+    "artist": "Sheila On 7"
+}, {
+    "index": 48,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/048.%20Sephia%20-%20Sheila%20On%207.mp3",
+    "judul": "Sephia",
+    "artist": "Sheila On 7"
+}, {
+    "index": 49,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/049.%20Sedia%20Aku%20Sebelum%20Hujan%20-%20Idgitaf.mp3",
+    "judul": "Sedia Aku Sebelum Hujan",
+    "artist": "Idgitaf"
+}, {
+    "index": 50,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/050.%20Merindumu%20lagi%20-%20Khifnu.mp3",
+    "judul": "Merindumu lagi",
+    "artist": "Khifnu"
+}, {
+    "index": 51,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/051. 33x - Perunggu.mp3",
+    "judul": "33x",
+    "artist": "Perunggu"
+}, {
+    "index": 52,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/052.%20Gemilang%20-%20Perunggu.mp3",
+    "judul": "Gemilang",
+    "artist": "Perunggu"
+}, {
+    "index": 53,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/053.%20Kalibata%2C%202012%20-%20Perunggu.mp3",
+    "judul": "Kalibata, 2012",
+    "artist": "Perunggu"
+}, {
+    "index": 54,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/054.%20Pikiran%20Yang%20Matang%20-%20Perunggu.mp3",
+    "judul": "Pikiran Yang Matang",
+    "artist": "Perunggu"
+}, {
+    "index": 55,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/055.%20Aku%20Ada%20Untukmu%20-%20Perunggu.mp3",
+    "judul": "Aku Ada Untukmu",
+    "artist": "Perunggu"
+}, {
+    "index": 56,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/056.%20Separuh%20Nafas%20-%20Dewa%2019.mp3",
+    "judul": "Separuh Nafas",
+    "artist": "Dewa 19"
+}, {
+    "index": 57,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/057.%20Roman%20Picisan%20-%20Dewa%2019.mp3",
+    "judul": "Roman Picisan",
+    "artist": "Dewa 19"
+}, {
+    "index": 58,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/058.%20Dewi%20-%20Dewa%2019.mp3",
+    "judul": "Dewi",
+    "artist": "Dewa 19"
+}, {
+    "index": 59,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/059.%20Laskar%20Cinta%20-%20Dewa%2019.mp3",
+    "judul": "Laskar Cinta",
+    "artist": "Dewa 19"
+}, {
+    "index": 60,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/060.%20Selimut%20Hati%20-%20Dewa%2019.mp3",
+    "judul": "Selimut Hati",
+    "artist": "Dewa 19"
+}, {
+    "index": 61,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/061.%20Cinta%20Satu%20Malam%20-%20Melinda.mp3",
+    "judul": "Cinta Satu Malam",
+    "artist": "Melinda"
+}, {
+    "index": 62,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/062.%20Brondong%20Tua%20-%20Siti%20Badriah.mp3",
+    "judul": "Brondong Tua",
+    "artist": "Siti Badriah"
+}, {
+    "index": 63,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/063.%20Pernikahan%20Dini%20-%20Cita%20Citata.mp3",
+    "judul": "Pernikahan Dini",
+    "artist": "Cita Citata"
+}, {
+    "index": 64,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/064.%20Sebelas%20Duabelas%20-%20Nella%20Kharisma.mp3",
+    "judul": "Sebelas Duabelas",
+    "artist": "Nella Kharisma"
+}, {
+    "index": 65,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/065.%20Cikini%20Gondangdia%20-%20Duo%20Anggrek.mp3",
+    "judul": "Cikini Gondangdia",
+    "artist": "Duo Anggrek"
+}, {
+    "index": 66,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/066.%20Separuh%20Aku%20-%20Noah.mp3",
+    "judul": "Separuh Aku",
+    "artist": "Noah"
+}, {
+    "index": 67,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/067.%20Bintang%20Di%20Surga%20-%20Noah.mp3",
+    "judul": "Bintang Di Surga",
+    "artist": "Noah"
+}, {
+    "index": 68,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/068.%20Hidup%20Untukmu%2C%20Mati%20Tanpamu%20-%20Noah.mp3",
+    "judul": "Hidup Untukmu, Mati Tanpamu",
+    "artist": "Noah"
+}, {
+    "index": 69,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/069.%20Tak%20Lagi%20Sama%20-%20Noah.mp3",
+    "judul": "Tak Lagi Sama",
+    "artist": "Noah"
+}, {
+    "index": 70,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/070.%20Menunggumu%20-%20Noah.mp3",
+    "judul": "Menunggumu",
+    "artist": "Noah"
+}, {
+    "index": 71,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/071.%20Monolog%20-%20Pamungkas.mp3",
+    "judul": "Monolog",
+    "artist": "Pamungkas"
+}, {
+    "index": 72,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/072.%20To%20The%20Bone%20-%20Pamungkas.mp3",
+    "judul": "To The Bone",
+    "artist": "Pamungkas"
+}, {
+    "index": 73,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/073.%20Risalah%20Hati%20-%20Pamungkas.mp3",
+    "judul": "Risalah Hati",
+    "artist": "Pamungkas"
+}, {
+    "index": 74,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/074.%20One%20Only%20-%20Pamungkas.mp3",
+    "judul": "One Only",
+    "artist": "Pamungkas"
+}, {
+    "index": 75,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/075.%20Kenangan%20Manis%20-%20Pamungkas.mp3",
+    "judul": "Kenangan Manis",
+    "artist": "Pamungkas"
+}, {
+    "index": 76,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/076.%20Hapus%20Aku%20-%20Nidji.mp3",
+    "judul": "Hapus Aku",
+    "artist": "Nidji"
+}, {
+    "index": 77,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/077.%20Sumpah%20Dan%20Cinta%20Matiku%20-%20Nidji.mp3",
+    "judul": "Sumpah Dan Cinta Matiku",
+    "artist": "Nidji"
+}, {
+    "index": 78,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/078.%20Laskar%20Pelangi%20-%20Nidji.mp3",
+    "judul": "Laskar Pelangi",
+    "artist": "Nidji"
+}, {
+    "index": 79,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/079.%20Biarlah%20-%20Nidji.mp3",
+    "judul": "Biarlah",
+    "artist": "Nidji"
+}, {
+    "index": 80,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/080.%20Bila%20Aku%20Jatuh%20Cinta%20-%20Nidji.mp3",
+    "judul": "Bila Aku Jatuh Cinta",
+    "artist": "Nidji"
+}, {
+    "index": 81,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/081.%20Tanpa%20Cinta%20-%20Yovie%20%26%20Nuno.mp3",
+    "judul": "Tanpa Cinta",
+    "artist": "Yovie \u0026 Nuno"
+}, {
+    "index": 82,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/082.%20Menjaga%20Hati%20-%20Yovie%20%26%20Nuno.mp3",
+    "judul": "Menjaga Hati",
+    "artist": "Yovie \u0026 Nuno"
+}, {
+    "index": 83,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/083.%20Sampai%20Akhir%20Waktu%20-%20Yovie%20%26%20Nuno.mp3",
+    "judul": "Sampai Akhir Waktu",
+    "artist": "Yovie \u0026 Nuno"
+}, {
+    "index": 84,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/084.%20Manusia%20Biasa%20(CLB)%20-%20Yovie%20%26%20Nuno.mp3",
+    "judul": "Manusia Biasa (CLB)",
+    "artist": "Yovie \u0026 Nuno"
+}, {
+    "index": 85,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/085.%20Mengejar%20Mimpi%20-%20Yovie%20%26%20Nuno.mp3",
+    "judul": "Mengejar Mimpi",
+    "artist": "Yovie \u0026 Nuno"
+}, {
+    "index": 86,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/086.%20Teh%20Hijau%20-%20Tulus.mp3",
+    "judul": "Teh Hijau",
+    "artist": "Tulus"
+}, {
+    "index": 87,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/087.%20Monokrom%20-%20Tulus.mp3",
+    "judul": "Monokrom",
+    "artist": "Tulus"
+}, {
+    "index": 88,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/088.%20Hati-Hati%20di%20Jalan%20-%20Tulus.mp3",
+    "judul": "Hati-Hati di Jalan",
+    "artist": "Tulus"
+}, {
+    "index": 89,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/089.%20Jatuh%20Suka%20-%20Tulus.mp3",
+    "judul": "Jatuh Suka",
+    "artist": "Tulus"
+}, {
+    "index": 90,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/090.%20Interaksi%20-%20Tulus.mp3",
+    "judul": "Interaksi",
+    "artist": "Tulus"
+}, {
+    "index": 91,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/091.%20Everything%20U%20Are%20-%20Hindia.mp3",
+    "judul": "Everything U Are",
+    "artist": "Hindia"
+}, {
+    "index": 92,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/092.%20Cincin%20-%20Hindia.mp3",
+    "judul": "Cincin",
+    "artist": "Hindia"
+}, {
+    "index": 93,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/093.%20Rumah%20Ke%20Rumah%20-%20Hindia.mp3",
+    "judul": "Rumah Ke Rumah",
+    "artist": "Hindia"
+}, {
+    "index": 94,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/094.%20Evaluasi%20-%20Hindia.mp3",
+    "judul": "Evaluasi",
+    "artist": "Hindia"
+}, {
+    "index": 95,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/095.%20Kita%20Ke%20Sana%20-%20Hindia.mp3",
+    "judul": "Kita Ke Sana",
+    "artist": "Hindia"
+}, {
+    "index": 96,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/096.%20Secukupnya%20-%20Hindia.mp3",
+    "judul": "Secukupnya",
+    "artist": "Hindia"
+}, {
+    "index": 97,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/097.%20Membasuh%20-%20Hindia.mp3",
+    "judul": "Membasuh",
+    "artist": "Hindia"
+}, {
+    "index": 98,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/098.%20Berdansalah%2C%20Karir%20Ini%20Tak%20Ada%20Artinya%20-%20Hindia.mp3",
+    "judul": "Berdansalah, Karir Ini Tak Ada Artinya",
+    "artist": "Hindia"
+}, {
+    "index": 99,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/099.%20semua%20lagu%20cinta%20terdengar%20sama%20-%20Hindia.mp3",
+    "judul": "semua lagu cinta terdengar sama",
+    "artist": "Hindia"
+}, {
+    "index": 100,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/100.%20Ramai%20Sepi%20Bersama%20-%20Hindia.mp3",
+    "judul": "Ramai Sepi Bersama",
+    "artist": "Hindia"
+}]
