@@ -1338,5 +1338,3665 @@
         "index": 267,
         "soal": "Aku lima bersaudara yang memiliki Ibu tapi tak berbapak.",
         "jawaban": "Jari"
+    },
+    {
+        "index": 268,
+        "soal": "Aku ayam tapi tak bisa bertelur. Aku berdiri di atas nasi, jangan pernah kusampahi kalau kau tidak lapar.",
+        "jawaban": "Ayam goreng"
+    },
+    {
+        "index": 269,
+        "soal": "Aku punya leher panjang tapi bukan jerapah. Aku hidup di air, kulitku keras seperti batu.",
+        "jawaban": "Kura-kura"
+    },
+    {
+        "index": 270,
+        "soal": "Setiap pagi aku bangunkanmu dengan suaraku. Aku berjenggot tapi bukan manusia dewasa.",
+        "jawaban": "Ayam jago"
+    },
+    {
+        "index": 271,
+        "soal": "Aku hitam putih dan gemuk, tinggal di daerah bersalju. Aku burung tapi tak bisa terbang.",
+        "jawaban": "Penguin"
+    },
+    {
+        "index": 272,
+        "soal": "Tandukku seperti ranting pohon. Aku rusa kecil dari Asia yang pandai lari kencang.",
+        "jawaban": "Kijang"
+    },
+    {
+        "index": 273,
+        "soal": "Aku saudara kandung kuda, tapi badanku bergaris hitam putih seperti zebra.",
+        "jawaban": "Zebra"
+    },
+    {
+        "index": 274,
+        "soal": "Aku kumbang bertanduk runcing, warnaku coklat mengkilap. Aku penghuni pohon kelapa dan suka menusukkan tandukku ke lawan.",
+        "jawaban": "Badak jepang"
+    },
+    {
+        "index": 275,
+        "soal": "Aku kerbau tapi hidup di air. Tandukku melengkung besar, aku banjir teman karib petani.",
+        "jawaban": "Kerbau"
+    },
+    {
+        "index": 276,
+        "soal": "Aku mirip kambing, wolku digunakannya untuk kain hangat. Aku suka mengembik.",
+        "jawaban": "Domba"
+    },
+    {
+        "index": 277,
+        "soal": "Aku rubah licik dalam cerita, ekorku tebal dan musim dingin kupakai sebagai selimut.",
+        "jawaban": "Musang"
+    },
+    {
+        "index": 278,
+        "soal": "Aku kucing hutan terbesar di dunia. Garis-garis tubuhku adalah tato alami, aku raja hutan Asia.",
+        "jawaban": "Macan"
+    },
+    {
+        "index": 279,
+        "soal": "Aku serigala tapi kucari di bulan purnama sambil melolong. Cerita bilang aku menggigit manusia saat purnama.",
+        "jawaban": "Werewolf"
+    },
+    {
+        "index": 280,
+        "soal": "Aku beruang hitam putih pemakan bambu. Aku maskot negara tirai bambu.",
+        "jawaban": "Panda"
+    },
+    {
+        "index": 281,
+        "soal": "Aku beruang tapi suka tidur-tiduran. Aku tinggal di Australia dan makan daun eukaliptus.",
+        "jawaban": "Koala"
+    },
+    {
+        "index": 282,
+        "soal": "Aku tupai tapi terbang. Kulitku membentang seperti parasut antara tangan dan kaki.",
+        "jawaban": "Tupai terbang"
+    },
+    {
+        "index": 283,
+        "soal": "Aku tikus lapangan berekor pendek. Aku disukai kucing dan ular sebagai santapan.",
+        "jawaban": "Trenggiling"
+    },
+    {
+        "index": 284,
+        "soal": "Badanku berzirah keras namun aku pemalu, menggulung diri bila genting. Lidahku panjang memakan semut.",
+        "jawaban": "Penggulung"
+    },
+    {
+        "index": 285,
+        "soal": "Aku kancil cerdas dalam dongeng, tubuhku kecil tapi akalku melebihi buaya.",
+        "jawaban": "Pelanduk"
+    },
+    {
+        "index": 286,
+        "soal": "Aku babi hutan dengan taring melengkung indah. Aku sering jadi target pemburu di Sumatera.",
+        "jawaban": "Babi rusa"
+    },
+    {
+        "index": 287,
+        "soal": "Aku kelinci air bertelinga panjang, gigiku terus tumbuh sehingga harus menggigit kayu.",
+        "jawaban": "Kelinci sawah"
+    },
+    {
+        "index": 288,
+        "soal": "Aku hamster raksasa dari Australia. Aku melompat dengan kantong di perutku.",
+        "jawaban": "Kanguru merah"
+    },
+    {
+        "index": 289,
+        "soal": "Aku monyet hidung besar, hanya ada di Kalimantan. Hidung jantanku makin besar makin dipuja.",
+        "jawaban": "Bekantan"
+    },
+    {
+        "index": 290,
+        "soal": "Aku kera tanpa ekor, DNA-ku mirip manusia. Orang menyebutku orang hutan.",
+        "jawaban": "Orang rimba"
+    },
+    {
+        "index": 291,
+        "soal": "Aku gorila gunung berkumis abu. Aku primata terbesar dan sangat kuat.",
+        "jawaban": "Gorila silverback"
+    },
+    {
+        "index": 292,
+        "soal": "Aku simpanse pintar menggunakan ranting untuk mencari madu. Aku saudara terdekat manusia.",
+        "jawaban": "Chimpanze"
+    },
+    {
+        "index": 293,
+        "soal": "Aku baboon bertubuh besar, pantatku merah menyala. Aku kera Afrika yang suka bertengkar.",
+        "jawaban": "Mandrill"
+    },
+    {
+        "index": 294,
+        "soal": "Aku lemur bermata bulat besar, hanya tinggal di Madagaskar. Malam hari barulah aku aktif.",
+        "jawaban": "Lemur ekor cincin"
+    },
+    {
+        "index": 295,
+        "soal": "Aku landak laut kecil berduri, aku menggulung seperti bola jika ditangkap musuh.",
+        "jawaban": "Landak mini"
+    },
+    {
+        "index": 296,
+        "soal": "Aku keledai berkaki panjang dari padang gurun, telingaku lebih panjang dari kuda.",
+        "jawaban": "Keledai"
+    },
+    {
+        "index": 297,
+        "soal": "Aku bagal lahir dari ibu kuda dan ayah keledai. Aku kuat mengangkut beban di pegunungan.",
+        "jawaban": "Bagal"
+    },
+    {
+        "index": 298,
+        "soal": "Aku onager liar dari Asia Tengah, kakiku cepat menendang pasir gurun.",
+        "jawaban": "Keledai liar"
+    },
+    {
+        "index": 299,
+        "soal": "Aku unta dua punuk dari Mongolia. Punukku simpan lemak, bukan air seperti kata orang.",
+        "jawaban": "Unta baktria"
+    },
+    {
+        "index": 300,
+        "soal": "Aku llama Andes berkaki jenjang, aku dipelihara untuk menggendong beban di pegunungan.",
+        "jawaban": "Llama"
+    },
+    {
+        "index": 301,
+        "soal": "Aku alpaka bulu lembut mahal. Aku mirip domba tapi leherku panjang seperti unta.",
+        "jawaban": "Alpaka"
+    },
+    {
+        "index": 302,
+        "soal": "Aku babi guinea peliharaan kesayangan anak. Namaku negara tapi asalaku Amerika Selatan.",
+        "jawaban": "Guinea pig"
+    },
+    {
+        "index": 303,
+        "soal": "Aku capybara hewan paling ramah sedunia. Aku tikus raksasa yang suka berendam air panas.",
+        "jawaban": "Kapibara"
+    },
+    {
+        "index": 304,
+        "soal": "Aku burung hantu malam berkepala bisa berputar. Aku simbol kebijaksanaan.",
+        "jawaban": "Burung hantu"
+    },
+    {
+        "index": 305,
+        "soal": "Aku gagak hitam pintar menirukan suara. Aku sering dijadikan simbol kemalangan.",
+        "jawaban": "Gagak"
+    },
+    {
+        "index": 306,
+        "soal": "Aku burung pipit kecil perkotaan, kubangun sarang di atap rumah manusia.",
+        "jawaban": "Burung gereja"
+    },
+    {
+        "index": 307,
+        "soal": "Aku burung merpati surat zaman dulu. Kubawa pesan lintas kota sebelum ada kurir.",
+        "jawaban": "Merpati pos"
+    },
+    {
+        "index": 308,
+        "soal": "Aku burung camar pantai putih keabu. Aku pengikut kapal nelayan mencari ikan tercecer.",
+        "jawaban": "Camar"
+    },
+    {
+        "index": 309,
+        "soal": "Aku elang rajanya langit Indonesia, sayapku lebar mengitari gunung.",
+        "jawaban": "Elang Jawa"
+    },
+    {
+        "index": 310,
+        "soal": "Aku burung nasional Filipina, paruhku melengkung tajam, aku salah satu elang terbesar dunia.",
+        "jawaban": "Elang Filipina"
+    },
+    {
+        "index": 311,
+        "soal": "Aku burung kondor Andes, sayap terbentang tiga meter. Aku pembangkai gunung tinggi.",
+        "jawaban": "Kondor"
+    },
+    {
+        "index": 312,
+        "soal": "Aku flamingo berdiri satu kaki, warna pinkku dari udang yang kunam.",
+        "jawaban": "Flamingo"
+    },
+    {
+        "index": 313,
+        "soal": "Aku toucan paruh besar warna-warni, aku ikon hutan Amazon.",
+        "jawaban": "Toucan"
+    },
+    {
+        "index": 314,
+        "soal": "Aku kolibri mungil penghisap nektar, sayapku bergetar ratusan kali per detik. Aku bisa terbang mundur.",
+        "jawaban": "Kolibri"
+    },
+    {
+        "index": 315,
+        "soal": "Aku burung kiwi tanpa sayap tampak, aku ikon negara kiwi.",
+        "jawaban": "Kiwi Selandia Baru"
+    },
+    {
+        "index": 316,
+        "soal": "Aku burung terbesar sedunia, tak bisa terbang tapi lariku lebih cepat dari kuda. Telurku sebesar dua telapak tangan.",
+        "jawaban": "Burung unta"
+    },
+    {
+        "index": 317,
+        "soal": "Aku ikan raksasa bermata kecil, gigiku bertingkat seperti gergaji. Aku raja lautan yang ditakuti semua ikan.",
+        "jawaban": "Hiu"
+    },
+    {
+        "index": 318,
+        "soal": "Aku paus pemakan udang kecil, tubuhku terbesar di planet ini. Jantungku sebesar mobil.",
+        "jawaban": "Paus biru"
+    },
+    {
+        "index": 319,
+        "soal": "Aku lumba-lumba ceria berenang berkelompok, aku berkomunikasi dengan bunyi klik dan siulan.",
+        "jawaban": "Lumba-lumba"
+    },
+    {
+        "index": 320,
+        "soal": "Aku ikan bertaring raksasa dari laut dalam, lampu kepalaku menyala memikat mangsa.",
+        "jawaban": "Ikan angler"
+    },
+    {
+        "index": 321,
+        "soal": "Aku ikan layar dengan sirip punggung tinggi seperti layar kapal. Aku pelari tercepat di laut.",
+        "jawaban": "Ikan layaran"
+    },
+    {
+        "index": 322,
+        "soal": "Aku ikan betina pengubah jenis kelamin, warnaku merah oranye cantik hidup di karang.",
+        "jawaban": "Ikan badut"
+    },
+    {
+        "index": 323,
+        "soal": "Aku ikan bersirip sayap, kalau terancam aku melompat melayang di atas permukaan laut.",
+        "jawaban": "Ikan terbang"
+    },
+    {
+        "index": 324,
+        "soal": "Aku kuda tapi hidup di laut, ayahku yang mengandung anak-anaknya.",
+        "jawaban": "Kuda laut"
+    },
+    {
+        "index": 325,
+        "soal": "Aku ikan pipih dua mata di satu sisi kepala, aku menyamar di pasir dasar laut.",
+        "jawaban": "Ikan sebelah"
+    },
+    {
+        "index": 326,
+        "soal": "Aku belut listrik dari sungai Amazon, sengatanku bisa membuat kuda jatuh pingsan.",
+        "jawaban": "Belut listrik"
+    },
+    {
+        "index": 327,
+        "soal": "Aku ikan piranha bergigi tajam, aku berenang bergerombol dan galak di sungai Amerika Selatan.",
+        "jawaban": "Piranha"
+    },
+    {
+        "index": 328,
+        "soal": "Aku arwana naga sungai, sisikku besar berkilau mahal. Aku ikan hias termahal.",
+        "jawaban": "Arwana"
+    },
+    {
+        "index": 329,
+        "soal": "Aku ikan mas jendela air, ingatanku konon cuma tiga detik padahal aku pintar hafal jalur.",
+        "jawaban": "Ikan mas"
+    },
+    {
+        "index": 330,
+        "soal": "Aku lele berkumis panjang, aku aktif mencari makan saat malam tiba di dasar rawa.",
+        "jawaban": "Lele"
+    },
+    {
+        "index": 331,
+        "soal": "Aku gurame besar berbadan tebal, di Jawa aku diarak dalam tradisi sedekah laut.",
+        "jawaban": "Gurami"
+    },
+    {
+        "index": 332,
+        "soal": "Aku nila berwarna indah, aku ikan budidaya favorit petani kolam Indonesia.",
+        "jawaban": "Nila"
+    },
+    {
+        "index": 333,
+        "soal": "Aku bandeng berkeringat, tulangku banyak tapi dagingku manis. Aku ikon provinsi banteng.",
+        "jawaban": "Bandeng presto"
+    },
+    {
+        "index": 334,
+        "soal": "Aku tongkol laut penghuni perairan dalam, aku sering dikalengkan agar awet.",
+        "jawaban": "Tongkol kaleng"
+    },
+    {
+        "index": 335,
+        "soal": "Aku cumi-cumi tintaku hitam pekat, kalau terancam aku sembur tinta kabut untuk kabur.",
+        "jawaban": "Cumi-cumi"
+    },
+    {
+        "index": 336,
+        "soal": "Aku gurita delapan lengan, akuku pintar membuka tutup toples dari dalam akuarium.",
+        "jawaban": "Gurita"
+    },
+    {
+        "index": 337,
+        "soal": "Aku udang pantai berwarna merah saat dimasak, aku raja seafood bakar.",
+        "jawaban": "Udang bakar"
+    },
+    {
+        "index": 338,
+        "soal": "Aku lobster laut berkuku besar, aku mahal di restoran. Kukuku kuat memecahkan kerang.",
+        "jawaban": "Lobster"
+    },
+    {
+        "index": 339,
+        "soal": "Aku kepiting kenyal berjalan menyamping, cincin di kakiku jadi cemilan legendaris Jakarta kota tua.",
+        "jawaban": "Kepiting cincin"
+    },
+    {
+        "index": 340,
+        "soal": "Aku kerang raksasa penghasil mutiara, aku menutup rapat cangkangku bila diganggu.",
+        "jawaban": "Kerang mutiara"
+    },
+    {
+        "index": 341,
+        "soal": "Aku siput rumah berjalan lambat, jalur lendirku mengkilap di tembok pagi hari.",
+        "jawaban": "Siput"
+    },
+    {
+        "index": 342,
+        "soal": "Aku bekicot tanah sawah, tanduk kecilku mencium bahaya lalu kupendar ke dalam cangkang.",
+        "jawaban": "Bekicot"
+    },
+    {
+        "index": 343,
+        "soal": "Aku penyu bertelur di pasir pantai, bayiku berlomba ke laut digodok burung camar.",
+        "jawaban": "Penyu"
+    },
+    {
+        "index": 344,
+        "soal": "Aku buaya raksasa sungai Kalimantan, aku buaya muara tak takut air asin.",
+        "jawaban": "Buaya muara"
+    },
+    {
+        "index": 345,
+        "soal": "Aku kadal raksasa Komodo, air liurku beracun. Aku hewan purba tersisa di Nusa Tenggara.",
+        "jawaban": "Komodo purba"
+    },
+    {
+        "index": 346,
+        "soal": "Aku bunglon pendaki cabang, kulitku berubah warna mengikuti suasana hati.",
+        "jawaban": "Bunglon"
+    },
+    {
+        "index": 347,
+        "soal": "Aku cicak teman dinding rumah, suaraku tokek-tokeh hanya malam hari. Kakiku menempel di langit-langit.",
+        "jawaban": "Cicak"
+    },
+    {
+        "index": 348,
+        "soal": "Aku togek raksasa penyewa atap, suaraku keras menyebut namaku sendiri.",
+        "jawaban": "Toke"
+    },
+    {
+        "index": 349,
+        "soal": "Aku iguana hewan peliharaan eksotis, jambul punggungku berduri halus. Aku pemakan daun.",
+        "jawaban": "Iguana"
+    },
+    {
+        "index": 350,
+        "soal": "Aku katak hijau berbunyi pok-pok saat hujan turun. Anakku berubah dari kecebong.",
+        "jawaban": "Katak"
+    },
+    {
+        "index": 351,
+        "soal": "Aku kodok kaki berselaput, kulitku berbintil. Konon sentuhanmu bikin kuru kata orang tua.",
+        "jawaban": "Kodok sawah"
+    },
+    {
+        "index": 352,
+        "soal": "Aku kecoa terbang pengganggu dapur, aku pencuri makanan malam yang gesit.",
+        "jawaban": "Kecoak"
+    },
+    {
+        "index": 353,
+        "soal": "Aku kecipir sayap kecil, aku kumbang lampu hijau malam yang berbunyi ngeng.",
+        "jawaban": "Kumbang"
+    },
+    {
+        "index": 354,
+        "soal": "Aku kunang-kunang lampu alam sawah, tubuhku menyala di gelap musim hujan.",
+        "jawaban": "Kunang-kunang"
+    },
+    {
+        "index": 355,
+        "soal": "Aku nyamuk penghisap darah tengah malam, dengunganku dekat telingamu membuatmu sulit tidur.",
+        "jawaban": "Nyamuk"
+    },
+    {
+        "index": 356,
+        "soal": "Aku lalat duduk seenaknya, aku pembawa kuman dari tempat kotor ke mejamu.",
+        "jawaban": "Lalat"
+    },
+    {
+        "index": 357,
+        "soal": "Aku ulat sutra penghasil benang mahal, aku bermetamorfosis menjadi ngengat.",
+        "jawaban": "Ulat sutra"
+    },
+    {
+        "index": 358,
+        "soal": "Aku ulat bulu berbulu gatal, jangan sentuh tubuhku atau kulitmu akan panas-gatal.",
+        "jawaban": "Ulat bulu"
+    },
+    {
+        "index": 359,
+        "soal": "Aku belalang pelompat sawah, kaki belakangku kokoh untuk lompat jauh. Aku pemakan daun lapar.",
+        "jawaban": "Belalang"
+    },
+    {
+        "index": 360,
+        "soal": "Aku jangkrik penghibur malam, diperebutkan burung kicau mania. Bunyiku dari sayap digosok.",
+        "jawaban": "Jangkrik"
+    },
+    {
+        "index": 361,
+        "soal": "Aku kalajengking berekor sengat, aku keturunan purba dari zaman dinosaurus. Aku gemar tempat lembab.",
+        "jawaban": "Kalajengking"
+    },
+    {
+        "index": 362,
+        "soal": "Aku laba-laba penenun jaring, racun sengatanku melumpuhkan serangga mangsaku.",
+        "jawaban": "Laba-laba hutan"
+    },
+    {
+        "index": 363,
+        "soal": "Aku kutubu penghisap darah manusia, aku tidak terbang tapi merayap malam hari di kasurmu.",
+        "jawaban": "Kutu busuk"
+    },
+    {
+        "index": 364,
+        "soal": "Aku caplak penghisap darah hewan, aku menempel di kulit sapi berjam-jam.",
+        "jawaban": "Caplak"
+    },
+    {
+        "index": 365,
+        "soal": "Aku tungau debu mikroskopik, aku tak terlihat tapi bikin alergimu kambuh di kasur.",
+        "jawaban": "Tungau"
+    },
+    {
+        "index": 366,
+        "soal": "Aku kepik merah bertitik hitam, petani menggemaku karena aku pemakan kutu daun.",
+        "jawaban": "Kepik"
+    },
+    {
+        "index": 367,
+        "soal": "Aku raja buah berduri tajam, aromaku bikin sebagian orang kabur, sebagian lagi rela antre.",
+        "jawaban": "Durian medan"
+    },
+    {
+        "index": 368,
+        "soal": "Aku mangga madu manis tanpa serat, aku buah musim panas yang ditunggu anak-anak.",
+        "jawaban": "Mangga harum manis"
+    },
+    {
+        "index": 369,
+        "soal": "Aku apel merah dari Malang, kulitku mengkilap, dagingku renyah berair.",
+        "jawaban": "Apel malang"
+    },
+    {
+        "index": 370,
+        "soal": "Aku anggur hijau bebas biji, aku dibungkus kertas di kegunungan jawa tengah.",
+        "jawaban": "Anggur hijau"
+    },
+    {
+        "index": 371,
+        "soal": "Aku semangka merah menyala berbiji hitam, aku penyegar dahaga musim kemarau.",
+        "jawaban": "Semangka merah"
+    },
+    {
+        "index": 372,
+        "soal": "Aku melon hijau berjaring halus, dagingku oranye manis beraroma kuat.",
+        "jawaban": "Melon golden"
+    },
+    {
+        "index": 373,
+        "soal": "Aku pepaya merah empuk, getahku pahit tapi daunku sayur lodeh lezat.",
+        "jawaban": "Pepaya california"
+    },
+    {
+        "index": 374,
+        "soal": "Aku salak pondoh bersisik ular, dagingku coklat manis sedikit kelat.",
+        "jawaban": "Salak pondoh"
+    },
+    {
+        "index": 375,
+        "soal": "Aku duku kelompok kecil, kulitku tipis, isinya bening manis. Aku identik dengan kota lampung.",
+        "jawaban": "Duku lampung"
+    },
+    {
+        "index": 376,
+        "soal": "Aku stroberi gunung berbiji di luar, aku pasangan wajib krim dan coklat.",
+        "jawaban": "Stroberi"
+    },
+    {
+        "index": 377,
+        "soal": "Aku blueberry biru keunguan kecil, aku ratu antioksidan dalam kue dan selai.",
+        "jawaban": "Blueberry"
+    },
+    {
+        "index": 378,
+        "soal": "Aku nanas bermahkota daun tajam, rasoku asam manis. Aku bisa bikin mulutmu geli.",
+        "jawaban": "Nanas"
+    },
+    {
+        "index": 379,
+        "soal": "Aku alpukat mentega hijau, dagingku lembut seperti mentega, aku raja jus.",
+        "jawaban": "Alpukat mentega"
+    },
+    {
+        "index": 380,
+        "soal": "Aku sawo coklat manis, kulitku kasar, getahku lengket kalau belum matang.",
+        "jawaban": "Sawo"
+    },
+    {
+        "index": 381,
+        "soal": "Aku markisa ungu berasam, isiku kuning berbiji banyak, aku minuman segar favorit.",
+        "jawaban": "Markisa"
+    },
+    {
+        "index": 382,
+        "soal": "Aku delima merah berisi permata merah, konon aku surga buah bagi pengantin baru.",
+        "jawaban": "Delima"
+    },
+    {
+        "index": 383,
+        "soal": "Aku kiwi coklat berambut, isinya hijau dengan titik-titik hitam, rasoku asam segar.",
+        "jawaban": "Kiwi"
+    },
+    {
+        "index": 384,
+        "soal": "Aku lemon kuning asam, aku teman teh hangat dan obat batuk alami.",
+        "jawaban": "Lemon"
+    },
+    {
+        "index": 385,
+        "soal": "Aku jeruk nipis kecil hijau, aku sahabat sambal dan minuman es perasan.",
+        "jawaban": "Jeruk nipis"
+    },
+    {
+        "index": 386,
+        "soal": "Aku jeruk baby manis mudah dikupas, aku camilan sehat dalam kantong sekolah.",
+        "jawaban": "Jeruk baby"
+    },
+    {
+        "index": 387,
+        "soal": "Aku pomelo raksasa sepupu jeruk, kulitku tebal, isiku manis sedikit pahit.",
+        "jawaban": "Jeruk bali"
+    },
+    {
+        "index": 388,
+        "soal": "Aku jambu kristal bijinya sedikit, aku teman sambal terasi dan rujak pedas.",
+        "jawaban": "Jambu biji"
+    },
+    {
+        "index": 389,
+        "soal": "Aku jambu air merah menyala, isinya banyak air. Aku buah musim hujan yang menyegarkan.",
+        "jawaban": "Jambu air"
+    },
+    {
+        "index": 390,
+        "soal": "Aku belimbing bersegi lima, irisanku bentuk bintang di gelas jus.",
+        "jawaban": "Belimbing"
+    },
+    {
+        "index": 391,
+        "soal": "Aku manggis ratu buah tropis, kulitku ungu tebal, isinya putih manis lembut.",
+        "jawaban": "Manggis"
+    },
+    {
+        "index": 392,
+        "soal": "Aku rambutan berrambut, dagingku menempel di biji. Nama saya artinya buah berambut.",
+        "jawaban": "Rambutan binjai"
+    },
+    {
+        "index": 393,
+        "soal": "Aku langsat kecil kuning, kulitku mudah kupas, rasoku manis sedikit asam.",
+        "jawaban": "Langsat"
+    },
+    {
+        "index": 394,
+        "soal": "Aku duku kembar langsat tapi lebih manis, aku juara dari Kalimantan Selatan.",
+        "jawaban": "Duku kalimantan"
+    },
+    {
+        "index": 395,
+        "soal": "Aku kokosan berkelompok rapat, kulitku bergaris merah muda, rasoku asam menyegarkan.",
+        "jawaban": "Kokosan"
+    },
+    {
+        "index": 396,
+        "soal": "Aku kepundung mirip rukam, rasoku asam keras, aku teman rujak dan bumbu pecel.",
+        "jawaban": "Kepundung"
+    },
+    {
+        "index": 397,
+        "soal": "Aku kweni mangga tua wangi, aromaku khas untuk rujak dan pickles.",
+        "jawaban": "Mangga kweni"
+    },
+    {
+        "index": 398,
+        "soal": "Aku gadung mangga yang bikin gatal kalau kelaparan memakanmu.",
+        "jawaban": "Mangga gadung"
+    },
+    {
+        "index": 399,
+        "soal": "Aku nangka besar berduri lembut, isiku kuning wangi. Biji ku direbus jadi camilan.",
+        "jawaban": "Nangka"
+    },
+    {
+        "index": 400,
+        "soal": "Aku cempedak sepupu nangka, aromaku lebih tajam, isiku lebih manis legit.",
+        "jawaban": "Cempedak"
+    },
+    {
+        "index": 401,
+        "soal": "Aku sukun bertabur biji, setelah direbus dagingku seperti roti. Aku teman sambal kencur.",
+        "jawaban": "Sukun"
+    },
+    {
+        "index": 402,
+        "soal": "Aku kluwih hijau bersisik, keripikku legendaris pedas gurih.",
+        "jawaban": "Kluwih"
+    },
+    {
+        "index": 403,
+        "soal": "Aku kesemek oranye manis, kelatku hilang kalau sudah benar-benar lembek.",
+        "jawaban": "Kesemek"
+    },
+    {
+        "index": 404,
+        "soal": "Aku sirsak berduri lunak, isiku putih asam manis. Konon daunku obat kanker.",
+        "jawaban": "Sirsak"
+    },
+    {
+        "index": 405,
+        "soal": "Aku avokad mental, bijiku besar coklat mengkilap bisa ditanam jadi tanaman hias.",
+        "jawaban": "Biji alpukat"
+    },
+    {
+        "index": 406,
+        "soal": "Aku kelapa muda hijau, airku penyegar dahaga alami di pantai.",
+        "jawaban": "Kelapa muda"
+    },
+    {
+        "index": 407,
+        "soal": "Aku kelapa gading putih, isiku kenyal dimakan langsung atau jadi kosongan santan.",
+        "jawaban": "Kelapa gading"
+    },
+    {
+        "index": 408,
+        "soal": "Aku aren manis coklat, aku jadi gula merah dan tuak legendaris pedesaan.",
+        "jawaban": "Buah aren"
+    },
+    {
+        "index": 409,
+        "soal": "Aku siwalan tal berwarna coklat kehitaman, isiku tiga ruang manis berair.",
+        "jawaban": "Siwalan"
+    },
+    {
+        "index": 410,
+        "soal": "Aku tal segar dari Sulawesi, aku disajikan dengan gula aren dan es.",
+        "jawaban": "Buah tal"
+    },
+    {
+        "index": 411,
+        "soal": "Aku mundam buah tal matang jatuh, isiku mengeras manis legit seperti kurma.",
+        "jawaban": "Mundam"
+    },
+    {
+        "index": 412,
+        "soal": "Aku jamblang ungu pekat, lidahmu akan ungu setelah memakanku.",
+        "jawaban": "Jamblang"
+    },
+    {
+        "index": 413,
+        "soal": "Aku duwet kecil-kecil hitam, aku teman masa kecil di pinggir jalan desa.",
+        "jawaban": "Duwet"
+    },
+    {
+        "index": 414,
+        "soal": "Aku kopi ceri merah kecil, bijiku dipanggang jadi minuman bangga pagi dunia.",
+        "jawaban": "Ceri kopi"
+    },
+    {
+        "index": 415,
+        "soal": "Aku teh daun muda pemetikan, aroma wangi hasil olahan pabrik menjadi minuman nasional.",
+        "jawaban": "Daun teh"
+    },
+    {
+        "index": 416,
+        "soal": "Aku kentang dari Dieng, tubuhku di dalam tanah. Aku jadi keripik dan french fries kesukaanmu.",
+        "jawaban": "Kentang"
+    },
+    {
+        "index": 417,
+        "soal": "Aku ubi ungu manis legendaris Papua, warnaku pekat dari alam.",
+        "jawaban": "Ubi ungu"
+    },
+    {
+        "index": 418,
+        "soal": "Aku singkong penghilang lapar zaman sulit, olahanku tiwul dan getuk.",
+        "jawaban": "Singkong pahit"
+    },
+    {
+        "index": 419,
+        "soal": "Aku labu kuning besar, aku jadi sup dan kue. Saat halloween aku diukir wajah seram.",
+        "jawaban": "Labu kuning"
+    },
+    {
+        "index": 420,
+        "soal": "Aku timun segar berair, aku teman nasi goreng dan masker wajah alami.",
+        "jawaban": "Timun suri"
+    },
+    {
+        "index": 421,
+        "soal": "Aku cabai rawit mungil api neraka, sejumputku bikin air mata jatuh.",
+        "jawaban": "Cabai rawit"
+    },
+    {
+        "index": 422,
+        "soal": "Aku bawang putih berlapis kulit, aromaku tajam membuat masakan harum. Vampir takut padaku.",
+        "jawaban": "Bawang merah putih"
+    },
+    {
+        "index": 423,
+        "soal": "Aku daun seledri kecil-kecil, taburanku mengharumkan sup dan soto.",
+        "jawaban": "Seledri"
+    },
+    {
+        "index": 424,
+        "soal": "Aku brokoli hijau seperti pohon mini, aku sayur favorit diet sehat.",
+        "jawaban": "Brokoli"
+    },
+    {
+        "index": 425,
+        "soal": "Aku kol bulat rapat berlapis, aku lalapan soto dan capcay.",
+        "jawaban": "Kol"
+    },
+    {
+        "index": 426,
+        "soal": "Aku sawi putih hijau panjang, aku ca dimasak atau dibuat asinan.",
+        "jawaban": "Sawi hijau"
+    },
+    {
+        "index": 427,
+        "soal": "Aku bayam merah batang merah, ibu bilang darahku tinggi bagus untuk anemia.",
+        "jawaban": "Bayam merah"
+    },
+    {
+        "index": 428,
+        "soal": "Aku kangkung air yang tumbuh cepat, tumisanku teman setia nasi uduk pagi.",
+        "jawaban": "Kangkung air"
+    },
+    {
+        "index": 429,
+        "soal": "Aku genjer rawa Banjarmasin, aku sayur pedas khas Kalimantan.",
+        "jawaban": "Genjer"
+    },
+    {
+        "index": 430,
+        "soal": "Aku kenikir bunga kecil kuning, aroma kuatku khas masakan Bali dan Timor.",
+        "jawaban": "Kenikir"
+    },
+    {
+        "index": 431,
+        "soal": "Aku kemangi daun kecil wangi, sahabat setia pecel lele dan ayam penyet.",
+        "jawaban": "Kemangi"
+    },
+    {
+        "index": 432,
+        "soal": "Aku daun jeruk wangi perasan, aroma halusku wajib dalam sambal matah.",
+        "jawaban": "Daun jeruk purut"
+    },
+    {
+        "index": 433,
+        "soal": "Aku serai batang tinggi wangi, aku rempah soto dan sate. Aku juga minuman hangat penyegar.",
+        "jawaban": "Serai"
+    },
+    {
+        "index": 434,
+        "soal": "Aku jahe emprit pedas kecil, rebusanku obat tenggorokan tradisional.",
+        "jawaban": "Jahe emprit"
+    },
+    {
+        "index": 435,
+        "soal": "Aku jahe gajah besar, rasoku tidak terlalu pedas, aku rempah wedang ronde.",
+        "jawaban": "Jahe gajah"
+    },
+    {
+        "index": 436,
+        "soal": "Aku kunyit kuning emas, warna kuah gulai dan kuning kuah laksa dari tanganku.",
+        "jawaban": "Kunyit"
+    },
+    {
+        "index": 437,
+        "soal": "Aku temu hitam pahit getir, jamuku pegal linu warisan nenek.",
+        "jawaban": "Temulawak"
+    },
+    {
+        "index": 438,
+        "soal": "Aku lengkuas batang merah tebal, aku rempah rendang dan sambal goreng.",
+        "jawaban": "Lengkuas"
+    },
+    {
+        "index": 439,
+        "soal": "Aku kencur kecil wangi tajam, beras kentelegendaris punya arak-arakan.",
+        "jawaban": "Kencur"
+    },
+    {
+        "index": 440,
+        "soal": "Aku kedawung buah berbiji seperti kancing, aku bumbu asam pedas sayur asem.",
+        "jawaban": "Kedawung"
+    },
+    {
+        "index": 441,
+        "soal": "Aku asam jawa buah asam coklat, aku penyedap sayur asem dan sambal goreng ati.",
+        "jawaban": "Asam jawa"
+    },
+    {
+        "index": 442,
+        "soal": "Aku kelor daun ajaib bergizi, daunku sayur dan sup superfood desa.",
+        "jawaban": "Kelor"
+    },
+    {
+        "index": 443,
+        "soal": "Aku katuk sayur ASI legendaris, daunku wajib menu ibu menyusui.",
+        "jawaban": "Katuk"
+    },
+    {
+        "index": 444,
+        "soal": "Aku melinjo berbuah berbijinya emping, daun mudaku sayur asem dan bitterballen.",
+        "jawaban": "Melinjo"
+    },
+    {
+        "index": 445,
+        "soal": "Aku pepaya muda dikupas getahnya, aku bahan gado-gado dan lodeh.",
+        "jawaban": "Pepaya muda"
+    },
+    {
+        "index": 446,
+        "soal": "Aku pare pahit bergerigi, konon pahitku menurunkan gula darah.",
+        "jawaban": "Pare"
+    },
+    {
+        "index": 447,
+        "soal": "Aku jeringau berisi biji pahit, aku teman sambal dan lalapan orang Sunda.",
+        "jawaban": "Jering"
+    },
+    {
+        "index": 448,
+        "soal": "Aku kecipir polong bersudut, biji mudaku sayur dan oseng-oseng.",
+        "jawaban": "Kecipir"
+    },
+    {
+        "index": 449,
+        "soal": "Aku buncis polos hijau, aku lodeh, urap, dan teman nasi campur.",
+        "jawaban": "Buncis"
+    },
+    {
+        "index": 450,
+        "soal": "Aku kacang panjang menjuntai, aku urap dan gado-gado wajib hadir.",
+        "jawaban": "Kacang panjang"
+    },
+    {
+        "index": 451,
+        "soal": "Aku terung ungu kilap, digoreng aku menjadi terong goreng crispy.",
+        "jawaban": "Terung ungu"
+    },
+    {
+        "index": 452,
+        "soal": "Aku terung ikan kecil-kecil hijau, aku lalapan sambal terasi wajib.",
+        "jawaban": "Terung ikan"
+    },
+    {
+        "index": 453,
+        "soal": "Aku terong thailand bulat kecil, aku pelengkap lalapan ayam geprek.",
+        "jawaban": "Terong thailand"
+    },
+    {
+        "index": 454,
+        "soal": "Aku okra berselimut lendir, irisanku licin menyehatkan pencernaan.",
+        "jawaban": "Okra"
+    },
+    {
+        "index": 455,
+        "soal": "Aku jagung manis pipil kuning, aku bakwan dan sup jagung kreamy.",
+        "jawaban": "Jagung manis"
+    },
+    {
+        "index": 456,
+        "soal": "Aku daun pisang pembungkus nasi, aromaku muncul saat kukusan panas.",
+        "jawaban": "Daun pisang"
+    },
+    {
+        "index": 457,
+        "soal": "Aku batang pisang muda, abuku sayur asem khas Jawa.",
+        "jawaban": "Batang pisang"
+    },
+    {
+        "index": 458,
+        "soal": "Aku jantung pisang bunga ungu, aku lalapan khas Bali dan urab.",
+        "jawaban": "Jantung pisang"
+    },
+    {
+        "index": 459,
+        "soal": "Aku rebung bambu muda, aku lodeh dan sayur lodeh khas kampung.",
+        "jawaban": "Rebung"
+    },
+    {
+        "index": 460,
+        "soal": "Aku jamur merang dari pemandian jerami, bakso dan tumisanku favorit.",
+        "jawaban": "Jamur merang"
+    },
+    {
+        "index": 461,
+        "soal": "Aku jamur tiram berlapis putih, aku tumbuh di kayu basah berkelompok.",
+        "jawaban": "Jamur tiram"
+    },
+    {
+        "index": 462,
+        "soal": "Aku jamur shimeji coklat mungil, aku tumis mentega sajian restoran Jepang.",
+        "jawaban": "Jamur shimeji"
+    },
+    {
+        "index": 463,
+        "soal": "Aku rumput laut hijau pembalut sushi, aku nori kaya mineral laut.",
+        "jawaban": "Rumput laut"
+    },
+    {
+        "index": 464,
+        "soal": "Aku tauge mungil berkecambah, aku teman mie ayam dan ketoprak.",
+        "jawaban": "Tauge"
+    },
+    {
+        "index": 465,
+        "soal": "Aku rendang padang dimasak berjam-jam, aku juara makanan terlezat dunia versi CNN.",
+        "jawaban": "Rendang daging"
+    },
+    {
+        "index": 466,
+        "soal": "Aku soto banjar berkuah kuning, isinya jeruk nipis dan sambal kacang.",
+        "jawaban": "Soto banjar"
+    },
+    {
+        "index": 467,
+        "soal": "Aku bakso bulat kenyal, isianmu bisa telur atau keju. Aku teman kuah panas hujan-hujan.",
+        "jawaban": "Bakso urat"
+    },
+    {
+        "index": 468,
+        "soal": "Aku mie ayam pedas warung angkringan, cakarmu selalu nyari aku tengah malam.",
+        "jawaban": "Mie ayam"
+    },
+    {
+        "index": 469,
+        "soal": "Aku gudeg yogya manis legit, dimasak semalam suntuk dari nangka muda.",
+        "jawaban": "Gudeg"
+    },
+    {
+        "index": 470,
+        "soal": "Aku gado-gado sayuran bersaus kacang, aku salad khas betawi berbalut lontong.",
+        "jawaban": "Gado-gado betawi"
+    },
+    {
+        "index": 471,
+        "soal": "Aku ketoprak tahu dan ketupat, saus kacangku manis gurih dengan kerupuk.",
+        "jawaban": "Ketoprak"
+    },
+    {
+        "index": 472,
+        "soal": "Aku pecel lele sambal tirok, aku hidangan murah meriah pinggir jalan.",
+        "jawaban": "Pecel lele"
+    },
+    {
+        "index": 473,
+        "soal": "Aku pempek lenjer asam manis, dari palembang aku datang berikut cuko hitam pekat.",
+        "jawaban": "Pempek lenjer"
+    },
+    {
+        "index": 474,
+        "soal": "Aku tekwan sup ikan palembang, bakso ikanku renyaL dalam kaldu udang.",
+        "jawaban": "Tekwan"
+    },
+    {
+        "index": 475,
+        "soal": "Aku martabak manis tebal melimpah, isiku coklat keju kacang. Aku jajanan malam penuh dosa diet.",
+        "jawaban": "Martabak manis"
+    },
+    {
+        "index": 476,
+        "soal": "Aku terang bulan biji wijen, sepupu martabak yang hanya isi kacang coklat.",
+        "jawaban": "Terang bulan"
+    },
+    {
+        "index": 477,
+        "soal": "Aku kue cubit mungil setengah matang, topping meses dan keju di atasku.",
+        "jawaban": "Kue cubit"
+    },
+    {
+        "index": 478,
+        "soal": "Aku roti bakar coklat keju, aku camilan malam penjaja keliling sepeda.",
+        "jawaban": "Roti bakar"
+    },
+    {
+        "index": 479,
+        "soal": "Aku siomay bandung kukusan sayur, saus kacang pedasku memikat semua kalangan.",
+        "jawaban": "Siomay bandung"
+    },
+    {
+        "index": 480,
+        "soal": "Aku batagor tahu goreng, singkatan bakso tahu goreng yang legendaris.",
+        "jawaban": "Batagor"
+    },
+    {
+        "index": 481,
+        "soal": "Aku cilok bulat kecil tusuk sate, saus kacangku bikin nagih anak sekolah.",
+        "jawaban": "Cilok"
+    },
+    {
+        "index": 482,
+        "soal": "Aku cuanki kuah bening malam, pelengkap bakso dan siomay pinggir jalan.",
+        "jawaban": "Cuanki"
+    },
+    {
+        "index": 483,
+        "soal": "Aku risoles bergulung roti, isinya ragout ayam. Aku lauk tamu tak diundang di acara hajatan.",
+        "jawaban": "Risoles ragout"
+    },
+    {
+        "index": 484,
+        "soal": "Aku pastel panggang isi bihun, kulitku lembut warna kuning.",
+        "jawaban": "Pastel tutup"
+    },
+    {
+        "index": 485,
+        "soal": "Aku lumpia semarang isi rebung, kulitku tipis digoreng keemasan.",
+        "jawaban": "Lumpia semarang"
+    },
+    {
+        "index": 486,
+        "soal": "Aku getuk singkong berwarna-warni, teman teh sore nenek-nenek.",
+        "jawaban": "Getuk trio"
+    },
+    {
+        "index": 487,
+        "soal": "Aku klepon hijau menggulung kelapa, gula cairnya meledak di mulut.",
+        "jawaban": "Klepon"
+    },
+    {
+        "index": 488,
+        "soal": "Aku cenil pink ungu kenyal, aku sahabat klepon dalam wadah daun pisang.",
+        "jawaban": "Cenil"
+    },
+    {
+        "index": 489,
+        "soal": "Aku putu bambu uap panas, bunyi tiupan penjualku jadi alarm sore hari.",
+        "jawaban": "Putu bambu"
+    },
+    {
+        "index": 490,
+        "soal": "Aku kue pancong tepung kelapa, dibakar setengah lingkaran di tungku tanah liat.",
+        "jawaban": "Pancong"
+    },
+    {
+        "index": 491,
+        "soal": "Aku kerak telor betawi asap arang, aku menu jadul yang mulai langka.",
+        "jawaban": "Kerak telor"
+    },
+    {
+        "index": 492,
+        "soal": "Aku nasi ulam betawi harum, rempah dan kemangi menemani ayam goreng lengkuas.",
+        "jawaban": "Nasi ulam"
+    },
+    {
+        "index": 493,
+        "soal": "Aku sambal matah bali mentah-mentah, irisanku segar pedas menyegarkan.",
+        "jawaban": "Sambal matah"
+    },
+    {
+        "index": 494,
+        "soal": "Aku ayam betutu bali pedas, dibumbui rempah base genep berjam-jam.",
+        "jawaban": "Ayam betutu"
+    },
+    {
+        "index": 495,
+        "soal": "Aku babi guling bali utuh dipanggang, aku menu upacara adat pulau dewata.",
+        "jawaban": "Babi guling"
+    },
+    {
+        "index": 496,
+        "soal": "Aku lawar campuran darah dan kelapa, menu sakral Bali yang kontroversial.",
+        "jawaban": "Lawar"
+    },
+    {
+        "index": 497,
+        "soal": "Aku sate lilit bali tusuk batang serai, daging ikan cincangku berbumbu kencang.",
+        "jawaban": "Sate lilit"
+    },
+    {
+        "index": 498,
+        "soal": "Aku nasi campur bali porsi kecil, lauknya berjajar rapi di atas nasi hangat.",
+        "jawaban": "Nasi campur bali"
+    },
+    {
+        "index": 499,
+        "soal": "Aku es doger bandung susu kelapa, toppingnya cincau dan tape ketan.",
+        "jawaban": "Es doger"
+    },
+    {
+        "index": 500,
+        "soal": "Aku bajigur hangat gula aren, teman setia trans Bandung saat musim hujan.",
+        "jawaban": "Bajigur"
+    },
+    {
+        "index": 501,
+        "soal": "Aku bandrek jahe merah susu, penghangat malam pegunungan parahyangan.",
+        "jawaban": "Bandrek"
+    },
+    {
+        "index": 502,
+        "soal": "Aku talua dadak padang telur kocok, dikocok dalam gelas lalu diminum tegak.",
+        "jawaban": "Talua"
+    },
+    {
+        "index": 503,
+        "soal": "Aku sate padang bumbu kuning kental, daging sapiku disiram kuah pedas panas.",
+        "jawaban": "Sate padang"
+    },
+    {
+        "index": 504,
+        "soal": "Aku gulai ikan patin tempoyak, fermentasi durianku bikin orang penasaran.",
+        "jawaban": "Gulai tempoyak"
+    },
+    {
+        "index": 505,
+        "soal": "Aku dendeng balado daging pipih, kering dan pedas awet berhari-hari.",
+        "jawaban": "Dendeng balado"
+    },
+    {
+        "index": 506,
+        "soal": "Aku ayam pop kremes kendal, direbus santan lalu digoreng sebentar saja.",
+        "jawaban": "Ayam pop"
+    },
+    {
+        "index": 507,
+        "soal": "Aku garang asem jepara pedas asam, dikukus daun pisang dengan cabai rawit utuh.",
+        "jawaban": "Garang asem"
+    },
+    {
+        "index": 508,
+        "soal": "Aku mangut beong ambarawa, kuah mangutku legendaris bikin antre.",
+        "jawaban": "Mangut beong"
+    },
+    {
+        "index": 509,
+        "soal": "Aku wedang ronde jahe panas, bola-bola kacangku mengapung di gelas.",
+        "jawaban": "Wedang ronde"
+    },
+    {
+        "index": 510,
+        "soal": "Aku sekoteng susu kacang, gerobakku keliling kampung membawa kehangatan.",
+        "jawaban": "Sekoteng"
+    },
+    {
+        "index": 511,
+        "soal": "Aku es cincau hijau pandan, isinya tape ketan dan susu kental manis.",
+        "jawaban": "Es cincau"
+    },
+    {
+        "index": 512,
+        "soal": "Aku es teler bogor kelapa muda, avokad dan nangka bertumpuk dalam gelas besar.",
+        "jawaban": "Es teler"
+    },
+    {
+        "index": 513,
+        "soal": "Aku es kopi susu gula aren, aku minuman generasi milennial yang bikin begadang.",
+        "jawaban": "Es kopi susu"
+    },
+    {
+        "index": 514,
+        "soal": "Aku meja makan keluarga, semua berkumpul di atasku tiga kali sehari.",
+        "jawaban": "Meja makan"
+    },
+    {
+        "index": 515,
+        "soal": "Aku ranjang pengantin berkanopi, aku tempat memulai kehidupan baru sepasang manusia.",
+        "jawaban": "Ranjang"
+    },
+    {
+        "index": 516,
+        "soal": "Aku lemari pakaian bercermin, pintuku membuka dunia penampilanmu setiap pagi.",
+        "jawaban": "Lemari pakaian"
+    },
+    {
+        "index": 517,
+        "soal": "Aku rak buku bertingkat, koleksimu kususun rapi dari lantai sampai langit-langit.",
+        "jawaban": "Rak buku"
+    },
+    {
+        "index": 518,
+        "soal": "Aku kursi goyang teras, suaraku kretek-kretek menemani sore tua.",
+        "jawaban": "Kursi goyang"
+    },
+    {
+        "index": 519,
+        "soal": "Aku karpet bulu lembut, kakimu tak akan dingin menginjak lantai marmer.",
+        "jawaban": "Karpet"
+    },
+    {
+        "index": 520,
+        "soal": "Aku gorden jendela tebal, siang yang menyilaukan kututup rapat untukmu tidur lagi.",
+        "jawaban": "Gorden tebal"
+    },
+    {
+        "index": 521,
+        "soal": "Aku keran air bermoncong, putar tanganku air hangat dan dingin kuatur.",
+        "jawaban": "Keran"
+    },
+    {
+        "index": 522,
+        "soal": "Aku bak mandi klasik rumah nenek, aku diisi ember-ember dan gayung kuning.",
+        "jawaban": "Bak mandi"
+    },
+    {
+        "index": 523,
+        "soal": "Aku shower mandi hujan, tetesanku menyerupai gerimis di kamar mandi.",
+        "jawaban": "Shower"
+    },
+    {
+        "index": 524,
+        "soal": "Aku wastafel cuci tangan, sabun cermin dan sikap gigimu tinggal di atasku.",
+        "jawaban": "Wastafel"
+    },
+    {
+        "index": 525,
+        "soal": "Aku kloset duduk modern, tombolku dua: yang besar dan yang kecil.",
+        "jawaban": "Kloset duduk"
+    },
+    {
+        "index": 526,
+        "soal": "Aku exhaust fan dapur, asap gorengan kutarik keluar lewat lubang tembus.",
+        "jawaban": "Exhaust fan"
+    },
+    {
+        "index": 527,
+        "soal": "Aku kitchen set modern, panci dan wajan tersimpan rapi dalam perutku.",
+        "jawaban": "Kitchen set"
+    },
+    {
+        "index": 528,
+        "soal": "Aku rak piring kayu jati, piring dan gelas tamumu tersusun rapi menunggu dipakai.",
+        "jawaban": "Rak piring"
+    },
+    {
+        "index": 529,
+        "soal": "Aku meja belajar lampu hijau, pulpen dan buku tulismu bertengger rapi di atasku.",
+        "jawaban": "Meja belajar"
+    },
+    {
+        "index": 530,
+        "soal": "Aku almari besi kantor tua, dokumen penting dikunci rapat di perutku.",
+        "jawaban": "Almari besi"
+    },
+    {
+        "index": 531,
+        "soal": "Aku brankas baja anti tembak, uang perhiasan dan akta lahir tersimpan aman di dalamku.",
+        "jawaban": "Brankas"
+    },
+    {
+        "index": 532,
+        "soal": "Aku pintu geser aluminium, aku pembatas ruang tamu dan ruang keluarga.",
+        "jawaban": "Pintu geser"
+    },
+    {
+        "index": 533,
+        "soal": "Aku jendela kaca berbingkai, pagiku kupandang mentari terbit dari kasur.",
+        "jawaban": "Jendela kaca"
+    },
+    {
+        "index": 534,
+        "soal": "Aku ventilasi angin kecil, udara segar masuk tanpa perlu listrik.",
+        "jawaban": "Ventilasi"
+    },
+    {
+        "index": 535,
+        "soal": "Aku plafon gypsum datar, lampu-lampu kecil tertanam di tubuhku seperti bintang jatuh.",
+        "jawaban": "Plafon gypsum"
+    },
+    {
+        "index": 536,
+        "soal": "Aku lantai keramik mengkilap, telapak kakimu terasa dingin pagi buta menginjak tubuhku.",
+        "jawaban": "Keramik"
+    },
+    {
+        "index": 537,
+        "soal": "Aku tangga rumah dua lantai, anak tangga naikkun berhitung satu sampai empat belas.",
+        "jawaban": "Tangga rumah"
+    },
+    {
+        "index": 538,
+        "soal": "Aku pagar rumah besi tempa, aku garis depan menjaga rumahmu dari pencuri.",
+        "jawaban": "Pagar besi"
+    },
+    {
+        "index": 539,
+        "soal": "Aku gerbang minimalis, namamu terukir indah di tubuhku.",
+        "jawaban": "Gerbang rumah"
+    },
+    {
+        "index": 540,
+        "soal": "Aku carport rumahmu, mobil kesayanganmu parkir di atas tubuhku tiap malam.",
+        "jawaban": "Carport"
+    },
+    {
+        "index": 541,
+        "soal": "Aku teras rumah berkerubung, tamu tak resmi disambut dulu di tubuhku sebelum masuk.",
+        "jawaban": "Teras rumah"
+    },
+    {
+        "index": 542,
+        "soal": "Aku taman mini halaman, bunga-bunga dan kolam ikan hidup tenang di dadaku.",
+        "jawaban": "Taman rumah"
+    },
+    {
+        "index": 543,
+        "soal": "Aku kolam ikan koi kecil, penghuniku merah putih oranye berenang santai.",
+        "jawaban": "Kolam koi"
+    },
+    {
+        "index": 544,
+        "soal": "Aku pompa air kolam, air terjun kecil mengalir dari mulutku tanpa henti.",
+        "jawaban": "Pompa air"
+    },
+    {
+        "index": 545,
+        "soal": "Aku selang air gulungan, aku menggelinding dari kran ke kebun saat tanaman haus.",
+        "jawaban": "Selang air"
+    },
+    {
+        "index": 546,
+        "soal": "Aku gayung kuning plastik, aku sahabat mandi di kamar mandi kampung.",
+        "jawaban": "Gayung"
+    },
+    {
+        "index": 547,
+        "soal": "Aku ember mandi merah, air bersihku menantimu setiap pagi dan sore.",
+        "jawaban": "Ember mandi"
+    },
+    {
+        "index": 548,
+        "soal": "Aku lap lantai bergagang panjang, lantai licin hasil keringatku bikin kamu nyaris jatuh.",
+        "jawaban": "Pel lantai"
+    },
+    {
+        "index": 549,
+        "soal": "Aku kemoceng bulu ayam, debu sudut-sudut rumah kutangkap dengan tubuhku.",
+        "jawaban": "Kemoceng"
+    },
+    {
+        "index": 550,
+        "soal": "Aku tempat sampah pedal, tutupku terbuka saat kaki menekan pedalnya.",
+        "jawaban": "Tempat sampah"
+    },
+    {
+        "index": 551,
+        "soal": "Aku kantong kresek hitam, sampah dapurmu berpindah ke tubuhku setiap malam.",
+        "jawaban": "Kantong kresek"
+    },
+    {
+        "index": 552,
+        "soal": "Aku sapu ijuk gagang bambu, daun-daunku menyapu debu halaman setiap subuh.",
+        "jawaban": "Sapu ijuk"
+    },
+    {
+        "index": 553,
+        "soal": "Aku pengki penampung debu, sapu adalah pasangan abadiku yang tidak terpisahkan.",
+        "jawaban": "Pengki"
+    },
+    {
+        "index": 554,
+        "soal": "Aku tempat sandal di depan pintu, sandal tamu tersusun rapi menunggu majikannya pulang.",
+        "jawaban": "Rak sandal"
+    },
+    {
+        "index": 555,
+        "soal": "Aku gantungan baju berroda, baju kerjamu bergantung bebas tanpa lipatan.",
+        "jawaban": "Gantungan hanger"
+    },
+    {
+        "index": 556,
+        "soal": "Aku jemuran baju besi lipat, pakaian basahmu menjemur menghadap matahari di tubuhku.",
+        "jawaban": "Penjemuran"
+    },
+    {
+        "index": 557,
+        "soal": "Aku setrika uap anti lengket, kerutan kemeja kerjamu kuhilangkan dengan uap panas.",
+        "jawaban": "Setrika uap"
+    },
+    {
+        "index": 558,
+        "soal": "Aku mesin jahit ibu tua, bunyiku derak-derak menjahit celana robek anak-anak.",
+        "jawaban": "Mesin jahit"
+    },
+    {
+        "index": 559,
+        "soal": "Aku kotak P3K dinding, plester dan obat merah tersimpan di perutku untuk keadaan darurat.",
+        "jawaban": "Kotak P3K"
+    },
+    {
+        "index": 560,
+        "soal": "Aku pemadam kebakaran rumah tabung merah, semoga aku tak pernah kau pakai seumur hidup.",
+        "jawaban": "Tabung pemadam"
+    },
+    {
+        "index": 561,
+        "soal": "Aku alarm kebakaran asap, deteksi asap tipisku bisa menyelamatkan seluruh keluarga.",
+        "jawaban": "Alarm asap"
+    },
+    {
+        "index": 562,
+        "soal": "Aku CCTV mata rumah, gerakan mencurigakan direkam 24 jam oleh lensaku.",
+        "jawaban": "CCTV rumah"
+    },
+    {
+        "index": 563,
+        "soal": "Aku garpu bercabang empat, aku sahabat setia pisau di meja makan barat.",
+        "jawaban": "Garpu"
+    },
+    {
+        "index": 564,
+        "soal": "Aku sendok sup bermoncong, kuah panas kutakuk perlahan tanpa tumpah.",
+        "jawaban": "Sendok sayur"
+    },
+    {
+        "index": 565,
+        "soal": "Aku sumpit kayu kembar, aku alat makan khas negeri sakura yang menantang pemula.",
+        "jawaban": "Sumpit"
+    },
+    {
+        "index": 566,
+        "soal": "Aku gelas belimbing tua, tubuhku bergerigi. Kopi tubrukku paling nikmat di pagi hari.",
+        "jawaban": "Gelas belimbing"
+    },
+    {
+        "index": 567,
+        "soal": "Aku teko arum kuning, teh tubrukkuku menu legendaris rumah makan padang.",
+        "jawaban": "Teko arum"
+    },
+    {
+        "index": 568,
+        "soal": "Aku termos antik hitam, air panasku bertahan hangat sampai malam.",
+        "jawaban": "Termos antik"
+    },
+    {
+        "index": 569,
+        "soal": "Aku panci presto bersiul, bunyi desisku tanda daging sudah lunak.",
+        "jawaban": "Panci presto"
+    },
+    {
+        "index": 570,
+        "soal": "Aku wajan hitam gosong, gorenganku renyah dan minyakku tak mudah habis.",
+        "jawaban": "Wajan besi"
+    },
+    {
+        "index": 571,
+        "soal": "Aku cetakan bolu bermotif, adonanmu berubah bentuk cantik setelah kukus.",
+        "jawaban": "Cetakan kue"
+    },
+    {
+        "index": 572,
+        "soal": "Aku ayun penakar tepung, gram dan mililiter terukur presisi oleh tanganku.",
+        "jawaban": "Timbangan dapur"
+    },
+    {
+        "index": 573,
+        "soal": "Aku blender dua gelas, es batu dan buah hancur jadi jus segar dalam sekejap.",
+        "jawaban": "Blender"
+    },
+    {
+        "index": 574,
+        "soal": "Aku mixer adonan roti, pengocokku berputar membuat adonan berlembar elastis.",
+        "jawaban": "Mixer roti"
+    },
+    {
+        "index": 575,
+        "soal": "Aku serutan kelapa bergilir, kelapa parut untuk uduk lahir dari tubuhku.",
+        "jawaban": "Serutan kelapa"
+    },
+    {
+        "index": 576,
+        "soal": "Aku cobek batu kali, ulek-ulek sambalmu harum dari papanku. Aku pasangan hidup ulekan.",
+        "jawaban": "Cobek batu"
+    },
+    {
+        "index": 577,
+        "soal": "Aku alat penggiling bumbu modern, tombol putarku menghaluskan lada hitam.",
+        "jawaban": "Gilingan lada"
+    },
+    {
+        "index": 578,
+        "soal": "Aku talenan kayu potong, iris bawang dan cabai meninggalkan bekas luka di tubuhku.",
+        "jawaban": "Talenan"
+    },
+    {
+        "index": 579,
+        "soal": "Aku pisau dapur tajam, hati-hati memegangku, tanganku lebih tajam dari mulut orang munafik.",
+        "jawaban": "Pisau dapur"
+    },
+    {
+        "index": 580,
+        "soal": "Aku gunting dapur tulang, tulang ayam dan kardus kupotong dengan rahangku.",
+        "jawaban": "Gunting dapur"
+    },
+    {
+        "index": 581,
+        "soal": "Aku serok mie berjeriji, mi kuahmu terangkat utuh tanpa tumpah.",
+        "jawaban": "Saringan mie"
+    },
+    {
+        "index": 582,
+        "soal": "Aku spatula silikon lembut, adonan bolu tak akan rusak saat kubalik wajan.",
+        "jawaban": "Spatula silikon"
+    },
+    {
+        "index": 583,
+        "soal": "Aku centong nasi besar, nasi hangat kutakar merata ke piring semua anggota keluarga.",
+        "jawaban": "Centong nasi"
+    },
+    {
+        "index": 584,
+        "soal": "Aku tamis bambu anyam, minyak panas kutiriskan agar gorengan bebas minyak.",
+        "jawaban": "Tamis"
+    },
+    {
+        "index": 585,
+        "soal": "Aku kuali anti lengket, telur mata sapi tak akan menempel di dadaku.",
+        "jawaban": "Kuali teflon"
+    },
+    {
+        "index": 586,
+        "soal": "Aku tungku arang tanah liat, satay dan ikan bakar matang di atas dadaku.",
+        "jawaban": "Tungku arang"
+    },
+    {
+        "index": 587,
+        "soal": "Aku anglo arang kecil, kopi tubruk dan roti bakar hangat lahir dari pangkuanku.",
+        "jawaban": "Anglo"
+    },
+    {
+        "index": 588,
+        "soal": "Aku kipas tangan lipat, aku hadiah souvenir bali yang membantu saat listrik padam.",
+        "jawaban": "Kipas tangan"
+    },
+    {
+        "index": 589,
+        "soal": "Aku payung lipat saku, hujan mendadak tak bisa membasahi bajumu karena aku selalu di tas.",
+        "jawaban": "Payung lipat"
+    },
+    {
+        "index": 590,
+        "soal": "Aku jas hujan ponco, aku menutupi kamu dan motormu sekaligus saat badai.",
+        "jawaban": "Jas hujan"
+    },
+    {
+        "index": 591,
+        "soal": "Aku sepatu boot karet petani, sawah lumpur tak bisa menembus kakiku.",
+        "jawaban": "Sepatu boot"
+    },
+    {
+        "index": 592,
+        "soal": "Aku sarung tangan karet cuci, tanganmu terlindung dari sabun dan air panas.",
+        "jawaban": "Sarung tangan"
+    },
+    {
+        "index": 593,
+        "soal": "Aku ember plastik warna-warni, aku serbaguna mandi, mencuci, dan menampung air.",
+        "jawaban": "Ember plastik"
+    },
+    {
+        "index": 594,
+        "soal": "Aku meteran gulung lima meter, panjang dan lebar terukur akurat oleh lidahku.",
+        "jawaban": "Meteran gulung"
+    },
+    {
+        "index": 595,
+        "soal": "Aku waterpass gelembung udara, dindingmu lurus tegak karena kejeliwanku.",
+        "jawaban": "Waterpass"
+    },
+    {
+        "index": 596,
+        "soal": "Aku palu kayu tukang, paku masuk rapat tanpa membentol karena tanganku terlatih.",
+        "jawaban": "Palu"
+    },
+    {
+        "index": 597,
+        "soal": "Aku obeng plus minus, baut dan sekrup longgar kutemani dengan kepala yang berganti-ganti.",
+        "jawaban": "Obeng"
+    },
+    {
+        "index": 598,
+        "soal": "Aku kunci inggris bergerigi, mur baut macet kulonggarkan dengan rahangku.",
+        "jawaban": "Kunci inggris"
+    },
+    {
+        "index": 599,
+        "soal": "Aku tang kombinasi, kawat dan paku mencengkeram erat di rahangku.",
+        "jawaban": "Tang"
+    },
+    {
+        "index": 600,
+        "soal": "Aku bor listrik tembus dinding, lubang-lubang kecil lahir dari moncongku yang berputar.",
+        "jawaban": "Bor listrik"
+    },
+    {
+        "index": 601,
+        "soal": "Aku amplas kasar halus, permukaan kayu licin mulus karena gesekanku.",
+        "jawaban": "Amplas"
+    },
+    {
+        "index": 602,
+        "soal": "Aku kuas cat bulu, dinding putih berubah biru muda oleh sapuan tanganku.",
+        "jawaban": "Kuas cat"
+    },
+    {
+        "index": 603,
+        "soal": "Aku rol cat bulu panjang, plafon tinggi tercapai tanpa tangga berkat tanganku.",
+        "jawaban": "Rol cat"
+    },
+    {
+        "index": 604,
+        "soal": "Aku kaleng cat akrilik, warna kesukaanmu tersimpan rapat di dalam tubuh logamku.",
+        "jawaban": "Kaleng cat"
+    },
+    {
+        "index": 605,
+        "soal": "Aku lakban hitam lengket, kabel dan bocor darurat tertutup rapat oleh tubuhku.",
+        "jawaban": "Lakban"
+    },
+    {
+        "index": 606,
+        "soal": "Aku lem tembak panas, kerajinan tanganmu melekat kokoh oleh lelehan tubuhku.",
+        "jawaban": "Lem tembak"
+    },
+    {
+        "index": 607,
+        "soal": "Aku tali rafia ungu, barang-barang belanjaanmu terikat erat dengan tubuhku.",
+        "jawaban": "Tali rafia"
+    },
+    {
+        "index": 608,
+        "soal": "Aku karung beras bekas, pakaian bekas donasi tersimpan rapi dalam perutku.",
+        "jawaban": "Karung"
+    },
+    {
+        "index": 609,
+        "soal": "Aku kipas angin berdiri, kepalaku berputar kiri-kanan menyapu seluruh ruangan.",
+        "jawaban": "Kipas angin"
+    },
+    {
+        "index": 610,
+        "soal": "Aku AC dinding pendingin, suhu ruanganmu dingin seperti puncak jaya karena tubuhku.",
+        "jawaban": "AC"
+    },
+    {
+        "index": 611,
+        "soal": "Aku mesin cuci dua tabung, cuci dan keringkan pakaianmu dalam satu sesi.",
+        "jawaban": "Mesin cuci"
+    },
+    {
+        "index": 612,
+        "soal": "Aku rice cooker pencetak nasi, tombolku naik bunyi tik saat nasi matang sempurna.",
+        "jawaban": "Rice cooker"
+    },
+    {
+        "index": 613,
+        "soal": "Aku microwave gelombang mikro, sisa makanan dingin hangat kembali dalam semenit.",
+        "jawaban": "Microwave"
+    },
+    {
+        "index": 614,
+        "soal": "Aku toaster pemanggang roti, rotimu melompat keluar keemasan renyah dari mulutku.",
+        "jawaban": "Toaster"
+    },
+    {
+        "index": 615,
+        "soal": "Aku air fryer tanpa minyak, gorengan sehatmu matang oleh udara panas berputar.",
+        "jawaban": "Air fryer"
+    },
+    {
+        "index": 616,
+        "soal": "Aku dispenser galon atas, merahku air panas dan biruku air dingin.",
+        "jawaban": "Dispenser"
+    },
+    {
+        "index": 617,
+        "soal": "Aku charger kepala casan, baterai habismu pulih penuh saat tidur bersamaku.",
+        "jawaban": "Charger"
+    },
+    {
+        "index": 618,
+        "soal": "Aku powerbank penyelamat di jalan, ponselmu hidup kembali dari tubuhku yang terisi penuh.",
+        "jawaban": "Powerbank"
+    },
+    {
+        "index": 619,
+        "soal": "Aku earphone nirkabel kembar, aku menghilang entah ke mana dari kantong celanamu.",
+        "jawaban": "Earphone bluetooth"
+    },
+    {
+        "index": 620,
+        "soal": "Aku headset gaming besar, mic tanganku menangkap teriakanmu saat menang pertandingan.",
+        "jawaban": "Headset gaming"
+    },
+    {
+        "index": 621,
+        "soal": "Aku speaker bluetooth portabel, musik pengiring harimu mengalir dari perutku.",
+        "jawaban": "Speaker bluetooth"
+    },
+    {
+        "index": 622,
+        "soal": "Aku soundbar TV pipih panjang, dialog film yang buram menjadi jelas karena bass dan trebleku.",
+        "jawaban": "Soundbar"
+    },
+    {
+        "index": 623,
+        "soal": "Aku proyektor sinar putih, film bioskop raksasa tampil di dinding kamarmu.",
+        "jawaban": "Proyektor"
+    },
+    {
+        "index": 624,
+        "soal": "Aku printer tinta warna, tugas sekolah dan foto keluarga lahir dari perutku.",
+        "jawaban": "Printer"
+    },
+    {
+        "index": 625,
+        "soal": "Aku scanner pembaca dokumen, kertas fisikmu berubah jadi PDF oleh sinar yang menyapu tubuhku.",
+        "jawaban": "Scanner"
+    },
+    {
+        "index": 626,
+        "soal": "Aku webcam mata laptop, wajahmu tampak jelas di rapat online pagi-pagi.",
+        "jawaban": "Webcam"
+    },
+    {
+        "index": 627,
+        "soal": "Aku flashdisk mungil penghuni gantungan, file pentingmu tersimpan dalam tubuhku seukuran ibu jari.",
+        "jawaban": "Flashdisk"
+    },
+    {
+        "index": 628,
+        "soal": "Aku harddisk eksternal hitam, kenangan digital bertahun-tahun tersimpan aman di dadaku.",
+        "jawaban": "Harddisk eksternal"
+    },
+    {
+        "index": 629,
+        "soal": "Aku kartu memori mikroskopik, ribuan foto liburanmu tertelan tanpa sakit perut.",
+        "jawaban": "Kartu memori"
+    },
+    {
+        "index": 630,
+        "soal": "Aku RAM otak komputer, semakin besarku semakin gesit pekerjaan tuanmu.",
+        "jawaban": "RAM"
+    },
+    {
+        "index": 631,
+        "soal": "Aku processor chip pintar, aku otak dari semua mesin hitung di dunia.",
+        "jawaban": "Processor"
+    },
+    {
+        "index": 632,
+        "soal": "Aku motherboard induk semua komponen, processor RAM dan VGA bertemu bersama di pangkuanku.",
+        "jawaban": "Motherboard"
+    },
+    {
+        "index": 633,
+        "soal": "Aku keyboard mekanik berbunyi tak tak, jarimu menari mengetik di tubuhku semalaman.",
+        "jawaban": "Keyboard mekanik"
+    },
+    {
+        "index": 634,
+        "soal": "Aku mouse gaming berlampu RGB, klik ganda dan drag akurat karena sensor canggihku.",
+        "jawaban": "Mouse gaming"
+    },
+    {
+        "index": 635,
+        "soal": "Aku monitor lebar bezel tipis, dunia maya terpampang nyata di wajahku.",
+        "jawaban": "Monitor PC"
+    },
+    {
+        "index": 636,
+        "soal": "Aku joystick konsol permainan, tombol-tubuhku digenggam erat saat pertarungan final.",
+        "jawaban": "Joystick gamepad"
+    },
+    {
+        "index": 637,
+        "soal": "Aku drone empat baling-baling, dunia dari langit terekam indah oleh kameraku.",
+        "jawaban": "Drone"
+    },
+    {
+        "index": 638,
+        "soal": "Aku smartwatch jam pintar, detak jantung dan langkah kakimu kucatat setiap hari.",
+        "jawaban": "Smartwatch"
+    },
+    {
+        "index": 639,
+        "soal": "Aku powerline router WiFi sinyal, internet menyebar ke seluruh sudut rumah dari tubuhku.",
+        "jawaban": "Router WiFi"
+    },
+    {
+        "index": 640,
+        "soal": "Aku modem indihome kotak lampu, lampu hijauku adalah hidupmu yang bernama internet.",
+        "jawaban": "Modem"
+    },
+    {
+        "index": 641,
+        "soal": "Aku stabilizer listrik penjaga tegangan, alat elektronikmu aman dari lonjakan listrik mendadak.",
+        "jawaban": "Stabilizer"
+    },
+    {
+        "index": 642,
+        "soal": "Aku genset penghasil listrik darurat, saat PLN padam aku yang menyala membantu rumahmu.",
+        "jawaban": "Genset"
+    },
+    {
+        "index": 643,
+        "soal": "Aku panel listrik MCB deret, saklar-kunciku memutus arus sebelum rumahmu terbakar.",
+        "jawaban": "Panel MCB"
+    },
+    {
+        "index": 644,
+        "soal": "Aku stop kontak dinding berlubang, colokan-colokan berebut mencuri listrik dari tubuhku.",
+        "jawaban": "Stop kontak"
+    },
+    {
+        "index": 645,
+        "soal": "Aku kabel roll kuning panjang, listrik mengalir sampai halaman belakang dari gulungan tubuhku.",
+        "jawaban": "Kabel roll"
+    },
+    {
+        "index": 646,
+        "soal": "Aku lampu LED hemat energi, terangku awet bertahun-tahun tanpa pernah panas.",
+        "jawaban": "Lampu LED"
+    },
+    {
+        "index": 647,
+        "soal": "Aku lampu emergency tabung, saat listrik padam aku yang menerangi lorong gelap.",
+        "jawaban": "Lampu emergency"
+    },
+    {
+        "index": 648,
+        "soal": "Aku lilin elektrik flicker, apiku berkedip tanpa api dan tanpa asap.",
+        "jawaban": "Lilin elektrik"
+    },
+    {
+        "index": 649,
+        "soal": "Aku remote TV universal, semua merek televisi patuh pada tombol-tubuhku.",
+        "jawaban": "Remote universal"
+    },
+    {
+        "index": 650,
+        "soal": "Aku antena TV analog, siaran statis dan salju kutangkap dari atap rumahmu.",
+        "jawaban": "Antena TV"
+    },
+    {
+        "index": 651,
+        "soal": "Aku parabola mangkuk besar, siaran dunia jatuh ke pelukanku lalu masuk layar TV.",
+        "jawaban": "Parabola"
+    },
+    {
+        "index": 652,
+        "soal": "Aku radio FM tua kayu, suara penyiar dan lagu lawas menemani pagi ayahmu.",
+        "jawaban": "Radio kayu"
+    },
+    {
+        "index": 653,
+        "soal": "Aku tape cassette dek, kaset lagu romansa diputar mundur dengan pensil di tubuhku.",
+        "jawaban": "Tape cassette"
+    },
+    {
+        "index": 654,
+        "soal": "Aku turntable piring hitam, jariku menyapu alur vinyl mengeluarkan nada hangat analog.",
+        "jawaban": "Turntable"
+    },
+    {
+        "index": 655,
+        "soal": "Aku karaoke set keluarga, mic ganda dan lagu dangdut adalah paket lengkap silaturahmi.",
+        "jawaban": "Set karaoke"
+    },
+    {
+        "index": 656,
+        "soal": "Aku mesin EDC pembayaran kartu, struk belanjaanmu tercetak dari mulutku yang bergoyang.",
+        "jawaban": "Mesin EDC"
+    },
+    {
+        "index": 657,
+        "soal": "Aku timbangan digital badan, angka kiloanmu tampil jujur di layarku tiap pagi.",
+        "jawaban": "Timbangan badan"
+    },
+    {
+        "index": 658,
+        "soal": "Aku motor bebek tua legendaris, bunyi put-put-putku mengharumkan masa kecilmu.",
+        "jawaban": "Vespa"
+    },
+    {
+        "index": 659,
+        "soal": "Aku motor sport bongsor, lampu depanku menyala seperti mata harimau di jalan tol.",
+        "jawaban": "Motor sport"
+    },
+    {
+        "index": 660,
+        "soal": "Aku sepeda ontel jadul, ban tebalku melindas jalan berbatu zaman kolonial.",
+        "jawaban": "Sepeda ontel"
+    },
+    {
+        "index": 661,
+        "soal": "Aku sepeda lipat mungil, tubuhku terlipat rapi masuk bagasi mobil.",
+        "jawaban": "Sepeda lipat"
+    },
+    {
+        "index": 662,
+        "soal": "Aku becak tiga roda pedal, aku taksi khas Jawa yang digowes dengan tenaga kaki.",
+        "jawaban": "Becak"
+    },
+    {
+        "index": 663,
+        "soal": "Aku andong kuda tradisional, kudaku berpelana dan lonceng leherku berbunyi.",
+        "jawaban": "Delman"
+    },
+    {
+        "index": 664,
+        "soal": "Aku bendi kuda Sumbawa, kereta kuda mini ku adalah warisan transportasi kolonial.",
+        "jawaban": "Bendi"
+    },
+    {
+        "index": 665,
+        "soal": "Aku bajaj oranye tiga roda berasap, aku taksi khas Jakarta dari India.",
+        "jawaban": "Bajaj"
+    },
+    {
+        "index": 666,
+        "soal": "Aku helicak helikopter bengkok, aku transportasi Jakarta tahun tujuh puluhan yang sudah punah.",
+        "jawaban": "Helicak"
+    },
+    {
+        "index": 667,
+        "soal": "Aku mobil sedan klasik, bagasi dan kap mesinmu simetris di kedua ujungku.",
+        "jawaban": "Sedan"
+    },
+    {
+        "index": 668,
+        "soal": "Aku jeep off-road berkaki empat, tanjakan berlumpur dan sungai dangkal kutaklukkan.",
+        "jawaban": "Jeep"
+    },
+    {
+        "index": 669,
+        "soal": "Aku pickup bak terbuka, hasil panen dan barang berat kutumpang di punggungku.",
+        "jawaban": "Pickup"
+    },
+    {
+        "index": 670,
+        "soal": "Aku minibus keluarga besar, arisan dan mudik lebaran selalu memakna jasa-jasaku.",
+        "jawaban": "Minibus"
+    },
+    {
+        "index": 671,
+        "soal": "Aku bus AKAP raksasa berbagasi, jakarta-surabaya kutempuh semalam suntuk.",
+        "jawaban": "Bus antar kota"
+    },
+    {
+        "index": 672,
+        "soal": "Aku bus kota transjakarta jalur khusus, penumpang menungguku di halte berpintu tinggi.",
+        "jawaban": "Busway"
+    },
+    {
+        "index": 673,
+        "soal": "Aku angkot hijau berpenumpang sepuluh, kursiku dua deret saling berhadapan.",
+        "jawaban": "Angkot"
+    },
+    {
+        "index": 674,
+        "soal": "Aku mobil ambulans bersirine, nyawamu kutolong bawa ke rumah sakit secepatnya.",
+        "jawaban": "Ambulans"
+    },
+    {
+        "index": 675,
+        "soal": "Aku hearse mobil jenazah, perpisahan terakhir manusia terjadi di atasku.",
+        "jawaban": "Mobil jenazah"
+    },
+    {
+        "index": 676,
+        "soal": "Aku mobil dinas pejabat hitam mengkilap, plat nomerku merah dan konvoiku mengganggu lalu lintas.",
+        "jawaban": "Mobil dinas"
+    },
+    {
+        "index": 677,
+        "soal": "Aku taksi meteran kuning, argo naik setiap ratusan meter perjalananku.",
+        "jawaban": "Taksi kuning"
+    },
+    {
+        "index": 678,
+        "soal": "Aku mobil listrik senyap, asap knalpot tidak pernah keluar dari tubuhku.",
+        "jawaban": "Mobil listrik"
+    },
+    {
+        "index": 679,
+        "soal": "Aku mobil balap sirkuit f1, tubuhku rendah merah membelah tikungan 300 km/jam.",
+        "jawaban": "Mobil F1"
+    },
+    {
+        "index": 680,
+        "soal": "Aku rally car berdebu, hutan dan jurang menjadi sirkuitku yang sesungguhnya.",
+        "jawaban": "Mobil reli"
+    },
+    {
+        "index": 681,
+        "soal": "Aku limusin panjang mewah, pengantin atau artis duduk santai di perutku berjokoh.",
+        "jawaban": "Limusin"
+    },
+    {
+        "index": 682,
+        "soal": "Aku mobil pak polisi berpolos hitam putih, sirine dan lampu strobo menempel di atapku.",
+        "jawaban": "Mobil patroli"
+    },
+    {
+        "index": 683,
+        "soal": "Aku truk kontainer raksasa, barang impor antar pulang kutumpang berhari-hari.",
+        "jawaban": "Truk kontainer"
+    },
+    {
+        "index": 684,
+        "soal": "Aku truck engkel engkol, batubara dan pasir laut kutumpah-tumpahkan di pelabuhan.",
+        "jawaban": "Truk engkel"
+    },
+    {
+        "index": 685,
+        "soal": "Aku dump truck bak miring, pasir dan kerikil luruh dari pangkungku sekali dorong tombol.",
+        "jawaban": "Dump truck"
+    },
+    {
+        "index": 686,
+        "soal": "Aku tank tempur berantai, daratan berat dan tembakan musuh tak membuatku gentar.",
+        "jawaban": "Tank perang"
+    },
+    {
+        "index": 687,
+        "soal": "Aku APC kendaraan lapis baja, tentara masuk aman ke zona konflik dalam perutku.",
+        "jawaban": "Kendaraan lapis baja"
+    },
+    {
+        "index": 688,
+        "soal": "Aku mobil pemadam merah menyala, tangga panjang dan selang air tersimpan di sisiku.",
+        "jawaban": "Mobil pemadam"
+    },
+    {
+        "index": 689,
+        "soal": "Aku mobil derek pengerek, motormu yang mogok kugendong sampai bengkel.",
+        "jawaban": "Mobil derek"
+    },
+    {
+        "index": 690,
+        "soal": "Aku traktor sawah berroda besar, sawah berlumpurnya kuplana demi padi muarah.",
+        "jawaban": "Traktor sawah"
+    },
+    {
+        "index": 691,
+        "soal": "Aku hand tractor mini tangan, petani menggendongku menyeberangi pematang sawah sempit.",
+        "jawaban": "Traktor tangan"
+    },
+    {
+        "index": 692,
+        "soal": "Aku mesin panen combine harvester, padi dan jeraminya terpisah dalam sekali jalan.",
+        "jawaban": "Combine harvester"
+    },
+    {
+        "index": 693,
+        "soal": "Aku goni... eh salah, aku buldoser besi besar, gedung tua dan pepohonan runtuh di depan pelatukku.",
+        "jawaban": "Bulldozer"
+    },
+    {
+        "index": 694,
+        "soal": "Aku ekskavator lengan panjang, tanah dan batu tergali oleh mulut gerigiku yang bergoyang.",
+        "jawaban": "Ekskavator"
+    },
+    {
+        "index": 695,
+        "soal": "Aku crane lengan jenjang, kontainer beton terbang ke lantai delapan di pangkuan tanganku.",
+        "jawaban": "Crane"
+    },
+    {
+        "index": 696,
+        "soal": "Aku road roller silinder raksasa, aspal panas mendapat pijakanku rata seperti cermin.",
+        "jawaban": "Road roller"
+    },
+    {
+        "index": 697,
+        "soal": "Aku grader pisau landai, jalan tanah panjang terlandai rapi oleh bilah tengahku.",
+        "jawaban": "Grader jalan"
+    },
+    {
+        "index": 698,
+        "soal": "Aku forklift garpu baja, palet barang gudang terangkat tinggi di rahangku.",
+        "jawaban": "Forklift"
+    },
+    {
+        "index": 699,
+        "soal": "Aku trailer angkut sapi dua tingkat, ternak kurban kutumpang aman antar desa.",
+        "jawaban": "Trailer ternak"
+    },
+    {
+        "index": 700,
+        "soal": "Aku mobil box pengiriman, paket-paket online tersusun rapi dalam perut kotakku.",
+        "jawaban": "Mobil box"
+    },
+    {
+        "index": 701,
+        "soal": "Aku motor listrik senyap, baterai casan di rumah tanpa bensin sekalipun.",
+        "jawaban": "Motor listrik"
+    },
+    {
+        "index": 702,
+        "soal": "Aku skuter listrik sewaan kampus, anak muda mengayunkanku lewat aplikasi ponsel.",
+        "jawaban": "Skuter listrik"
+    },
+    {
+        "index": 703,
+        "soal": "Aku kapal feri penyeberang, mobil dan penumpang satu atap melaut bersamaku.",
+        "jawaban": "Kapal feri"
+    },
+    {
+        "index": 704,
+        "soal": "Aku kapal selam menyelam dalam, periskopku mengintai musuh dari bawah permukaan laut.",
+        "jawaban": "Kapal selam"
+    },
+    {
+        "index": 705,
+        "soal": "Aku kapal pesiar mewah bertingkat, hotel berjalan dengan kolam renang di atapku.",
+        "jawaban": "Kapal pesiar"
+    },
+    {
+        "index": 706,
+        "soal": "Aku kapal tanker minyak raksasa, bahan bakar dunia tersimpan di tangki-tangki perutku.",
+        "jawaban": "Tanker"
+    },
+    {
+        "index": 707,
+        "soal": "Aku kapal kontainer penuh warna, ribuan kotak muatan tersusun seperti lego di dadaku.",
+        "jawaban": "Kapal kontainer"
+    },
+    {
+        "index": 708,
+        "soal": "Aku perahu nelayan bermesin tempel, pagi-pagi buta kubawa jaring penuh ikan ke darat.",
+        "jawaban": "Perahu motor"
+    },
+    {
+        "index": 709,
+        "soal": "Aku sampan kecil dayung tunggal, aku perahu warisan sungai-sungai Betawi dan Banjar.",
+        "jawaban": "Sampan"
+    },
+    {
+        "index": 710,
+        "soal": "Akujukung hutan Kalimantan, tubuhku dari kayu utuh dilubangi, aku tak takut ombak sungai besar.",
+        "jawaban": "Jukung"
+    },
+    {
+        "index": 711,
+        "soal": "Aku perahu layar pinisi Bugis, layak putih-putihku megah membelah Samudera Hindia.",
+        "jawaban": "Pinisi"
+    },
+    {
+        "index": 712,
+        "soal": "Aku rakit bambu terikat tali, aku transportasi purba menyeberangi sungai deras.",
+        "jawaban": "Rakit bambu"
+    },
+    {
+        "index": 713,
+        "soal": "Aku ketinting dayung kecil, badanku sempit hanya muat satu orang pemancing.",
+        "jawaban": "Ketinting"
+    },
+    {
+        "index": 714,
+        "soal": "Aku speedboat kilat pantai, wisatawan pulau-pulau kubawa melompati ombak.",
+        "jawaban": "Speedboat"
+    },
+    {
+        "index": 715,
+        "soal": "Aku jet ski duduk meluncur, air laut menyembur saat aku berbelok tajam.",
+        "jawaban": "Jet ski"
+    },
+    {
+        "index": 716,
+        "soal": "Aku banana boat kuning melengkung, kamu jatuh tertawa saat aku terbalik ditarik speedboat.",
+        "jawaban": "Banana boat"
+    },
+    {
+        "index": 717,
+        "soal": "Aku kano dayung olahraga arus, tubuhku ramping dari serat kayu atau fiberglass.",
+        "jawaban": "Kano"
+    },
+    {
+        "index": 718,
+        "soal": "Aku kayak pendayung rapat, air deras sungai Jatiluhur kutaklukkan berdua.",
+        "jawaban": "Kayak"
+    },
+    {
+        "index": 719,
+        "soal": "Aku perahu dragon boat naga, dua puluh pendayung seirama mengayuniku di festival.",
+        "jawaban": "Dragon boat"
+    },
+    {
+        "index": 720,
+        "soal": "Aku kapal phinisi diving, para penyelam dunia tidur di geladakku di laut Banda.",
+        "jawaban": "Kapal diving"
+    },
+    {
+        "index": 721,
+        "soal": "Aku tugboat kecil kuat, kapal raksasa kutarik masuk pelabuhan dengan tenagaku.",
+        "jawaban": "Tugboat"
+    },
+    {
+        "index": 722,
+        "soal": "Aku kapal es pemecah bongkahan, lautan bebekutub kutempuh dengan lambung tebalku.",
+        "jawaban": "Icebreaker"
+    },
+    {
+        "index": 723,
+        "soal": "Aku pesawat jet tempur supersonik, awan putih kubelah dengan gemuruh mesin afterburner.",
+        "jawaban": "Jet tempur"
+    },
+    {
+        "index": 724,
+        "soal": "Aku pesawat penumpang berbadan lebar, tiga ratus penumpang tidur di langit sembilan mil.",
+        "jawaban": "Pesawat lebar"
+    },
+    {
+        "index": 725,
+        "soal": "Aku helikopter baling-baling atas, aku bisa diam di udara dan mendarat di halaman rumah sakit.",
+        "jawaban": "Helikopter"
+    },
+    {
+        "index": 726,
+        "soal": "Aku glider tanpa mesin, angin panas mengangkat sayap sayapku melayang berjam-jam.",
+        "jawaban": "Glider"
+    },
+    {
+        "index": 727,
+        "soal": "Aku balon udara keranjang api, matahari terbit Bali kupandang dari ketinggian ratusan meter.",
+        "jawaban": "Balon udara"
+    },
+    {
+        "index": 728,
+        "soal": "Aku paraglider payung terbang, lereng gunung kulompat lalu melayang menikmati angin.",
+        "jawaban": "Paraglider"
+    },
+    {
+        "index": 729,
+        "soal": "Aku ultralight pesawat ringan, petani menyemprot sawahnya dari kursi terbuka di tubuhku.",
+        "jawaban": "Pesawat ultralight"
+    },
+    {
+        "index": 730,
+        "soal": "Aku seaplane mendarat di air, pelampung-bapelampungku adalah kakiku yang unik.",
+        "jawaban": "Seaplane"
+    },
+    {
+        "index": 731,
+        "soal": "Aku pesawat kargo berhidung terbuka, truk dan helikopter naik dari mulut besarku.",
+        "jawaban": "Pesawat kargo"
+    },
+    {
+        "index": 732,
+        "soal": "Aku pesawat sprayer pemadam, air laut kutuang deras ke atas kebakaran hutan.",
+        "jawaban": "Water bomber"
+    },
+    {
+        "index": 733,
+        "soal": "Aku roket tiga tingkat luar angkasa, satelit dan astronot kuluncur ke orbit bumi.",
+        "jawaban": "Roket antariksa"
+    },
+    {
+        "index": 734,
+        "soal": "Aku space shuttle pesawat ulang-alik, aku terbang seperti roket dan mendarat seperti pesawat.",
+        "jawaban": "Space shuttle"
+    },
+    {
+        "index": 735,
+        "soal": "Aku stasiun luar angkasa orbit, astronot hidup berbulan-bulan melayang tanpa gravitasiku.",
+        "jawaban": "Stasiun luar angkasa"
+    },
+    {
+        "index": 736,
+        "soal": "Aku wahana bulan pendarat, jejak kakiku yang pertama tertinggal di permukaan bulan.",
+        "jawaban": "Lunar module"
+    },
+    {
+        "index": 737,
+        "soal": "Aku rover penjelajah Mars, foto gurun merah planet merah dikirimku ke bumi setiap hari.",
+        "jawaban": "Rover Mars"
+    },
+    {
+        "index": 738,
+        "soal": "Aku kereta cepat siluman baja, 350 km/jam kutempuh tanpa suara berisik.",
+        "jawaban": "Kereta cepat"
+    },
+    {
+        "index": 739,
+        "soal": "Aku kereta api uap tua, asap putihku membubung sambil meluit di rel rel tua.",
+        "jawaban": "Kereta uap"
+    },
+    {
+        "index": 740,
+        "soal": "Aku trem jalanan kota, rel di tengah aspal adalah rumahku yang tetap.",
+        "jawaban": "Trem"
+    },
+    {
+        "index": 741,
+        "soal": "Aku kereta gantung pegunungan, kabut dan lembah hijau kulalui dari ketinggian.",
+        "jawaban": "Kereta gantung"
+    },
+    {
+        "index": 742,
+        "soal": "Aku funicular rel curam, gerbongku saling tarik-menarik lewat katrol raksasa.",
+        "jawaban": "Funicular"
+    },
+    {
+        "index": 743,
+        "soal": "Aku monorel satu rel, tubuhku menjalar di atas kepala kemacetan kota metropolitan.",
+        "jawaban": "Monorel"
+    },
+    {
+        "index": 744,
+        "soal": "Aku MRT bawah tanah senyap, metromini macet tidak pernah ada di kamus hidupku.",
+        "jawaban": "MRT"
+    },
+    {
+        "index": 745,
+        "soal": "Aku LRT layang perkotaan, sore hari lampu kotaku berkilauan dari jendelaku.",
+        "jawaban": "LRT"
+    },
+    {
+        "index": 746,
+        "soal": "Aku gerbong barang panjang, batu bara kalimantan kutumpang ratusan gerbong sekali jalan.",
+        "jawaban": "Gerbong batu bara"
+    },
+    {
+        "index": 747,
+        "soal": "Aku lokomotif induk kereta, seluruh rangkaian patuh pada tarikan dan rem tanganku.",
+        "jawaban": "Lokomotif"
+    },
+    {
+        "index": 748,
+        "soal": "Aku pasar tradisional subuh, dagang tawar-menawar dan aroma rempah menyatu di lorongku.",
+        "jawaban": "Pasar tradisional"
+    },
+    {
+        "index": 749,
+        "soal": "Aku mall pusat perbelanjaan ber-AC, anak muda nongkrong dan keluarga jalan-jalan di tubuhku akhir pekan.",
+        "jawaban": "Mal"
+    },
+    {
+        "index": 750,
+        "soal": "Aku hotel berbintang lima, kasur empuk dan sarapan prasmanan adalah rumahmu sementara.",
+        "jawaban": "Hotel bintang lima"
+    },
+    {
+        "index": 751,
+        "soal": "Aku losmen sederhana pinggir jalan, wisatawan hemat menginap semalam di kamarku kayu.",
+        "jawaban": "Losmen"
+    },
+    {
+        "index": 752,
+        "soal": "Aku villa puncak berkabut, kolam renang pribadiku menemani liburan romantis pasangan muda.",
+        "jawaban": "Villa puncak"
+    },
+    {
+        "index": 753,
+        "soal": "Aku homestay desa wisata, kamu tidur di lantai berselimut kain batik ala keluarga tuan rumah.",
+        "jawaban": "Homestay"
+    },
+    {
+        "index": 754,
+        "soal": "Aku restoran padang berpiring, dua puluh lauk kususun piramida menjulang di etalaseku.",
+        "jawaban": "Restoran padang"
+    },
+    {
+        "index": 755,
+        "soal": "Aku warung tegal sederhana, nasi rames dan sayur asem kutakar dengan centong kayu.",
+        "jawaban": "Warung tegal"
+    },
+    {
+        "index": 756,
+        "soal": "Aku kedai kopi indie, biji arabika kugiling dan diseduh manual oleh barista bertato.",
+        "jawaban": "Kedai kopi"
+    },
+    {
+        "index": 757,
+        "soal": "Aku angkringan gerobak lilin, kopi tubruk dan sate usus teman begadangmu sampai tengah malam.",
+        "jawaban": "Angkringan"
+    },
+    {
+        "index": 758,
+        "soal": "Aku perpustakaan nasional sunyi, jutaan buku tidur rapat di rak-rak tinggiku.",
+        "jawaban": "Perpustakaan nasional"
+    },
+    {
+        "index": 759,
+        "soal": "Aku museum sejarah kota, benda-benda zaman kolonial bercerita di balik kacamu.",
+        "jawaban": "Museum sejarah"
+    },
+    {
+        "index": 760,
+        "soal": "Aku kebun binatang tua, ratusan spesies dari seluruh dunia hidup di kandang-kandangku.",
+        "jawaban": "Kebun binatang"
+    },
+    {
+        "index": 761,
+        "soal": "Aku taman bermain wahana, roller coaster dan bianglala adalah atraksiku yang menjerumuskan adrenalin.",
+        "jawaban": "Taman hiburan"
+    },
+    {
+        "index": 762,
+        "soal": "Aku waterpark ombak buatan, gelombang setinggi manusia lahir dari mesin di dasar kolamku.",
+        "jawaban": "Water park"
+    },
+    {
+        "index": 763,
+        "soal": "Aku kolam renang olimpiade, delapan jalur renang bergaris hitam membentang lima puluh meternya.",
+        "jawaban": "Kolam olimpiade"
+    },
+    {
+        "index": 764,
+        "soal": "Aku pantai Kuta legendaris, surfers dunia menunggu ombak pagi di pasir putihku.",
+        "jawaban": "Pantai kuta"
+    },
+    {
+        "index": 765,
+        "soal": "Aku gunung tertinggi pulau jawa, pendaki beranggap malam mencapai puncaku saat fajar.",
+        "jawaban": "Gunung semeru"
+    },
+    {
+        "index": 766,
+        "soal": "Aku hutan mangrove wisata edukasi, jembatan bambu menembus akar-akar pernafasanku.",
+        "jawaban": "Hutan mangrove"
+    },
+    {
+        "index": 767,
+        "soal": "Aku sawah terasering indah, undakan-undakan hijauku foto favorit turis asing.",
+        "jawaban": "Sawah terasering"
+    },
+    {
+        "index": 768,
+        "soal": "Aku ladang tebu luas tak berujung, manisnya gula pasir bermula dari tubuhku yang kering.",
+        "jawaban": "Ladang tebu"
+    },
+    {
+        "index": 769,
+        "soal": "Aku gua stalaktit purba, lampu kepalcu memantulkan tetesan air seribu tahun di langit-langitku.",
+        "jawaban": "Gua stalaktit"
+    },
+    {
+        "index": 770,
+        "soal": "Aku air terjun tujuh tingkat, kabut halus dan pelangi kecil menghiasi dasar kolam alamiku.",
+        "jawaban": "Air terjun"
+    },
+    {
+        "index": 771,
+        "soal": "Aku sungai rafting deras, sekoci dan helm kuning melaju di arung jeram tubuhku.",
+        "jawaban": "Sungai arung jeram"
+    },
+    {
+        "index": 772,
+        "soal": "Aku danau vulkanik berwarna, warnaku berubah-ubah sesuai suasana belerangku.",
+        "jawaban": "Danau kawah"
+    },
+    {
+        "index": 773,
+        "soal": "Aku bendungan raksasa pembangkit, listrik sejuta rumah lahir dari genangan airku.",
+        "jawaban": "Bendungan"
+    },
+    {
+        "index": 774,
+        "soal": "Aku pelabuhan kontainer derek, kapal raksasa sandar dan berlayar tiap hari di pangkuanku.",
+        "jawaban": "Pelabuhan kontainer"
+    },
+    {
+        "index": 775,
+        "soal": "Aku terminal bus antar kota, platform-platformku ramai penumpang berbawa koper besar.",
+        "jawaban": "Terminal bus"
+    },
+    {
+        "index": 776,
+        "soal": "Aku jalan tol melintang provinsi, gerbang-gerbang SDA kutagih rupiah demi rupiah dari kendaraanmu.",
+        "jawaban": "Jalan tol"
+    },
+    {
+        "index": 777,
+        "soal": "Aku flyover layang perkotaan, kemacetan di bawahku tidak pernah mengganggu perjalananku.",
+        "jawaban": "Flyover"
+    },
+    {
+        "index": 778,
+        "soal": "Aku underpass terowongan bawah tanah, penyeberangan pejalan kaki aman dari lalu lintas di dadaku.",
+        "jawaban": "Underpass"
+    },
+    {
+        "index": 779,
+        "soal": "Aku gedung sekolah merah putih, lonceng istirahatku membelah riuh anak-anak bermain di lapangan.",
+        "jawaban": "Gedung sekolah"
+    },
+    {
+        "index": 780,
+        "soal": "Aku kampus universitas ternama, mahasiswa berdemonstrasi dan wisuda berganti-ganti di lapangan hijauku.",
+        "jawaban": "Kampus universitas"
+    },
+    {
+        "index": 781,
+        "soal": "Aku kantor pos kolonial tua, surat cinta dan paket antar pulau pernah melintas di loket-loketku.",
+        "jawaban": "Kantor pos"
+    },
+    {
+        "index": 782,
+        "soal": "Aku bank sentral negara, rupiah yang kau pegang lahir dan dicetak dalam brankas-brankasku.",
+        "jawaban": "Bank sentral"
+    },
+    {
+        "index": 783,
+        "soal": "Aku rumah sakit rujukan utama, dokter spesialis dan ruang ICU bekerja siang malam di lorong-lorongku.",
+        "jawaban": "Rumah sakit"
+    },
+    {
+        "index": 784,
+        "soal": "Aku puskesmas desa terdepan, bidan dan tenaga kesehatan menjadi penyelamat ibu-ibu di tubuhku.",
+        "jawaban": "Puskesmas"
+    },
+    {
+        "index": 785,
+        "soal": "Aku apotek 24 jam, obat flu dan vitamin selalu tersedia di rak-rakku tengah malam.",
+        "jawaban": "Apotek"
+    },
+    {
+        "index": 786,
+        "soal": "Aku salon kecantikan mewah, rambut dan kukumu dipercantik oleh tangan-tangan terlatihku.",
+        "jawaban": "Salon kecantikan"
+    },
+    {
+        "index": 787,
+        "soal": "Aku barbershop klasik pria, kursi antik dan pisau cukur panjang adalah perlengkapan abadiku.",
+        "jawaban": "Barbershop"
+    },
+    {
+        "index": 788,
+        "soal": "Aku laundry kiloan cepat, baju kerjamu wangi terjemur kembali dalam dua hari.",
+        "jawaban": "Laundry kiloan"
+    },
+    {
+        "index": 789,
+        "soal": "Aku bengkel motor resmi, motormu dirawat dan diganti oli oleh mekanik bersertifikatku.",
+        "jawaban": "Bengkel resmi"
+    },
+    {
+        "index": 790,
+        "soal": "Aku SPBU satu pintu, tangki kosong motormu kubuat penuh lagi dalam sepuluh menit.",
+        "jawaban": "SPBU"
+    },
+    {
+        "index": 791,
+        "soal": "Aku masjid agung megah, kubah raksasa dan menara kembar menjadi ikon kotamu.",
+        "jawaban": "Masjid agung"
+    },
+    {
+        "index": 792,
+        "soal": "Aku musala kampung kecil, azan magrib dan pengajian anak-anak adalah rutinitas harianku.",
+        "jawaban": "Musala"
+    },
+    {
+        "index": 793,
+        "soal": "Aku gereja tua abad sembilan belas, lonceng besi dan kaca patri masih utuh di tubuhku.",
+        "jawaban": "Gereja tua"
+    },
+    {
+        "index": 794,
+        "soal": "Aku pura Hindu di tebing, laut selatan bergemuruh di bawah altar-altarku.",
+        "jawaban": "Pura tebing"
+    },
+    {
+        "index": 795,
+        "soal": "Aku vihara Buddha lilin merah, dupa dan doa sunyi mengisi ruang-ruang emasku.",
+        "jawaban": "Vihara"
+    },
+    {
+        "index": 796,
+        "soal": "Aku klenteng Tionghoa tua, lilin raksasa dan asap dupa membumbung di halaman dalamku.",
+        "jawaban": "Klenteng"
+    },
+    {
+        "index": 797,
+        "soal": "Aku istana negara presiden, penghormatan bendera dan upacara kenegaraan berlangsung di halamanku.",
+        "jawaban": "Istana negara"
+    },
+    {
+        "index": 798,
+        "soal": "Aku monumen seluruh kota, obelisk marmer menjulang sebagai tanda kemerdekaan negeriku.",
+        "jawaban": "Monumen nasional"
+    },
+    {
+        "index": 799,
+        "soal": "Aku stadion utama ibukota, delapan puluh ribu suporter bergebrak menyanyikan lagu kemenangan di tribunku.",
+        "jawaban": "Stadion utama"
+    },
+    {
+        "index": 800,
+        "soal": "Aku sirkus tenda keliling, badut akrobat dan singa melompat lingkar api adalah pertunjukanku.",
+        "jawaban": "Sirkus"
+    },
+    {
+        "index": 801,
+        "soal": "Aku bioskop tujuh studio, kursi merahku bergoyang saat monster raksasa menyerang layar lebarku.",
+        "jawaban": "Bioskop"
+    },
+    {
+        "index": 802,
+        "soal": "Aku studio rekaman profesional, album emas dan demo band indie lahir dari peredam-suaramu.",
+        "jawaban": "Studio rekaman"
+    },
+    {
+        "index": 803,
+        "soal": "Aku panggung konser raksasa, puluhan ribu orang bernyanyi serentak di bawah lampu sorotku.",
+        "jawaban": "Panggung konser"
+    },
+    {
+        "index": 804,
+        "soal": "Aku galeri seni putih minimalis, lukisan mahal tergantung diam dipandangi para pecinta budaya.",
+        "jawaban": "Galeri seni"
+    },
+    {
+        "index": 805,
+        "soal": "Aku teater gedung pertunjukan, opera balet dan wayang orang hidup di atas panggung kayuku.",
+        "jawaban": "Teater"
+    },
+    {
+        "index": 806,
+        "soal": "Aku planetarium langit kubah, bintang-bintang dan galaksi berputar di langit-langit gelapku.",
+        "jawaban": "Planetarium"
+    },
+    {
+        "index": 807,
+        "soal": "Aku akuarium raksasa kaca, hiu dan pari berenang di atasmu saat kau berjalan dalam terowonganku.",
+        "jawaban": "Akuarium raksasa"
+    },
+    {
+        "index": 808,
+        "soal": "Aku taman bunga nusantara, mawar tulip dan sakura mekar berganti tiap musim di ladang-ladangku.",
+        "jawaban": "Taman bunga"
+    },
+    {
+        "index": 809,
+        "soal": "Aku kebun raya peninggalan kolonial, pohon-pohon raksasa berumur dua abad naungan jalan setapakku.",
+        "jawaban": "Kebun raya"
+    },
+    {
+        "index": 810,
+        "soal": "Aku hutan kota hijau di tengah beton, jogger dan pemancing berbagi danau buatan di dadaku.",
+        "jawaban": "Hutan kota"
+    },
+    {
+        "index": 811,
+        "soal": "Aku alun-alun kota tua, fatahillah dan sepeda onthel menjadi ikon sore harimu.",
+        "jawaban": "Alun-alun kota"
+    },
+    {
+        "index": 812,
+        "soal": "Aku pasar malam karnaval, bianglala dan rumah hantu adalah atraksi tetap malam mingguanku.",
+        "jawaban": "Pasar malam"
+    },
+    {
+        "index": 813,
+        "soal": "Aku pasar loak subuh Minggu, barang antik dan bekas berharga dicari-cari pemburu murah.",
+        "jawaban": "Pasar loak"
+    },
+    {
+        "index": 814,
+        "soal": "Aku pusat grosir tekstil, kontainer pakaian masuk dan keluar lorong-lorong sempit tubuhku setiap hari.",
+        "jawaban": "Pusat grosir"
+    },
+    {
+        "index": 815,
+        "soal": "Aku pasar ikan pagi laut, aroma asin dan hasil tambang segar dilelang keras-keras di lapakku.",
+        "jawaban": "Pasar ikan"
+    },
+    {
+        "index": 816,
+        "soal": "Aku pasar burung hobiwan, kicau mania berebut lovebird dan anis merah di lorongku yang ramai.",
+        "jawaban": "Pasar burung"
+    },
+    {
+        "index": 817,
+        "soal": "Aku pasar bunga tengah malam, anggrek dan rokok elektrik wangi mengisi truk-truk yang bersandar di pinggirku.",
+        "jawaban": "Pasar bunga"
+    },
+    {
+        "index": 818,
+        "soal": "Aku stasiun kereta tua art deco, jam besar di fasadku saksi perpisahan dan pertemuan seabad lamanya.",
+        "jawaban": "Stasiun tua"
+    },
+    {
+        "index": 819,
+        "soal": "Aku bandara internasional pintu gerbang, jet-jet raksasa lepas landas setiap lima menit dari landasan pacuku.",
+        "jawaban": "Bandara internasional"
+    },
+    {
+        "index": 820,
+        "soal": "Aku pelabuhan penyeberangan merak, antrean mobil dan truk memenuhi dermaga tungguku sejak subuh.",
+        "jawaban": "Pelabuhan feri"
+    },
+    {
+        "index": 821,
+        "soal": "Aku rest area tol tengah malam, kopi tubruk dan musholla adalah penyelamat perjalan mudikmu.",
+        "jawaban": "Rest area"
+    },
+    {
+        "index": 822,
+        "soal": "Aku pom bensin jalan raya lengkap, masjid dan toilet bersih tersedia gratis untuk pejalanan panjangmu.",
+        "jawaban": "Rest service area"
+    },
+    {
+        "index": 823,
+        "soal": "Aku pos polisi lalu lintas, petugas siaga dan patroli motor siap menolong kamu yang mogok di dadaku.",
+        "jawaban": "Pos polisi"
+    },
+    {
+        "index": 824,
+        "soal": "Aku pos koordinasi banjir musiman, karung pasir dan perahu karet disiapkan di gudangku tiap hujan.",
+        "jawaban": "Pos banjir"
+    },
+    {
+        "index": 825,
+        "soal": "Aku shelter busway halte kaca, pintu otomatis membuka saat bus raksasaku berhenti presisi di depanmu.",
+        "jawaban": "Halte transjakarta"
+    },
+    {
+        "index": 826,
+        "soal": "Aku tower pemancar TV raksasa, sinyal televisi dan radio menyebar dari puncak tinggiku ke seluruh kota.",
+        "jawaban": "Menara pemancar"
+    },
+    {
+        "index": 827,
+        "soal": "Aku menara condong Italia legendaris, arsitekku salah hitung tapi aku jadi ikon dunia justru karena itu.",
+        "jawaban": "Menara pisa"
+    },
+    {
+        "index": 828,
+        "soal": "Aku tembok besar Tionghoa purba, ribuan kilometer batu melintang gunung-gunung untuk menjagaku.",
+        "jawaban": "Tembok besar china"
+    },
+    {
+        "index": 829,
+        "soal": "Aku piramida Mesir purba, makam raja-raja kuno tersimpan rapi di jantung tubuh batuku.",
+        "jawaban": "Piramida giza"
+    },
+    {
+        "index": 830,
+        "soal": "Aku patung Liberty wanita bersulam, obor dan mahkotaku menyambut imigran menuju tanah amerika.",
+        "jawaban": "Patung liberty"
+    },
+    {
+        "index": 831,
+        "soal": "Aku menara Eiffel besi tempa, cahaya berkilauan menariku tiap malam di pusat paris.",
+        "jawaban": "Menara eiffel"
+    },
+    {
+        "index": 832,
+        "soal": "Aku kolosseum arena gladiator, singa dan pendekar pernah bertarung nyawa di pasir lapangan tengahku.",
+        "jawaban": "Kolosseum"
+    },
+    {
+        "index": 833,
+        "soal": "Aku Taj Mahal marmer putih cinta, kaisar membangunku demi mendiang ratunya yang tersayang.",
+        "jawaban": "Taj mahal"
+    },
+    {
+        "index": 834,
+        "soal": "Aku Angkor Wat kuil purba Kamboja, matahari terbit bersinar tepat di balik menara-menaraku tiap equinox.",
+        "jawaban": "Angkor wat"
+    },
+    {
+        "index": 835,
+        "soal": "Aku Machu Picchu kota awan Inka, tangga-tangga batuku tersembunyi di puncak pegunungan Andes berkabut.",
+        "jawaban": "Machu picchu"
+    },
+    {
+        "index": 836,
+        "soal": "Aku Stonehenge batu berdiri misterius, siapa dan bagaimana kami didirikan masih jadi tanda tanya dunia.",
+        "jawaban": "Stonehenge"
+    },
+    {
+        "index": 837,
+        "soal": "Aku Patung Kristus Penebus Rio, tanganku terbuka memeluk seluruh teluk Rio de Janeiro dari puncak gunungku.",
+        "jawaban": "Patung kristus"
+    },
+    {
+        "index": 838,
+        "soal": "Aku Big Ben menara jam London, dentang loncengku menjadi penanda waktu resmi seluruh Inggris.",
+        "jawaban": "Big ben"
+    },
+    {
+        "index": 839,
+        "soal": "Aku Sydney Opera House kerang putih, atap-atap layarku melengkung di tepi pelabuhan Australia.",
+        "jawaban": "Opera house sydney"
+    },
+    {
+        "index": 840,
+        "soal": "Aku Burj Khalifa menara tertinggi dunia, 163 lantai menjulang di padang pasir Dubai yang membelah awan.",
+        "jawaban": "Burj khalifa"
+    },
+    {
+        "index": 841,
+        "soal": "Aku Great Wall... sudah ada yang lain. Aku Golden Gate merah San Francisco, kabut pagi laut selalu menyelimuti kakiku yang menjulang.",
+        "jawaban": "Golden gate bridge"
+    },
+    {
+        "index": 842,
+        "soal": "Aku voli pantai dua lawan dua, pasir panasku menyala di bawah matahari sore.",
+        "jawaban": "Bola voli"
+    },
+    {
+        "index": 843,
+        "soal": "Aku bulu tangkis raket ringan, smash dan dropshot adalah senjata di lapangan badmintonku.",
+        "jawaban": "Bulu tangkis"
+    },
+    {
+        "index": 844,
+        "soal": "Aku tenis lapangan rumput, bola kuningku memantul cepat di antara garis putih.",
+        "jawaban": "Tenis lapangan"
+    },
+    {
+        "index": 845,
+        "soal": "Aku pingpong meja kecil, bolaku mungil meluncur kilat di atas net tinggi.",
+        "jawaban": "Tenis meja"
+    },
+    {
+        "index": 846,
+        "soal": "Aku golf lapangan luas hijau, lubang kecil dan bendera adalah tujuan akhir ayunan tongkatmu.",
+        "jawaban": "Golf"
+    },
+    {
+        "index": 847,
+        "soal": "Aku hoki pemukul kayu lengkung, bola kecil dan gawang berjaring menjadi sasaran gelora lapangan rumput.",
+        "jawaban": "Hoki lapangan"
+    },
+    {
+        "index": 848,
+        "soal": "Aku tinju sarung tangan tebal, jab hook dan uppercut adalah bahasa tubuhku di ring.",
+        "jawaban": "Olahraga tinju"
+    },
+    {
+        "index": 849,
+        "soal": "Aku taekwondo korea tendangan tinggi, sabuk hitam dan teriakan heeyah adalah identitasku.",
+        "jawaban": "Taekwondo"
+    },
+    {
+        "index": 850,
+        "soal": "Aku judo lempar pegangan, tatami biruku mencedok tubuh lawan yang jatuh dengan sopan.",
+        "jawaban": "Olahraga judo"
+    },
+    {
+        "index": 851,
+        "soal": "Aku karate do kata dan kumite, pukulan lurus dan tendangan sabetan dari pulau okinawa.",
+        "jawaban": "Olahraga karate"
+    },
+    {
+        "index": 852,
+        "soal": "Aku kungfu shaolin biksu, jurus macan dan burung dara diturunkan kuatir-kuatir turun temurun.",
+        "jawaban": "Kungfu"
+    },
+    {
+        "index": 853,
+        "soal": "Aku pencak silat nusantara, gerak tunggal dan beregu adalah warisan budaya bela diriku.",
+        "jawaban": "Pencak silat"
+    },
+    {
+        "index": 854,
+        "soal": "Aku capoeira brazil menari-melawan, gitar berimbau mengiringi sapuan kaki akrobatikku.",
+        "jawaban": "Capoeira"
+    },
+    {
+        "index": 855,
+        "soal": "Aku panahan busur dan anak, target pusat merahku bernilai sepuluh untuk penembak jitu.",
+        "jawaban": "Olahraga panahan"
+    },
+    {
+        "index": 856,
+        "soal": "Aku futsal indoor lima pemain, bola kecil dan lantai parket adalah medan perangku.",
+        "jawaban": "Futsal"
+    },
+    {
+        "index": 857,
+        "soal": "Aku renang gaya bebas, delapan jalur dan sentuhan dinding adalah finish hidupku.",
+        "jawaban": "Olahraga renang"
+    },
+    {
+        "index": 858,
+        "soal": "Aku selam scuba tabung oksigen, terumbu karang dan ikan warna-warni adalah taman wisata bawah lautku.",
+        "jawaban": "Selam scuba"
+    },
+    {
+        "index": 859,
+        "soal": "Aku surfing papan luncur ombak, tube dan barrel adalah surga bagi para pemburu ombak besar.",
+        "jawaban": "Surfing"
+    },
+    {
+        "index": 860,
+        "soal": "Aku ski salju pegunungan, tongkat dan papan meluncurku menari di lereng putih bersalju.",
+        "jawaban": "Ski salju"
+    },
+    {
+        "index": 861,
+        "soal": "Aku snowboard satu papan lebar, halfpipe dan grab adalah gaya bebas turun gunung bersalju.",
+        "jawaban": "Snowboard"
+    },
+    {
+        "index": 862,
+        "soal": "Aku skateboarding roda empat papan, grind dan ollie adalah trik jalanan anak muda urban.",
+        "jawaban": "Skateboard"
+    },
+    {
+        "index": 863,
+        "soal": "Aku balap sepeda Tour de France, kuning dan polkadot berganti-ganti di dadaku tiap etape.",
+        "jawaban": "Balap sepeda"
+    },
+    {
+        "index": 864,
+        "soal": "Aku marathon 42 kilometer, air minum dan medali finish adalah hadiahan gigih pelari jarak jauh.",
+        "jawaban": "Lomba marathon"
+    },
+    {
+        "index": 865,
+        "soal": "Aku sprint 100 meter detik, blok start dan garis finish adalah dunia sembilan detikku.",
+        "jawaban": "Lari sprint"
+    },
+    {
+        "index": 866,
+        "soal": "Aku lompat galah tinggi, tongkat fiberflex menolongku melayang melewati mistar enam meter.",
+        "jawaban": "Lompat galah"
+    },
+    {
+        "index": 867,
+        "soal": "Aku lempar cakram besi bundar, putaran badan memberiku tenaga melambung jauh ke lapangan rumput.",
+        "jawaban": "Lempar cakram"
+    },
+    {
+        "index": 868,
+        "soal": "Aku angkat beban barbel baja, snatch dan clean jerk mengangkat ratusan kilo di atasmu.",
+        "jawaban": "Angkat beban"
+    },
+    {
+        "index": 869,
+        "soal": "Aku senam ritmis pita dan bola, kelenturan tubuh dan koreografi musik adalah panggungku olimpiade.",
+        "jawaban": "Senam artistik"
+    },
+    {
+        "index": 870,
+        "soal": "Aku yoga india sunyi napas, downward dog dan lotus adalah pose kedamaian jiwa ragaku.",
+        "jawaban": "Yoga"
+    },
+    {
+        "index": 871,
+        "soal": "Aku catur abadi 64 kotak, ratu benteng dan kuda berkuda saling mengepung raja lawanku.",
+        "jawaban": "Permainan catur"
+    },
+    {
+        "index": 872,
+        "soal": "Aku congklak kayu berlubang, biji tamarindus dibagi searah jarum jam oleh jemari lincahmu.",
+        "jawaban": "Congklak"
+    },
+    {
+        "index": 873,
+        "soal": "Aku gasing kayu berputar tali, betara kencana dan jantung adalah julukan-julukanku di tanah Melayu.",
+        "jawaban": "Gasing"
+    },
+    {
+        "index": 874,
+        "soal": "Aku layang-layang angin musiman, benang dan gulunganku bertanding tinggi di langit basuki.",
+        "jawaban": "Layang-layang"
+    },
+    {
+        "index": 875,
+        "soal": "Aku egrang bambu tinggi, keseimbangan dan keberanian menghantarkanmu berjalan di atas langkahku.",
+        "jawaban": "Egrang"
+    },
+    {
+        "index": 876,
+        "soal": "Aku benteng bentengan perang-perangan, timmer merah dan biru saling merebut benteng kayuku.",
+        "jawaban": "Bentengan"
+    },
+    {
+        "index": 877,
+        "soal": "Aku gobak sodor garis lapangan, sentuhan lawan membuatmu gugur di wilayah musuhmu.",
+        "jawaban": "Gobak sodor"
+    },
+    {
+        "index": 878,
+        "soal": "Aku galah asin tongkat licur, hadiah uang di pucak galah licin tak pernah berhasil kau raih.",
+        "jawaban": "Panjat pinang"
+    },
+    {
+        "index": 879,
+        "soal": "Aku balap karung lompat loncat, selendang dan karung goni mengikat kakimu saat start dipukul kaleng.",
+        "jawaban": "Balap karung"
+    },
+    {
+        "index": 880,
+        "soal": "Aku makan kerupuk gantung, kerupuk merah bergoyang di tali dan mulutmu harus menemukannya buta.",
+        "jawaban": "Lomba kerupuk"
+    },
+    {
+        "index": 881,
+        "soal": "Aku domino kartu hitam putih, titik-titik dan angka tersusun berderet di atas meja mahjongmu.",
+        "jawaban": "Kartu domino"
+    },
+    {
+        "index": 882,
+        "soal": "Aku uno kartu warna ceria, skip reverse dan draw four adalah balas dendam sahabatmu di meja main.",
+        "jawaban": "Kartu uno"
+    },
+    {
+        "index": 883,
+        "soal": "Aku monopoli properti meja, jakarta dan kuta adalah petak mahal yang menguras uang mainmu.",
+        "jawaban": "Monopoli"
+    },
+    {
+        "index": 884,
+        "soal": "Aku scrabble huruf kayu, kata-kata aneh dan istilah kamus adalah amunisi skor tertinggiku.",
+        "jawaban": "Scrabble"
+    },
+    {
+        "index": 885,
+        "soal": "Aku rubik kubus ajaib, enam warna dan empat triliun kemungkinan hanya butuh detik dari jarimu.",
+        "jawaban": "Rubik"
+    },
+    {
+        "index": 886,
+        "soal": "Aku puzzle seribu potongan, gambar pemandangan dan lukisan klasik tersusun pelan-pelan di mejamu.",
+        "jawaban": "Jigsaw puzzle"
+    },
+    {
+        "index": 887,
+        "soal": "Aku yo-yo tali dan roda ganda, sleeper dan walk the dog adalah trik jempol tanganku.",
+        "jawaban": "Yoyo"
+    },
+    {
+        "index": 888,
+        "soal": "Aku gundu kelereng kaca, lingkap kapur dan tembakan jempol adalah dunia anak kampung zaman dahulu.",
+        "jawaban": "Gundu kelereng"
+    },
+    {
+        "index": 889,
+        "soal": "Aku komet berekor panjang, es dan debu kulempar saat mendekati matahari sekali tiap puluhan tahun.",
+        "jawaban": "Komet"
+    },
+    {
+        "index": 890,
+        "soal": "Aku asteroid batu angkasa, aku mengorbit matahari di sabuk antara mars dan jupiter.",
+        "jawaban": "Asteroid"
+    },
+    {
+        "index": 891,
+        "soal": "Aku meteor jatuh menyala, doa-doa diucapkan saat aku melintasi langit malammu.",
+        "jawaban": "Meteor"
+    },
+    {
+        "index": 892,
+        "soal": "Aku galaksi rumahmu, spiral berdebu berisi ratusan miliar bintang termasuk mataharimu.",
+        "jawaban": "Bima sakti"
+    },
+    {
+        "index": 893,
+        "soal": "Aku nebula sarang bintang, awan gas warna-warni adalah tempat lahir para bintang baru.",
+        "jawaban": "Nebula"
+    },
+    {
+        "index": 894,
+        "soal": "Aku black hole penghisap segala, cahaya sekalipun tak sanggup lolos dari mulut gelapku.",
+        "jawaban": "Lubang hitam"
+    },
+    {
+        "index": 895,
+        "soal": "Aku gerhana bulan merah, bayangan bumi menutup wajahku menjadi darah di langit malam.",
+        "jawaban": "Gerhana bulan"
+    },
+    {
+        "index": 896,
+        "soal": "Aku aurora tirai langit utara, hijau ungu kutari di kutub yang dingin dan sunyi.",
+        "jawaban": "Aurora"
+    },
+    {
+        "index": 897,
+        "soal": "Aku kilat sambar petir putih, pohon dan tiang listrik takut pada cambuk langitku.",
+        "jawaban": "Kilat"
+    },
+    {
+        "index": 898,
+        "soal": "Aku guntur gemuruh langit, suaraku menggelegar beberapa detik setelah saudaraku berkilau.",
+        "jawaban": "Guntur"
+    },
+    {
+        "index": 899,
+        "soal": "Aku tornado corong angin, rumah dan pohon terbang melayang dalam pusaran tubuhku yang berputar.",
+        "jawaban": "Tornado"
+    },
+    {
+        "index": 900,
+        "soal": "Aku badai tropis bernama manusia, hujan deras dan angin kencang adalah paket kedatanganku.",
+        "jawaban": "Badai topan"
+    },
+    {
+        "index": 901,
+        "soal": "Aku tsunami gelombang raksasa, laut surut adalah tanda bahayaku yang datang menyusul.",
+        "jawaban": "Tsunami"
+    },
+    {
+        "index": 902,
+        "soal": "Aku gempa bumi bergoyang, skala richter mengukur amarah lempeng-lempeng di bawah kakimu.",
+        "jawaban": "Gempa bumi"
+    },
+    {
+        "index": 903,
+        "soal": "Aku gunung api meletus, abuku sampai ke negeri tetangga dan lavaku membakar segalanya.",
+        "jawaban": "Gunung berapi"
+    },
+    {
+        "index": 904,
+        "soal": "Aku magma cair merah membara, aku lava begitu keluar dari mulut gunung berapiku.",
+        "jawaban": "Magma"
+    },
+    {
+        "index": 905,
+        "soal": "Aku gletser es purba bergerak, lembah-lembah terukir oleh perjalananku selama ribuan tahun.",
+        "jawaban": "Gletser"
+    },
+    {
+        "index": 906,
+        "soal": "Aku salju putih turun dingin, setiap butir kristalku unik tak ada yang kembar.",
+        "jawaban": "Salju"
+    },
+    {
+        "index": 907,
+        "soal": "Aku embun pagi di rumput, tubuhku jernih mengering hilang saat matahari naik.",
+        "jawaban": "Embun pagi"
+    },
+    {
+        "index": 908,
+        "soal": "Aku es beku musim dingin, danau dan sungai membeku rapat oleh dinginku yang menusuk.",
+        "jawaban": "Embun beku"
+    },
+    {
+        "index": 909,
+        "soal": "Aku angin sepoi-sepoi sore, daun-daun dan tirai jendela bergoyang lembut oleh sentuhanku.",
+        "jawaban": "Angin sepoi"
+    },
+    {
+        "index": 910,
+        "soal": "Aku angin badai timur, layar-layar nelayan dan atap-atap genting gemetar hebat oleh hembusanku.",
+        "jawaban": "Angin kencang"
+    },
+    {
+        "index": 911,
+        "soal": "Aku banjir kiriman hujan, jalan dan rumah tenggelam lutut oleh air keruhku yang perlahan.",
+        "jawaban": "Banjir"
+    },
+    {
+        "index": 912,
+        "soal": "Aku kekeringan tanah retak, sumur dan sungai kering melihat awan tak kunjung datang.",
+        "jawaban": "Musim kemarau"
+    },
+    {
+        "index": 913,
+        "soal": "Aku longsor tanah bergerak, bukit dan tebing runtuh menimbun jalan di bawahnya saat hujan deras.",
+        "jawaban": "Tanah longsor"
+    },
+    {
+        "index": 914,
+        "soal": "Aku abu vulkanik halus, mesin pesawat dan paru-paru penduduk tersakiti oleh debu tajamku.",
+        "jawaban": "Abu vulkanik"
+    },
+    {
+        "index": 915,
+        "soal": "Aku matahari terbit fajar, sembahyang subuh dan lari pagi adalah saksi kemunculanku.",
+        "jawaban": "Fajar"
+    },
+    {
+        "index": 916,
+        "soal": "Aku senja emas magrib, fotografer memburu siluetku di horizon pantai dan bukit.",
+        "jawaban": "Senja"
+    },
+    {
+        "index": 917,
+        "soal": "Aku remang-remang senja hari, ayam-ayam pulang dan adzan magrib menandai pergantian hariku.",
+        "jawaban": "Magrib"
+    },
+    {
+        "index": 918,
+        "soal": "Aku tengah malam gelap gulita, jam dinding menunjuk angka dua belas dan dunia tidur lena di dadaku.",
+        "jawaban": "Tengah malam"
+    },
+    {
+        "index": 919,
+        "soal": "Aku subuh sebelum fajar, waktu doaku mustajab kata orang-orang tua yang sholat malam.",
+        "jawaban": "Sahur"
+    },
+    {
+        "index": 920,
+        "soal": "Aku puasa satu bulan penuh, sahur dan buka adalah rutinitas umatku di bulan suci.",
+        "jawaban": "Ramadhan"
+    },
+    {
+        "index": 921,
+        "soal": "Aku hari raya fitrah kemenangan, ketupat opor dan silaturahmi adalah paket lengkap hariku.",
+        "jawaban": "Idul fitri"
+    },
+    {
+        "index": 922,
+        "soal": "Aku kurban qurban Ibrahim, daging sapi dan kambing dibagikan kepada tiga golongan di hariku.",
+        "jawaban": "Idul adha"
+    },
+    {
+        "index": 923,
+        "soal": "Aku tahun baru imlek, barongsai dan lentera merah mengisi jalanan kotamu di hariku.",
+        "jawaban": "Imlek"
+    },
+    {
+        "index": 924,
+        "soal": "Aku hari kemerdekaan tujuh belas, panjat pinang dan lomba balap karung meriah di halaman desa.",
+        "jawaban": "Hari kemerdekaan"
+    },
+    {
+        "index": 925,
+        "soal": "Aku kartu pos jaman dahulu, prangko kecil di sudutku adalah tiket perjalanan pesanmu lintas laut.",
+        "jawaban": "Kartu pos"
+    },
+    {
+        "index": 926,
+        "soal": "Aku surat cinta tulisan tangan, aroma parfum dan lipatan hati-hati tersimpan di amplop coklatku.",
+        "jawaban": "Surat cinta"
+    },
+    {
+        "index": 927,
+        "soal": "Aku diary buku harian rahasia, kunci kecil dan curahan hati remaja tersimpan aman di dalam gembokku.",
+        "jawaban": "Buku harian"
+    },
+    {
+        "index": 928,
+        "soal": "Aku foto polaroid instan, senyummu tercetak hitam putih berkembang pelan di tanganmu sendiri.",
+        "jawaban": "Foto polaroid"
+    },
+    {
+        "index": 929,
+        "soal": "Aku album kenangan keluarga, foto-foto zaman hitam putih tersusun rapi dengan catatan tanggal.",
+        "jawaban": "Album foto"
+    },
+    {
+        "index": 930,
+        "soal": "Aku video rekaman keluarga, ulang tahun anak pertama tersimpan utuh dalam kaset analogku.",
+        "jawaban": "Rekaman keluarga"
+    },
+    {
+        "index": 931,
+        "soal": "Aku playlist lagu kesukaan, sedih senang jatuh cinta semua suasana hatimu kubawakan dalam urutan lagu.",
+        "jawaban": "Playlist musik"
+    },
+    {
+        "index": 932,
+        "soal": "Aku lagu nasional bangsa, indah dan merdu dinyanyikan berdiri tegap setiap upacara pagi Senin.",
+        "jawaban": "Lagu kebangsaan"
+    },
+    {
+        "index": 933,
+        "soal": "Aku himne sekolah mu, dinyanyikan penuh semangat saat upacara dan perpisahan kelulusan.",
+        "jawaban": "Himne sekolah"
+    },
+    {
+        "index": 934,
+        "soal": "Aku lagu daerah warisan budaya, suku dan bahasa hidup dalam nada-nada dan lirikku yang khas.",
+        "jawaban": "Lagu daerah"
+    },
+    {
+        "index": 935,
+        "soal": "Aku tari tradisi daerah, gerak tangan dan mata yang bermakna dipelajari turun temurun di sanggarku.",
+        "jawaban": "Tarian tradisional"
+    },
+    {
+        "index": 936,
+        "soal": "Aku wayang kulit bayangan malam, dalang dan gamelan menghidupkan kisah mahabharata di kelirku.",
+        "jawaban": "Pertunjukan wayang"
+    },
+    {
+        "index": 937,
+        "soal": "Aku batik wax cantik motif, canting panas dan malam menggambar cerita di kain panjangku.",
+        "jawaban": "Batik tulis"
+    },
+    {
+        "index": 938,
+        "soal": "Aku tenun ikat warisan leluhur, motif tiap suku berbeda dan bermakna di benang-benang warnaku.",
+        "jawaban": "Tenun ikat"
+    },
+    {
+        "index": 939,
+        "soal": "Aku ukiran kayu Jepara megah, chisel dan palu menghidupkan sulur-sulur bunga di lembar-lembar jati.",
+        "jawaban": "Ukiran kayu"
+    },
+    {
+        "index": 940,
+        "soal": "Aku keramik tembikar tanah liat, roda putar dan tungku api membentukku menjadi guci dan gentong.",
+        "jawaban": "Tembikar"
+    },
+    {
+        "index": 941,
+        "soal": "Aku anyaman bambu serbaguna, besek tikar dan tampah lahir dari bilah-bilah tubuhku yang lentur.",
+        "jawaban": "Anyaman bambu"
+    },
+    {
+        "index": 942,
+        "soal": "Aku patung tugu kota ikon, perunggu dan batu mengabadikan pahlawan dan kisah sejarahmu di persimpangan.",
+        "jawaban": "Patung tugu"
+    },
+    {
+        "index": 943,
+        "soal": "Aku mimpi malam indah, kamu terbang dan kaya raya di dadaku, tapi lenyap saat pagi menyapa.",
+        "jawaban": "Mimpi"
+    },
+    {
+        "index": 944,
+        "soal": "Aku mimpi buruk menakutkan, kamu terbangun berkeringat dan berdoa agar aku tak menjadi nyata.",
+        "jawaban": "Mimpi buruk"
+    },
+    {
+        "index": 945,
+        "soal": "Aku kenangan masa kecil, foto tua dan lagu lama membangunkanku dari tidur panjang di otakmu.",
+        "jawaban": "Kenangan"
+    },
+    {
+        "index": 946,
+        "soal": "Aku nostalgia rindu zaman, rasa manis pahit menghampiri saat kamu mendengar lagu masa sekolahmu.",
+        "jawaban": "Nostalgia"
+    },
+    {
+        "index": 947,
+        "soal": "Aku suara gelombang getaran, telingamu menangkap tubuhku tapi matamu tak pernah bisa melihat wujudku.",
+        "jawaban": "Suara"
+    },
+    {
+        "index": 948,
+        "soal": "Aku gema pantulan lembah, panggilanmu kubalas dengan suaramu sendiri beberapa detik kemudian.",
+        "jawaban": "Gema"
+    },
+    {
+        "index": 949,
+        "soal": "Aku pantulan cermin dunia, danau tenang memantulkan gunung dan langit sempurna di permukaanku.",
+        "jawaban": "Pantulan"
+    },
+    {
+        "index": 950,
+        "soal": "Aku nama identitas dirimu, orang memanggilku seumur hidupmu bahkan setelah kau tiada.",
+        "jawaban": "Nama"
+    },
+    {
+        "index": 951,
+        "soal": "Aku kata penyusun kalimat, aku tak berarti sendirian tapi segalanya bersama saudara-saudaraku.",
+        "jawaban": "Kata"
+    },
+    {
+        "index": 952,
+        "soal": "Aku huruf abjad dua puluh enam, aku pembentuk semua kata dalam buku-buku dunia.",
+        "jawaban": "Huruf"
+    },
+    {
+        "index": 953,
+        "soal": "Aku angka hitung sepuluh, nol sampai sembilan adalah bahan bakar seluruh matematika dunia.",
+        "jawaban": "Angka"
+    },
+    {
+        "index": 954,
+        "soal": "Aku cerita fiksi pengantar tidur, tokoh-tokohku hidup di imajinasi pendengarnya setiap malam.",
+        "jawaban": "Cerita dongeng"
+    },
+    {
+        "index": 955,
+        "soal": "Aku legenda kota tertentu, kisah nyata dan karangan bercampur tentangku diceritakan turun temurun.",
+        "jawaban": "Legenda kota"
+    },
+    {
+        "index": 956,
+        "soal": "Aku adat istiadat warisan suku, melanggarku sama dengan menjaga jati diri leluhurmu.",
+        "jawaban": "Adat istiadat"
+    },
+    {
+        "index": 957,
+        "soal": "Aku budaya warisan bangsa, tarian batik dan bahasa adalah harta yang kutitipkan pada generasimu.",
+        "jawaban": "Budaya"
+    },
+    {
+        "index": 958,
+        "soal": "Aku tradisi tahunan desa, sedekah laut dan bersih desa adalah hajatan tetap di kalender wargaku.",
+        "jawaban": "Tradisi tahunan"
+    },
+    {
+        "index": 959,
+        "soal": "Aku upacara sakral adat, doa dan sesaji adalah bahasa komunikasi manusia dengan leluhur dan alam.",
+        "jawaban": "Upacara adat"
+    },
+    {
+        "index": 960,
+        "soal": "Aku festival seni tahunan, seniman dan wisatawan meriah bertemu dalam perayaan budayaku.",
+        "jawaban": "Festival seni"
+    },
+    {
+        "index": 961,
+        "soal": "Aku liburan panjang semester, pantai dan rumah nenek adalah tujuan akhir harimu di tubuhku.",
+        "jawaban": "Liburan sekolah"
+    },
+    {
+        "index": 962,
+        "soal": "Aku ulang tahunmu sekali setahun, kue lilin dan lagu selamat adalah ritual wajib hariku.",
+        "jawaban": "Ulang tahun"
+    },
+    {
+        "index": 963,
+        "soal": "Aku hadiah dibungkus kertas warna, pita dan kartu ucapan adalah pakaian resmiku saat spesial.",
+        "jawaban": "Hadiah ulang tahun"
+    },
+    {
+        "index": 964,
+        "soal": "Aku sumpah janji setia, kata-kata suciku mengikat dua hati seumur hidup di pelaminan.",
+        "jawaban": "Sumpah pernikahan"
+    },
+    {
+        "index": 965,
+        "soal": "Aku doa permohonan sunyi, sujud dan tangis adalah bahasaku kepada sang pencipta semesta.",
+        "jawaban": "Doa"
+    },
+    {
+        "index": 966,
+        "soal": "Aku harapan cahaya kecil, aku yang membuatmu bangun lagi saat semua tampak gelap gulita.",
+        "jawaban": "Harapan"
+    },
+    {
+        "index": 967,
+        "soal": "Aku cita-cita puncak impian, anak-anak menuliskanku di kertas pertanyaan guru kelas enam.",
+        "jawaban": "Cita-cita"
+    },
+    {
+        "index": 968,
+        "soal": "Aku ilmu pengetahuan tak terbatas, semakin kau belajar semakin kau sadar betapa bodohnya dirimu.",
+        "jawaban": "Ilmu pengetahuan"
+    },
+    {
+        "index": 969,
+        "soal": "Aku pendidikan bekal masa depan, sekolah dan guru adalah gerbang menuju hidup lebih baik lewat tubuhku.",
+        "jawaban": "Pendidikan"
+    },
+    {
+        "index": 970,
+        "soal": "Aku ujian akhir semester, begadang dan stres adalah paket lengkap menyambut kedatanganku tiap semester.",
+        "jawaban": "Ujian sekolah"
+    },
+    {
+        "index": 971,
+        "soal": "Aku rapor daftar nilai semester, merah atau birunya warna nilai menentukan nasibmu di rumah.",
+        "jawaban": "Rapor sekolah"
+    },
+    {
+        "index": 972,
+        "soal": "Aku ijazah sertifikat kelulusan, dua belas tahun berjuang bermuara pada secarik kertas bernilai ini.",
+        "jawaban": "Ijazah"
+    },
+    {
+        "index": 973,
+        "soal": "Aku pekerjaan sumber rezeki, delapan jam sehari lima hari seminggu kau habiskan untukku.",
+        "jawaban": "Pekerjaan"
+    },
+    {
+        "index": 974,
+        "soal": "Aku gaji bulanan ditunggu, tanggal dua puluh lima adalah hari bahagiamu karena aku masuk rekening.",
+        "jawaban": "Gaji bulanan"
+    },
+    {
+        "index": 975,
+        "soal": "Aku pajak potongan wajib, jalan tol dan sekolah gratis lahir dari persentase penghasilanmu untukku.",
+        "jawaban": "Pajak penghasilan"
+    },
+    {
+        "index": 976,
+        "soal": "Aku tabungan pensiun masa tua, sedikit demi sedikit kau simpan untuk hari-hari tak bekerja nanti.",
+        "jawaban": "Dana pensiun"
+    },
+    {
+        "index": 977,
+        "soal": "Aku utang cicilan menagih, telepon dan pesan dari bank adalah alarm hidupku bagimu yang tertunda.",
+        "jawaban": "Utang"
+    },
+    {
+        "index": 978,
+        "soal": "Aku asuransi perlindungan premi, aku tak berguna saat sehat tapi penyelamat saat musibah datang.",
+        "jawaban": "Asuransi jiwa"
+    },
+    {
+        "index": 979,
+        "soal": "Aku investasi masa depan, emas saham dan properti adalah bentuk-bentuk tubuhku yang nilainya naik-turun.",
+        "jawaban": "Investasi"
+    },
+    {
+        "index": 980,
+        "soal": "Aku saham lembar kepemilikan, hijau dan merah di layar trading menentukan makan-makan tidakmu bulan ini.",
+        "jawaban": "Saham"
+    },
+    {
+        "index": 981,
+        "soal": "Aku inflasi harga naik, nasi padang dan kopi hangat makin mahal karena tubuhku membengkak tiap tahun.",
+        "jawaban": "Inflasi"
+    },
+    {
+        "index": 982,
+        "soal": "Aku guru kelas satu mu, aksara dan angka pertama diajarkan sabar oleh jemari dan hatinya.",
+        "jawaban": "Guru kelas"
+    },
+    {
+        "index": 983,
+        "soal": "Aku pilot pesawat jet, ribuan nyawa dipercaya pada tangan dan mataku di kokpit tinggi awan.",
+        "jawaban": "Pilot pesawat"
+    },
+    {
+        "index": 984,
+        "soal": "Aku kapten kapal laut, arah kompas dan keselamatan kru adalah tanggung jawab hidup dan matiku.",
+        "jawaban": "Kapten kapal"
+    },
+    {
+        "index": 985,
+        "soal": "Aku nelayan laut bebas, gelombang dan badai adalah teman hidupku mencari ikan demi keluarga.",
+        "jawaban": "Nelayan"
+    },
+    {
+        "index": 986,
+        "soal": "Aku satpam pos jaga malam, tidurku siang hari dan waspadaku mulai magrib hingga subuh.",
+        "jawaban": "Satpam"
+    },
+    {
+        "index": 987,
+        "soal": "Aku pramugari seragam rapi, keselamatan dan kenyamananmu adalah prioritas di ketinggian sepuluh ribu meter.",
+        "jawaban": "Pramugari"
+    },
+    {
+        "index": 988,
+        "soal": "Aku dokter gigi menakutkan, bor dan cermin kecilku adalah mimpi buruk anak-anak manis.",
+        "jawaban": "Dokter gigi"
+    },
+    {
+        "index": 989,
+        "soal": "Aku bidan desa setia, ribuan bayi pertama kali menangis di tangan terlatihku.",
+        "jawaban": "Bidan desa"
+    },
+    {
+        "index": 990,
+        "soal": "Aku apoteker obat racikan, dosis dan resep dokter adalah tanggung jawab besar di balik loketku.",
+        "jawaban": "Apoteker"
+    },
+    {
+        "index": 991,
+        "soal": "Aku psikolog pendengar sabar, curahan hati dan trauma dirahasiakan rapat di ruang konsultasiku.",
+        "jawaban": "Psikolog"
+    },
+    {
+        "index": 992,
+        "soal": "Aku pengacara pembela hukum, toga hitam dan fakta adalah senjataku di ruang sidang pengadilan.",
+        "jawaban": "Pengacara"
+    },
+    {
+        "index": 993,
+        "soal": "Aku hakim pemutus perkara, palu kayuku menentukan nasib manusia di ruang sidang agung.",
+        "jawaban": "Hakim"
+    },
+    {
+        "index": 994,
+        "soal": "Aku notaris surat sah legal, akta tanah dan perjanjian bisnis lahir dan bermeterai di mejaku.",
+        "jawaban": "Notaris"
+    },
+    {
+        "index": 995,
+        "soal": "Aku akuntan pembuku keuangan, neraca dan laba rugi tersusun rapi oleh jarimu yang teliti.",
+        "jawaban": "Akuntan"
+    },
+    {
+        "index": 996,
+        "soal": "Aku programmer kode malam, bug error dan deadline adalah sahabat setia begadangku di layar monitor.",
+        "jawaban": "Programmer"
+    },
+    {
+        "index": 997,
+        "soal": "Aku arsitek gambar bangunan, gedung tinggi dan rumah minimalis lahir dari sketsa pensil tanganku.",
+        "jawaban": "Arsitek"
+    },
+    {
+        "index": 998,
+        "soal": "Aku tukang cukur keliling kampung, pisau dan cermin kecilku siap memangkas rambutmu di teras rumah.",
+        "jawaban": "Tukang cukur keliling"
+    },
+    {
+        "index": 999,
+        "soal": "Aku penjual es lilin bersepeda, bel kicauku membuat anak-anak berlari keluar rumah sore hari.",
+        "jawaban": "Penjual es keliling"
     }
 ]
