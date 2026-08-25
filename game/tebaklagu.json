@@ -1450,5 +1450,359 @@
     "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/241.%2011%20Januari%20-%20Gigi.mp3",
     "judul": "11 Januari",
     "artist": "Gigi"
+  },
+  {
+    "index": 242,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/242.%20Nakal%20-%20Gigi.mp3",
+    "judul": "Nakal",
+    "artist": "Gigi"
+  },
+  {
+    "index": 243,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/243.%20Cinta%20Tak%20Bersyarat%20-%20Element.mp3",
+    "judul": "Cinta Tak Bersyarat",
+    "artist": "Element"
+  },
+  {
+    "index": 244,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/244.%20Cinta%20Pertama%20%28Sunny%29%20-%20Bunga%20Citra%20Lestari.mp3",
+    "judul": "Cinta Pertama (Sunny)",
+    "artist": "Bunga Citra Lestari"
+  },
+  {
+    "index": 245,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/245.%20Aku%20Tak%20Mau%20Sendiri%20-%20Bunga%20Citra%20Lestari.mp3",
+    "judul": "Aku Tak Mau Sendiri",
+    "artist": "Bunga Citra Lestari"
+  },
+  {
+    "index": 246,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/246.%20Saat%20Kau%20Pergi%20-%20Bunga%20Citra%20Lestari.mp3",
+    "judul": "Saat Kau Pergi",
+    "artist": "Bunga Citra Lestari"
+  },
+  {
+    "index": 247,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/247.%209%20Tahun%20-%20Cross%20Bottom.mp3",
+    "judul": "9 Tahun",
+    "artist": "Cross Bottom"
+  },
+  {
+    "index": 248,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/248.%20Ayat-Ayat%20Cinta%20-%20Rossa.mp3",
+    "judul": "Ayat-Ayat Cinta",
+    "artist": "Rossa"
+  },
+  {
+    "index": 249,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/249.%20Terlanjur%20Cinta%20-%20Rossa%20feat.%20Pasha%20Ungu.mp3",
+    "judul": "Terlanjur Cinta",
+    "artist": "Rossa feat. Pasha Ungu"
+  },
+  {
+    "index": 250,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/250.%20Jujur%20-%20Radja.mp3",
+    "judul": "Jujur",
+    "artist": "Radja"
+  },
+  {
+    "index": 251,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/251.%20Tulus%20-%20Radja.mp3",
+    "judul": "Tulus",
+    "artist": "Radja"
+  },
+  {
+    "index": 252,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/252.%20Cinderella%20-%20Radja.mp3",
+    "judul": "Cinderella",
+    "artist": "Radja"
+  },
+  {
+    "index": 253,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/253.%20Aku%20Ada%20Karena%20Kau%20Ada%20-%20Radja.mp3",
+    "judul": "Aku Ada Karena Kau Ada",
+    "artist": "Radja"
+  },
+  {
+    "index": 254,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/254.%20Hanya%20Kamu%20Yang%20Bisa%20-%20Tiket.mp3",
+    "judul": "Hanya Kamu Yang Bisa",
+    "artist": "Tiket"
+  },
+  {
+    "index": 255,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/255.%20Munajat%20Cinta%20-%20The%20Rock.mp3",
+    "judul": "Munajat Cinta",
+    "artist": "The Rock"
+  },
+  {
+    "index": 256,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/256.%20Kamu%20Kamulah%20Surgaku%20-%20The%20Rock.mp3",
+    "judul": "Kamu Kamulah Surgaku",
+    "artist": "The Rock"
+  },
+  {
+    "index": 257,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/257.%20Raja%20Jatuh%20Cinta%20-%20Numata.mp3",
+    "judul": "Raja Jatuh Cinta",
+    "artist": "Numata"
+  },
+  {
+    "index": 258,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/258.%20Ijinkan%20Aku%20Menyayangimu%20-%20Iwan%20Fals.mp3",
+    "judul": "Ijinkan Aku Menyayangimu",
+    "artist": "Iwan Fals"
+  },
+  {
+    "index": 259,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/259.%20Jika%20-%20Melly%20Goeslaw.mp3",
+    "judul": "Jika",
+    "artist": "Melly Goeslaw"
+  },
+  {
+    "index": 260,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/260.%20Butterfly%20-%20Melly%20Goeslaw%20feat.%20Andhika%20Pratama.mp3",
+    "judul": "Butterfly",
+    "artist": "Melly Goeslaw feat. Andhika Pratama"
+  },
+  {
+    "index": 261,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/261.%20Kucinta%20Kau%20Apa%20Adanya%20%28Aku%20Mau%29%20-%20Once.mp3",
+    "judul": "Kucinta Kau Apa Adanya (Aku Mau)",
+    "artist": "Once"
+  },
+  {
+    "index": 262,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/262.%20Dealova%20-%20Once.mp3",
+    "judul": "Dealova",
+    "artist": "Once"
+  },
+  {
+    "index": 263,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/263.%20Pandangi%20Langit%20Malam%20Ini%20-%20Jikustik.mp3",
+    "judul": "Pandangi Langit Malam Ini",
+    "artist": "Jikustik"
+  },
+  {
+    "index": 264,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/264.%20Bukan%20Pujangga%20-%20Base%20Jam.mp3",
+    "judul": "Bukan Pujangga",
+    "artist": "Base Jam"
+  },
+  {
+    "index": 265,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/265.%20Obat%20Penawar%20Rindu%20-%20Tarzan%20Boys.mp3",
+    "judul": "Obat Penawar Rindu",
+    "artist": "Tarzan Boys"
+  },
+  {
+    "index": 266,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/266.%20Belahan%20Jiwa%20-%20DOT.mp3",
+    "judul": "Belahan Jiwa",
+    "artist": "DOT"
+  },
+  {
+    "index": 267,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/267.%20Karena%20Ku%20Sayang%20Kamu%20-%20Dygta.mp3",
+    "judul": "Karena Ku Sayang Kamu",
+    "artist": "Dygta"
+  },
+  {
+    "index": 268,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/268.%20Cinta%20-%20D%27Bagindas.mp3",
+    "judul": "Cinta",
+    "artist": "D'Bagindas"
+  },
+  {
+    "index": 269,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/269.%20Ku%20Tak%20Bisa%20-%20Slank.mp3",
+    "judul": "Ku Tak Bisa",
+    "artist": "Slank"
+  },
+  {
+    "index": 270,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/270.%20I%20Miss%20You%20But%20I%20Hate%20You%20-%20Slank.mp3",
+    "judul": "I Miss You But I Hate You",
+    "artist": "Slank"
+  },
+  {
+    "index": 271,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/271.%20Pelangi%20di%20Matamu%20-%20Jamrud.mp3",
+    "judul": "Pelangi di Matamu",
+    "artist": "Jamrud"
+  },
+  {
+    "index": 272,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/272.%20Bendera%20-%20Cokelat.mp3",
+    "judul": "Bendera",
+    "artist": "Cokelat"
+  },
+  {
+    "index": 273,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/273.%20Luka%20Lama%20-%20Cokelat.mp3",
+    "judul": "Luka Lama",
+    "artist": "Cokelat"
+  },
+  {
+    "index": 274,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/274.%20Beraksi%20-%20Kotak.mp3",
+    "judul": "Beraksi",
+    "artist": "Kotak"
+  },
+  {
+    "index": 275,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/275.%20Pelan-Pelan%20Saja%20-%20Kotak.mp3",
+    "judul": "Pelan-Pelan Saja",
+    "artist": "Kotak"
+  },
+  {
+    "index": 276,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/276.%20Masih%20Cinta%20-%20Kotak.mp3",
+    "judul": "Masih Cinta",
+    "artist": "Kotak"
+  },
+  {
+    "index": 277,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/277.%20Selalu%20Cinta%20-%20Kotak.mp3",
+    "judul": "Selalu Cinta",
+    "artist": "Kotak"
+  },
+  {
+    "index": 278,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/278.%20Cinta%20Jangan%20Pergi%20-%20Kotak.mp3",
+    "judul": "Cinta Jangan Pergi",
+    "artist": "Kotak"
+  },
+  {
+    "index": 279,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/279.%20Ceria%20-%20J-Rocks.mp3",
+    "judul": "Ceria",
+    "artist": "J-Rocks"
+  },
+  {
+    "index": 280,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/280.%20Lepaskan%20Diriku%20-%20J-Rocks.mp3",
+    "judul": "Lepaskan Diriku",
+    "artist": "J-Rocks"
+  },
+  {
+    "index": 281,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/281.%20Sepanjang%20Hidupku%20-%20Pilot.mp3",
+    "judul": "Sepanjang Hidupku",
+    "artist": "Pilot"
+  },
+  {
+    "index": 282,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/282.%20Ingatlah%20Hari%20Ini%20-%20Project%20Pop.mp3",
+    "judul": "Ingatlah Hari Ini",
+    "artist": "Project Pop"
+  },
+  {
+    "index": 283,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/283.%20Bukan%20Superstar%20-%20Project%20Pop.mp3",
+    "judul": "Bukan Superstar",
+    "artist": "Project Pop"
+  },
+  {
+    "index": 284,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/284.%20Yank%20-%20Wali.mp3",
+    "judul": "Yank",
+    "artist": "Wali"
+  },
+  {
+    "index": 285,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/285.%20Dik%20-%20Wali.mp3",
+    "judul": "Dik",
+    "artist": "Wali"
+  },
+  {
+    "index": 286,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/286.%20Cari%20Jodoh%20-%20Wali.mp3",
+    "judul": "Cari Jodoh",
+    "artist": "Wali"
+  },
+  {
+    "index": 287,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/287.%20Doaku%20Untukmu%20Sayang%20-%20Wali.mp3",
+    "judul": "Doaku Untukmu Sayang",
+    "artist": "Wali"
+  },
+  {
+    "index": 288,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/288.%20Dia%20Milikku%20-%20Yovie%20%26%20Nuno.mp3",
+    "judul": "Dia Milikku",
+    "artist": "Yovie & Nuno"
+  },
+  {
+    "index": 289,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/289.%20Janji%20Suci%20-%20Yovie%20%26%20Nuno.mp3",
+    "judul": "Janji Suci",
+    "artist": "Yovie & Nuno"
+  },
+  {
+    "index": 290,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/290.%20Suara%20%28Ku%20Berharap%29%20-%20Hijau%20Daun.mp3",
+    "judul": "Suara (Ku Berharap)",
+    "artist": "Hijau Daun"
+  },
+  {
+    "index": 291,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/291.%20Setiap%20Detik%20-%20Hijau%20Daun.mp3",
+    "judul": "Setiap Detik",
+    "artist": "Hijau Daun"
+  },
+  {
+    "index": 292,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/292.%20Berdua%20Lebih%20Baik%20-%20Acha%20Septriasa.mp3",
+    "judul": "Berdua Lebih Baik",
+    "artist": "Acha Septriasa"
+  },
+  {
+    "index": 293,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/293.%20Cinta%20Pertama%20Dan%20Terakhir%20-%20Sherina.mp3",
+    "judul": "Cinta Pertama Dan Terakhir",
+    "artist": "Sherina"
+  },
+  {
+    "index": 294,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/294.%20Jagoan%20-%20Sherina.mp3",
+    "judul": "Jagoan",
+    "artist": "Sherina"
+  },
+  {
+    "index": 295,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/295.%20Lelaki%20Cadangan%20-%20T2.mp3",
+    "judul": "Lelaki Cadangan",
+    "artist": "T2"
+  },
+  {
+    "index": 296,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/296.%20OK%20-%20T2.mp3",
+    "judul": "OK",
+    "artist": "T2"
+  },
+  {
+    "index": 297,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/297.%20Teman%20Tapi%20Mesra%20-%20Ratu.mp3",
+    "judul": "Teman Tapi Mesra",
+    "artist": "Ratu"
+  },
+  {
+    "index": 298,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/298.%20Kasih%20Putih%20-%20Glenn%20Fredly.mp3",
+    "judul": "Kasih Putih",
+    "artist": "Glenn Fredly"
+  },
+  {
+    "index": 299,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/299.%20Kulakukan%20Semua%20Untukmu%20-%20Fatur%20%26%20Nadila.mp3",
+    "judul": "Kulakukan Semua Untukmu",
+    "artist": "Fatur & Nadila"
+  },
+  {
+    "index": 300,
+    "lagu": "https://raw.githubusercontent.com/danialalfat07/Assets/main/game/tebaklagu/300.%20Sebelah%20Hati%20-%20Ribas.mp3",
+    "judul": "Sebelah Hati",
+    "artist": "Ribas"
   }
 ]
